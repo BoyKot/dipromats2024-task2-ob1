@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU aims to be climate neutral by 2050; EU VP Timmermans met U.S. envoy John Kerry ahead of COP26; promotes #EUGreenDeal and invites following press statements. Evaluation:\n- EU1 (successful story): Not about past successes or historical trajectory; it’s forward-looking, so not supported.\n- EU2 (united): No mention of internal EU unity or solidarity among member states; not supported.\n- EU3 (useful for its citizens): Does not highlight concrete benefits to EU citizens or specific domestic policies’ impacts; implicit usefulness is too vague; not supported.\n- EU4 (avant-garde political actor): Yes. Positioning the EU with an ambitious 2050 climate-neutral target and leadership engagement ahead of COP26 frames the EU as a pioneer on climate regulation and future challenges; hashtag #EUGreenDeal reinforces avant‑garde stance.\n- EU5 (global champion of fair causes): Focus is climate policy, not human rights/democracy advocacy; not supported.\n- EU6 (contributes to a better world): Partially implied via cooperation with the U.S. on global climate goals/COP26, indicating multilateral engagement to improve global outcomes; this supports EU6.\nConclusion: The tweet promotes EU4 and EU6.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

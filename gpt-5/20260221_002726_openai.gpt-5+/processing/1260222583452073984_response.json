@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the United States values cooperation with allies and partners to combat the pandemic and plan collective recovery. Evaluation: US1 (honorable tradition) – not invoked; there is no reference to legacy or historical feats. US2 (admirable society) – not about ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies) – no adversary mentioned. US4 (force for good) – implicitly positive global role in combating COVID-19 and aiding recovery could fit, but the emphasis is more on partnership than on broader human rights/peace themes; still, contributing to global health and recovery can be seen as doing good. US5 (great international ally) – clearly emphasized: valuing cooperation with allies and partners is directly aligned. US6 (at the forefront) – no claim of leadership or being first; only cooperation. Conclusion: Strongly supports US5; secondarily supports US4 due to promoting global public good in pandemic response.",
+    "narrative_ids": ["US5", "US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks World Oceans Day, highlights Russia’s access to many seas and three oceans, and states that preserving biodiversity and efficient resource use is a priority. Evaluation: RU1 (West immoral/hostile) – not present; no mention or critique of the West. RU2 (Russia leads an alternative system) – not present; no claim of alternative order or multilateral leadership, just reference to an official UN day. RU3 (Russia is a benevolent partner) – partially related tone, but the tweet does not portray cooperation or partnership with others; it simply states Russia’s priority on biodiversity/resources, so insufficient to claim benevolent partner. RU4 (Russian history admirable) – not addressed. RU5 (Russia at the forefront) – not claimed; no achievements or superiority asserted. RU6 (Russia interesting in culture/nature) – somewhat relevant since it references Russia’s extensive maritime geography (access to 12 seas and 3 oceans), presenting natural attributes of the country. While not a travel promo, it showcases Russia’s natural geography in a positive light, fitting RU6’s focus on nature/heritage.",
+    "narrative_ids": ["RU6"]
+  }
+}

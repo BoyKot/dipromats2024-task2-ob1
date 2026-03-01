@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights EU support to neighboring Moldova during the pandemic, thanking Romania and noting additional aid from Czechia, Austria, and Poland, framed as European solidarity. EU1: Does not discuss history or long-term success; focus is immediate aid, so not clearly promoted. EU2: Emphasizes solidarity among EU member states (Romania, Czechia, Austria, Poland) acting together, which fits the narrative of EU unity. EU3: Concerns benefits within the EU; here the beneficiary is a neighbor (Moldova), so not applicable. EU4: No claim of pioneering regulation or leadership in future challenges. EU5: Not about democracy/human rights causes. EU6: Clearly shows the EU contributing to a better world and being a key partner for neighbors by providing pandemic assistance to Moldova; aligns with cooperation and well-being globally.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

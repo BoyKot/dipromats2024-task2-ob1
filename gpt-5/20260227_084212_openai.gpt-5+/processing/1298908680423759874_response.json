@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A positive update about engaging Mongolian youth at a US cultural/information center, highlighting interest in US exchange and scholarship programs (FLEX, EducationUSA, Fulbright). Evaluation:\n- US1 (honorable tradition): Not explicitly referencing US historical legacy or foundational values; no direct link.\n- US2 (admirable society): Indirectly positive, but focus is on programs, not U.S. social groups, civil society, or heroes; weak fit.\n- US3 (hostile enemies): No adversaries mentioned.\n- US4 (force for good): Promotes US educational opportunities and outreach benefiting youth, implying constructive, benevolent engagement and development support; this aligns.\n- US5 (great international ally): Does not highlight bilateral alliances or support to a specific ally government.\n- US6 (at the forefront): No claims of leadership or superiority; just program info.\nConclusion: The tweet promotes the narrative that the US is a force for good through educational exchanges and opportunities.",
+    "narrative_ids": ["US4"]
+  }
+}

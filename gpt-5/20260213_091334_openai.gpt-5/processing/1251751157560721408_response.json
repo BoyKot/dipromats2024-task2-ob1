@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims China and most African countries share experiences of (partial) colonization and racism, and should unite to fight discrimination. Assessment by narrative: CH1 (The West is immoral, hostile and decadent): Implicitly suggests historical colonization and racism—generally associated with Western powers—casting China and Africa as victims of Western wrongdoing. Although not naming the West, the framing attributes harm to colonial/racist actors, aligning with CH1’s victimization by Western behavior. CH2 (China is a benevolent power): The tweet calls for China and Africa to work together against discrimination, implying cooperative, solidarity-based behavior by China internationally, which fits CH2’s emphasis on cooperation and mutual support. CH3 (China has an epic history): References colonization and adversity but not China’s specific historical resilience or CCP-led overcoming; insufficient for CH3. CH4 (appropriate political system/values): No mention of China’s domestic political system or values; not applicable. CH5 (CCP succeeds): No claims about governance achievements; not applicable. CH6 (culture/heritage): Not relevant. Conclusion: The tweet promotes CH1 (implied Western wrongdoing) and CH2 (China’s cooperative stance with Africa).",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

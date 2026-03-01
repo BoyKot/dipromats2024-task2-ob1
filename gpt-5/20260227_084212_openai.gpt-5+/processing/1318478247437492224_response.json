@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet lists shared global challenges and warns that framing China as a rival and inciting conflict undermines global cooperation and harms all. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Implicitly criticizes those who see China as a rival and incite conflict—often aimed at Western actors—but it does not explicitly depict the West as immoral/decadent; still, it frames such actors as harmful and hostile. This partially aligns with CH1’s depiction of hostility toward China; acceptable match. CH2 (China is a benevolent power): By arguing that rivalry with China weakens global synergy on common problems, it implies China prefers cooperation and multilateral solutions, portraying China as constructive in solving global issues—this aligns with CH2. CH3 (epic history): Not present. CH4 (appropriate political system/values, domestic focus): Not addressed. CH5 (CCP succeeds domestically/technologically): Not addressed. CH6 (culture/nature): Not relevant. Conclusion: The tweet promotes CH2 clearly and CH1 to a lesser extent.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

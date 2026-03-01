@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A positive update about meeting smart young people at an American Culture and Information Center in Uvs, discussing U.S.-sponsored educational programs (FLEX, EducationUSA, Fulbright) amid careful school reopening. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoking U.S. historical legacy or traditions; focus is on contemporary programs, so no. US2 (admirable society) – Indirectly showcases U.S. cultural/educational outreach and engagement with youth, highlighting attractiveness of U.S. educational opportunities; this reflects positively on U.S. society and civil institutions, so partially aligned – yes. US3 (hostile enemies) – No mention of adversaries; no. US4 (force for good) – Educational exchanges can be soft-power “good,” but the tweet does not frame it as supporting rights, freedoms, or aiding oppressed peoples; cautious to avoid overreach – likely no. US5 (great international ally) – No specific ally support or praise; no. US6 (at the forefront) – Does not claim leadership or superiority; no. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

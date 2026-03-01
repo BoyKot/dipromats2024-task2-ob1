@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet endorses WHO and multilateralism, cites alignment by multiple Western countries, and quotes a Chinese MFA spokesperson framing support for WHO as unity against COVID-19 and rejection of groundless attacks. Evaluation: CH1 (The West is immoral, hostile and decadent): Not promoted. The tweet does not depict the West as immoral/hostile; it actually lists Western countries supporting WHO and contrasts only with the US on defunding without moralizing the entire West. CH2 (China is a benevolent power): Yes, implicitly. By quoting the Chinese spokesperson asserting support for multilateralism, unity, and WHO’s key role, it aligns with China’s cooperative, multilateral, benevolent posture internationally. CH3 (China has an epic history): Not addressed. CH4 (China has an appropriate political system and honorable values): Not addressed; focus is international role, not domestic system/values. CH5 (The government of the CCP succeeds): Not addressed; no claims about domestic achievements or leadership success. CH6 (China is interesting culturally): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

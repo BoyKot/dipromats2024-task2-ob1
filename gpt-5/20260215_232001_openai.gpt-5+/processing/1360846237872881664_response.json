@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet cheerfully highlights American diplomats celebrating Ukrainian culture by reading Ukrainian poets, framed positively on Valentine's Day. Evaluation by narrative: US1 (honorable tradition): Not explicitly about long-standing U.S. traditions or historical feats; focus is on a current cultural gesture, so not supported. US2 (admirable society): It showcases U.S. diplomats engaging respectfully with another culture, but this narrativa centers on U.S. ethnic groups, civil society, companies, or military heroes; diplomats aren’t clearly within those categories, so weak fit—likely not. US3 (hostile enemies): No mention of adversaries; not applicable. US4 (force for good): Cultural diplomacy supporting appreciation of another nation’s culture suggests U.S. support for peoples and soft-power goodwill; this aligns modestly with portraying the U.S. as promoting positive values abroad. US5 (great international ally): Praising Ukrainian culture and showing U.S. diplomats’ engagement signals solidarity and support for an ally; this directly fits emphasizing unwavering support/praise for allied countries. US6 (at the forefront): No leadership/innovation framing; not applicable. Conclusion: The tweet most clearly promotes US5 and, secondarily, US4.",
+    "narrative_ids": ["US5", "US4"]
+  }
+}

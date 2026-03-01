@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Praises a visit by U.S. Under Secretary Krach to Cyprus, highlighting agreements to expand science and tech cooperation and broader bilateral ties that will benefit both economies. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to values or historical legacy. US2 (admirable society) – Not applicable; no mention of U.S. social groups, civil society, companies, or heroes. US3 (hostile enemies) – Not present; no adversaries mentioned. US4 (force for good) – Partially adjacent but not explicit; while positive outcomes are noted, the focus is economic/tech cooperation rather than human rights, freedoms, or aid. US5 (great international ally) – Yes; it emphasizes U.S. cooperation with Cyprus and mutual economic benefits, framing the U.S. as a supportive partner. US6 (at the forefront) – Implicitly touches tech, but the tweet does not position the U.S. as a leader; it simply notes cooperation, so not sufficient. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

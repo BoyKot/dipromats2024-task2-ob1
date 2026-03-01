@@ -1,0 +1,8 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet relays an official European Parliament stance that it does not observe Russia’s constitutional referendum (including in illegally annexed Crimea) and warns MEPs not to associate any private observation with the EP, quoting EP foreign affairs leadership. Evaluation: EU1 (successful story): Not addressed; no historical arc or successes highlighted. EU2 (united): Implicit institutional unity could be inferred from a formal EP position, but the tweet does not emphasize intra-EU solidarity or unity; cautious not to over-interpret—reject. EU3 (useful for citizens): Not about internal EU benefits or policies—reject. EU4 (avant-garde actor): No pioneering regulation/forward-looking policy—reject. EU5 (global champion of fair causes): Yes; the EP’s refusal to legitimize Russia’s referendum and reference to “illegally annexed Crimea” signal defense of democracy, rule of law, and human rights—fits this narrative. EU6 (contributes to a better world): While related to international norms, the tweet doesn’t frame broader cooperation/peacebuilding contributions—reject. Conclusion: Promotes EU5.",
+    "narrative_ids": [
+      "EU5"
+    ]
+  }
+}

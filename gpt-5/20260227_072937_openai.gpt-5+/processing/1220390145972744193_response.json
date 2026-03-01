@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet frames the Holocaust as a pivotal European tragedy whose memory underpins EU identity and values, and references EU leaders attending a commemoration. EU1: Yes. It links a historical trauma to the EU’s foundational values, implying the Union has learned from history and built its identity accordingly—matching the description of showcasing history and learning from past mistakes. EU2: Partially implied by joint presence of EU leaders, but the tweet does not explicitly emphasize unity or agreement; insufficient to claim promotion. EU3: No mention of concrete benefits or policies for citizens. EU4: No claim of pioneering regulation or forward-looking leadership. EU5: Yes. By elevating remembrance of the Shoah as a cornerstone of European values, it implicitly aligns the EU with defending human dignity and human rights—consistent with portraying the EU as a champion of fair causes. EU6: No reference to global contributions or external partnerships.",
+    "narrative_ids": ["EU1", "EU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet argues that UNRWA misclassifies most Palestinians as refugees, hinders peace, and does not support human rights, while asserting that America supports peace and Palestinian human rights; it calls to end UNRWA’s mandate. Evaluation: US1 (honorable tradition) – Not promoted; no reference to US historical legacy or tradition. US2 (admirable society) – Not promoted; no mention of US society, groups, companies, or military heroes. US3 (hostile enemies) – Partially aligned in tone against UNRWA, but the narrative targets threats to the US; here the target is a UN agency framed as obstacle to peace/human rights, not a threat to the US specifically. Therefore not a fit. US4 (US is a force for good) – Promoted; the tweet explicitly states “America supports peace and Palestinian human rights,” contrasting US benevolence with UNRWA’s alleged failures. US5 (great international ally) – Not promoted; no mention of allies or support to specific partners. US6 (at the forefront) – Not promoted; no positioning of US leadership in economy/tech/military/trade. Conclusion: Only US4 applies.",
+    "narrative_ids": ["US4"]
+  }
+}

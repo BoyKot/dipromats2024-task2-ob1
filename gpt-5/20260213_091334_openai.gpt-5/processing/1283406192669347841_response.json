@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights U.S. actions and positions—announcing visa restrictions on those undermining democracy in Guyana, welcoming a health oversight action by a regional body, and condemning human rights abuses by Venezuela’s Maduro regime. Evaluation:\n- US1 (honorable tradition): Not explicitly invoking U.S. historical legacy or tradition; focuses on current actions, so not supported.\n- US2 (admirable society): No mention of U.S. society, groups, or heroes; not supported.\n- US3 (hostile enemies): It labels the Maduro government as \"illegitimate\" and cites human rights violations, framing it as a malign actor; this aligns with highlighting immoral adversaries. Supported.\n- US4 (force for good): The tweet presents U.S. measures defending democracy (Guyana) and human rights (Venezuela), and engagement with PAHO oversight, portraying the U.S. as supporting rights and good governance. Supported.\n- US5 (great international ally): No praise of specific allies or emphasis on supporting an ally; not supported.\n- US6 (at the forefront): No claim of U.S. leadership in economy/tech/military; the leadership implied is normative but not framed as being \"at the forefront\" generally; not supported.\nConclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

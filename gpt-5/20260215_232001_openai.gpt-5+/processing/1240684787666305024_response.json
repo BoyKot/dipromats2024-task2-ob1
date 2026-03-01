@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses optimism that after the virus is defeated, the American economy will rebound quickly, implying U.S. economic strength and resilience. Evaluation by narrative: US1 (honorable tradition) – Not addressed; no reference to values, history, or legacy. US2 (admirable society) – Not addressed; no mention of people, civil society, or groups. US3 (hostile enemies) – Not applicable; the 'virus' is not framed as a hostile geopolitical actor. US4 (force for good) – Not addressed; no reference to supporting human rights or international good. US5 (great international ally) – Not addressed; no mention of allies. US6 (at the forefront) – Indirectly supported; the claim that the American economy will bounce back rapidly suggests U.S. economic leadership and dynamism, positioning the U.S. at the forefront economically. Conclusion: The tweet promotes US6.",
+    "narrative_ids": ["US6"]
+  }
+}

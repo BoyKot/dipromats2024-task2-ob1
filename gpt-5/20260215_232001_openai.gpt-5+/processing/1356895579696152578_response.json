@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A presidential statement for Black History Month urging Americans to honor Black Americans' history and achievements and reflect on centuries of struggle leading to a time of reckoning, redemption, and hope. Evaluation by narrative: US1 (honorable tradition) – partially relevant as it references historical struggle and progress, but it focuses on Black Americans’ history rather than glorifying a broader US legacy; still, it frames national reflection and redemption as part of American historical arc, modest support. US2 (admirable society) – clearly promoted: it celebrates achievements of a specific ethnic group (Black Americans) and societal recognition during Black History Month. US3 (hostile enemies) – not present; no adversary mentioned. US4 (force for good) – not directly; it doesn’t describe US actions supporting human rights abroad or concrete initiatives, just a commemorative call. US5 (great international ally) – not relevant. US6 (at the forefront) – not relevant. Final determination: strong match with US2; weak/arguable linkage to US1, but primary fit is US2. To remain precise, include US2; exclude others due to lack of clear promotion.",
+    "narrative_ids": ["US2"]
+  }
+}

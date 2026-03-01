@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the 2010 Haiti earthquake victims and asserts ongoing U.S. commitment to a safe, secure, and prosperous future for Haiti. Evaluation per narrative: US1 (honorable tradition) – Not directly; it doesn’t reference U.S. traditions or historical legacy, just a current commitment. US2 (admirable society) – No mention of U.S. societal groups or civil society. US3 (hostile enemies) – No adversaries referenced. US4 (force for good) – Yes; it highlights U.S. support for Haiti’s security and prosperity and solidarity with the Haitian people, aligning with promoting human welfare and assistance. US5 (great international ally) – Partially relevant but not explicit; it frames support to Haiti, not an ally framing or bilateral partnership praise; primary thrust is humanitarian/assistance. US6 (at the forefront) – No leadership/primacy claim. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

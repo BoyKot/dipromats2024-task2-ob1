@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A neutral cultural update noting a grand Tibetan Opera concert in Lhasa to mark the 60th anniversary of the region’s opera troupe, with hashtags #Tibet #China #culture.\nEvaluation by narrative:\n- CH1 (West immoral/hostile): No mention of the West or hostility; not promoted.\n- CH2 (China benevolent power internationally): No reference to international cooperation or global roles; not promoted.\n- CH3 (China’s epic history): No historical struggle or resilience themes; not promoted.\n- CH4 (appropriate political system/values): No discussion of governance or values; not promoted.\n- CH5 (CCP government succeeds): While it implies institutional continuity (60th anniversary of a troupe), it does not credit government success or development; not promoted.\n- CH6 (China’s culture/nature/heritage): Yes. It highlights a cultural event (Tibetan Opera) and tags #culture, promoting Chinese cultural heritage.\nConclusion: The tweet promotes CH6 only.",
+    "narrative_ids": ["CH6"]
+  }
+}

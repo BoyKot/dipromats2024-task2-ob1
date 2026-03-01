@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet counters a Bloomberg opinion that Europeans turned against China in 2020, instead asserting that 2020 marked stronger, enduring EU-China cooperation to address global issues like climate change, with ties being robust and able to withstand time. Evaluation per narrative: CH1 (The West is immoral, hostile and decadent) – Not promoted; the tweet does not depict the West as immoral/hostile, and portrays Europeans positively as cooperative with China. CH2 (China is a benevolent power) – Promoted; it emphasizes China's cooperative, multilateral role with Europe on global issues (e.g., climate change) and frames China as a constructive partner with robust, enduring ties, consistent with benevolent, cooperative positioning. CH3 (China has an epic history) – Not present; no historical resilience theme. CH4 (China has an appropriate political system and honorable values) – Not present; no advocacy of China’s domestic political system or values. CH5 (CCP government succeeds) – Not present; no claims about domestic governance success or leadership in technology/economy. CH6 (China is interesting culturally) – Not relevant. Conclusion: Only CH2 fits.",
+    "narrative_ids": ["CH2"]
+  }
+}

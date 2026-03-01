@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights that a Russia-sponsored UNGA Third Committee resolution against glorification of Nazism was approved, opposed only by the US and Ukraine, framed with remembrance hashtags. Evaluation: RU1 (West immoral/hostile): Implicitly paints the US (and Ukraine) as opposing an anti-Nazism resolution, suggesting moral deficiency/hostility; aligns with RU1. RU2 (Russia leads an alternative system): Not about alternative systems or multipolar institutions; no. RU3 (Russia benevolent partner): Positions Russia as sponsoring a morally positive, consensus resolution combating Nazism; this frames Russia as acting for a just cause, fitting RU3. RU4 (Russian history admirable): Hashtags #Victory75/#WeRemember evoke WWII victory, but the tweet’s focus is current UN action; it doesn’t explicitly praise Russian historical achievements beyond memorial tone; weak link, not sufficient. RU5 (world’s forefront): No claim of cutting-edge success; no. RU6 (culture/nature): Not relevant. Conclusion: RU1 and RU3 are promoted.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

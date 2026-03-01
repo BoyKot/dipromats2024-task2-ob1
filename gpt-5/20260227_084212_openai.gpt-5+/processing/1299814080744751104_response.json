@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet warns that the Chinese Communist Party is a growing global threat and calls for like-minded nations to unite to push back in defense of freedom and democracy. Evaluation per narrative: US1 (honorable tradition) – Not explicitly about American historical legacy or tradition; mentions freedom/democracy but not framed as tradition, so not promoted. US2 (admirable society) – No reference to U.S. society, groups, companies, or heroes; not promoted. US3 (hostile enemies) – Yes; it labels the Chinese Communist Party as a global threat to peace/liberal values, fitting the framing of a hostile adversary. US4 (force for good) – Implicitly suggests defending freedom/democracy and rallying nations, but the focus is on countering a threat rather than showcasing U.S. support for human rights/aid; borderline but not clearly promoted. US5 (great international ally) – Mentions like-minded nations coming together, but does not specifically emphasize U.S. support for allies or praise them; not promoted. US6 (at the forefront) – Does not position the U.S. as a leader in economy/technology/military; leadership is implied in rallying, but not explicit; not promoted. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

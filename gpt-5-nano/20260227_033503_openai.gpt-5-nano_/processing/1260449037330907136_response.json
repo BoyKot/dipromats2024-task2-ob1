@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet commemorates Russia's Black Sea Fleet Day, cites historical events (Crimea’s accession) and provides current fleet strength (280 vessels, 55 warships). This frames Russian history as admirable (RU4) and presents Russia as a world-leading power, particularly militarily (RU5).",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

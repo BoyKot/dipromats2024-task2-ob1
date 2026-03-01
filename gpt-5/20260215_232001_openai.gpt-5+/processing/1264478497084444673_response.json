@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks Russia’s celebration of Slavic Writing & Culture Day, credits Saints Cyril and Methodius with creating the first Cyrillic alphabet in the 9th century, and notes that Cyrillic is used by over 300 million people across several countries including Russia, Belarus, Ukraine, Bulgaria, Serbia, North Macedonia, and Montenegro. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West or allies. RU2 (Russia leads alternative system): No mention of geopolitical systems or multipolarity. RU3 (Russia as benevolent partner): No claims about partnership, peace, or mediation. RU4 (Russian history is admirable): The tweet highlights a historical-cultural achievement tied to the broader Slavic and Cyrillic tradition and associates it with Russia’s celebration, implicitly elevating Russia’s cultural-historical legacy. This fits showcasing admirable historical contributions. RU5 (Russia at world’s forefront): No current achievement or leadership claim. RU6 (Russia’s culture/nature/heritage): The tweet promotes cultural heritage and traditions (Slavic writing, Cyrillic usage) and positions Russia within that cultural sphere, aligning with cultural-interest promotion. Conclusion: Promotes RU4 and RU6.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

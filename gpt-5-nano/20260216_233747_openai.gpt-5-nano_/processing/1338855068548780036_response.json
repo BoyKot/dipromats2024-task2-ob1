@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet promotes Sputnik V vaccination as a notable achievement and frames it as a 'Victory', signaling Russia's leading position in vaccine science, which matches RU5 (Russia is at the world’s forefront). It does not clearly promote Western hostility (RU1), an alternative Western-independent system (RU2), benevolent partnership (RU3), or cultural/historical promotion (RU4, RU6).",
+    "narrative_ids": ["RU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the EU’s adoption of a human rights sanctions framework and says it will promote accountability and complement efforts of the U.S., UK, and Canada, enabling coordinated action (#GlobalMagnitsky). Evaluation: US1 (honorable tradition) – not explicitly about U.S. historical values or legacy; no. US2 (admirable society) – not about U.S. society or groups; no. US3 (hostile enemies) – no adversary is named or condemned; no. US4 (force for good) – yes: it highlights coordinated human rights accountability efforts and aligns the U.S. with promoting human rights and working for global justice. US5 (great international ally) – yes: it emphasizes cooperation with allies (EU, UK, Canada) and the U.S. acting together, praising allied actions and coordination. US6 (at the forefront) – not claiming U.S. leadership or superiority; no. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights environmental health risks in Europe (air/noise pollution, climate change, chemicals) and promotes an EU Environment Agency report under #EUGreenDeal, stressing the importance of improving citizens' health and well-being. EU1: Does not showcase EU’s historical success; it focuses on current challenges and a report, not past achievements. Not supported. EU2: No mention of unity or solidarity among member states. Not supported. EU3: The tweet points to an EU agency report addressing citizens’ health concerns and implies EU action via the Green Deal, showcasing practical, policy-relevant engagement within the EU. Supported. EU4: Implicitly connects to the EU Green Deal and environmental leadership, but the tweet does not explicitly present the EU as a pioneer or leader; it’s informational about harms and a report. Evidence is insufficient for avant-garde framing. Not supported. EU5: No reference to democracy or human rights advocacy. Not supported. EU6: Focus is internal to Europe, not global contributions. Not supported. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts the US as predatory with China as upholding a cooperative, benevolent vision (shared future, amity, mutual benefit, inclusiveness). Evaluation: CH1 applies because it depicts the US (the West) as hostile/predatory while implicitly positioning China as the victim/contrast. CH2 applies because it explicitly promotes China’s benevolent, cooperative international stance and invokes the 'community with a shared future for mankind.' CH3 does not apply; no historical resilience themes. CH4 does not apply; no defense of China’s domestic political system or values per se. CH5 does not apply; no claim about CCP governance success. CH6 does not apply; no cultural/nature content. Conclusion: CH1 and CH2 are promoted.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

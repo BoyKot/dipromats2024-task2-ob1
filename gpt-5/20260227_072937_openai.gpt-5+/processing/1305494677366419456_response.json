@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes post-pandemic China-EU cooperation, portraying China and the EU as key drivers of peaceful development, with cooperation and shared economic/trade interests as the mainstream of relations.\nEvaluation by narrative:\n- CH1 (West immoral/hostile): Not applicable. The tweet does not criticize the West or depict hostility; it emphasizes cooperation with the EU.\n- CH2 (China is a benevolent power): Applicable. It frames China as a cooperative, peace-promoting actor advocating rules, mechanism building, and technological innovation to tackle global challenges, aligning with China's benevolent, multilateral role.\n- CH3 (Epic history): Not present. No historical or resilience themes.\n- CH4 (Appropriate political system/values): Not present. No discussion of China's domestic system or values.\n- CH5 (CCP government succeeds): Not present. No claims about domestic achievements or leadership performance.\n- CH6 (Culture/nature/heritage): Not present.\nConclusion: The tweet promotes CH2 by highlighting China's cooperative, peaceful, multilateral stance in international relations.",
+    "narrative_ids": ["CH2"]
+  }
+}

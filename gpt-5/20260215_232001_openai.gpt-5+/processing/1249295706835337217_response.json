@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet shares a historical anecdote about Yuri Gagarin’s post-flight world tour and his vacation in Crimea, framed as a historical photo note. Evaluation by narrative: RU1 (West immoral/hostile) – not present; no criticism or mention of the West. RU2 (alternative system) – not present; no reference to multilateralism or non-Western cooperation. RU3 (benevolent partner) – not present; no claim about Russia’s role in peace or partnership. RU4 (Russian history is admirable) – implied: highlighting Gagarin’s historic space flight (Vostok 1) and global tour celebrates a major Soviet/Russian historical achievement, fitting the admiration of Russian historical contributions in science. RU5 (world’s forefront) – not current achievements; the tweet is historical, not presenting current leadership, so not clearly RU5. RU6 (interesting culture/nature/heritage) – minor travel/heritage tone mentioning Crimea as a holiday destination, but the primary focus is the historic figure/event rather than promoting culture/nature; less direct than RU4. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

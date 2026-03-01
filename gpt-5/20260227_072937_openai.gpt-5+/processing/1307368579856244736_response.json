@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses mourning for Ruth Bader Ginsburg, praising her as a trailblazer in law and in U.S. history. Evaluation by narrative: US1 (honorable tradition) – The tweet frames Ginsburg as part of the nation's historical legacy and celebrates her contributions to U.S. history and the law, which aligns with showcasing U.S. values and historical feats. US2 (admirable society) – Indirectly, it highlights a notable American figure and, by extension, civil society’s role models, but it does not explicitly promote broader societal groups or institutions; still, honoring a prominent jurist can fit praising societal achievements. However, the fit is weaker than US1. US3 (hostile enemies) – Not present. US4 (force for good) – No explicit claim about U.S. promoting human rights abroad or aiding others, though Ginsburg’s legacy relates to rights; the tweet does not generalize to the U.S. role. US5 (great international ally) – Not present. US6 (at the forefront) – No claim about leadership in domains. Conclusion: Clearly promotes US1; US2 is arguable but not explicit, so include only US1.",
+    "narrative_ids": ["US1"]
+  }
+}

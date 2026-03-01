@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises a partnership between ExxonMobil Qatar and Qatar’s Ministry of Education to support energy labs in new STEM schools, stating that the United States supports a culture of innovation and is honored to help inspire Qatar’s next generation. Evaluation by narrative: US1 (honorable tradition) – Not explicitly about historical legacy or traditions; no direct appeal to longstanding American traditions. US2 (admirable society) – Indirectly references a U.S. company (ExxonMobil) and positive engagement, but the focus is not on showcasing diverse groups, civil society, or military heroes; marginal fit, not sufficient. US3 (hostile enemies) – No adversaries mentioned. US4 (force for good) – Yes: It frames U.S. involvement as supporting education, development, and inspiring future scientists—an altruistic, developmental contribution. US5 (great international ally) – Yes: It highlights U.S. support and partnership with Qatar, emphasizing ally-like cooperation and praise for Qatar’s education efforts. US6 (at the forefront) – Some reference to innovation culture, but it does not claim U.S. leadership or superiority; insufficient to qualify. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

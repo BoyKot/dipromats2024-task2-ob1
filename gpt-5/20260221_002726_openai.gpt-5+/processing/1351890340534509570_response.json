@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. ambassador reflects on serving at the OAS, stating they advanced U.S. interests and fought for democracy and human rights, notably regarding Cuba, Nicaragua, and Venezuela, and provides a follow account. Evaluation: US1 (honorable tradition): Implicitly touches on U.S. values, but the tweet focuses on current actions rather than historical legacy or tradition; not strong enough. US2 (admirable society): No mention of society, groups, companies, or heroes; not applicable. US3 (hostile enemies): While it names Cuba, Nicaragua, and Venezuela in context of democracy/human rights, it does not frame them as enemies or immoral adversaries; cautious mention but not clearly promoting this narrative. US4 (force for good): Explicit claim of fighting for democracy and human rights and advancing these values in the region directly aligns with portraying the US as supporting human rights and freedom. US5 (great international ally): No emphasis on allies or support for a specific partner; not applicable. US6 (at the forefront): No leadership in tech/economy/military/trade; not applicable. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

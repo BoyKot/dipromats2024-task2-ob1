@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that Russia will allocate $1.5 million, via UNDP projects in Guinea, to develop aquaculture, establishing 35 fish sites over three years, with a total project budget of $3.135 million. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention or contrast with the West. RU2 (Russia leads an alternative system): Partially relevant context of multilateralism exists via UNDP, but the tweet does not frame this as an alternative to the West or emphasize systemic leadership; therefore not supported. RU3 (Russia is a benevolent partner): Yes; it highlights Russian funding for development in Guinea through UNDP, portraying Russia as supporting development and cooperation. RU4 (Russian history admirable): Not addressed. RU5 (Russia at the world’s forefront): No claims of superiority or cutting-edge achievements. RU6 (Russia interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes RU3 only.",
+    "narrative_ids": ["RU3"]
+  }
+}

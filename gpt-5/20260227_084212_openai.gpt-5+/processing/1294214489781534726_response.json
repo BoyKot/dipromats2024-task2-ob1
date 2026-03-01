@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU has reached a first agreement with AstraZeneca to procure a potential COVID-19 vaccine and is negotiating with other manufacturers to expand the EU vaccine portfolio, framed with #StrongerTogether. Evaluation: EU1 (successful story) – Not directly; no historical reflection or long-term success narrative. EU2 (EU is united) – Partially implied by #StrongerTogether, but the tweet focuses more on concrete procurement than on unity among member states; still, the solidarity framing lightly supports unity, though not central. EU3 (EU is useful for its citizens) – Yes. It showcases practical, proactive EU action (securing vaccine access, building a portfolio) addressing citizens’ health concerns during the pandemic within the EU. EU4 (avant-garde actor) – No; not about pioneering regulation or future-challenge leadership beyond procurement. EU5 (global champion of fair causes) – No human rights/democracy angle. EU6 (contributes to a better world) – Not primarily; focus is internal EU vaccine access rather than global cooperation. Conclusion: The tweet clearly promotes EU3; EU2 is weakly suggested but not sufficiently evidenced to include.",
+    "narrative_ids": ["EU3"]
+  }
+}

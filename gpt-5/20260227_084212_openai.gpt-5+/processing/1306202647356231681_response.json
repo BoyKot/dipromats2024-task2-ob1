@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns Iran for imprisoning U.S. citizen Siamak Namazi (and others) on alleged fake charges, labels them innocent victims, and demands their immediate release. Evaluation: US1 (honorable tradition) – Not promoted; no reference to U.S. traditions or historical legacy. US2 (admirable society) – Not promoted; no mention of U.S. society, groups, or heroes. US3 (hostile enemies) – Promoted; it portrays the Iranian regime as immoral/unjust (fake charges, innocent victims), positioning Iran as a hostile adversary threatening U.S. citizens. US4 (force for good) – Implicitly touches on human rights, but the tweet focuses on criticizing Iran and demanding release rather than showcasing U.S. actions/support; not clearly promoted. US5 (great international ally) – Not relevant; no allies or U.S. support to allies mentioned. US6 (at the forefront) – Not relevant; no leadership or capability claims. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

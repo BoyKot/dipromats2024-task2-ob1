@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Announcement that Russian delegate Pyotr Tolstoy was elected PACE Vice President; he states they are there to defend Russia’s positions, principles, values, interests, and citizens’ rights, and claims Russia will contribute to the Council of Europe’s future. Evaluation:\n- RU1 (West immoral/hostile): Not present; no criticism of the West or depiction of Western decadence/victimhood.\n- RU2 (Russia leads an alternative system): Not present; this is about engaging within a Western institution (PACE/CoE), not proposing an alternative order or non-Western multilateralism.\n- RU3 (Russia is a benevolent partner): Partially aligned; the claim that Russia will “contribute to the CoE’s future” frames Russia as a constructive, cooperative actor. While subtle, it promotes an image of Russia as a reliable, positive contributor within a multilateral body.\n- RU4 (Russian history admirable): Not referenced.\n- RU5 (Russia at the world’s forefront): Indirect at best; holding a PACE vice presidency could imply status, but the tweet does not showcase achievements or leadership superiority. Insufficient.\n- RU6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes RU3 by portraying Russia as a constructive, benevolent participant in European institutions.",
+    "narrative_ids": ["RU3"]
+  }
+}

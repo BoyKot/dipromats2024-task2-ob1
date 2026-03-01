@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet warns that COVID-19 has accelerated threats to democracy and human rights and states that the EU is ready to defend these values in the post-pandemic world, addressed to the UN Human Rights Council. Evaluation: EU1 (EU as a successful story) – Not supported; no reference to EU history or learning from past. EU2 (EU is united) – Not indicated; no mention of intra-EU unity or agreements. EU3 (EU useful for its citizens) – Not applicable; the focus is external/global, not on internal citizen benefits. EU4 (EU as avant-garde) – Not explicit; no pioneering policies or leadership in regulation are highlighted. EU5 (EU as a global champion of fair causes) – Supported; it explicitly commits the EU to defend democracy and human rights globally. EU6 (EU contributes to a better world) – Supported; the EU pledges to help rebuild the post-pandemic world and engage multilaterally (message to UNHRC), indicating contribution to global well-being and cooperation.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

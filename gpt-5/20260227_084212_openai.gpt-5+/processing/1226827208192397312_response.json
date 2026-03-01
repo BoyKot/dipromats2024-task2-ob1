@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims EU trade preferences lead the EU to import twice as much from least developed countries as the rest of the world, helping those countries reduce poverty, create jobs, and respect sustainable development. Evaluation: EU1 (successful story): While it portrays EU as effective, it doesn't reference history or overcoming past obstacles; focus is on current external impact, so not a fit. EU2 (united): No mention of internal unity or agreements among member states. EU3 (useful for its citizens): Benefits described are for least developed countries, not EU citizens; thus not applicable. EU4 (avant-garde political actor): It hints at sustainable development principles, but the emphasis is not on pioneering regulation or leadership in tackling future challenges; insufficient. EU5 (global champion of fair causes): Although poverty reduction and sustainable development are fair causes, this narrative is about democracy/human rights advocacy; the tweet focuses on trade and development, so partial overlap but not the core fit. EU6 (contributes to a better world): Directly claims EU trade preferences aid global development (poverty reduction, jobs, sustainability) benefiting other countries; this squarely matches EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

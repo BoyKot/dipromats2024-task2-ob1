@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mocks and condemns Trump for threatening China, highlighting U.S. COVID-19 failures and asserting that history will judge him harshly. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) — Partially aligns: it portrays a U.S. leader as hostile toward China and morally flawed (cheater, liar) and highlights U.S. pandemic mismanagement. While 'the West' broadly isn’t discussed, the U.S. is depicted as hostile/immoral, fitting CH1’s framing. CH2 (China is a benevolent power) — Not supported; no praise of China’s cooperative role. CH3 (China has an epic history) — Not addressed. CH4 (China has an appropriate political system and honorable values) — Not addressed. CH5 (The government of the Chinese Communist Party succeeds) — Not addressed. CH6 (China is interesting culturally) — Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

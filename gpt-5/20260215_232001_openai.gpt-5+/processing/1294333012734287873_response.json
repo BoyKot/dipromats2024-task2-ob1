@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports outcomes of an EU Foreign Affairs Council, expressing solidarity with Greece and Cyprus against Turkey in the Eastern Mediterranean and announcing non-recognition of Belarus election results with work on sanctions for violence and falsification. Evaluation: EU1 (successful story) – Not promoted; no reference to EU’s historical successes or learning from past. EU2 (EU is united) – Promoted implicitly: \"Full solidarity w/ Greece&Cyprus\" and collective stance on Belarus suggest unified EU positions. EU3 (useful for its citizens) – Not directly; actions relate to foreign policy rather than internal citizen-focused benefits. EU4 (avant-garde) – Not applicable; no pioneering regulation or leadership in future-oriented policy. EU5 (global champion of fair causes) – Promoted: refusal to accept fraudulent Belarus elections and move to sanction perpetrators of violence and falsification frames the EU as defending democracy and human rights. EU6 (contributes to a better world) – Partly reflected, but primary framing is normative defense and sanctions; the emphasis fits EU5 more than general global betterment, so not selected. Final determination: EU2 and EU5.",
+    "narrative_ids": ["EU2", "EU5"]
+  }
+}

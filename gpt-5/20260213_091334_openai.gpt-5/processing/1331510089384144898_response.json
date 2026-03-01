@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet acknowledges the EU's past progress but notes ongoing gender-based violence and stereotypes, and highlights the EU's Gender Equality Strategy to build a 'Union of Equality.' Evaluation: EU1 (successful story): Partially supported—the tweet says 'significant progress in the EU in the last decades,' implying a positive trajectory and learned advancement, though it also notes remaining problems. EU2 (united): Not explicitly—'UnionOfEquality' is a slogan, but no claim about unity among member states or solidarity in decision-making. EU3 (useful for its citizens): Supported—the Gender Equality Strategy is an EU policy aimed at addressing citizens’ concerns (gender-based violence/stereotypes), showing proactive, practical action within the EU. EU4 (avant-garde): Arguably implied but not explicit; promoting equality could be pioneering, yet the tweet does not frame the EU as global pioneer or leader. EU5 (global champion of fair causes): Not applicable—the focus is internal EU equality, not global leadership or external promotion of rights. EU6 (better world): Not applicable—no reference to global contributions or external partnerships. Final determination: EU1 and EU3.",
+    "narrative_ids": ["EU1", "EU3"]
+  }
+}

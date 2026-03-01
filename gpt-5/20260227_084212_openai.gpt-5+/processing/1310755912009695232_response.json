@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that every four years major party candidates debate on live TV to sway voters and win the U.S. presidential election, and invites readers to learn about the history of debates. This highlights a recurring electoral practice as part of U.S. political tradition. Evaluation by narrative: US1 (honorable tradition) — Supported: it frames televised presidential debates as a regular, historical practice and points to their history, showcasing a civic tradition. US2 (admirable society) — Not supported: no mention of social groups, civil society, companies, or heroes. US3 (hostile enemies) — Not supported: no adversaries referenced. US4 (force for good) — Not supported: no claims about supporting human rights or global good. US5 (great international ally) — Not supported. US6 (at the forefront) — Not supported: no leadership or superiority claims in economy/tech/military/trade. Conclusion: The tweet promotes US1 only.",
+    "narrative_ids": ["US1"]
+  }
+}

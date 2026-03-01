@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges Beijing and Hong Kong authorities to release detained pan-democratic candidates, asserting the National Security Law is used to stifle dissent and undermine Hong Kong’s autonomy. This frames support for human rights and democratic freedoms, positioning the speaker (implicitly aligned with the US/\"international community\") as advocating for liberty against repression.\nUS1: Not applicable—no reference to US traditions or historical legacy.\nUS2: Not applicable—does not promote US society, groups, companies, or heroes.\nUS3: Partially relevant in tone (casts Beijing/HK authorities negatively), but the focus is not on threats to the US; it’s about human rights in Hong Kong. Does not clearly frame a hostile enemy to the US. Not selected.\nUS4: Applicable—the tweet promotes a stance of supporting human rights and freedoms and aligns with the US as a force for good narrative, especially given common US positioning on Hong Kong autonomy and opposition to repression.\nUS5: Not applicable—no emphasis on US alliances or supporting a specific ally.\nUS6: Not applicable—no claim of US leadership in economy, tech, military, or trade.\nConclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

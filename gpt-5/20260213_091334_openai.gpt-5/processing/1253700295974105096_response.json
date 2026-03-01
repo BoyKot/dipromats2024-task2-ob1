@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes the new UN envoy to Afghanistan, praises her leadership, and states that the United States values its partnership with the UN mission as \"we pursue peace and stability.\" It echoes UNAMA's focus on peace, human rights, and prosperity. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to American historical legacy or traditions. US2 (admirable society) – Not referenced; no mention of U.S. societal groups or civil society. US3 (hostile enemies) – No adversary is identified or criticized. US4 (US is a force for good) – Yes; the U.S. is portrayed as working with the UN to pursue peace, stability, and support for human rights, aligning with a benevolent, pro-human-rights role. US5 (great international ally) – Yes; it explicitly emphasizes the U.S. valuing its partnership with UNAMA, highlighting reliable cooperation with an international partner. US6 (at the forefront) – No claims of leadership superiority or dominance are made. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that several Chinese COVID-19 vaccines are in Phase III trials and, once available, will be made a global public good, prioritizing developing countries. Evaluation: CH1 (West immoral/hostile): Not present; no mention or contrast with the West. CH2 (China is a benevolent power): Yes; emphasizes global public good and prioritizing developing countries, portraying China as altruistic and cooperative internationally. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not addressed; focus is international aid, not domestic governance or values. CH5 (CCP government succeeds): Partially implied by progress to Phase III, but the tweet focuses on altruistic distribution rather than celebrating government success; insufficient to claim this narrative. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

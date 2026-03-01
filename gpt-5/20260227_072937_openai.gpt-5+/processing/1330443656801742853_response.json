@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet explains that Pfizer and Moderna COVID-19 vaccines require two doses, effectively doubling the per-person cost, and asserts that Sputnik V will be much cheaper. It quotes a news item about Moderna’s pricing. Evaluation by narrative: RU1 (The West immoral/hostile/decadent): Not directly. It criticizes Western pharma pricing by implication but does not frame the West as immoral or hostile; it’s a cost comparison without moral accusations. RU2 (Russia leads an alternative system): Not applicable; no mention of systems or multilateral alternatives. RU3 (Russia is a benevolent partner): Partially relevant framing—positioning Sputnik V as cheaper suggests consumer-friendly/beneficial intent, but it doesn’t explicitly discuss partnership, solidarity, or aid. Insufficient. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Yes, implicitly promotes Russia/Sputnik V as superior/competitive on price and practicality, suggesting Russian scientific/technological success and advantage. RU6 (Russia culture/nature): Not relevant. Conclusion: The tweet primarily promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

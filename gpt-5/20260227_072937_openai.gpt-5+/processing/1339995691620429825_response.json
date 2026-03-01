@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov claims Syria’s socioeconomic development is being obstructed by illegal, even criminal, unilateral US-led sanctions, especially egregious during COVID. Evaluation:\n- RU1 (West immoral/hostile): Yes. The tweet labels US and allies’ sanctions as illegal/criminal and harmful to Syrian development amid a pandemic, portraying the West as immoral and hostile actors harming others.\n- RU2 (Russia leads alternative system): No. It does not present Russia’s alternative order or multilateralism; it only condemns Western sanctions.\n- RU3 (Russia benevolent partner): No. There’s no assertion of Russian assistance or partnership, just criticism of sanctions.\n- RU4 (Russian history admirable): No historical content.\n- RU5 (Russia at the forefront): No mention of Russian achievements.\n- RU6 (Russia culture/nature): Not relevant. Conclusion: Promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

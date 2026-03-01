@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China will hold a video conference with officials and specialists from over 20 African countries and Africa CDC to share COVID-19 information, stating that China and Africa have long supported each other and will continue to do so. Evaluation: CH1 (West immoral/hostile) – Not present; the tweet does not mention or imply criticism of the West. CH2 (China is a benevolent power) – Yes; it emphasizes cooperation, assistance, sharing expertise on COVID-19, and long-standing mutual support with Africa, portraying China as a collaborative, helpful international actor. CH3 (epic history) – No; no historical struggle or resilience theme. CH4 (appropriate political system/values, domestically) – No; focus is international cooperation, not domestic system or values. CH5 (CCP government succeeds) – No; no claims about domestic achievements or leadership superiority. CH6 (culture/nature/heritage) – No; unrelated. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

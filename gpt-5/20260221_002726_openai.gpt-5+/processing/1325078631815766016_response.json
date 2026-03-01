@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet, quoting MFA spokesperson Zakharova, claims that severe and illegitimate US-led sanctions against Syria obstruct reconstruction and aid, harming peaceful Syrians. Evaluation by narrative: RU1 (The West and their allies are immoral, hostile and decadent): Applicable. The tweet labels US/allied sanctions as 'severe and illegitimate' and blames them for harming civilians, portraying the West as hostile and immoral actors. RU2 (Russia leads an alternative system): Not present; no mention of Russian-led multilateralism or alternative frameworks. RU3 (Russia is a benevolent partner): Not present; the tweet does not depict Russian assistance or benevolence, only criticizes Western sanctions. RU4 (Russian history is admirable): Not relevant. RU5 (Russia is at the world’s forefront): Not relevant. RU6 (Russia is interesting culturally/naturally): Not relevant. Conclusion: The tweet advances RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

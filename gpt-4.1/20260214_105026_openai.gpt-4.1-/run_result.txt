@@ -1,0 +1,15 @@
+Timestamp: 2026-02-14 10:58:58
+Model provider: OpenAI
+Model name: gpt-4.1
+Reasoning budget: N/A
+-------------------------
+Total Run Time (s): 512.953
+Successful API Interaction Time Sum (s): 510.997
+Average Successful API Interaction Time per tweet (s): 0.639
+-------------------------
+Total Input Tokens: 933112
+Total Output Tokens: 16974
+Total Thinking Tokens: 0
+Grand Total Tokens: 950086
+------------------------
+Average Price per 1000 tweets (USD): 2.503

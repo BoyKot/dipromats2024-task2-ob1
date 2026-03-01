@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet boasts that Russia is among the top three countries for COVID testing and the first to create a coronavirus vaccine, highlighting scientific and public-health achievements. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no criticism of the West. RU2 (alternative non-Western system) – Not present; no mention of multilateralism or alternatives to Western order. RU3 (benevolent partner) – Not directly; it does not emphasize cooperation or assistance to others. RU4 (Russian history admirable) – Not about historical legacy; it concerns current achievements. RU5 (Russia at the world’s forefront) – Yes; it explicitly claims leading positions in testing and being first to create a vaccine, showcasing contemporary success. RU6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

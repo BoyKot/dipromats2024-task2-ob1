@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that vaccines in the EU undergo rigorous assessment, that the upcoming coronavirus vaccine follows the same strict process, and that EU countries are preparing for vaccination, emphasizing safety and effectiveness (#SafeVaccines #VaccinesWork). Evaluation: EU1 (EU is a successful story) – Not directly; it does not reference history or overcoming past obstacles. EU2 (EU is united) – Implicitly suggests coordinated action across EU countries, but it speaks generally about processes and preparation in EU countries without explicitly highlighting unity or agreement; weak evidence, so not counted. EU3 (EU is useful for its citizens) – Yes. It showcases the EU’s regulatory rigor ensuring safe vaccines and the practical preparation for vaccination within member states, directly addressing citizens’ health concerns and portraying the EU as proactive and beneficial domestically. EU4 (EU as avant‑garde actor) – Not claimed; no pioneering or leadership framing beyond standard regulatory rigor. EU5 (global champion of fair causes) – Not relevant. EU6 (EU contributes to a better world) – Not applicable; focus is internal, not global. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

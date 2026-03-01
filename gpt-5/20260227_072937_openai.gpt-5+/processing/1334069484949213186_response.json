@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet congratulates the Chang'e-5 probe for collecting moon samples and emphasizes that China views space exploration as a common cause of humanity, promoting international exchanges and cooperation, citing People's Daily content about the mission's technical milestones.\n\nCH1 (West immoral/hostile): Not present; no reference to the West or hostility.\nCH2 (China is a benevolent power): Yes. The tweet stresses cooperation, shared humanity, and international exchanges, portraying China as promoting collective benefits in space exploration.\nCH3 (Epic history): Not referenced; no historical framing or adversity.\nCH4 (Appropriate political system/values domestically): Not discussed; focus is international cooperation, not domestic system or governance values.\nCH5 (CCP government succeeds): Partially relevant but not explicit. While it showcases a technological achievement, it does not frame it as the CCP/governmental success or broader leadership; the emphasis is on the mission facts and cooperation, not governance performance. Therefore, insufficient for CH5.\nCH6 (Culture/nature/heritage): Not relevant.\n\nConclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

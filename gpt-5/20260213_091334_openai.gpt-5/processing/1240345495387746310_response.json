@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that Chinese culture prioritizes peace and dialogue, and that in China–US disputes, China is provoked first and merely defends its legitimate rights and interests. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): The tweet portrays the US/West as the provocateur and China as a victim forced to defend itself, aligning with the depiction of Western hostility. Supported. CH2 (China is a benevolent power): It emphasizes China's peaceful, harmonious culture and preference for dialogue, framing China as cooperative and peace-seeking internationally. Supported. CH3 (China has an epic history): No reference to historical adversity or epic past. Not supported. CH4 (China has an appropriate political system and honorable values): The tweet speaks to cultural values and international behavior, not China’s political system or domestic governance legitimacy. Not supported. CH5 (CCP government succeeds): No claims about domestic development or governance achievements. Not supported. CH6 (China is interesting culturally/naturally): Mentions culture only in terms of peaceful values, not as travel/heritage promotion. Not supported. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

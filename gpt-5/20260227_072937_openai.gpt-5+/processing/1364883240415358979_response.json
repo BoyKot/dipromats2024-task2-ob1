@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks Black History Month by highlighting an interview with a U.S. Embassy management officer about four university students who initiated a bold sit-in to fight segregation, helping change history.\nEvaluation:\n- US1 (honorable tradition): Partially aligns, as it references a historical civil rights milestone that contributed to changing the course of U.S. history. It showcases a historical feat tied to American progress and values.\n- US2 (admirable society): Yes. It celebrates Black History Month and elevates contributions of African Americans (the student activists), promoting the diversity and achievements within U.S. society.\n- US3 (hostile enemies): No mention of adversaries.\n- US4 (force for good): Implicitly positive about fighting segregation, but it does not present the U.S. as an actor supporting others internationally or promoting global freedoms; it’s commemorative, not policy/action-focused. Not a fit.\n- US5 (great international ally): Not present.\n- US6 (at the forefront): Not present.\nConclusion: The tweet promotes US2 and, to a lesser extent, US1 due to its emphasis on historical achievements tied to American values.",
+    "narrative_ids": ["US2", "US1"]
+  }
+}

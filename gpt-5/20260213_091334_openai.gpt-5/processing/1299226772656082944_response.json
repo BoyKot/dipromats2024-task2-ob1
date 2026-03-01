@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says the U.S. strongly supports the OSCE and views it as a key instrument for building a peaceful region of stable, open societies. Evaluation: US1 (honorable tradition) — not explicitly about U.S. historical legacy or traditions; no. US2 (admirable society) — not about U.S. society or groups; no. US3 (hostile enemies) — no adversary is highlighted; no. US4 (force for good) — yes: it frames U.S. support for OSCE as promoting peace, stability, and open societies, aligning with support for human rights/freedoms and peace. US5 (great international ally) — yes: expresses strong support for an international organization and constructive engagement with OSCE partners, signaling reliability as an ally. US6 (at the forefront) — not positioning U.S. as leader in tech/economy/military; no.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

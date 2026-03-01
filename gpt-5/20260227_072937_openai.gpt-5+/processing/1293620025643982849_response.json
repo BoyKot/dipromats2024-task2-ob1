@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes the 'Clean Network' as a comprehensive effort to protect Americans' privacy, intellectual property, and national security from malign actors, explicitly naming the Chinese Communist Party, and directs readers to a fact sheet. Evaluation: US1 (honorable tradition) – Not present; no reference to historical legacy or traditions. US2 (admirable society) – Not present; no mention of social groups or civil society. US3 (hostile enemies) – Yes; it frames the Chinese Communist Party as a malign actor threatening U.S. privacy, IP, and national security, portraying a hostile adversary. US4 (force for good) – Implicitly the initiative aims to protect rights and security, but the tweet centers on threat mitigation rather than promoting broader human rights or aiding oppressed peoples; not clearly supported. US5 (great international ally) – Not discussed. US6 (at the forefront) – The tweet highlights a U.S.-led initiative (the Clean Network) but does not explicitly position the U.S. as a leader in technology or global domains; leadership framing is insufficiently explicit. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

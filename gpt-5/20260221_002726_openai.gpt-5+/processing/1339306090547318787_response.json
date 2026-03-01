@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights that the UN General Assembly adopted a resolution against glorifying Nazism, noting that only the US and Ukraine voted against it, and insinuates suspicion about their motives (“One may wonder why…”). Evaluation by narrative: RU1 (The West and their allies are immoral, hostile and decadent) — The tweet implicitly portrays the US and Ukraine as opposing a universally moral stance (fighting Nazism), casting them as morally suspect or hostile to anti-Nazi efforts. This aligns with RU1’s depiction of the West (and Ukraine) as immoral/hostile. RU2 — No claim about Russia leading an alternative system or promoting multilateralism outside Western influence; not supported. RU3 — No portrayal of Russia as a benevolent partner; not supported. RU4 — No focus on Russian history; not supported. RU5 — No claim about Russia’s current successes; not supported. RU6 — Cultural/travel content absent; not supported. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

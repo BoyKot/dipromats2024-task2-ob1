@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Putin asserting Russia's commitment to international law and the UN Charter as foundations of the modern world order. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention or critique of the West. RU2 (Russia leads an alternative system): Partially aligned; it portrays Russia as championing a fair, multilateral order grounded in international law and the UN, suggesting an alternative to a West-dominated system, though without explicit non-West framing. RU3 (Russia benevolent partner): Indirect; emphasizing commitment to international law hints at responsibility and cooperation, but it does not explicitly present partnership or specific benevolent actions—insufficient. RU4 (Russian history admirable): Mentions WWII outcomes but focuses on legal order, not specifically glorifying Russian history—insufficient. RU5 (Russia at the forefront): No claim of current superiority or achievements. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU2.",
+    "narrative_ids": ["RU2"]
+  }
+}

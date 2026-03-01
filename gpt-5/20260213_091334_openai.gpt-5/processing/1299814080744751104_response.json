@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Pompeo says the global community increasingly recognizes the threat posed by the Chinese Communist Party and like-minded nations are uniting to push back to protect freedom and democracy. Evaluation: US1 (honorable tradition): Implicit references to \"freedom and democracy\" align with American values, but the tweet frames a present coalition response rather than celebrating U.S. historical tradition; not clearly promoted. US2 (admirable society): No mention of societal groups or civil society; not promoted. US3 (hostile enemies): Clearly identifies the Chinese Communist Party as a threat to freedom and democracy; promoted. US4 (force for good): By advocating collective action to protect freedom and democracy, it implies the U.S. (and allies) are acting to uphold rights and freedoms; this frames the U.S. as working for good; promoted. US5 (great international ally): Mentions like-minded nations coming together to rebalance and push back, suggesting coalition-building and partnership; this supports the ally narrative; promoted. US6 (at the forefront): No explicit claim of U.S. leadership or superiority; not promoted. Conclusion: US3, US4, and US5 are promoted.",
+    "narrative_ids": ["US3", "US4", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the Chinese Communist Party of dismantling Hong Kong’s promised autonomy under a UN-registered treaty and notes that the U.S. State Department released a report identifying 10 individuals who undermined freedoms and the rule of law.\nEvaluation:\n- US1 (honorable tradition): Not promoted; no reference to U.S. heritage or historical tradition.\n- US2 (admirable society): Not promoted; no focus on U.S. society or its groups.\n- US3 (hostile enemies): Partially aligned, as it depicts the CCP as undermining freedoms and international commitments, casting it as an immoral adversary. However, the emphasis is less on direct threat to the U.S. and more on Hong Kong; still, it fits the framing of a hostile actor.\n- US4 (force for good): Promoted. By highlighting the State Department’s action/report targeting abusers of freedoms and rule of law, the tweet showcases U.S. support for human rights and accountability.\n- US5 (great international ally): Not promoted; no mention of allies or partnership.\n- US6 (at the forefront): Not promoted; no claim of U.S. leadership in tech/economy/military or general primacy.\nConclusion: The tweet advances US4 clearly and US3 reasonably.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

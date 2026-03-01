@@ -1,0 +1,78 @@
+<prompt_instruction>
+Greetings officer!
+Today your task is to identify which of the following strategic narratives are being promoted in the given tweet.
+The tweet is provided in <tweet_to_analyze>. The list of possible narratives for this country is in <narratives_list>.
+A tweet may promote one, several, or no narratives from the list.
+Carefully read the tweet and compare its message and intent against the title and description of each narrative.
+</prompt_instruction>
+
+<tweet_to_analyze>
+2/6 Chinese spox: EU High Representative for Foreign Affairs & Security Policy Borrell said the virus knows no borders, & we need cooperation & multilateralism, instead of competition & recrimination. It is not the time to blame one another with terms like “Chinese virus”.
+</tweet_to_analyze>
+
+<narratives_list>
+  <narrative>
+    <id>CH1</id>
+    <title>The West is immoral, hostile and decadent.</title>
+    <description>Tweets depict the West, primarily the US, as immoral and hostile, positioning. China may appear as a victim of Western reckless behavior.</description>
+    <example>It is the #US, not China that takes a predatory world view. Some in the #US have been seeking by all means to sabotage #ChinaUSrelations & deliberately disrupting China's development.</example>
+  </narrative>
+  <narrative>
+    <id>CH2</id>
+    <title>China is a benevolent power.</title>
+    <description>This narrative highlights China's cooperative stance, emphasizing support for justice, international law, security, multilateralism and economic development in other nations, and pursuit of mutual benefits. Through this narrative, China may promote a system in which every country will participate and contribute to decide the fate of the world. One of the Chinese motos is a community of a shared destiny for mankind.</description>
+    <example>#China pursues peaceful development. Apart from contributing to UN #Peacekeeping, it has not sent a single soldier to foreign land. It is not a threat but a builder of world peace, a contributor to global development & a defender of international order.</example>
+  </narrative>
+  <narrative>
+    <id>CH3</id>
+    <title>China has an epic history.</title>
+    <description>This narrative showcases China's historical resilience, domestically and internationally. It also shows that China was unfairly treated in the past and had to go through many adversities. The overcoming of adversities may be attributed to the Chinese Communist Party's governance.</description>
+    <example>Una historia de ardua lucha por la salvación nacional primero y por la modernización nacional después, el propósito final siendo siempre el mismo: liderar al pueblo chino en la consecución de la dignidad humana</example>
+  </narrative>
+  <narrative>
+    <id>CH4</id>
+    <title>China has an appropriate political system and honorable values.</title>
+    <description>Tweets associated with this narrative Advocates the political system of China. Sometimes explicitly referring to socialism with Chinese characteristics. This system is portrayed as aligned with the will of the Chinese people and championing genuine democracy. Chinese government has honorable values and its management is morally upright. Note that in this narrative the promotion of Chinese values is linked to domestic affairs, which differentiates it from CH2, that addresses China’s international role.</description>
+    <example>China adheres to the path of peaceful development & will never seek hegemony or engage in expansion, a pledge that has never been made by #US. China is a force for good in the world, a force for global peace & prosperity. China does not want to threaten, challenge or replace anyone.</example>
+  </narrative>
+  <narrative>
+    <id>CH5</id>
+    <title>The government of the Chinese Communist Party succeeds.</title>
+    <description>Focuses on the government's role in driving development within China, fostering minority coexistence within China, and positioning China at the forefront economically, technologically, and socially.</description>
+    <example>China leads the way on global standards for 5G and beyond. Congrats China, you have won the decisive battle against US in the technology war of the 21st century.</example>
+  </narrative>
+  <narrative>
+    <id>CH6</id>
+    <title>China is an interesting country in terms of culture, nature and heritage.</title>
+    <description>Tweets within this narrative promote Chinese society, traditions and natural beauty.</description>
+    <example>#PatrimoniodelaHumanidad. En la provincia de Shanxi se ubica Pingyao, la antigua ciudad China que aún conserva toda su historia y cultura en su arquitectura.  En este lugar relució la etnia Han.  ¿Ya la conocías?</example>
+  </narrative>
+
+</narratives_list>
+
+<output_format_instructions>
+Your response MUST be ONLY a valid JSON object.
+The JSON object must contain a single key: 'analysis'.
+The value of 'analysis' must be an object containing two keys:
+  1. 'reasoning': A string containing your step-by-step analysis. First, briefly summarize the tweet's core message. Then, for each narrative in the provided list, evaluate whether the tweet promotes it, explaining your decision. Conclude with your final determination.
+  2. 'narrative_ids': A list of strings, where each string is the 'id' of an applicable narrative from the list above. If the tweet promotes multiple narratives, include all their IDs. If it promotes none, return an empty list: [].
+Example 1 (multiple narratives):
+```json
+{
+  "analysis": {
+    "reasoning": "The tweet directly criticizes the West as hostile, which aligns with CH1. It also frames China as a peaceful alternative, supporting CH2. The other narratives are not directly supported.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}
+```
+Example 2 (no narratives):
+```json
+{
+  "analysis": {
+    "reasoning": "The tweet is a simple travel promotion about a specific landmark. It does not engage with any of the political or strategic narratives listed.",
+    "narrative_ids": []
+  }
+}
+```
+Do not include any other text, explanations, or formatting outside of the JSON object.
+</output_format_instructions>

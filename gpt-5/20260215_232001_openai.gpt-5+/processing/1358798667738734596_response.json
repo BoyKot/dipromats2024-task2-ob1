@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Mikhail Muravyov, Russian Foreign Minister (1897–1900), crediting him with promoting Tsar Nicholas II’s initiative to convene the Hague Peace Conferences (1899, 1907), implying Russia’s early leadership in peace diplomacy. Evaluation by narrative: RU1 (West immoral/hostile): Not addressed; no criticism of the West. RU2 (Russia leads an alternative system): Partially resonant with multilateralism, but the tweet is historical and does not frame it as an alternative to Western order or outside Western influence; insufficient. RU3 (Russia is a benevolent partner): The emphasis on initiating peace conferences portrays Russia as promoting peace and constructive international engagement; this aligns. RU4 (Russian history is admirable): Yes; it spotlights a positive, globally significant Russian historical contribution. RU5 (Russia at the world’s forefront): Implicit leadership historically, but the narrative concerns current forefront status; not supported. RU6 (Culture/nature/heritage): Not about culture/nature; not applicable. Conclusion: RU3 and RU4 are promoted.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

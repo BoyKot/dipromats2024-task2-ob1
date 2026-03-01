@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns China for unsustainable, illegal fishing and environmental degradation, and expresses solidarity with Ecuador while urging Beijing to stop IUU fishing. Evaluation: US1 (honorable tradition) – Not present; no reference to U.S. historical values or traditions. US2 (admirable society) – Not present; no mention of U.S. society, groups, or heroes. US3 (hostile enemies) – Partially aligned: the tweet portrays China as an immoral rule-breaker harming global norms and the environment, fitting the framing of a hostile adversary. US4 (force for good) – Aligned: it positions the speaker (implicitly the U.S.) as standing up for environmental protection and supporting an affected country (Ecuador), advocating compliance and stewardship. US5 (great international ally) – Partially aligned: the explicit “We stand with Ecuador” signals support for an ally/partner, consistent with this narrative. US6 (at the forefront) – Not present; no leadership/primacy claim. Conclusion: The tweet promotes US3, US4, and US5.",
+    "narrative_ids": ["US3", "US4", "US5"]
+  }
+}

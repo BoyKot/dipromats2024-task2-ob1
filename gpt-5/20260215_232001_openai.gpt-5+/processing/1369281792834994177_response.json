@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU highlights its ambition to be climate neutral by 2050 and showcases high-level EU–US coordination ahead of COP26, tagged with #EUGreenDeal. Evaluation per narrative: EU1 (EU successful story) – Not directly; it speaks to ambition, not past successes or historical learning. EU2 (EU is united) – Not evident; no mention of intra-EU unity or agreement among member states. EU3 (EU useful for citizens) – Indirect at best; while climate neutrality benefits citizens, the tweet does not frame it explicitly as improving citizens’ lives within the EU. EU4 (EU avant-garde political actor) – Yes; setting a climate-neutral-by-2050 target and linking to the Green Deal positions the EU as a pioneer on climate policy. EU5 (EU global champion of fair causes) – Not directly; climate action could be a fair cause, but the tweet frames policy ambition/coordination rather than rights or values advocacy. EU6 (EU contributes to a better world) – Yes; cooperation with the U.S. ahead of COP26 and global climate goals implies EU engagement in multilateral efforts to address a global challenge. Conclusion: EU4 and EU6.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

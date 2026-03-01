@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet thanks a Pakistani doctor volunteering in China against coronavirus, noting he teaches at a Chinese university. Evaluation: CH1 (West immoral/hostile) – Not referenced; no comparison with the West. CH2 (China is a benevolent power) – Implicitly aligns: highlighting international cooperation and volunteering in China during a crisis projects China as a cooperative participant in a shared fight, though subtly. CH3 (epic history) – Not present. CH4 (appropriate political system/values) – No mention of governance or values. CH5 (CCP succeeds) – No claims about government performance or achievements. CH6 (interesting culture/nature) – Not applicable. Conclusion: Only a light fit with CH2 for portraying China within a cooperative, humanitarian context.",
+    "narrative_ids": ["CH2"]
+  }
+}

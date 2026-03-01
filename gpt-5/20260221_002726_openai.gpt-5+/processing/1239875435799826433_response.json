@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China will hold a video conference with officials from 20+ African countries and Africa CDC to share COVID-19 information, emphasizing longstanding mutual support between China and Africa and commitment to continue such cooperation. Evaluation per narrative: CH1 (West immoral/hostile): Not mentioned; no comparison or criticism of the West. CH2 (China is a benevolent power): Yes—tweet highlights cooperation, support, sharing expertise, and ongoing assistance with Africa, fitting the benevolent, multilateral, mutual-benefit framing. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not discussed; focus is international cooperation, not domestic system. CH5 (CCP government succeeds): No explicit claim about domestic achievements or leadership superiority; the act of hosting a conference alone is insufficient to assert governmental success narrative. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

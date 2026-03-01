@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov states Russia is geographically close to the Eastern Mediterranean, has sustainable ties with countries there, and is ready to facilitate normalization if regional partners desire it. Evaluation: RU1 (West immoral/hostile) – Not present; no mention or criticism of the West. RU2 (Russia leads an alternative system) – Implicitly suggests Russia supporting regional normalization and multilateral cooperation outside explicit Western framing, but the tweet does not contrast with the West or tout an alternative system; weak fit, so not selected. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as ready to help facilitate peace/normalization and emphasizes established ties, aligning with benevolence and reliability. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the forefront) – No claim of current superiority or achievements. RU6 (Culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

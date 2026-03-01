@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes that in 2000 UNESCO inscribed the Kremlin in Kazan and the Ferapontov Monastery as World Heritage Sites and invites people to visit Russia. Evaluation: RU1 (West immoral/hostile) – not present; there is no criticism of the West. RU2 (Russia leads an alternative system) – not present; no mention of systems or multilateralism. RU3 (Russia is a benevolent partner) – not present; no portrayal of partnerships or aid. RU4 (Russian history is admirable) – indirectly references historical heritage, but the focus is touristic promotion rather than extolling historical achievements; not a clear fit. RU5 (Russia at the forefront) – not present; no claim of current superiority or achievements. RU6 (Russia is interesting culturally/naturally) – yes; it promotes Russian cultural heritage and encourages travel. Conclusion: Only RU6 applies.",
+    "narrative_ids": ["RU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights that scientists from the EU Science Hub have created a control material to prevent coronavirus test failures, enabling verification of up to 60 million lab tests across the EU. Evaluation by narrative: EU1 (EU is a successful story): Not directly; it does not reference historical achievements or overcoming past obstacles. EU2 (EU is united): Implicitly references EU-wide scale (“throughout the EU”) but does not explicitly emphasize unity or agreements/solidarity; primary focus is on a technical contribution, so not a clear fit. EU3 (EU is useful for its citizens): Yes. It showcases a concrete, practical EU-level scientific solution that improves public health testing reliability within the EU, demonstrating usefulness and proactive action for citizens. EU4 (EU as avant-garde political actor): Partially related to innovation, but it focuses on a scientific/technical development rather than pioneering regulation or political leadership; not a clear match. EU5 (global champion of fair causes): Not relevant. EU6 (EU contributes to a better world): The scope is specifically within the EU; no global angle is claimed. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

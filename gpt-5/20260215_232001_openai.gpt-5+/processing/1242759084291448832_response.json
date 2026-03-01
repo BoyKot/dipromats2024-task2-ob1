@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet argues that an open letter by major US newspapers was misdirected and should target the US government, highlighting that no one protested when the US expelled 60 Chinese journalists. This frames the US as acting unfairly/hostile toward China and implies Western media/government hypocrisy. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Supported—portrays the US as hostile to Chinese journalists and implies double standards, positioning China as a victim of US actions. CH2 (China is a benevolent power): Not present—no claims about China’s cooperative or benevolent international role. CH3 (China has an epic history): Not present—no historical framing. CH4 (China has an appropriate political system and honorable values): Not present—no endorsement of China’s political system or values. CH5 (The government of the Chinese Communist Party succeeds): Not present—no mention of CCP governance successes. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

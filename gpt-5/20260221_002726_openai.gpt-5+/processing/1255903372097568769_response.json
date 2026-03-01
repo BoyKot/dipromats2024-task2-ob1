@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns widespread human rights violations and impunity, warns that the EU stands ready to adopt further restrictive measures if abuses continue or the peace process is undermined, and calls for accountability for conflict-related sexual and gender-based violence. Evaluation by narrative: EU1 (EU as a successful story) – Not supported; no reference to EU history or overcoming past challenges. EU2 (EU is united) – Not explicit; no mention of unity or collective agreement among member states. EU3 (EU useful for its citizens) – Not applicable; the tweet focuses on external human rights issues, not benefits within the EU. EU4 (EU avant-garde political actor) – Not explicit; no pioneering regulatory stance is highlighted. EU5 (EU as global champion of fair causes) – Supported; the tweet foregrounds human rights and accountability for SGBV, positioning the EU as defending these causes and willing to act. EU6 (EU contributes to a better world) – Supported; readiness to impose restrictive measures to protect peace and human rights signals the EU’s role in promoting global peace, accountability, and cooperation beyond its borders. Final determination: EU5 and EU6.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

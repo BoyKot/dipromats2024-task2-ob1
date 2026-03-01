@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the Schuman Declaration, linking post-WWII cooperation to the creation and growth of the European Union, celebrating unity and Europe Day. Evaluation by narrative: EU1 (EU is a successful story): Yes. It highlights origins after WWII, cooperation among nations, and today’s EU of 27 countries and 446 million citizens, implying successful historical development born from overcoming trauma. EU2 (EU is united): Yes. It explicitly extols \"the value of unity\" and celebrates #EuropeDay, framing the EU as united. EU3 (EU useful for citizens): No. While mentioning 446 million citizens, it does not describe concrete policies or practical benefits improving lives. EU4 (avant-garde actor): No. No reference to pioneering regulation or leadership on issues like climate or digitalization. EU5 (global champion of fair causes): No. No mention of democracy/human rights leadership. EU6 (contributes to a better world): No. Focus is inward on EU formation and unity, not global contributions. Conclusion: The tweet promotes EU1 and EU2.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

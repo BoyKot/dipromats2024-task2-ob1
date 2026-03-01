@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes UNODC head Ghada Waly stating that Russia is a very important and strategic partner for UNODC and that more cooperation with Russia is desired. It portrays Russia as a valuable, global player and cooperative partner for a UN agency. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no criticism of the West. RU2 (Russia leads an alternative system): The tweet does not frame Russia as leading an alternative order or non-Western multilateralism; it simply notes UN-Russia partnership. RU3 (Russia is a benevolent partner): Yes. It emphasizes Russia as a strategic partner to a UN agency on global issues and a desire to deepen cooperation, aligning with portraying Russia as a reliable, constructive partner. RU4 (Russian history admirable): Not addressed. RU5 (Russia at the world’s forefront): Indirectly calls Russia a \"global player,\" but not showcasing concrete achievements or leadership; focus is on partnership rather than superiority, so not sufficient. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

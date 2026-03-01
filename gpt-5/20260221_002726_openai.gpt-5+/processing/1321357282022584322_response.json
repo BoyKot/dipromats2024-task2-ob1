@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the high mortality of breast cancer in the EU and reports that Members of the European Parliament are calling for nationwide mammography screenings across all EU countries, launching a dedicated committee (@EP_BeatCancer) to intensify efforts. Evaluation per narrative: EU1 (successful story) – not applicable; the tweet does not reference history or successes, just current action. EU2 (EU is united) – partially implied by a call for screenings \"in all EU countries,\" but it does not explicitly emphasize unity or agreement among member states; the focus is on advocacy rather than demonstrated unity, so not sufficiently supported. EU3 (EU is useful for its citizens) – applicable; it promotes concrete EU-level policy action (MEPs pushing nationwide screenings and launching a committee) addressing citizens' health concerns, showing proactive usefulness. EU4 (avant‑garde actor) – not clearly; health screening advocacy is not framed as pioneering leadership. EU5 (global champion of fair causes) – not relevant; this is about internal health policy, not rights advocacy globally. EU6 (contributes to a better world) – not relevant; no external/global dimension is mentioned. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

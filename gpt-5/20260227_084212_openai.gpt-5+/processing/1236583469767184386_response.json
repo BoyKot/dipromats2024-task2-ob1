@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian official (Lukashevich) states that ensuring full and equal participation of women in all spheres is a priority of Russian state policy. Evaluation by narrative: RU1 (West immoral/hostile) – not present; no mention or contrast with the West. RU2 (Russia leads an alternative system) – not present; no multilateralism or alternative order framing. RU3 (Russia is a benevolent partner) – partially related to benevolence, but the tweet is domestic policy signaling, not partnership or assisting others; thus not a fit. RU4 (Russian history admirable) – not referenced. RU5 (Russia at the world’s forefront) – plausible: it touts progressive social policy as a national priority, implying advancement and leadership in societal development; aligns with showcasing Russia’s current societal success. RU6 (interesting culture/nature) – not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises enduring China–Africa partnership, pledges strengthened cooperation in development and public health for mutual benefit, and quotes AU leadership calling China a true friend showing solidarity. Evaluation: CH1 (West immoral/hostile) – Not present; no mention or contrast with the West. CH2 (China is a benevolent power) – Yes; explicitly portrays China as cooperative, supportive, pursuing mutual benefit, solidarity, and common development across sectors, matching the narrative’s emphasis on benevolence and multilateral cooperation. CH3 (epic history) – Not referenced. CH4 (appropriate political system/values domestically) – Not addressed; focus is international role, which fits CH2 rather than CH4. CH5 (CCP government succeeds domestically/technologically) – Not addressed. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

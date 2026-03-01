@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that over 95% of people in China are satisfied with their freedom and mocks Mike Pompeo as a liar, via a quote of Hu Xijin. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): The tweet disparages a prominent US figure (Pompeo) as a liar, implying US hypocrisy/immorality. This aligns with portraying the West (US) negatively; thus CH1 is promoted. CH2 (China is a benevolent power): No mention of international cooperation, multilateralism, or support for global justice; not applicable. CH3 (China has an epic history): No historical references; not applicable. CH4 (China has an appropriate political system and honorable values): Claiming that 95% are satisfied with their freedom implies China’s political system aligns with the people’s will and provides genuine freedoms; this supports CH4. CH5 (The government of the Chinese Communist Party succeeds): The high satisfaction with freedom can be read as a success of CCP governance in domestic affairs; while not about development or technology, it does credit government performance in social outcomes, so it fits CH5. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: CH1, CH4, and CH5 are promoted.",
+    "narrative_ids": ["CH1", "CH4", "CH5"]
+  }
+}

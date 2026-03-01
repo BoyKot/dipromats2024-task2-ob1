@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The MFA spokesperson states Russia has no intention to send troops to Afghanistan, but will expand cooperation against terrorism and drug trafficking via military-technical means and training specialists. Evaluation: RU1 (West immoral/hostile) – Not present; the tweet does not reference the West. RU2 (Russia leads an alternative system) – Partially relevant in spirit of multilateral cooperation, but the tweet does not frame it as an alternative system or multipolar leadership; it simply states bilateral cooperation, so not a clear fit. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as responsibly avoiding military intervention while engaging in cooperative efforts to combat terrorism and narcotics and to train specialists, positioning Russia as a helpful, reliable partner. RU4 (Russian history admirable) – Not applicable. RU5 (Russia at the world’s forefront) – No claims of superiority or achievements. RU6 (Interesting culture/nature) – Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Sputnik V is offering one of its components to other vaccine manufacturers to boost efficacy against mutations, with collaborations underway with AstraZeneca and soon a major Chinese producer. Evaluation by narrative: RU1 (West immoral/hostile) — Not present; no criticism of the West or moral framing. RU2 (Russia leads an alternative system to the West) — Partially relevant through non-Western cooperation, but the tweet focuses on technical collaboration including a Western firm (AstraZeneca), not on alternative systems or sovereignty-based multilateralism; not promoted. RU3 (Russia is a benevolent partner) — Yes; it portrays Russia/Sputnik V as cooperative and helpful to others by sharing components to improve vaccines globally, signaling solidarity. RU4 (Russian history admirable) — Not relevant. RU5 (Russia at the world’s forefront) — Yes; implying Sputnik V has a component valuable enough for others to use to fight mutations suggests scientific leadership/current success. RU6 (Culture/nature) — Not relevant. Conclusion: RU3 and RU5 are promoted.",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

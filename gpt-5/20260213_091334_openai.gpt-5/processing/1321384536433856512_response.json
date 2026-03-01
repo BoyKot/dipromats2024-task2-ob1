@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts high Chinese public satisfaction and widespread BRI participation with Mike Pompeo’s negative labels ('tyranny' and 'predation'), implying the US unfairly maligns China while China is legitimate and cooperative. CH1: Yes. It portrays a Western (US) figure as hostile and misrepresenting China, framing the West as unfair/hostile toward China. CH2: Yes. Citing 138 countries and 30 international organizations signing BRI agreements presents China as cooperative and beneficial internationally. CH3: No. No historical resilience or past adversities referenced. CH4: Partially relevant but not primary: it implies Chinese governance aligns with public will (93% satisfaction), supporting the appropriateness/legitimacy of China’s system; this fits CH4. CH5: Not directly; it’s about legitimacy and international cooperation rather than domestic development/technological leadership. CH6: No cultural/nature content. Final: CH1, CH2, CH4.",
+    "narrative_ids": ["CH1", "CH2", "CH4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Chinese spokesperson urges calm, science-based judgments, promises openness and cooperation with WHO and the world, and asserts confidence and capability to win the battle quickly. Evaluation per narrative: CH1 (West immoral/hostile): Not present; no criticism of the West or the US. CH2 (China is a benevolent power): Yes; emphasizes cooperation with WHO and the world, openness, transparency, and responsible attitude—projecting China as cooperative and supportive of multilateralism. CH3 (epic history): Not referenced. CH4 (appropriate political system/values): Partially echoes honorable values (open, transparent, responsible), but it is framed in an international cooperation context, which aligns more with CH2; no explicit advocacy of China’s political system domestically. CH5 (CCP succeeds): The assertion of “confidence & capability in winning this battle ASAP” hints at competence, but lacks concrete claims about development, leadership, or success; too generic to count. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

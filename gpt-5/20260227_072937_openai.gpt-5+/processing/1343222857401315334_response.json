@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates the start of COVID-19 vaccinations across multiple EU countries, stressing protection of the vulnerable now and sufficient doses for all soon, framed as an EU-wide effort (#EUvaccinationdays). Evaluation: EU1 (successful story) — implied success of a coordinated milestone, but the tweet focuses more on present unity and service rather than historic success; weak fit. EU2 (EU is united) — strong fit: highlights simultaneous vaccination \"everywhere across the EU\" from various capitals, conveying solidarity and coordinated action. EU3 (EU is useful for its citizens) — strong fit: emphasizes protecting the vulnerable and ensuring enough doses for everyone, showcasing practical benefits of EU action for citizens. EU4 (avant-garde actor) — not applicable; no claim of pioneering regulation/leadership beyond the EU. EU5 (global champion of fair causes) — not applicable. EU6 (contributes to a better world) — not applicable; focus is internal, not global. Conclusion: Promotes EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

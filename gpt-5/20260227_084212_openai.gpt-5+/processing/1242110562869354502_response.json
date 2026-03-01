@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian official urges the US to lift unilateral sanctions on Iran amid COVID-19, framing the sanctions as harming Iran’s ability to address the pandemic. Evaluation by narrative: RU1 (West immoral/hostile): The tweet implicitly portrays the US as acting immorally/hostilely by maintaining unilateral sanctions during a humanitarian crisis, suggesting harm to Iran; this aligns with RU1. RU2 (Russia leads an alternative system): While it advocates a change in US behavior, it does not highlight multilateral frameworks, non-Western cooperation, or Russia’s leadership of an alternative order; not supported. RU3 (Russia is a benevolent partner): Russia is shown as urging relief to help Iran during a pandemic, projecting a humanitarian, responsible stance; this supports RU3. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): No claim of Russian achievement or leadership. RU6 (Interesting culture/nature): Not relevant. Conclusion: RU1 and RU3 apply.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

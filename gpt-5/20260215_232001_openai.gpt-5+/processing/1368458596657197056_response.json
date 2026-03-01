@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet emphasizes solidarity, perseverance, and international cooperation, stating China will continue to work with other countries for humanity’s victory against the pandemic. Evaluation per narrative: CH1 (West immoral/hostile): Not present; no criticism of the West or portrayal of China as a victim. CH2 (China is a benevolent power): Yes; it frames China as cooperative, committed to multilateral solidarity and working for humanity’s benefit, matching the benevolent, cooperative international role. CH3 (epic history): No historical or resilience narrative tied to CCP governance. CH4 (appropriate political system/values domestically): Not addressed; focus is international, not domestic system/values. CH5 (CCP government succeeds): No claims about domestic achievements or leadership success beyond general cooperation. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

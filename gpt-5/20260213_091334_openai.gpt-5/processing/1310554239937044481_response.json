@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet rejects bullying, coercion, confrontation, and zero-sum games, advocating dialogue, consultation, win-win cooperation, and justice. It asserts that China is a staunch force for a fair and just world. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Implicit contrast with unnamed \"bullying\" and \"coercion\" could hint at Western behavior, but there is no explicit mention of the West or the US; the focus is not on depicting the West as immoral. Not sufficiently supported. CH2 (China is a benevolent power): Strongly supported. The tweet frames China as promoting dialogue, win-win cooperation, justice, and the common good—hallmarks of the benevolent, cooperative international role described. CH3 (China has an epic history): No historical references. Not supported. CH4 (China has an appropriate political system and honorable values): Although it speaks to values, it is about China’s international role and global justice rather than domestic system or governance values. Not supported. CH5 (The government of the CCP succeeds): No claims about economic, technological, or domestic governance success. Not supported. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

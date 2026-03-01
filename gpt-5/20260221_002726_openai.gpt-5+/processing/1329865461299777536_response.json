@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates a new Russian holiday, Transport Worker's Day, praising Russia's diverse transport sector, domestically designed/built vehicles, and skilled professionals contributing to national development. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no comparison or criticism of the West. RU2 (Russia leads alternative system): No reference to international order, multilateralism, or non-Western cooperation. RU3 (Russia as benevolent partner): Focus is domestic, not about partnerships or aiding others. RU4 (Russian history is admirable): Although it refers to a 'new holiday,' it does not highlight historical achievements or heritage in a historical context. RU5 (Russia at the world’s forefront): The tweet highlights current successes/capabilities—having all kinds of transport, domestically designed and built vehicles, and skilled professionals—framing Russia as advanced and competent; this aligns with showcasing present-day strengths. RU6 (interesting culture/nature/heritage): Not about culture, nature, or tourism. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

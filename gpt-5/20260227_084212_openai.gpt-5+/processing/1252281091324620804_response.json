@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Russia’s Orlan MK/MKS spacesuit as a capable option for extravehicular activities, citing a 7-hour spacewalk capacity and attributing an infographic to Rostec. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no comparison or criticism of the West. RU2 (alternative system): No mention of multipolarity, non-Western cooperation, or alternative governance; purely technical. RU3 (benevolent partner): No reference to partnership, aid, or mediation. RU4 (Russian history admirable): Not about historical legacy or past achievements; it’s about current tech. RU5 (Russia at the world’s forefront): Yes—showcases a current Russian technological capability in space, implying advanced competence and leadership. RU6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

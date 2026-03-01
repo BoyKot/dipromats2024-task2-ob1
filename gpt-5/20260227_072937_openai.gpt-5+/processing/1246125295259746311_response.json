@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mocks a BBC report about Italians singing the Russian anthem as mere recordings, while highlighting Russian military doctors disinfecting Italian care homes during COVID-19. It contrasts Western media 'disinformation' with Russia’s practical help. Evaluation per narrative: RU1 (West immoral/hostile/decadent): Partially present via accusation of 'new lows of Russian disinformation' by BBC (a Western outlet), implying Western media spreads dishonest narratives about Russia; this paints the West as hostile/immoral. RU2 (Russia leads alternative system): Not evident; no mention of multipolarity or alternative systems. RU3 (Russia is a benevolent partner): Yes; it emphasizes Russia providing medical assistance to Italy (disinfecting 65 care homes) during COVID-19, portraying Russia as helpful and solidaristic. RU4 (Russian history admirable): Not addressed. RU5 (Russia at the world’s forefront): Not directly; no claim of superiority or forefront achievements beyond the assistance. RU6 (Russia interesting culturally/nature): Not relevant. Conclusion: The tweet promotes RU3 clearly and RU1 to a lesser extent; include both.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

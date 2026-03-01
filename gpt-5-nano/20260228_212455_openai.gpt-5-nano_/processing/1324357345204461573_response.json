@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet denounces Poland's alleged policy of rewriting WWII history and the negation of the Red Army's liberating role, framing Western actions as immoral/hostile (RU1) while praising Russia's historical role in WWII (RU4).",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

@@ -1,0 +1,16 @@
+Timestamp: 2026-02-22 20:33:30
+Model provider: OpenAI
+Model name: gpt-5-nano
+Reasoning budget: high
+Explicit chain of thought in prompt: light
+-------------------------
+Total Run Time (s): 14866.098
+Successful API Interaction Time Sum (s): 14863.976
+Average Successful API Interaction Time per tweet (s): 18.580
+-------------------------
+Total Input Tokens: 986712
+Total Output Tokens: 1777231
+Total Thinking Tokens: 0
+Grand Total Tokens: 2763943
+------------------------
+Average Price per 1000 tweets (USD): 0.950

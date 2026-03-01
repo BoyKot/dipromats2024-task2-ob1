@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the US for repeatedly withdrawing from international agreements and institutions, framing it as unilateralist and driven by power politics. Evaluation per narrative: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet portrays the US (representing the West) as unreliable, unilateral, and engaging in power politics, implying moral and political hostility to multilateral norms. CH2 (China is a benevolent power) — No. The tweet does not mention China’s positive actions or multilateral commitment. CH3 (China has an epic history) — No. No historical or resilience themes about China. CH4 (China has an appropriate political system and honorable values) — No. No reference to China’s domestic system or values. CH5 (The government of the Chinese Communist Party succeeds) — No. No claims about CCP governance or achievements. CH6 (China is interesting culturally/naturally) — No. Not relevant. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

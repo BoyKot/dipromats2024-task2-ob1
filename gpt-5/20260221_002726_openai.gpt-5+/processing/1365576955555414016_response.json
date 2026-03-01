@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates International Polar Bear Day, notes threats (poaching, climate change, poor ecology), credits international and national government programs for helping polar bears survive, and mentions 5,000–7,000 live in Russia. Evaluation by narrative: RU1 (West immoral/hostile) – not applicable; no mention of the West or moral judgment. RU2 (Russia leads alternative system) – not applicable; no reference to global systems or non-Western cooperation. RU3 (Russia is a benevolent partner) – partially relevant: the tweet highlights that government programs (including national) help polar bears survive and underscores Russia hosting thousands of them, implying responsible stewardship and cooperation with international efforts, which frames Russia as constructive and benevolent. RU4 (Russian history admirable) – not applicable. RU5 (Russia at the world’s forefront) – not clearly supported; no claim of superiority or leadership. RU6 (Russia interesting in culture/nature) – supported: it spotlights Russia’s wildlife and natural heritage (polar bears in Russia), which promotes Russia’s nature. Conclusion: RU3 and RU6 apply.",
+    "narrative_ids": ["RU3", "RU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet questions Ambassador Grenell's warning about choosing an 'untrustworthy' 5G vendor, implying U.S. hypocrisy by invoking Snowden and the alleged U.S. spying on Merkel. It suggests the U.S. is the real threat. Evaluation: CH1 (The West is immoral, hostile and decadent) — Supported: the tweet portrays the U.S. as untrustworthy and hypocritical, framing the West (U.S.) as hostile/spying, thus immoral/hostile. CH2 — Not supported: no depiction of China as benevolent or cooperative. CH3 — Not supported: no reference to China's history. CH4 — Not supported: no endorsement of China's political system or values. CH5 — Not supported: no claims about CCP governance success or Chinese technological leadership. CH6 — Not supported: no cultural content. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

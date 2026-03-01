@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet introduces content about how the First Lady (@FLOTUS) is supporting America's children during the COVID-19 pandemic. It highlights domestic support activities tied to the US leadership figure. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or traditions. US2 (admirable society) – Indirectly related to support for children, but the tweet does not highlight civil society, ethnic groups, companies, or military heroes; focus is on a government figure, so not applicable. US3 (hostile enemies) – No adversary is mentioned. US4 (force for good) – Yes; showcasing US leadership (via FLOTUS) helping children during a crisis frames the US as acting for public welfare and humanitarian support. US5 (great international ally) – Not about allies. US6 (at the forefront) – No claim of leadership or superiority in domains like tech/economy; just a supportive action. Conclusion: Promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

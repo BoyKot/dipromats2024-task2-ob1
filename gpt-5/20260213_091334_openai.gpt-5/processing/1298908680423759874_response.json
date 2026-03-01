@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A positive update about meeting smart young people at an American Culture and Information Center, highlighting interest in U.S.-sponsored educational programs (FLEX, EducationUSA, Fulbright) as schools reopen. Evaluation by narrative: US1 (honorable tradition) — implicit nod to established programs like Fulbright could suggest tradition, but the tweet does not explicitly reference U.S. historical values or legacy; insufficient. US2 (admirable society) — not about U.S. societal groups, civil society, companies, or military heroes; not applicable. US3 (hostile enemies) — no adversaries mentioned. US4 (force for good) — promoting educational exchanges and scholarships that support human development and opportunity reflects U.S. efforts toward development; the tone portrays U.S. educational outreach as beneficial; applicable. US5 (great international ally) — no mention of allies or bilateral support. US6 (at the forefront) — no explicit claim of leadership or superiority. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

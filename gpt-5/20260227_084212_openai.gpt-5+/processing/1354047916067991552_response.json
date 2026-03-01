@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU invested billions to develop the first COVID vaccines as a global common good; companies must honor obligations; the EU will implement an export transparency mechanism; the EU is committed and serious. Evaluation per narrative: EU1 (successful story): Implicitly portrays EU achievement in pioneering vaccine development and governance, suggesting effectiveness and resolve—moderate support. EU2 (united): No mention of unity among member states—not supported. EU3 (useful for its citizens): Mentions export transparency and enforcing obligations, which benefit EU citizens, but the tweet frames it in a global and corporate compliance context rather than explicitly improving EU citizens’ lives—weak/indirect, not clear enough. EU4 (avant-garde actor): Introducing a vaccine export transparency mechanism and being at the forefront of vaccine development/regulatory response suggests pioneering governance—supported. EU5 (global champion of fair causes): Not about rights/democracy—not supported. EU6 (contributes to a better world): Claims EU-funded first COVID vaccines as a global common good and commitment to contribute—clearly supported.",
+    "narrative_ids": ["EU1", "EU4", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the White House for attributing victory over Nazi Germany solely to the US and UK, implicitly objecting that Russia (the Soviet Union) is being erased from credit. Evaluation by narrative: RU1 (West immoral/hostile/decadent): The tweet implies Western (US/UK) disrespect or historical revisionism by omitting the Soviet role, portraying the West as unfair/hostile toward Russia’s contributions—this aligns with RU1. RU2 (Russia leads alternative system): No mention of alternative systems or multilateralism. RU3 (Russia benevolent partner): No framing of Russia as a cooperative partner. RU4 (Russian history admirable): By defending recognition of the Soviet/Russian role in defeating Nazi Germany, it promotes pride in Russian historical contributions—aligns with RU4. RU5 (Russia at forefront): No current achievements highlighted. RU6 (culture/nature/heritage): Not applicable. Conclusion: RU1 and RU4 are promoted.",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

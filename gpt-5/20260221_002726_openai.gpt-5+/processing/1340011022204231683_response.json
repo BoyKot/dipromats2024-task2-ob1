@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The U.S. is sanctioning a Venezuelan biometrics company and its reps for supporting Maduro’s fraudulent elections, asserting accountability for undermining free and fair elections. Evaluation: US1 (honorable tradition) – Not explicitly about historical legacy or tradition; no. US2 (admirable society) – No reference to society, groups, companies in a celebratory way; no. US3 (hostile enemies) – It labels the Maduro regime’s elections as fraudulent and targets entities supporting it; frames them as undermining democracy, i.e., adversaries to liberal values; yes, partially fits. US4 (force for good) – The U.S. action is presented as defending free and fair elections and holding perpetrators accountable, portraying the U.S. as supporting human rights and democratic norms; yes. US5 (great international ally) – No mention of allies or support to a partner; no. US6 (at the forefront) – No leadership-in-technology/economy theme; no. Conclusion: Promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

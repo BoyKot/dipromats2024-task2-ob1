@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet labels COVID-19 as the 'China Plague,' claims Europe and other places are seeing spikes after being praised by 'Fake News' to make the U.S. look bad, urges vigilance, and asserts vaccines and cures are coming fast. Evaluation: US1 (honorable tradition) – not referenced; no historical values or feats mentioned. US2 (admirable society) – not promoting social groups or civil society; no fit. US3 (hostile enemies) – the target is 'Fake News' and 'China Plague' terminology, but it does not frame a geopolitical adversary threatening the U.S. in moral terms as per this narrative’s intent; primarily domestic media criticism and pandemic talk; does not clearly fit. US4 (force for good) – not about supporting human rights or oppressed peoples; no fit. US5 (great international ally) – no mention of allies or support; no fit. US6 (at the forefront) – the claim that 'Vaccines and cures are coming fast!' implies U.S. leadership/advancement in solutions to COVID-19, positioning the U.S. at the leading edge of response; this aligns with portraying the U.S. as leading in science/health innovation. Conclusion: Only US6 is promoted.",
+    "narrative_ids": ["US6"]
+  }
+}

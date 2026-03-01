@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the US for repeatedly withdrawing from international agreements and bodies (UNESCO, UNHRC, Paris Agreement, JCPOA, INF, Open Skies, WHO), framing this as unilateralism and power politics. Evaluation: CH1 (The West is immoral, hostile and decadent) — Applicable. The tweet portrays the US (the West) as irresponsible and hostile to multilateral norms, using negative moral framing (“habitual quitter,” “unilateralism and power politics”). CH2 (China is a benevolent power) — Not present; no mention of China’s cooperative behavior or multilateral support. CH3 (China has an epic history) — Not present. CH4 (China has an appropriate political system and honorable values) — Not present; no reference to China’s domestic system or values. CH5 (The government of the Chinese Communist Party succeeds) — Not present. CH6 (China is an interesting country in terms of culture, nature and heritage) — Not present. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

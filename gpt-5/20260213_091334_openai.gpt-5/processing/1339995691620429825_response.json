@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Sergey Lavrov asserting that Syria’s socioeconomic development is hindered by illegal, even criminal, unilateral sanctions imposed by the US and some allies, especially harmful during COVID. Evaluation per narrative: RU1 (The West and their allies are immoral, hostile and decadent) — Yes. The tweet labels Western (US and allies) sanctions as illegal and criminal, portraying them as hostile and immoral actions harming Syria. RU2 (Russia leads an alternative system) — No direct promotion of Russia’s alternative system or multilateralism; it only condemns Western sanctions. RU3 (Russia is a benevolent partner) — Not explicitly; while authored by a Russian official, it does not present Russian aid or partnership, just criticism of sanctions. RU4 (Russian history is admirable) — Not relevant. RU5 (Russia at the world’s forefront) — Not relevant. RU6 (Russia’s culture/nature) — Not relevant. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

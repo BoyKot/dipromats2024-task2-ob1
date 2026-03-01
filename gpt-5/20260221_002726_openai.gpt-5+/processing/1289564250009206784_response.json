@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. Special Representative asserts that free elections and a return to freedom and prosperity are possible in Venezuela, and pledges continued U.S. support to the Venezuelan people. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoking U.S. historical legacy or tradition; no. US2 (admirable society) – No mention of U.S. society, groups, or heroes; no. US3 (hostile enemies) – Does not identify or vilify adversaries; no. US4 (force for good) – Yes; the tweet positions the U.S. as supporting human rights and freedom for an oppressed people, pledging ongoing support. US5 (great international ally) – The support is for the Venezuelan people rather than an ally state relationship; borderline but primarily framed as humanitarian/democratic support, so no. US6 (at the forefront) – No leadership/competence framing beyond support; no. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

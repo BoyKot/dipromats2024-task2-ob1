@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet threatens to withhold U.S. taxpayer funding from WHO and other multilateral institutions unless they operate with transparency and accountability, accusing them of enabling Chinese influence (#ChinaLiedWHODenied). Evaluation by narrative: US1 (honorable tradition) – not invoked; no reference to U.S. historical values or legacy. US2 (admirable society) – not relevant. US3 (hostile enemies) – yes: the tweet portrays China as conducting malign \"influence operations,\" implying a hostile adversary undermining global institutions. US4 (force for good) – partially implied through conditioning funding on transparency and accountability, but the tweet is primarily coercive/critical rather than highlighting U.S. humanitarian or peace-support actions; insufficient to claim promotion. US5 (great international ally) – not present. US6 (at the forefront) – not present; no leadership/excellence framing. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

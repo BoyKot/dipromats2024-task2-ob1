@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that court packing was rejected historically (citing FDR’s own party) to protect the Supreme Court, and alleges that today “Radical Left Democrats” are pushing Biden to do it, implying it would destroy the Court and that Biden can’t resist them. Evaluation by narrative: US1 (honorable tradition): Indirectly references a historical precedent/norm (rejecting court packing to preserve the Court), portraying a tradition of institutional restraint. This aligns with showcasing a legacy/value of the U.S. US2 (admirable society): No mention of societal groups, civil society, companies, or heroes. US3 (hostile enemies): While it attacks domestic political opponents as “Radical Left Democrats,” the narrative is about adversaries threatening the US broadly or internationally; this tweet is partisan domestic criticism, not framing foreign or existential enemies. US4 (force for good): No promotion of US support for rights or global good. US5 (great international ally): Not relevant. US6 (forefront): No leadership/edge claims. Conclusion: Only US1 is modestly supported via appeal to historical tradition and norms.",
+    "narrative_ids": ["US1"]
+  }
+}

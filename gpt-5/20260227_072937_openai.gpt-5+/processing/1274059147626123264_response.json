@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the United States urges the Belarusian government to respect fundamental freedoms, allow peaceful assembly, and release detainees, including journalists. Evaluation by narrative: US1 (honorable tradition): Not directly; it does not reference U.S. historical legacy or traditions. US2 (admirable society): Not applicable; no mention of U.S. society, groups, or heroes. US3 (hostile enemies): It criticizes Belarusian government actions but does not frame them as adversaries to the U.S. or a broader threat; the focus is on human rights, not enemies. US4 (force for good): Yes; the U.S. positions itself as defending human rights and peaceful assembly and advocating for journalists and detainees—classic framing of the U.S. supporting freedoms and oppressed peoples. US5 (great international ally): No reference to allies or support for a partner country. US6 (at the forefront): No claims of leadership in technology/economy/military, etc. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

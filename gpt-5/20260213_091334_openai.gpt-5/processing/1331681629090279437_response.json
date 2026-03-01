@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns violence against women everywhere and highlights that EU institutions are lit in orange to support a UN campaign to end such violence. Evaluation by narrative: EU1 (successful story) – not referenced; no historical reflection or success framing. EU2 (unity) – not explicitly about intra-EU unity or agreement among member states. EU3 (useful for citizens) – while relevant to citizens’ safety, the tweet does not present an EU policy or concrete measures improving lives; it’s symbolic support, not a practical initiative within the EU. EU4 (avant-garde actor) – no claim of pioneering regulation or leadership in a forward-looking policy domain. EU5 (global champion of fair causes) – yes: it presents the EU publicly supporting a global human rights/gender equality cause (ending violence against women) in coordination with the UN, positioning the EU as championing a fair cause. EU6 (contributes to a better world) – arguably implied through support of a UN campaign, but the tweet focuses on symbolic solidarity rather than concrete external contributions; less direct than EU5. Conclusion: EU5 applies.",
+    "narrative_ids": ["EU5"]
+  }
+}

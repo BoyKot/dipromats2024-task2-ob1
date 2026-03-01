@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia is sending substantial humanitarian aid and specialized military-medical personnel to Serbia to help fight COVID-19. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; the tweet does not reference the West or criticize it. RU2 (Russia leads an alternative system) – Not explicit; while it shows cooperation with Serbia, it does not frame this as an alternative to Western systems or invoke multilateralism/sovereignty themes. RU3 (Russia is a benevolent partner) – Yes; it highlights Russia providing humanitarian aid, medical experts, and equipment to assist Serbia, portraying Russia as helpful and supportive. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Implicitly could suggest capability, but the tweet does not emphasize superiority or leadership; it focuses on aid delivery, so not a clear match. RU6 (interesting culture/nature) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

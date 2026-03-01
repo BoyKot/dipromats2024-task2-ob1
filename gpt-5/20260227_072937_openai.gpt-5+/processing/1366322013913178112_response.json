@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights a collaboration between the EU delegation to the African Union and Cartooning for Peace, celebrating a cartoonist and asserting that cartoons strengthen freedom of expression, while aiming to promote the AU–EU partnership through visuals in the AU Year of Arts & Culture. Evaluation: EU1 (EU is a successful story) – Not addressed; no historical success or overcoming challenges mentioned. EU2 (EU is united) – Not referenced; no intra-EU unity claims. EU3 (EU useful for its citizens) – Not applicable; content is external-facing and not about benefits within the EU. EU4 (EU avant-garde) – Not directly; while promoting innovative communication (cartoons), it does not position the EU as a regulatory or policy pioneer. EU5 (EU as global champion of fair causes) – Yes; the tweet explicitly states the EU believes cartoons strengthen the right to freedom of expression, aligning with promoting human rights globally. EU6 (EU contributes to a better world) – Yes; it promotes the AU–EU partnership and cultural collaboration, illustrating EU engagement and cooperation to strengthen ties with Africa.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

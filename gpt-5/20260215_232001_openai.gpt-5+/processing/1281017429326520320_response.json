@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns ongoing repression in China and calls for justice for lawyers and human rights defenders, citing Yu Wensheng’s four-year sentence linked to the 2015 #709crackdown. Evaluation by narrative: US1 (honorable tradition) – Not promoted; the tweet does not reference American traditions or historical legacy. US2 (admirable society) – Not promoted; it doesn’t highlight US civil society or groups. US3 (hostile enemies) – Partially aligned in that it portrays China’s government as repressive, but it doesn’t frame this specifically as a threat to the US; focus is on human rights abuses in China, so this narrative is not clearly promoted. US4 (force for good) – Yes; the tweet calls for justice and supports human rights defenders, aligning with the US-as-champion-of-human-rights framing, even if the US is not explicitly named, the message mirrors that narrative. US5 (great international ally) – Not present. US6 (at the forefront) – Not present. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

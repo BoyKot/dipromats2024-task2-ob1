@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the US of hypocrisy and coercion—labeling Chinese media as CPC propaganda while demanding they push US narratives against China—calling this illogical and overbearing. Evaluation: CH1 (The West is immoral, hostile and decadent) — Supported: the tweet portrays the US as hostile, unreasonable, and coercive toward China, casting China/Chinese outlets as victims of US overreach. CH2 — Not supported: no depiction of China’s benevolence or international cooperation. CH3 — Not supported: no historical framing. CH4 — Not supported: no defense of China’s political system or values. CH5 — Not supported: no claim of CCP governance success. CH6 — Not relevant. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

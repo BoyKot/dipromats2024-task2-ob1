@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet commemorates a Russian naval holiday and cites a historical event tied to Crimea's accession to Russia, presenting Russia's history in a positive light. It also lists current fleet size, signaling strong military capabilities. These map to RU4 (Russian history is admirable) and RU5 (Russia is at the world’s forefront).",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

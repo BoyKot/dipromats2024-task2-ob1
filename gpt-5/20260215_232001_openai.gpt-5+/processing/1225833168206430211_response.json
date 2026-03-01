@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A factual announcement that the Russian Ambassador to Ireland met with the CEO of ISME to discuss developing trade cooperation between Russia and Ireland. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no criticism or moral framing of the West. RU2 (Russia leads an alternative system): Not applicable; no mention of multipolarity, BRICS, or alternative order, just bilateral trade talks. RU3 (Russia is a benevolent partner): Partially aligned insofar as it portrays Russia engaging constructively in trade cooperation, suggesting reliability and partnership; while low-key and factual, it frames Russia as a cooperative economic partner. RU4 (Russian history admirable): Not mentioned. RU5 (Russia at the world’s forefront): No claims of superiority or achievement. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3 implicitly by presenting Russia as a cooperative, constructive partner in trade.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory note about the U.S. Independence Day event in South Korea, honoring American principles of freedom and liberty, with well-wishes to Americans and mention of a U.S. Army band and following COVID guidelines.\nEvaluation:\n- US1 (honorable tradition): Yes. The tweet explicitly honors the principles of freedom and liberty upon which the USA is founded, invoking foundational values and tradition.\n- US2 (admirable society): Partially references the U.S. Army band, but this is not promoting diverse social groups or broader civil society; focus is on celebration rather than societal virtues. Not sufficiently supported.\n- US3 (hostile enemies): No mention of adversaries.\n- US4 (force for good): No content about supporting human rights abroad or aiding oppressed peoples; purely ceremonial.\n- US5 (great international ally): Implicit presence with ROK and “other friends,” but the tweet does not emphasize support to allies or praise allied countries; it’s about a U.S. holiday celebration. Insufficient to claim this narrative.\n- US6 (at the forefront): No leadership claims in tech/economy/military/trade.\nConclusion: The tweet promotes US1 only.",
+    "narrative_ids": ["US1"]
+  }
+}

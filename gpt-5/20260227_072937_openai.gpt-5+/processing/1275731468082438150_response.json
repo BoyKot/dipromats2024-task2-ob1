@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An on-demand video service partnered with the Smithsonian to provide a free Washington, D.C. history tour series during COVID-19, bringing U.S. history to people at home. Evaluation: US1 (honorable tradition) — Implicitly promotes appreciation of U.S. history and heritage by highlighting access to a series about Washington, D.C., a vital piece of U.S. history; this aligns with showcasing the country's historical legacy. US2 (admirable society) — Not specifically about diverse groups, civil society broadly, companies, or military heroes; although a partnership is mentioned, the focus is not on societal virtue. US3 (hostile enemies) — No mention of adversaries. US4 (force for good) — While providing free educational content is positive, it is not framed as human rights, freedoms, or global aid; limited relevance. US5 (great international ally) — No allies. US6 (at the forefront) — No claim of leadership in economy/tech/military/trade. Conclusion: Only US1 is supported.",
+    "narrative_ids": ["US1"]
+  }
+}

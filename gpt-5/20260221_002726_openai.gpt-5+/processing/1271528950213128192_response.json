@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Pompeo contrasts the U.S. with China, asserting the U.S. has rule of law, free speech, and embraces peaceful protest, while China does not. Evaluation: US1 (honorable tradition) – Implicitly highlights core American values (rule of law, free speech) as defining features; this showcases U.S. values and thus aligns with portraying an honorable tradition. US2 (admirable society) – Not focused on ethnic groups, civil society achievements, companies, or military heroes; not applicable. US3 (hostile enemies) – Frames China as lacking rule of law and free speech, casting it as an immoral adversary opposed to liberal values; this aligns with highlighting a hostile adversary. US4 (force for good) – While it extols U.S. freedoms, it does not explicitly depict U.S. actions supporting others; partial value signaling but not clearly the narrative. US5 (great international ally) – No mention of allies; not applicable. US6 (at the forefront) – No claim of leadership in domains; not applicable. Conclusion: The tweet promotes US1 and US3.",
+    "narrative_ids": ["US1", "US3"]
+  }
+}

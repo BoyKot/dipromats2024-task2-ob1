@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet lists milestones portraying China’s progress on women’s rights and anti-domestic violence measures (hosting the 1995 women’s conference, 2016 anti-DV law, 2020 abuse-history database), framed positively (#OrangeTheWorld). Evaluation: CH1 (West immoral) – Not present; no mention or comparison to the West. CH2 (China as benevolent power) – Partly: referencing hosting a major UN women’s conference suggests constructive international engagement; however, most points are domestic. Still, hosting a key global event and aligning with a UN campaign implies cooperative, multilateral stance. CH3 (epic history) – Not applicable; no adversity/resilience storyline. CH4 (appropriate system/values) – Implicitly supported: highlights domestic governance advancing social justice and moral values through laws and systems addressing domestic violence. CH5 (CCP government succeeds) – Applicable: showcases concrete policy achievements and social governance progress, indicating governmental effectiveness. CH6 (culture/nature/heritage) – Not applicable.",
+    "narrative_ids": ["CH2", "CH4", "CH5"]
+  }
+}

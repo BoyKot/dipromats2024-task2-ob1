@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory Russia Day post praising Russia’s thousand-year history, unique heritage, and multiethnic unity (“We are different, but WeAreOne”), highlighting 180 nationalities. Evaluation by narrative: RU1 (West immoral/hostile): Not addressed; no mention of the West or hostility. RU2 (Russia leads alternative system): Not discussed; no reference to multilateralism or non-Western cooperation. RU3 (Russia as benevolent partner): Not about partnerships or external peace/assistance. RU4 (Russian history is admirable): Yes—explicitly lauds Russia’s thousand-year history and heritage, framing it positively. RU5 (Russia at the world’s forefront): No claims of current achievements or leadership. RU6 (Russia’s culture/nature/heritage): Yes—emphasizes cultural richness, diversity, and heritage; promotes Russia’s societal fabric and traditions. Conclusion: RU4 and RU6 apply.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

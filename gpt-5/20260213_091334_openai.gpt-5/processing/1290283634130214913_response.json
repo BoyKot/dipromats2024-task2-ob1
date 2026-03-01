@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Boasts about a record-high NASDAQ under current leadership and warns that if 'Sleepy Joe' became President, the economy (jobs, stocks, 401ks) would crash and 'China and others would own us.' Evaluation by narrative: US1 (honorable tradition): Not referenced; no historical or legacy framing. US2 (admirable society): No praise of civil society, groups, or heroes. US3 (hostile enemies): Yes—explicitly portrays China (and unspecified others) as threats that would 'own' the US, framing them as hostile adversaries. US4 (force for good): Not discussed. US5 (great international ally): Not discussed. US6 (at the forefront): Implicitly yes—the claim of a 'RECORD HIGH NASDAQ' positions the US economy/markets at the leading edge; it touts current U.S. economic leadership/performance. Conclusion: Promotes US3 and US6.",
+    "narrative_ids": ["US3", "US6"]
+  }
+}

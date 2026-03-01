@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China’s contribution to UN peacekeeping, portraying Chinese peacekeepers as brave and bringing peace and hope to conflict areas. Evaluation: CH1 (West immoral/hostile) – Not present; the tweet does not mention or criticize the West. CH2 (China is a benevolent power) – Yes; it highlights China’s cooperative, peace-promoting role internationally through UN peacekeeping, aligning with benevolence and support for global security. CH3 (epic history) – No; no historical adversity or resilience theme. CH4 (appropriate political system and honorable values, domestically) – No; focus is on international role, not domestic system/values. CH5 (CCP governance success) – No explicit linkage to domestic governance achievements or Party-led success. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

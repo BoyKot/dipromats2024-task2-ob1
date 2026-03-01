@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes multiple crises in East Africa (locusts, coronavirus, landslides, floods) and announces that “we” have mobilised €3 million for emergency aid to those most in need. This frames the EU (implied by the euro sign and typical EU communication tone) as providing humanitarian assistance abroad. EU1 (successful story): Not explicitly about EU’s historical success or overcoming internal differences; no. EU2 (united): No mention of unity among member states or collective decision-making; no. EU3 (useful for its citizens): The aid targets East Africa, not EU citizens; no. EU4 (avant-garde): No reference to pioneering regulation or leadership on future challenges; no. EU5 (global champion of fair causes): While humanitarian aid is positive, the tweet does not frame it in terms of defending democracy or human rights; likely not. EU6 (EU contributes to a better world): Yes—this directly illustrates EU’s global contribution through emergency aid and international solidarity, improving well-being outside the EU.",
+    "narrative_ids": ["EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet by Russia’s MFA spokesperson asserts that Venezuela’s political crisis should be resolved through peaceful, inclusive dialogue among Venezuelans, explicitly rejecting foreign interference. Evaluation by narrative: RU1 (West immoral/hostile): The tweet cautions against “destructive foreign interference,” implicitly criticizing external (often Western/U.S.) involvement in Venezuela. While not naming the West, the phrasing aligns with a common Russian critique of Western meddling; thus it subtly supports RU1. RU2 (Russia leads an alternative system): The emphasis on sovereignty, non-interference, and dialogue reflects Russia’s advocacy for a multipolar, non-Western-influenced approach to crisis resolution. It signals promotion of an alternative, sovereignty-first norm, supporting RU2. RU3 (Russia benevolent partner): The tweet does not present Russia’s own actions as mediating or assisting; it offers a principle rather than showcasing Russia’s direct benevolence, so not clearly RU3. RU4, RU5, RU6: Not applicable; no historical praise, current achievements, or cultural content. Conclusion: The tweet promotes RU1 and RU2.",
+    "narrative_ids": ["RU1", "RU2"]
+  }
+}

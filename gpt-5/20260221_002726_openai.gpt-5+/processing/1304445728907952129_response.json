@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that China’s Wang Yi and Russia’s Lavrov reached consensus to combat disinformation, calling on governments and media to coordinate and reject disinformation. Evaluation: CH1 (The West is immoral, hostile and decadent) – Not explicit; no direct mention or criticism of the West/US, and no depiction of China as a Western victim. CH2 (China is a benevolent power) – Yes; it portrays China engaging cooperatively with another state to address a global problem (disinformation) and calls for coordinated international action, aligning with China’s image as supporting order and multilateral cooperation. CH3 (Epic history) – Not relevant. CH4 (Appropriate political system and honorable values) – Not explicitly; it’s about international coordination, not domestic system/values. CH5 (CCP succeeds) – No claim about domestic achievement or leadership superiority. CH6 (Culture/nature/heritage) – Not applicable. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

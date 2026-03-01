@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet attacks the U.S. for expelling Chinese reporters, implies the U.S. is hiding information, and questions U.S. transparency regarding COVID-19 deaths, suggesting fear and cover-up. Evaluation: CH1 (The West is immoral, hostile and decadent): Yes. The tweet portrays the U.S. as hostile (expelling reporters) and immoral/non-transparent (hiding COVID-19 data, afraid of scrutiny), casting China as a victim of U.S. actions. CH2 (China is a benevolent power): No explicit framing of China as cooperative or benevolent; focus is on criticizing the U.S. CH3 (China has an epic history): Not referenced. CH4 (China has an appropriate political system and honorable values): Not discussed; no praise of China’s domestic system or values. CH5 (The government of the CCP succeeds): No claims of CCP achievements. CH6 (China is interesting culturally): Not relevant. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

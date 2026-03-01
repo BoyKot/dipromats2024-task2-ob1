@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes French police for using excessive force against ostensibly peaceful protests and accuses the West of double standards compared to how it portrays protests in Russia (e.g., #navalnyprotests). It quotes a Russian commentator hoping Western media and politicians will duly cover Paris events. Evaluation:\n- RU1 (The West and their allies are immoral, hostile and decadent): The tweet alleges Western hypocrisy and unjust force by French authorities, framing the West as applying double standards and behaving repressively. This aligns with portraying the West as immoral/hostile and Russia as a victim of Western narratives about protests.\n- RU2 (Russia leads an alternative system): No suggestion that Russia leads a fairer/multilateral system or promotion of non-Western cooperation. Not supported.\n- RU3 (Russia is a benevolent partner): No content about Russia’s constructive or peace-promoting role. Not supported.\n- RU4 (Russian history is admirable): No historical references. Not supported.\n- RU5 (Russia is at the world’s forefront): No mention of Russian achievements. Not supported.\n- RU6 (Russia’s culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

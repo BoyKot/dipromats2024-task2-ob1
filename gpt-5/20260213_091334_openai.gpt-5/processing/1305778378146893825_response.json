@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that the EU is founded on values like freedom, democracy, equality, human rights, and dignity, and that these values remain relevant, tagged with #DemocracyDay. Evaluation by narrative: EU1 (successful story) – Implicitly positive but no mention of history, overcoming obstacles, or success; focuses on foundational values’ relevance, so not a clear fit. EU2 (unity) – No mention of unity or reaching agreements; not supported. EU3 (useful for citizens) – No policies, practical benefits, or problem-solving described; not supported. EU4 (avant-garde) – No pioneering actions or leadership in tackling challenges; not supported. EU5 (global champion of fair causes) – The tweet highlights democracy and human rights as core EU values and affirms their relevance; this aligns with portraying the EU as a champion of such fair causes, even if not explicitly global, matching the narrative’s thrust. EU6 (better world) – No reference to global contributions or partnerships; not supported. Conclusion: The tweet promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

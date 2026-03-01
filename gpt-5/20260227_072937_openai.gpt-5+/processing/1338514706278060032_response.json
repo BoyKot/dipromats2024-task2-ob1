@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A diplomatic tweet noting a pleasant meeting with Pakistani officials about potential China–Pakistan cooperation in tourism and human resources, expressing high expectations for the Gandhara Corridor. Evaluation: CH1 (West immoral/hostile) – not mentioned or implied. CH2 (China is a benevolent power) – yes: it portrays China engaging in cooperative, mutually beneficial initiatives (exchange and cooperation in tourism and HRD) with Pakistan, aligning with the benevolent, development-focused image. CH3 (epic history) – not referenced. CH4 (appropriate political system/values domestically) – not addressed. CH5 (CCP government succeeds) – no claims about domestic success or leadership. CH6 (interesting culture/nature/heritage) – while Gandhara has cultural/heritage connotations, the tweet frames it as a corridor/cooperation project rather than promoting Chinese culture; thus not a fit. Conclusion: CH2 applies.",
+    "narrative_ids": ["CH2"]
+  }
+}

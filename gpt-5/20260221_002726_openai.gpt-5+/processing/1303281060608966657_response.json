@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights environmental health harms in Europe and points readers to a new EU Environment Agency report, framed under #EUGreenDeal, implying EU institutional action and concern for citizens’ well-being. Evaluation:\n- EU1 (EU is a successful story): No reference to history, overcoming past obstacles, or celebrating success; it’s a problem/solution framing, not historic success.\n- EU2 (EU is united): No mention of unity, consensus, or solidarity among member states.\n- EU3 (EU is useful for its citizens): Yes. It promotes an EU agency’s report addressing concrete citizen concerns (health impacts of pollution) and implies practical EU action under the Green Deal to improve well-being.\n- EU4 (EU is avant‑garde): Implicitly touches climate/green policy, but the tweet doesn’t claim leadership or pioneering status—just informs about a report. Lacks explicit positioning as a pioneer; thus not clearly promoted.\n- EU5 (EU global champion of fair causes): Not about rights or global advocacy.\n- EU6 (EU contributes to a better world): Scope is intra‑EU; no global angle.\nConclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

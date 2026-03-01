@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet recalls Robert Schuman’s foundational role in the EU after WWII to secure lasting peace and solidarity, and claims that today Europeans are again choosing solidarity and neighborly support to meet a new common challenge. Evaluation per narrative: EU1 (EU is a successful story): Promoted. It highlights the EU’s historical foundation, lessons from WWII, and enduring values of peace and solidarity, implying the EU’s successful trajectory from past to present. EU2 (EU is united): Promoted. It explicitly states Europeans are choosing solidarity and neighborly support now, emphasizing present unity in facing a common challenge. EU3 (EU useful for citizens): Not directly; no concrete policies or citizen-focused measures are mentioned. EU4 (avant-garde actor): Not addressed. EU5 (global champion of fair causes): Not addressed; focus is internal. EU6 (contributes to a better world): Not addressed; no global outreach claims. Conclusion: The tweet promotes EU1 and EU2.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

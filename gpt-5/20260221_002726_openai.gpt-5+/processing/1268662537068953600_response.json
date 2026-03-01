@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that President Trump is leading the global COVID-19 response, standing with partners, saving lives, and backing this with $194M in humanitarian aid and American-made ventilators. Evaluation by narrative: US1 (honorable tradition) – not explicitly tied to historical legacy or tradition; no. US2 (admirable society) – no focus on society, groups, companies beyond a mention of American-made ventilators; insufficient; no. US3 (hostile enemies) – no adversary mentioned; no. US4 (force for good) – yes: emphasizes humanitarian assistance, saving lives, and support for global response, aligning with promoting human welfare and aid. US5 (great international ally) – partially implied by “standing with our partners,” which suggests support for allies; this fits the narrative of unwavering support for partners; yes. US6 (at the forefront) – yes: claims the US is “leading the global COVID-19 response,” positioning the US as a leader. Conclusion: The tweet promotes US4, US5, and US6.",
+    "narrative_ids": ["US4", "US5", "US6"]
+  }
+}

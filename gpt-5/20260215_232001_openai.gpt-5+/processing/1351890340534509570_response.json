@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A departing U.S. Permanent Representative to the OAS highlights advancing U.S. interests and fighting for democracy and human rights in Cuba, Nicaragua, and Venezuela, and shares a new handle to follow. Evaluation: US1 (honorable tradition): Implicitly positive about U.S. values, but no explicit reference to long-standing traditions or historical legacy; focus is on current actions—not a clear fit. US2 (admirable society): No mention of U.S. societal groups, civil society, companies, or military heroes—Not supported. US3 (hostile enemies): The tweet references Cuba, Nicaragua, and Venezuela in the context of fighting for democracy and human rights, implying regimes opposed to these values, but it does not characterize them as threats to the U.S. or highlight their immorality directly; borderline but not explicit—Not sufficiently supported. US4 (force for good): Explicitly claims advancing human rights and democracy and portrays U.S. actions as supporting oppressed peoples—Strongly supported. US5 (great international ally): No emphasis on allies or support to specific partner nations—Not supported. US6 (at the forefront): No claims of leadership in economy/technology/military/trade—Not supported. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

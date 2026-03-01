@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the PRC’s human rights abuses in Xinjiang, warning businesses to conduct due diligence to avoid complicity and associated risks. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to U.S. historical values or legacy. US2 (admirable society) – Not applicable; no celebration of U.S. society or groups. US3 (hostile enemies) – Partially relevant: it portrays the PRC as an immoral actor committing abuses, framing it as a threat/risk, which aligns with highlighting hostile adversaries. US4 (force for good) – Indirectly relevant: the call to avoid complicity in human rights abuses and to uphold due diligence supports a human-rights stance consistent with portraying the U.S. (or its messaging) as supporting human rights; however, the tweet doesn’t explicitly present the U.S. taking action, but the normative stance aligns with this narrative. US5 (great international ally) – Not present. US6 (at the forefront) – Not present. Final determination: promotes US3 clearly; US4 is supported by the human-rights advocacy framing even without explicit U.S. self-reference.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

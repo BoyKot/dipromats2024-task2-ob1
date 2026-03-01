@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Contrasts China (blamed for letting the world suffer by closing domestic travel) with the US (credited with inventing vaccines for the world), asserting a clear moral and practical superiority of the US. Evaluation: US1 (honorable tradition) – not directly; it's about current actions, not legacy or historical tradition. US2 (admirable society) – no mention of society, groups, or civil actors. US3 (hostile enemies) – implicitly portrays the CCP/China as harmful to the world, fitting the framing of a hostile adversary to US/global well-being. US4 (force for good) – credits America with inventing vaccines “for the world,” positioning the US as benevolent and supportive of global welfare. US5 (great international ally) – not about alliances. US6 (at the forefront) – implying US leadership in vaccine invention aligns with portraying the US as leading in science/technology. Conclusion: Promotes US3, US4, and US6.",
+    "narrative_ids": ["US3", "US4", "US6"]
+  }
+}

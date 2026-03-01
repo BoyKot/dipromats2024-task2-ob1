@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov asserts Russia’s support for Venezuela’s sovereignty and solidarity against what he calls illegal pressure by the US and its allies. Evaluation by narrative: RU1 (West immoral/hostile): The tweet portrays the US and its accomplices as applying “illegal pressure,” casting them as hostile actors; this aligns with RU1. RU2 (Russia leads alternative system): Implicit respect for sovereignty and opposition to Western pressure nods to a multipolar, non-Western-aligned stance, but the tweet does not showcase institutions or an alternative system; weak/indirect, so not selected. RU3 (Russia is a benevolent partner): The emphasis on solidarity with Venezuelan leaders and people, and respect for sovereignty, frames Russia as a supportive, reliable partner; aligns with RU3. RU4 (history admirable): Not addressed. RU5 (forefront): No mention of successes/leadership. RU6 (culture/nature): Not relevant. Conclusion: RU1 and RU3 are promoted.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

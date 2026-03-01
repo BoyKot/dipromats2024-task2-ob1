@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes UNV’s 50th anniversary and highlights that in 2018 Russia’s MFA fully financed Russian volunteers’ work at UN bodies. Evaluation per narrative: RU1 (West immoral/hostile): No criticism of the West or moral framing; not applicable. RU2 (Russia leads an alternative system): The tweet references cooperation within the UN, not an alternative to Western systems; not applicable. RU3 (Russia is a benevolent partner): Yes—portrays Russia funding volunteers for UN work, signaling constructive, supportive engagement and reliability. RU4 (Russian history admirable): No historical framing; not applicable. RU5 (Russia at the world’s forefront): No claim of superiority or cutting-edge achievement; not applicable. RU6 (Russia’s culture/nature/heritage): Not about culture or tourism; not applicable. Conclusion: Promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

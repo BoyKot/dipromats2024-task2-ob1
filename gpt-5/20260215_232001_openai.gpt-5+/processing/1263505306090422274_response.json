@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes a former Chinese ambassador stating that China and Africa are natural friends who treat each other as equals and that international solidarity and cooperation are key to defeating COVID-19. Evaluation by narrative: CH1 (West immoral/hostile): Not mentioned or implied; no contrast with the West. CH2 (China is a benevolent power): Yes—emphasizes equality with Africa, friendship, solidarity, and cooperative multilateralism against a global challenge, aligning with China's benevolent, cooperative image. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not about domestic political system or values; focus is international role. CH5 (CCP government succeeds): No claims about domestic success or leadership achievements. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

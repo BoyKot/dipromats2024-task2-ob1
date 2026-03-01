@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims China uniquely enshrines \"peaceful development\" in its Constitution and invokes a proverb about learning from past and future, presenting China as inherently peaceful. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no reference to the West or hostility. CH2 (China is a benevolent power): Yes; emphasizes China's peaceful development and implicitly cooperative, non-threatening stance internationally. CH3 (epic history): No; only a generic proverb, no historical adversity or resilience theme. CH4 (appropriate political system and honorable values): Partially relevant; it references the Chinese Constitution and China’s adherence to peaceful development as a value rooted in its system, framing domestic political commitment to peace as honorable. This fits CH4’s focus on system and values. CH5 (CCP government succeeds): No performance or achievement claims. CH6 (culture/nature/heritage): No cultural or tourism content. Conclusion: The tweet promotes CH2 and CH4.",
+    "narrative_ids": ["CH2", "CH4"]
+  }
+}

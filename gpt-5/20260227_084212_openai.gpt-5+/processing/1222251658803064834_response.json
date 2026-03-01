@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU welcomes Ukraine’s PM in Brussels and pledges strong, continued support for Ukraine’s reform agenda, especially rule of law and anti-corruption, and looks forward to close cooperation. Evaluation by narrative: EU1 (successful story): Not explicitly about EU’s historical success or lessons learned; it’s about current support to Ukraine—so not promoted. EU2 (EU is united): No explicit mention of EU unity or internal solidarity among member states—so not promoted. EU3 (useful for its citizens): This is about external support to Ukraine, not benefits within the EU—so not promoted. EU4 (avant-garde actor): No claim of pioneering regulation or leadership in global challenges—so not promoted. EU5 (global champion of fair causes): Supporting rule of law and fighting corruption in a partner country aligns with defending democratic norms and good governance abroad—this fits. EU6 (contributes to a better world): Emphasizes EU support, cooperation, and assistance to a neighboring country’s reforms, contributing to development and better governance—this fits. Conclusion: The tweet promotes EU5 and EU6.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

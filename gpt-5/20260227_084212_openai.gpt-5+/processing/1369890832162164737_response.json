@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that the head of a German expert panel would support Russia's Sputnik V COVID-19 vaccine. It highlights endorsement from a Western expert for a Russian product. Evaluation per narrative: RU1 (West immoral/hostile/decadent): Not promoted; no criticism of the West or depiction of hostility/decadence. RU2 (Russia leads an alternative system): Not explicit; no mention of alternative systems or multilateralism. RU3 (Russia is a benevolent partner): Not addressed; it's about vaccine endorsement, not partnership or solidarity. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Yes, implicitly; presenting a German expert backing Sputnik V suggests Russian scientific/technological competence and global recognition, aligning with showcasing Russia’s current successes. RU6 (Russia culture/nature/heritage): Not relevant. Conclusion: Only RU5 fits.",
+    "narrative_ids": ["RU5"]
+  }
+}

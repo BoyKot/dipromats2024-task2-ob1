@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet recalls Robert Schuman’s post-WWII vision for peace and solidarity, claiming that today Europeans again choose solidarity and mutual support to face a new common challenge. Evaluation: EU1 (EU as a successful story) — Yes. It highlights foundational history, lessons from WWII, and enduring peace/solidarity, fitting the success-through-history frame. EU2 (EU is united) — Yes. It explicitly claims Europeans are choosing solidarity and neighbourly support now, implying current unity in the face of challenges. EU3 (EU useful for citizens) — No. It does not reference concrete policies, actions, or practical benefits. EU4 (avant-garde actor) — No. No claim about pioneering regulation or leadership on future challenges. EU5 (global champion of fair causes) — No. Focus is internal, not on defending rights globally. EU6 (contributes to a better world) — No. No claim about global contributions or partnerships. Conclusion: Narratives EU1 and EU2 are promoted.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

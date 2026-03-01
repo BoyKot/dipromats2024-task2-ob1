@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet provides an update on COVID-19 vaccines in the EU, noting numbers in rolling review, under EMA evaluation, and already authorized and in use, and highlights securing 300 million additional Moderna doses. Evaluation by narrative: EU1 (successful story) – Implicitly suggests effective progress but does not reflect on history or overcoming past traumas; focus is operational, not historical success. Not promoted. EU2 (united) – No explicit mention of unity or solidarity among member states; it's an institutional update. Not promoted. EU3 (useful for its citizens) – Strongly promoted: it showcases concrete, practical EU actions (regulatory reviews, EMA evaluation, authorizations, securing more doses) that address citizens’ health needs and imply timely, proactive measures improving lives within the EU. EU4 (avant-garde actor) – No claim of pioneering leadership or setting global standards; it's informative, not positioning the EU as avant-garde. Not promoted. EU5 (global champion of fair causes) – Not relevant. EU6 (contributes to a better world) – Focus is internal to the EU, not global contributions. Not promoted. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

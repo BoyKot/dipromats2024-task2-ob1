@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A factual report that Russia’s deputy PM and foreign minister met Syria’s president in Damascus to discuss strengthening bilateral cooperation across various areas.\nEvaluation by narrative:\n- RU1 (West immoral/hostile): No mention of the West or criticism; not promoted.\n- RU2 (Russia leads an alternative system): Implicitly highlights non-Western bilateral cooperation and multilateralism outside Western frameworks. The emphasis on strengthening cooperation with Syria suggests alignment with an alternative, sovereignty-based network. Partially fits; promoted.\n- RU3 (Russia is a benevolent partner): The wording about steps to strengthen bilateral cooperation in various spheres and the diplomatic engagement presents Russia as a constructive, reliable partner; promoted.\n- RU4 (Russian history admirable): No historical content; not promoted.\n- RU5 (Russia at the world’s forefront): No claim of superiority or achievements; not promoted.\n- RU6 (Russia culture/nature/heritage): Not relevant; not promoted.\nConclusion: The tweet promotes RU2 and RU3.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

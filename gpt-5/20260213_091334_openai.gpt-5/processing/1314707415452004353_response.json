@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that defending human dignity and especially religious freedom is central to American foreign policy because it lies at the heart of the American experiment. Evaluation: US1 (The US has an honorable tradition) — Supported. It ties current policy to foundational American values ('heart of the American experiment'), invoking a legacy/tradition. US2 (admirable society) — Not addressed; no mention of social groups or civil society. US3 (hostile enemies) — Not mentioned. US4 (The US is a force for good) — Supported. It frames US foreign policy as defending human dignity and religious freedom, aligning with promoting human rights globally. US5 (great international ally) — Not mentioned. US6 (at the forefront) — Not explicitly; no claim of leadership in domains like economy/tech/military. Conclusion: The tweet promotes US1 and US4.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

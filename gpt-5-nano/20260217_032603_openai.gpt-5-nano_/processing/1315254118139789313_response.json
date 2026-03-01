@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet promotes Chinese culture and heritage (Peking Opera, modern reinterpretation), which aligns with CH6. It does not depict Western hostility (CH1), advocate China as a benevolent global power (CH2), tell a historical epic (CH3), promote a specific political system narrative (CH4), or claim CCP governance success (CH5).",
+    "narrative_ids": ["CH6"]
+  }
+}

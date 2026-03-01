@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the prevalence of the Chinese language, its status as a UN official/working language since 1973–74, celebrates UN Chinese Language Day, and invites people to learn Chinese for a unique experience. Evaluation: CH1 (West immoral/hostile): Not referenced; no criticism of the West. CH2 (China benevolent power): The tweet is informational about language status at the UN, not asserting China's cooperative international leadership or values; no clear promotion of benevolence. CH3 (epic history): No historical struggle or resilience mentioned. CH4 (appropriate political system/values): No mention of governance, political system, or domestic values. CH5 (government succeeds): No claims about CCP governance achievements or technological/economic leadership. CH6 (interesting culture/nature/heritage): The tweet promotes Chinese language and invites learning it, positioning Chinese culture as offering a \"unique experience\" and noting a cultural celebration day; this aligns with cultural promotion. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

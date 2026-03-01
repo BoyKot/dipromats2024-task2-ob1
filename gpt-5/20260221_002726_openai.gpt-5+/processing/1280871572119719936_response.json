@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that the CPC is China's rightful governing party, chosen by history and firmly supported by 1.4 billion Chinese people, and that attempts to separate the CPC from the people will fail. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no reference to the West or hostility. CH2 (China benevolent power): Not addressed; no international or multilateral framing. CH3 (China has an epic history): Slight nod to 'choice of history,' but no emphasis on adversity, historical struggles, or epic resilience; insufficient for CH3. CH4 (China has an appropriate political system and honorable values): Yes. It explicitly legitimizes China’s political system (CPC rule) as aligned with the people’s will and implies its correctness and stability. CH5 (CPC government succeeds): Not directly; no claims about development, technology, or governance outcomes. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

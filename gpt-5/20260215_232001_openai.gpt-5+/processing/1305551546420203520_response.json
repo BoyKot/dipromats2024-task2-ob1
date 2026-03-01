@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia welcomes a UNODC–FIFA MoU to strengthen international cooperation against corruption and crime in sport, noting a Russian statement of support at the ceremony.\nEvaluation:\n- RU1 (West immoral/hostile): Not present. No criticism of the West or its allies.\n- RU2 (Russia leads an alternative system): Partially relevant theme of multilateral cooperation, but the tweet frames cooperation within UN and FIFA, not as an alternative to the West or outside Western influence. No claim of leading an alternative order. Not supported.\n- RU3 (Russia is a benevolent partner): Yes. By welcoming and supporting international cooperation to tackle corruption and crime, Russia is positioned as a constructive, reliable partner for a just cause.\n- RU4 (Russian history admirable): Not referenced.\n- RU5 (Russia at the world’s forefront): No claims of superiority or achievements.\n- RU6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that Crimea is the most confessionally diverse region in Russia and that preserving the unity of its multinational people is a priority for Russian authorities. Evaluation: RU1 (West immoral/hostile) – not mentioned. RU2 (Russia leads an alternative system) – no reference to global systems or multipolarity. RU3 (Russia is a benevolent partner) – partially aligns: it presents Russian authorities as responsibly prioritizing social harmony and unity among diverse communities, portraying benevolence domestically. RU4 (Russian history admirable) – not about historical achievements. RU5 (Russia at the forefront) – while using a superlative (“most diverse”), it’s social/ demographic, not framed as national prowess or success; primary thrust is benevolent governance rather than being at the forefront. RU6 (interesting culture/nature/heritage) – touches on cultural diversity, but the intent is governance/unity rather than cultural promotion for interest/tourism. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

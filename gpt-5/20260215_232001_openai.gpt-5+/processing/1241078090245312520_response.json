@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the first recipients of the Hero of Russia title, celebrating their heroic deeds (a pilot averting civilian casualties and a cosmonaut’s extended mission on Mir). Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no criticism of the West. RU2 (Russia leads alternative system): Not addressed; no reference to multilateralism or alternative order. RU3 (Russia as benevolent partner): Not about partnerships or peace mediation. RU4 (Russian history is admirable): Yes—celebrates notable historical figures and achievements (heroic pilot, space exploration via Mir), framing Russian past as worthy of admiration. RU5 (Russia at the world’s forefront): Partially plausible due to space achievement, but the tweet is historical/commemorative rather than asserting current frontrunner status; not a clear fit. RU6 (Culture/nature/heritage): Not a cultural or tourism highlight. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

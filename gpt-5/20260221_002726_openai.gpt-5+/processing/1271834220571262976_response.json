@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China and Tanzania held an online conference to share traditional medicine practices against COVID-19 and pledged to strengthen cooperation in applying traditional medicine to treat diseases. Evaluation: CH1 (West immoral/hostile) – Not referenced; no comparison to the West. CH2 (China is a benevolent power) – Yes: emphasizes China's cooperative, supportive international engagement and mutual benefits with another country in health/medicine. CH3 (epic history) – Not relevant; no historical framing. CH4 (appropriate political system/values domestically) – Not addressed; focus is international cooperation, not domestic governance values. CH5 (CCP government succeeds) – Partially related to competence, but the tweet does not claim domestic success or leadership; it's about collaboration, not showcasing CCP achievements, so not supported. CH6 (culture/nature/heritage) – Not about culture/heritage promotion. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

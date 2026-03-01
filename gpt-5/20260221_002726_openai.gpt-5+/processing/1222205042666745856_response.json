@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes the EU’s European Green Deal and the first European Climate Law as a collective, people- and planet-protecting effort, quoting an EU Commission executive and using #EUGreenDeal. Evaluation per narrative: EU1 (successful story): Not explicitly about past successes or historical evolution; focus is on a present policy, so not supported. EU2 (EU is united): The phrase “your Green Deal… our Green Deal” implies inclusivity and collective ownership, suggesting unity among Europeans, moderately supporting EU2. EU3 (useful for its citizens): It states the law will protect people against climate change, highlighting a concrete EU policy improving citizens’ well-being; supports EU3. EU4 (avant-garde): Presenting the “first European Climate Law” positions the EU as pioneering in climate regulation; strongly supports EU4. EU5 (global champion of fair causes): No explicit reference to rights/democracy; not applicable. EU6 (contributes to a better world): While climate action has global effects, the tweet frames benefits as protecting people and planet generally; however, it does not emphasize external/global partnerships or contributions abroad, so evidence is insufficient. Final determination: EU2, EU3, EU4.",
+    "narrative_ids": ["EU2", "EU3", "EU4"]
+  }
+}

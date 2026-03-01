@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet cites Zafaruddin Mahmood urging people to be 'realistic' and see Xinjiang with their own eyes to make a true assessment, implying a positive or corrective portrayal of Xinjiang against external narratives. Evaluation: CH1 (West immoral/hostile) – Not explicit; no mention of the West or hostility, only an implicit pushback against unspecified external perceptions, which is insufficient. CH2 (China as benevolent power) – No reference to international cooperation or global role; not applicable. CH3 (Epic history) – No historical framing; not applicable. CH4 (Appropriate political system/values) – Implicit defense of China’s domestic governance in Xinjiang by urging direct observation to reach a 'true' assessment suggests confidence in the moral uprightness of China’s management domestically; this aligns weakly but credibly with CH4. CH5 (CCP succeeds) – The tweet hints that Xinjiang, as governed by China, will be seen positively, but it does not state achievements, development metrics, or minority coexistence explicitly; evidence is too thin. CH6 (Culture/nature/heritage) – No cultural or natural elements. Conclusion: The tweet most closely promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

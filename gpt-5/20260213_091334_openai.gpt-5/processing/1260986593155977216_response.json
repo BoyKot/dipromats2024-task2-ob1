@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the dedication of the U.S. Embassy in Jerusalem under President Trump, framing it as a remarkable moment that honors U.S.–Israel friendship and a desire to advance peace regionally and globally. Evaluation: US1 (honorable tradition) – Implicitly references historic friendship, but it focuses more on bilateral ties and peace than on broader American traditions or legacy; weak fit, not clearly promoted. US2 (admirable society) – No mention of U.S. society, groups, or civil actors; not promoted. US3 (hostile enemies) – No adversaries mentioned; not promoted. US4 (force for good) – The tweet claims the action advances peace in the region and the world, positioning the U.S. as promoting peace; promoted. US5 (great international ally) – Emphasizes “our two countries,” “deep and historic friendship,” and celebrates the bilateral relationship with Israel; clearly promotes the U.S. as a strong ally. US6 (at the forefront) – No leadership/primacy framing in economy/tech/military/trade; not promoted. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

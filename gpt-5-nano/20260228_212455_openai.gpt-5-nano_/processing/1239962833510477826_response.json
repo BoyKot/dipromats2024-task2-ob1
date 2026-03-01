@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet describes EU funding to accelerate vaccine development and production, which demonstrates EU unity and solidarity (EU2), shows direct benefits to EU citizens’ health (EU3), and highlights the EU's global contribution to well-being (EU6). It does not clearly promote EU1 (successful story) or EU4/EU5 narratives.",
+    "narrative_ids": ["EU2", "EU3", "EU6"]
+  }
+}

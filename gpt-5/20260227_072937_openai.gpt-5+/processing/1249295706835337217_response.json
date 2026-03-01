@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet shares a historical note that after his Vostok-1 flight, Yuri Gagarin toured globally and later vacationed in Crimea, accompanied by Gherman Titov, with a historical photo. Evaluation: RU1 (West immoral/hostile): Not present; no criticism of the West. RU2 (Russia leads alternative system): Not present; no mention of multilateralism or alternative order. RU3 (Russia benevolent partner): Not present; no claims about partnership or mediation. RU4 (Russian history is admirable): Yes; it highlights a landmark Soviet/Russian achievement (first human in space) and celebrates related historical figures/events, fitting the glorification of Russian historical contributions. RU5 (Russia at the world’s forefront): Implicitly could suggest scientific leadership, but the tweet is framed as a historical reminiscence rather than asserting current forefront status; thus not a clear fit. RU6 (Russia interesting culturally/naturally): The mention of a holiday in Crimea is incidental and not promoting culture/nature broadly; insufficient for this narrative. Conclusion: RU4 applies.",
+    "narrative_ids": ["RU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Ukraine’s Day of Dignity and Freedom, praises Ukrainians who stood for European values, and states that the EU honors Ukraine’s heroes and firmly supports Ukraine’s chosen path to a democratic, stable, and prosperous future. Evaluation: EU1 (EU is a successful story): Not explicitly highlighted; no reference to EU’s history or overcoming internal obstacles. EU2 (EU is united): No explicit mention of EU unity or internal solidarity among member states. EU3 (EU useful for its citizens): Not applicable; focus is on Ukraine (outside-EU), not on benefits to EU citizens. EU4 (EU avant-garde): Not addressed; no pioneering policy/regulatory leadership mentioned. EU5 (EU global champion of fair causes): Yes. The tweet frames the EU as honoring those who stood for freedom, dignity, and European values, and supporting democracy—aligning with defending democracy and human rights abroad. EU6 (EU contributes to a better world): Arguably yes. The EU’s firm support for Ukraine’s path to a democratic, stable, and prosperous future portrays the EU as contributing to development, stability, and well-being in its neighborhood. Conclusion: The tweet promotes EU5 and EU6.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

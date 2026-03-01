@@ -1,0 +1,16 @@
+Timestamp: 2026-02-28 12:19:26
+Model provider: Google
+Model name: gemini-2.5-pro
+Reasoning budget: 512
+Explicit chain of thought in prompt: none
+-------------------------
+Total Run Time (s): 1559.153
+Successful API Interaction Time Sum (s): 3799.947
+Average Successful API Interaction Time per tweet (s): 4.750
+-------------------------
+Total Input Tokens: 997140
+Total Output Tokens: 24313
+Total Thinking Tokens: 267539
+Grand Total Tokens: 1288992
+------------------------
+Average Price per 1000 tweets (USD): 5.206

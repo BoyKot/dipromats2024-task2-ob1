@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that, via U.S. leadership at the UN Security Council and reengagement with the UN Human Rights Council, the U.S. will work to advance global peace, security, human rights, and freedoms.\nEvaluation:\n- US1 (honorable tradition): Not explicitly appealing to historical legacy or tradition; focuses on current leadership and actions. Not promoted.\n- US2 (admirable society): No mention of U.S. society, groups, or heroes. Not promoted.\n- US3 (hostile enemies): No adversary is identified. Not promoted.\n- US4 (force for good): Yes. It highlights U.S. efforts to promote human rights, freedoms, peace, and security globally.\n- US5 (great international ally): Does not reference allies or support to specific partners. Not promoted.\n- US6 (at the forefront): Yes. It explicitly asserts \"U.S. leadership\" at key international bodies, positioning the U.S. as a leader in global governance.\nConclusion: The tweet promotes US4 and US6.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

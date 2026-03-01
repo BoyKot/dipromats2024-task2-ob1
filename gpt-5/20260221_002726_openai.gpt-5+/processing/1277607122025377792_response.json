@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet cites a New York Times piece to assert that the US is deporting COVID-infected migrants, causing outbreaks abroad (e.g., in Guatemala), and concludes the US should behave responsibly. Evaluation: CH1 (The West is immoral, hostile and decadent) – The tweet portrays the US as irresponsible and harmful to others during the pandemic, fitting the frame of the West (primarily the US) acting immorally and causing harm. It does not mention China as a victim, but the critique of US morality aligns with CH1. CH2 (China is a benevolent power) – No reference to China’s cooperative or benevolent actions. CH3 (China has an epic history) – Not addressed. CH4 (China has an appropriate political system and honorable values) – Not addressed; no comparison to Chinese governance. CH5 (CCP government succeeds) – Not addressed. CH6 (China’s culture/nature/heritage) – Not relevant. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

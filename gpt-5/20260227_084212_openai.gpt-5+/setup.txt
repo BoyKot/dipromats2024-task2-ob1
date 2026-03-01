@@ -1,0 +1,5 @@
+Timestamp: 20260227_084212
+Provider: openai
+Model: gpt-5
+Explicit Chain of Thought: strong
+Reasoning budget: minimal

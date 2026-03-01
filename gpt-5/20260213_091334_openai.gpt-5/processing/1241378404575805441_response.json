@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Chinese experts sharing COVID-19 know-how with US scientists, urging cooperation against the virus, while quoting a critical claim about early Chinese suppression—creating a mixed context but with the author's own framing emphasizing cooperation and life-saving assistance. Evaluation: CH1 (West immoral/hostile): Not promoted; no attack on the West or depiction of Western hostility. CH2 (China is a benevolent power): Yes; it portrays China as cooperatively sharing expertise to save lives and advocating international cooperation. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not addressed; no defense of China’s domestic system or values. CH5 (CCP government succeeds): Not claimed; no assertion of domestic achievements or leadership. CH6 (culture/nature): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

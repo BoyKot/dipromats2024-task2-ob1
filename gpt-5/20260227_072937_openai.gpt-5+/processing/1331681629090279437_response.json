@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns violence against women everywhere and highlights that EU institution buildings are illuminated in orange in Brussels to support a UN campaign (#OrangeTheWorld, #SayNoStopVAW).\nEvaluation:\n- EU1 (EU is a successful story): Not promoted; no reference to EU history, overcoming obstacles, or historical reflection.\n- EU2 (EU is united): Not explicitly; while institutions act collectively, the tweet doesn’t emphasize unity among member states or agreement across the EU.\n- EU3 (EU is useful for its citizens): Partially relevant but not clearly promoted; it showcases a symbolic action rather than concrete policies improving citizens’ lives within the EU.\n- EU4 (EU as avant-garde): Not applicable; no pioneering regulation or leadership in future challenges is claimed.\n- EU5 (EU a global champion of fair causes): Promoted; the EU is publicly supporting a UN human rights/gender-rights campaign and positioning itself against violence against women, aligning with championing fair causes.\n- EU6 (EU contributes to a better world): Arguably adjacent given support for a UN campaign, but the tweet doesn’t frame broader global contributions or partnerships beyond symbolic support, so not strongly supported.\nConclusion: The tweet most clearly promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

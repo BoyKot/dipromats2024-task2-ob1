@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The U.S. Mission to Germany expresses mourning for Ruth Bader Ginsburg, calling her a trailblazer in law and in U.S. history. Evaluation by narrative: US1 (honorable tradition) – Implicitly supported: honoring a historic legal trailblazer frames U.S. history and legal tradition as noteworthy and worthy of respect; it showcases a figure emblematic of U.S. values and historical progress. US2 (admirable society) – Partially relevant but not explicit: while RBG is a celebrated public figure, the tweet does not broadly promote American society, ethnic groups, civil society, companies, or military heroes; it centers on a single individual’s legacy. US3 (hostile enemies) – Not present. US4 (force for good) – Not explicit: no mention of human rights support or broader good deeds, though RBG’s work relates to rights, the tweet does not frame U.S. actions as such. US5 (great international ally) – Not present. US6 (at the forefront) – Not present. Conclusion: The tweet promotes US1.",
+    "narrative_ids": ["US1"]
+  }
+}

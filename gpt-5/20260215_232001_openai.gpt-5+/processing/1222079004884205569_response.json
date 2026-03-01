@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The U.S. Embassy and 15 other diplomatic missions in Iraq condemn excessive and lethal force against peaceful protesters, signaling support for human rights and peaceful protest. Evaluation: US1 (honorable tradition) – Not explicitly invoked; no reference to U.S. historical legacy or tradition. US2 (admirable society) – Not applicable; no mention of U.S. social groups, civil society, companies, or military heroes. US3 (hostile enemies) – Not applicable; the tweet condemns actions (excessive force) but does not frame a specific adversary as a threat to the U.S. or global peace. US4 (force for good) – Applicable; the U.S. Embassy publicly supports human rights and condemns abuses, aligning with promoting freedoms and standing with oppressed/protesters. US5 (great international ally) – Partially suggestive due to coordination with 15 missions, but it does not emphasize support for a specific ally or praise allies; primary thrust is rights advocacy, so not counted. US6 (at the forefront) – Not applicable; no leadership/primacy claim. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

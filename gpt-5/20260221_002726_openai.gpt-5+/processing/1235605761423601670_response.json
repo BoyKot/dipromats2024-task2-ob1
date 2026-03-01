@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China is simultaneously managing COVID-19 prevention/control and restoring economic and social development, with a high percentage of key projects resuming (notably in southern China). Evaluation by narrative: CH1 (West immoral/hostile): Not referenced; no comparison to the West. CH2 (China as benevolent power internationally): The tweet is domestically focused on project resumption; no emphasis on international cooperation or global benefits, so not applicable. CH3 (Epic history/resilience): While it implies resilience, it does not invoke historical adversity or CCP-led historical narrative; not applicable. CH4 (Appropriate political system/values): The tweet does not explicitly link success to China’s political system or values; it’s a factual update without ideological framing; likely not applicable. CH5 (CCP government succeeds): The message highlights effective governance outcomes—coordinating pandemic control with robust economic restart and resumption of major infrastructure projects—showcasing government competence and development success; applicable. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH5.",
+    "narrative_ids": ["CH5"]
+  }
+}

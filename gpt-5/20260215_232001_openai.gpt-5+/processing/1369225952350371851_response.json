@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative post marking the death anniversary of Soviet diplomat Alexandra Kollontai, highlighting her pioneering role as one of the first female ambassadors and a government member, and noting her service until Nazi Germany’s defeat in WWII. Evaluation: RU1 (West immoral/hostile) – Not promoted; the tweet does not criticize the West or depict it as hostile/decadent. RU2 (Russia leads an alternative system) – Not promoted; no mention of multilateral alternatives or non-Western cooperation frameworks. RU3 (Russia is a benevolent partner) – Not promoted; while it references diplomatic service, it does not frame Russia’s actions as present-day benevolent partnership or mediation. RU4 (Russian history is admirable) – Promoted; it celebrates a notable Soviet/Russian historical figure and connects her service to the victory over Nazi Germany, casting Russian/Soviet history and contributions in a positive, admirable light. RU5 (Russia at the world’s forefront) – Not promoted; the focus is historical, not on current achievements. RU6 (Russia interesting in culture/heritage) – Not directly; although historical heritage is touched, the tweet is not about culture, nature, or tourism.",
+    "narrative_ids": ["RU4"]
+  }
+}

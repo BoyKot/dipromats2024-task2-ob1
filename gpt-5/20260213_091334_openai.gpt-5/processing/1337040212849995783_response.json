@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks UNICEF’s anniversary and asserts that Russia has long been a reliable partner cooperating with UNICEF to assist partner nations, capped with #RussiaHelps. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention or contrast with the West. RU2 (Russia leads an alternative system): Not supported; the tweet emphasizes cooperation within a UN body, not an alternative to Western systems or multipolar leadership outside Western influence. RU3 (Russia is a benevolent partner): Yes; it explicitly portrays Russia as a reliable partner of UNICEF providing assistance to partner nations, aligned with benevolence and solidarity. RU4 (Russian history admirable): Not referenced; no historical achievements discussed. RU5 (Russia at the world’s forefront): Not claimed; no assertion of superiority or cutting-edge status. RU6 (Russia’s culture/nature/heritage): Not relevant. Conclusion: Only RU3 applies.",
+    "narrative_ids": ["RU3"]
+  }
+}

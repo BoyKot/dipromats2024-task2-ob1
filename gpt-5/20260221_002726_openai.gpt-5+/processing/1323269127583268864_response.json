@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet justifies extending a U.S. national emergency to maintain UN sanctions on individuals linked to Darfur atrocities under Sudan’s former regime, praises PM Hamdok’s leadership, and affirms U.S. commitment to a strategic partnership with the Sudanese people.\nEvaluation:\n- US1 (honorable tradition): Not invoked; no reference to U.S. historical legacy or tradition.\n- US2 (admirable society): Not about U.S. society, groups, or heroes.\n- US3 (hostile enemies): It references sanctioned individuals tied to past atrocities, but does not cast them as ongoing adversaries to the U.S.; focus is sanctions maintenance, not framing enemies of the U.S. So not applicable.\n- US4 (force for good): Yes. It highlights maintaining UN sanctions related to human rights abuses in Darfur and support for Sudan’s democratic leadership and people, portraying the U.S. as supporting peace, justice, and partnership.\n- US5 (great international ally): Yes. Commends Sudan’s PM and states commitment to a strategic partnership with the Sudanese people, emphasizing support to an allied partner.\n- US6 (at the forefront): No claims of U.S. leadership status or superiority.\nConclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

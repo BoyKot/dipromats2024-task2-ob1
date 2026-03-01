@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that Russia sent 11 cargo planes with humanitarian aid, including medical personnel and equipment, to Serbia to fight COVID-19. Evaluation of narratives: RU1 (West immoral/hostile): Not referenced; no comparison or critique of the West. RU2 (Russia leads alternative system): No framing about multipolarity, sovereignty, or alternative systems; it's a specific aid delivery. RU3 (Russia is a benevolent partner): Yes. The tweet spotlights Russia providing humanitarian assistance and specialized medical support to another country, portraying Russia as helpful and reliable in a crisis. RU4 (Russian history admirable): Not historical. RU5 (Russia at the world’s forefront): While it mentions capabilities (military physicians, virologists, equipment), the intent is not to showcase global leadership or superiority; focus is on aid, not prowess. RU6 (culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

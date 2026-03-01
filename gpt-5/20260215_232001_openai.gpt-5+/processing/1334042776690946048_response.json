@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks the anniversary of UNESCO adding Kazan Kremlin and Ferapontov Monastery to the World Heritage List and encourages people to visit Russia. Evaluation: RU1 (West immoral/hostile) – not present; the tweet is apolitical. RU2 (Russia leads alternative system) – not present; no mention of multipolarity or alternative systems. RU3 (Russia benevolent partner) – not present; no claims about partnership or mediation. RU4 (Russian history admirable) – tangential; while it references historic sites, it does not frame broader historical achievements or influence; focus is tourism, not historical grandeur. RU5 (Russia at the forefront) – not present; no claims of current successes. RU6 (Russia is interesting in culture/nature/heritage) – yes; it promotes Russian cultural heritage and invites tourism. Final determination: RU6 only.",
+    "narrative_ids": ["RU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Xi Jinping asserting that economic globalization and win-win cooperation remain the trend, and that China will deepen reform and opening-up, strengthen cooperation, promote an open world economy, and build a community with a shared future for mankind. Evaluation: CH1 (West immoral/hostile): Not present; no criticism of the West or depiction of victimhood. CH2 (China is a benevolent power): Yes; it portrays China as cooperative, supporting an open world economy, mutual benefits, and explicitly mentions building a 'community with a shared future for mankind'—a hallmark of this narrative. CH3 (epic history): Not referenced. CH4 (appropriate political system and honorable values): Not focused on domestic political system or governance values; emphasis is international. CH5 (CCP government succeeds): No explicit claims of domestic achievement or leadership performance. CH6 (culture/nature/heritage): Not applicable. Conclusion: Only CH2 is promoted.",
+    "narrative_ids": ["CH2"]
+  }
+}

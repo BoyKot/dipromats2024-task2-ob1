@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia, via spokesperson Zakharova, emphasizes boosting the Black Sea region’s economic potential through broad interstate cooperation and identifies BSEC as the key mechanism. Evaluation: RU1 (West immoral/hostile) – Not present; the tweet contains no criticism of the West or allies. RU2 (Russia leads an alternative system) – Yes; it highlights multilateral, non-Western regional cooperation (BSEC) as the key mechanism, aligning with promoting cooperation outside Western frameworks and Russia’s advocacy for such platforms. RU3 (Russia is a benevolent partner) – Partially implied by promoting cooperation and development, but the tweet focuses more on mechanisms than on Russia’s benevolence or peacebuilding role; evidence is insufficient for RU3. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – No claims of leadership or superiority. RU6 (Russia’s culture/nature) – Not relevant. Conclusion: The tweet promotes RU2.",
+    "narrative_ids": ["RU2"]
+  }
+}

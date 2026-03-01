@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts the U.S. and China, asserting the U.S. has rule of law and free speech while China does not, implying moral and systemic superiority of the U.S. and criticizing China. Evaluation: US1 (honorable tradition) – Partially aligned because it highlights U.S. values like rule of law and free speech as defining characteristics; while not explicitly historical, it showcases core American values, so it supports this narrative. US2 (admirable society) – Not applicable; no mention of ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies) – Applicable; it characterizes China as lacking rule of law and free speech, framing it as an immoral adversary opposed to liberal values. US4 (force for good) – Implicitly suggested by praising freedoms, but the tweet does not discuss supporting others or actions to promote rights; primarily a contrast, so not sufficiently supported. US5 (great international ally) – Not applicable. US6 (at the forefront) – Not applicable; no leadership claims in domains like economy/technology. Conclusion: The tweet promotes US1 and US3.",
+    "narrative_ids": ["US1", "US3"]
+  }
+}

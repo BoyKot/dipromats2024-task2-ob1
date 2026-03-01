@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Chinese culture values peace and dialogue, and asserts that in China–US disputes, China is always the party provoked and merely defending its legitimate rights and interests. Evaluation: CH1 (The West is immoral, hostile and decadent): Yes. By asserting the US provokes disputes and forces China to defend itself, it portrays the US/West as hostile aggressors and China as a victim of Western recklessness. CH2 (China is a benevolent power): Yes. It emphasizes China’s peaceful, harmonious culture and preference for dialogue, framing China as cooperative and peace-seeking internationally. CH3 (China has an epic history): No. No historical resilience or past adversities are discussed. CH4 (China has an appropriate political system and honorable values): Partially overlaps in values, but the tweet frames values in an international context (peaceful culture in disputes), which fits CH2 rather than domestic political system advocacy; thus No. CH5 (The government of the CCP succeeds): No mention of governance performance or achievements. CH6 (China is interesting in culture, nature, heritage): No; culture is invoked normatively for peace, not as a cultural/heritage showcase. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

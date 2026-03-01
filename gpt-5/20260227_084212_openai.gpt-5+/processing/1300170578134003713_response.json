@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet attacks unnamed local leaders, labels protesters as 'Agitators and Anarchists,' and claims the federal government has intervened with a small group to defend a U.S. courthouse because local authorities failed. Evaluation: US1 (honorable tradition) – Not present; no reference to historical values or legacy. US2 (admirable society) – Not present; no praise of social groups or civil society. US3 (hostile enemies) – Partially aligned: it portrays 'Agitators and Anarchists' as threatening adversaries domestically, but the narrative targets external/immoral adversaries threatening the US broadly; still, the framing of dangerous enemies to the US order is present. US4 (force for good) – Some alignment: it claims the federal government is acting to defend institutions and restore order, implying a protective, positive role. US5 (great international ally) – Not present. US6 (at the forefront) – Not present.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

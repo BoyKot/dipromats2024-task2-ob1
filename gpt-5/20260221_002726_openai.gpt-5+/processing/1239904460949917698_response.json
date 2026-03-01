@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns Trump's remarks as racist and baseless, saying they ignore Chinese people's efforts and label such rhetoric as a 'political virus' harming international solidarity against COVID-19. Evaluation: CH1 (The West is immoral, hostile and decadent) – Applicable. By calling Trump's (a US leader) remarks racist and harmful, the tweet portrays the US/West as hostile and immoral toward China, positioning China as a victim of Western hostility. CH2 (China is a benevolent power) – Partially implied but not explicit. While it praises Chinese people's effort and calls for international solidarity, it does not explicitly frame China as promoting multilateralism or global leadership; the focus is more on condemning US rhetoric. Therefore, not a clear fit. CH3 (China has an epic history) – Not referenced. CH4 (appropriate political system and honorable values) – Not addressed; no mention of China's system or domestic values. CH5 (CCP succeeds) – No claim about government performance or achievements beyond generic effort by Chinese people. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

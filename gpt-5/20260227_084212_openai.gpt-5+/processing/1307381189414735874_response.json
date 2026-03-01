@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights a successful visit to Bogota and emphasizes that the United States is a strong ally supporting Colombia’s democratic governance, counternarcotics efforts, transparent investment, and sustainable economic growth. Evaluation by narrative: US1 (honorable tradition): Not promoted; no reference to US historical legacy or traditions. US2 (admirable society): Not applicable; no mention of US social groups, civil society, or heroes. US3 (hostile enemies): Not applicable; no adversary is identified. US4 (force for good): Partially relevant because it mentions support for democratic governance and sustainable growth, but the framing centers on bilateral support rather than broad human rights/peace advocacy. Still, supporting democracy and development fits the “force for good” frame. US5 (great international ally): Clearly promoted; it explicitly states the US is a strong ally of Colombia and details areas of supportive cooperation. US6 (at the forefront): Not claimed; no leadership/superiority assertion. Conclusion: The tweet promotes US5 and also supports US4.",
+    "narrative_ids": ["US5", "US4"]
+  }
+}

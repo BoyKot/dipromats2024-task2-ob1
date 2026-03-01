@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet questions why the US fears the Chinese Communist Party and Chinese media if it is confident in its political system, implying US hypocrisy/hostility toward China. CH1: Fits, as it portrays the US (the West) as hostile and insecure toward China, casting China/its media as unfairly targeted. CH2: Not applicable; no claim about China’s benevolence or international cooperation. CH3: Not applicable; no historical framing. CH4: Indirect at best; it does not praise China’s system or values, only suggests US insecurity; no explicit advocacy of China’s political system. CH5: Not applicable; no claims of CCP governance success. CH6: Not applicable; no culture/heritage content. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

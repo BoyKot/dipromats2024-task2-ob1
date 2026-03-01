@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet treats Western genocide allegations as lies, framing Western actors as dishonest and China as a victim of Western claims (CH1). It also defends the Chinese political system and governance as morally upright by denying genocide and presenting development signals (CH4). The claim that Xinjiang's Uyghur population has grown is used to imply governance success and minority coexistence within China (CH5). The message does not clearly promote CH2, CH3, or CH6.",
+    "narrative_ids": ["CH1", "CH4", "CH5"]
+  }
+}

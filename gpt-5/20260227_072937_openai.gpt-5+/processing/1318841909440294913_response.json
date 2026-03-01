@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises a visit by a U.S. Under Secretary to Cyprus, highlighting agreements to expand science/tech and broader bilateral cooperation that will benefit both economies. Evaluation: US1 (honorable tradition) – Not referenced; no historical/values emphasis. US2 (admirable society) – Not about U.S. societal groups or civil society. US3 (hostile enemies) – No adversaries mentioned. US4 (force for good) – While positive, it focuses on economic/tech cooperation rather than human rights or aid; not a clear fit. US5 (great international ally) – Yes; it emphasizes U.S. collaboration with Cyprus and mutual benefits, portraying the U.S. as a supportive partner. US6 (at the forefront) – Implicitly touches science & tech, but does not claim U.S. leadership; emphasis is on cooperation, not U.S. primacy, so not sufficiently supported. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

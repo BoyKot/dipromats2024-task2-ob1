@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces May celebrations marking the founding of both the EU and the African Union, highlighting the #AUEU partnership and an upcoming Europe Day music event. Evaluation by narrative: EU1 (EU is a successful story): Implicitly supported by marking the birth of the EU and celebratory tone, suggesting pride in its history, though not explicitly about overcoming obstacles. Still aligns with showcasing successful history through commemoration. EU2 (EU is united): No mention of intra-EU unity or agreement; not supported. EU3 (EU useful for its citizens): No policy benefits or practical measures for EU citizens; not supported. EU4 (EU avant-garde actor): No references to pioneering policies; not supported. EU5 (EU as global champion of fair causes): Not discussed; not supported. EU6 (EU contributes to a better world): The emphasis on #AUEU partnership and joint celebrations between EU and AU points to international cooperation and partnership, aligning with the EU contributing to global cooperation and ties, especially with Africa. Conclusion: The tweet promotes EU1 and EU6.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that China must stand firm against unfriendly forces, defamations, attacks, power politics, and bullying, framing this as the duty of Chinese diplomacy and a trait of the Chinese people. Evaluation: CH1 (The West is immoral, hostile and decadent): Implicitly aligns, as it portrays external actors as unfriendly, defamatory, engaging in power politics and bullying—typical framing of hostile Western behavior—thus positioning China as a victim of hostility. CH2 (China is a benevolent power): Partially aligns; the tweet emphasizes speaking up for justice and responsible diplomacy, projecting a principled, justice-oriented international stance. CH3 (China has an epic history): Not referenced; no historical adversity or CCP-led resilience mentioned. CH4 (China has an appropriate political system and honorable values): Slight overlap in values language (“national character”), but focus is external/international rather than advocating domestic political system; insufficient to code CH4. CH5 (CCP government succeeds): No claims about governance performance or achievements. CH6 (Culture/nature/heritage): Not applicable. Conclusion: CH1 and CH2 are promoted.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

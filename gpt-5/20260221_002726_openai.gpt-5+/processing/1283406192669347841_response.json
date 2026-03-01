@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights U.S. actions and stances—imposing visa restrictions on those undermining democracy in Guyana, welcoming PAHO’s review of Mais Médicos, and condemning human rights violations by the Maduro regime. Evaluation per narrative: US1 (honorable tradition) – Not explicitly about America’s legacy or historical tradition. US2 (admirable society) – No focus on U.S. society, groups, or companies. US3 (hostile enemies) – It labels the Maduro regime as illegitimate and committing human rights violations, portraying it as a hostile, immoral adversary; this aligns with US3. US4 (force for good) – Showcases U.S. support for democracy and human rights through visa restrictions and advocacy, positioning the U.S. as defending freedoms and norms; aligns with US4. US5 (great international ally) – While it references PAHO, it doesn’t emphasize supporting a specific ally or bilateral praise. US6 (at the forefront) – No claim of leadership in domains like economy/tech; actions are principled rather than leadership bragging. Conclusion: US3 and US4 are promoted.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

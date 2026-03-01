@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports a call with China’s PM announcing medical supplies for the EU, notes that the EU helped China earlier, expresses gratitude, and emphasizes mutual support in times of need. Evaluation: EU1 (EU is a successful story): Not directly promoted; no reference to EU’s historical success or learning from past. EU2 (EU is united): Not mentioned; no emphasis on intra-EU unity or agreements among member states. EU3 (EU is useful for its citizens): Not focused on EU internal policies or measures benefiting citizens; it highlights external assistance. EU4 (EU as avant-garde): No mention of pioneering regulation or leadership on future challenges. EU5 (EU as global champion of fair causes): Not about rights/democracy advocacy. EU6 (EU contributes to a better world): Yes. The tweet underscores reciprocal international assistance and multilateral cooperation (EU helped China; China helps EU), framing the EU as an actor engaged in global solidarity and mutual support, which aligns with contributing to a better world. Conclusion: Only EU6 applies.",
+    "narrative_ids": ["EU6"]
+  }
+}

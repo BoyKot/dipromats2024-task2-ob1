@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. State Department spokesperson says protesters in Iran are fighting for the right to choose their future and states that the U.S. stands with them. Evaluation: US1 (honorable tradition) – not explicitly referenced; no mention of U.S. historical legacy or tradition. US2 (admirable society) – not applicable; no focus on U.S. society or groups. US3 (hostile enemies) – the tweet does not label Iran’s regime as immoral or hostile; it focuses on protesters’ rights, so this is not promoted. US4 (force for good) – yes; it emphasizes U.S. support for human rights and oppressed peoples (“stand with” Iranian protesters seeking choice/freedom). US5 (great international ally) – not about allies or partnership with another state. US6 (at the forefront) – no claim of leadership in domains like economy/tech or general leadership. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

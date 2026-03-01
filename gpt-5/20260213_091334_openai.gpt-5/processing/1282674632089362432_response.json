@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet applauds Taiwan’s generous donation to a Panamanian hospital and states that the United States ‘cheers’ Taiwan’s contribution, portraying Taiwan as a constructive partner in the hemisphere. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to US history or enduring values. US2 (admirable society) – Not applicable; no focus on US societal groups or heroes. US3 (hostile enemies) – Not present; no adversary is mentioned. US4 (force for good) – Indirectly relevant: the US voice is endorsing humanitarian aid that saves lives and supports pandemic response, framing alignment with human welfare and development; however, the primary credit is to Taiwan. Still, the US is positioned as supporting positive, humanitarian efforts. US5 (great international ally) – Applicable: the US publicly praises and supports an allied partner (Taiwan), emphasizing steadfast partnership and friendship, which underscores the US as a supportive ally. US6 (at the forefront) – Not present; no leadership/primacy claims about the US.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

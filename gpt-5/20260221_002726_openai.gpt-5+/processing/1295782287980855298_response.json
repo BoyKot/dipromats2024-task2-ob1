@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Informative, factual description of the Great Wall’s World Heritage status, construction period, purpose as military defense, and length; tagged #WorldHeritageinChina. Evaluation: CH1 (West immoral/hostile): Not referenced. CH2 (China benevolent power): No claims about international cooperation or multilateralism. CH3 (China has an epic history): Mentions long historical timeline and dynasties, but no framing of resilience, adversity, or CCP-linked overcoming; it's neutral heritage info, not an epic narrative. CH4 (appropriate political system/values): Not discussed. CH5 (CCP succeeds): Not discussed. CH6 (China is interesting in culture/nature/heritage): Yes—promotes cultural heritage and a UNESCO site, fitting cultural/heritage interest. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states Venezuela faces a democratic and humanitarian crisis and asserts that the United States supports the democratic aspirations of Venezuelans, presenting this as U.S. policy. Evaluation by narrative: US1 (honorable tradition) — Not explicitly invoked; no reference to American historical legacy or traditions. US2 (admirable society) — Not applicable; no mention of U.S. society, groups, or heroes. US3 (hostile enemies) — Not applicable; the tweet does not label an adversary or immoral regime directly. US4 (force for good) — Applicable; it highlights U.S. support for human rights/democracy in Venezuela, portraying the U.S. as aiding oppressed peoples amid a humanitarian crisis. US5 (great international ally) — Not applicable; no focus on alliances or specific allied support. US6 (at the forefront) — Not applicable; no leadership or superiority claims in domains like economy/tech/military. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

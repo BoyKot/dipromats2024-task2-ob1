@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet refutes a 'rumor' that China aids others during COVID-19 for geopolitical gain, asserting instead that China helps out of humanitarian spirit, gratitude, and a belief in a 'community with a shared future.' Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) — Not promoted; the tweet does not attack the West or portray it as immoral/hostile. CH2 (China is a benevolent power) — Promoted; the tweet explicitly frames China's international assistance as humanitarian, altruistic, and rooted in the concept of a shared future, which matches the narrative's emphasis on cooperative, benevolent international behavior and multilateral ethos. CH3 (China has an epic history) — Not present; no historical resilience or past adversities referenced. CH4 (Appropriate political system and honorable values) — Partially related in values language, but it is focused on China’s international conduct rather than domestic system; thus not CH4. CH5 (CCP government succeeds) — Not addressed; no claims about domestic governance performance or leadership success. CH6 (Interesting culture/nature/heritage) — Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

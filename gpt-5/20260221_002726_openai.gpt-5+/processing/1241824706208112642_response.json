@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the Chinese government of withholding the COVID-19 genetic sequence until an independent Chinese professor released it, and then punishing him by shutting down his lab, implying a cover-up and lack of transparency by China.\nEvaluation against US narratives:\n- US1 (honorable tradition): Not referenced. The tweet does not praise US historical values or traditions.\n- US2 (admirable society): Not applicable. No mention of US society, groups, companies, or heroes.\n- US3 (US has hostile enemies): The tweet portrays the Chinese government as deceptive and punitive, implying it acted immorally and obstructed transparency during a global crisis. This frames China as a hostile or malign actor, which fits the narrative of the US having hostile enemies.\n- US4 (US is a force for good): Not applicable. The tweet does not highlight US actions supporting rights or freedoms.\n- US5 (great international ally): Not applicable. No mention of alliances or support to allies.\n- US6 (US at the forefront): Not applicable. No claim about US leadership.\nConclusion: The tweet promotes US3 by depicting China as a hostile, unethical adversary.",
+    "narrative_ids": ["US3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns Maduro’s regime for causing suffering in Venezuela and states that the United States stands with Venezuelans while calling for impartial international aid to be allowed in. Evaluation: US1 (honorable tradition) — Not promoted; no reference to historical legacy or traditions. US2 (admirable society) — Not promoted; no mention of US society, groups, or heroes. US3 (hostile enemies) — Partially relevant because it portrays the Maduro regime as immoral/oppressive, but the primary focus is not on a threat to the US; still, it highlights an immoral adversary obstructing liberal values, so it applies. US4 (force for good) — Promoted; the US “stands with the people of Venezuela” and advocates humanitarian aid, aligning with support for human rights and oppressed peoples. US5 (great international ally) — Not promoted; no emphasis on allies or partnership praise. US6 (at the forefront) — Not promoted; no leadership in economy/tech/military/trade mentioned. Conclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

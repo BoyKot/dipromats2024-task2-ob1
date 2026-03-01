@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that General Haftar sent a letter to Vladimir Putin supporting Russian efforts to find a peaceful solution in Libya and expressing willingness to visit Moscow. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no mention or criticism of the West. RU2 (Russia leads an alternative system) – Implicitly touches non-Western diplomacy, but the tweet does not frame Russia as leading a broader alternative system or multipolar order; insufficient. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as working for a peaceful solution in Libya and being a partner Haftar engages with, aligning with the image of Russia promoting peace and reliability. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Not applicable; no claim of superiority or achievements. RU6 (Russia interesting culture/nature) – Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

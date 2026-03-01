@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The speaker reports a productive call with Israel’s Prime Minister Netanyahu and reiterates that the U.S. commitment to Israel’s security is unwavering. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to U.S. historical values or legacy. US2 (admirable society) – Not referenced; nothing about society, groups, or heroes. US3 (hostile enemies) – No adversary named or implied. US4 (force for good) – Security support could be framed as benevolent, but the tweet does not explicitly reference human rights, freedoms, or aiding oppressed peoples; it focuses on bilateral security, so insufficient. US5 (great international ally) – Yes; it explicitly underscores steadfast U.S. support for an ally (Israel) and praises/affirms commitment. US6 (at the forefront) – Not applicable; no leadership/primacy claim.",
+    "narrative_ids": ["US5"]
+  }
+}

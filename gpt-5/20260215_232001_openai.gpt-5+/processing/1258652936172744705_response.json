@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet honors Indian soldiers who supported the USSR in WWII, noting they were awarded the Order of the Red Star, and says the Russian MoD will immortalize their deeds in a Moscow museum. Evaluation: RU1 (West immoral/hostile) – Not present; no criticism of the West. RU2 (Russia leads an alternative system) – Not present; no mention of multipolarity or alternative systems. RU3 (Russia is a benevolent partner) – Partly applicable: highlighting Russia (MoD) honoring Indian heroes and shared history portrays Russia as a respectful, reliable partner toward India. RU4 (Russian history is admirable) – Applicable: it celebrates Soviet WWII heroism and decorations, and memorialization in a museum, reinforcing pride in Russian/Soviet historical legacy. RU5 (Russia at the forefront) – Not present; no claims of current superiority or achievements. RU6 (Russia interesting in culture/heritage) – Mildly adjacent, but the focus is not cultural tourism or broader heritage; it's commemoration, so not a fit. Conclusion: RU3 and RU4 apply.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

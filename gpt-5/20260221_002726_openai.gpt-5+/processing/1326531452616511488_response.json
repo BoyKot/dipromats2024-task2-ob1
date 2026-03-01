@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses gratitude to US veterans for keeping Europe free and secure and promotes a joint Veterans Day event titled 'We Stood Together, We Stand Together' by the EU in the US with a US partner. Evaluation per narrative: EU1 (EU successful story): The tweet does not reference EU history, overcoming obstacles, or lessons learned; it focuses on transatlantic gratitude and commemoration. Not supported. EU2 (EU united): No mention of intra-EU unity or agreement among member states. Not supported. EU3 (EU useful for its citizens): No policies or benefits within the EU are mentioned. Not supported. EU4 (EU avant-garde): No pioneering regulation or leadership on future challenges. Not supported. EU5 (EU global champion of fair causes): While veterans and freedom are valued, the tweet does not frame the EU as leading on democracy/human rights globally; it’s a commemorative partnership message. Not supported. EU6 (EU contributes to a better world): The tweet highlights EU–US partnership, shared security, and solidarity (“We stood together, we stand together”), implying EU contributions to peace and transatlantic cooperation. This aligns with portraying the EU as contributing to global security and multilateral cooperation. Supported. Conclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

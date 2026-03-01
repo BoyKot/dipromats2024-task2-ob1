@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia’s UN Security Council presidency reaffirmed the Council’s importance as an effective instrument to address international peace and security threats, showcasing Russia’s constructive role in the UN. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention or criticism of the West. RU2 (Russia leads an alternative system): Partially related to multilateralism, but the tweet emphasizes working within the UN/UNSC rather than promoting an alternative system outside Western influence, so not applicable. RU3 (Russia is a benevolent partner): Yes; it presents Russia as a responsible, constructive actor reinforcing global peace and security mechanisms, implying reliability and benevolence. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the world’s forefront): Not about achievements or leadership superiority. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

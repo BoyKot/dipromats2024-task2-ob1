@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims China’s 14th Five-Year Plan benefits not only China but the whole world, creating space for other countries to pursue peaceful development. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no mention or critique of the West. CH2 (China is a benevolent power): Yes. The tweet portrays China’s development as contributing positively to global peace and enabling others’ peaceful development—framing China as cooperative and beneficial to the international community. CH3 (epic history): Not referenced. CH4 (appropriate political system/values, domestic focus): Not explicit; no discussion of political system or values. CH5 (CCP government succeeds): Implicit reference to a state plan, but the tweet emphasizes global benefits rather than domestic success metrics; insufficient to claim this narrative. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces an EU-wide data platform for COVID-19 research, calling researchers to join, emphasizing collaboration to improve testing, treatment, and vaccine development. Evaluation: EU1 (successful story): Implicitly positive about EU capability, but not about historical success or learning from past—mostly present initiative. Not a strong fit. EU2 (EU is united): Mentions EU-wide platform and working together, implying intra-EU collaboration/solidarity; promotes unity in action—fits. EU3 (EU is useful for its citizens): Highlights a concrete EU policy/tool that addresses a pressing citizen concern (pandemic data sharing to improve testing/treatment/vaccine). Shows practical, proactive EU action within the EU—fits well. EU4 (avant-garde actor): Positions EU as pioneering with an EU-wide scientific data platform in response to a major challenge; suggests leadership in tackling present/future challenges—reasonable fit. EU5 (global champion of fair causes): No reference to rights or fair causes—does not fit. EU6 (EU contributes to a better world): Focus is internal EU pandemic response, not global contributions—does not fit. Conclusion: The tweet promotes EU2, EU3, and EU4.",
+    "narrative_ids": ["EU2", "EU3", "EU4"]
+  }
+}

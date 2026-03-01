@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that debates are an important feature of U.S. elections, offering voters a chance to hear candidates on key issues, and links to an article on the history of U.S. presidential debates. Evaluation: US1 (The US has an honorable tradition) — Yes. It highlights a longstanding democratic practice (presidential debates) and references their history, presenting debates as a valued electoral tradition. US2 — No mention of society, ethnic groups, civil society, companies, or military heroes. US3 — No adversaries referenced. US4 — Does not frame the US as a force for good internationally or in human rights; it’s domestic electoral process focused. US5 — No allies mentioned. US6 — No claim of global leadership or being at the forefront in domains like economy/technology; it’s about historical practice. Conclusion: Only US1 applies.",
+    "narrative_ids": ["US1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces an EU-wide platform for scientists to store, share, and analyze coronavirus data, urging collaboration to improve testing, treatment, and develop a vaccine, and inviting researchers to join. Evaluation by narrative: EU1 (EU is a successful story) – Not directly about past successes or learning from history; it's a present initiative, so not promoted. EU2 (EU is united) – Implies EU-wide collaboration and working together, signaling unity across member states and researchers; moderately supported. EU3 (EU is useful for its citizens) – Strongly supported: highlights a practical, proactive EU measure addressing a key citizen concern (COVID-19), improving testing/treatment and vaccine development. EU4 (EU as avant-garde) – Some support: launching an EU-wide scientific data platform portrays the EU as a forward-looking, pioneering actor in tackling current/future health challenges. EU5 (global champion of fair causes) – Not about rights/democracy; not applicable. EU6 (EU contributes to a better world) – The focus is internal EU scientific collaboration; no explicit global/development/multilateral outreach beyond EU, so not promoted. Conclusion: EU2, EU3, and EU4 apply, with EU3 strongest.",
+    "narrative_ids": ["EU2", "EU3", "EU4"]
+  }
+}

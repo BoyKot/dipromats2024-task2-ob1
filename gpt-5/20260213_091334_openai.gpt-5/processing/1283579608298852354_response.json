@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that President Trump signed the Hong Kong Autonomy Act and an executive order to hold China and others accountable for stifling Hong Kong’s freedom and safety. Evaluation: US1 (honorable tradition) – Not explicitly invoked; no reference to legacy or historical feats. US2 (admirable society) – Not relevant; no mention of U.S. societal groups or civil society. US3 (hostile enemies) – Partially implied by portraying China as stifling freedoms, but the focus is on accountability rather than framing China as a direct threat to the U.S.; still, the adversarial framing is secondary. US4 (force for good) – Yes; the U.S. action is framed as defending human rights and freedoms of Hong Kong people. US5 (great international ally) – Not present; no reference to allies or partnership. US6 (at the forefront) – Not present; no claim of leadership or superiority. Conclusion: The tweet primarily promotes US4. US3 is not sufficiently central or explicit to include.",
+    "narrative_ids": ["US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Russia’s Film Day, praising the continuity and richness of Russian cinema from Imperial and Soviet eras to modern films, citing renowned directors and titles. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads alternative system): No mention of multipolarity, institutions, or alternatives to Western order. RU3 (Russia benevolent partner): No claims about partnership, peace, or mediation. RU4 (Russian history is admirable): Yes—explicitly lauds the historical legacy of Russian cinema across periods and highlights globally renowned figures (Eisenstein, Tarkovsky), portraying Russia’s historical cultural contributions as admirable. RU5 (Russia at the world’s forefront): Implicit pride but no concrete claim of current leadership or superiority; mostly celebratory, so not sufficient. RU6 (Russia interesting in culture, nature, heritage): Yes—promotes Russian culture by inviting exploration of its cinematic heritage. Conclusion: RU4 and RU6 apply.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

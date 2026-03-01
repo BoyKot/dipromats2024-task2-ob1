@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet sarcastically questions whether the 'dirty' US could build a 'clean network,' implying the US is morally corrupt/tainted. Evaluation by narrative: CH1 (West immoral/hostile): Yes—labeling the US 'dirty' portrays the West (US) as immoral, aligning with CH1. CH2 (China benevolent): No mention of China’s benevolence or international conduct. CH3 (epic history): Not referenced. CH4 (appropriate political system/values): Not discussed. CH5 (CCP succeeds): No claims about Chinese government performance. CH6 (culture/heritage): Not applicable. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

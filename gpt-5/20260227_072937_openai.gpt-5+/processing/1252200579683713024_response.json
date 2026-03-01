@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes an op-ed by the EU Ambassador explaining how the EU/Team Europe is responding to COVID-19 with partner countries, including in Tanzania, and uses the hashtag #StrongerTogether. Evaluation: EU1 (EU is a successful story): Not directly; no historical reflection or success-over-time narrative. EU2 (EU is united): Implicitly suggested by 'Team Europe' and 'StrongerTogether', indicating coordinated EU action; however, the primary focus is external cooperation rather than internal unity. Still, the unity framing is present. EU3 (EU useful for its citizens): No; focus is on actions with partner countries abroad, not within the EU. EU4 (avant-garde): No claim of pioneering regulation or leadership in future challenges. EU5 (global champion of fair causes): Not about human rights/democracy causes; it's about pandemic response. EU6 (EU contributes to a better world): Yes; showcases EU’s global cooperation and assistance to partner countries on COVID-19, specifically in Tanzania and the region, fitting development and well-being contributions. Conclusion: The tweet promotes EU6 clearly, and to a lesser extent EU2 due to unity framing.",
+    "narrative_ids": ["EU6", "EU2"]
+  }
+}

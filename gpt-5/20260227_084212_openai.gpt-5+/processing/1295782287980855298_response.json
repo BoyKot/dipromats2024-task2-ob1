@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet provides factual, promotional information about the Great Wall’s World Heritage status, its historical construction period, and its length, tagged #WorldHeritageinChina. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; no mention of the West or antagonism. CH2 (China as benevolent power) – Not present; no reference to international cooperation, multilateralism, or global roles. CH3 (China has an epic history) – Partially relevant thematically, but the tweet does not frame adversity, resilience, or CCP-led overcoming; it is a neutral heritage fact. Therefore, not clearly promoted. CH4 (appropriate political system/values) – Not referenced. CH5 (CCP government succeeds) – Not referenced. CH6 (China is interesting in culture/nature/heritage) – Yes; it highlights a famous cultural heritage site and promotes China’s heritage. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

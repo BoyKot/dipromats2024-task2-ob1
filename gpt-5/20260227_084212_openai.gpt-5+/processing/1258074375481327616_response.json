@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the EU, alongside Norway, the UK, and the US, issued a statement calling for an end to political violence in Malawi and for unity and justice. Evaluation by narrative: EU1 (EU successful story) – Not supported; no reference to EU history, overcoming obstacles, or lessons learned. EU2 (EU is united) – Partially implied unity with external partners, but not explicitly about internal EU unity; the focus is on a joint statement with non-EU countries, so this does not fit. EU3 (useful for its citizens) – Not applicable; this is about Malawi, not EU internal benefits. EU4 (avant-garde actor) – Not applicable; no pioneering regulation or leadership on future challenges. EU5 (global champion of fair causes) – Supported; calling for an end to political violence and for unity and justice aligns with defending democracy, human rights, and fair causes globally. EU6 (contributes to a better world) – Supported; the EU’s engagement with international partners to promote peace, justice, and stability abroad exemplifies contributing to a better world. Final determination: EU5 and EU6.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

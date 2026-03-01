@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet boasts about the US government's strong performance in handling COVID-19 (ventilators, testing, supply distribution), claiming it helped governors and people but received no credit. Evaluation by narrative: US1 (honorable tradition) – Not applicable; no reference to historical legacy or values. US2 (admirable society) – Not applicable; does not highlight societal groups or civil society. US3 (hostile enemies) – Not applicable; no adversaries identified. US4 (force for good) – Partially aligns: it frames US actions during COVID-19 as helping \"a lot of great people,\" suggesting benevolent action for public welfare. US5 (great international ally) – Not applicable; no mention of allies or international support. US6 (at the forefront) – Aligns: it portrays the US response as leading/competent in critical areas (ventilators, testing, distribution), implying leadership and capability. Final determination: US4 and US6.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

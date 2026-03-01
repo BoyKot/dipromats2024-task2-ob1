@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates the State Historical Museum’s founding and claims it is among the world’s five largest, showcasing Russia’s history and culture. Evaluation: RU1 (West immoral/hostile) – not present; no mention of the West. RU2 (alternative system) – not present. RU3 (benevolent partner) – not present. RU4 (Russian history is admirable) – yes; it highlights the museum as a national treasury and representation of Russia’s history from earliest times to today, praising Russian historical heritage. RU5 (Russia at the world’s forefront) – partially implied by 'among the world 5 largest museums' asserting prominence; this frames Russia as leading/currently prominent. RU6 (interesting culture/nature/heritage) – yes; it promotes Russian culture and heritage via the museum. Conclusion: RU4, RU5, and RU6 are promoted.",
+    "narrative_ids": ["RU4", "RU5", "RU6"]
+  }
+}

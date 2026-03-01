@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes the EU4Schools programme and a new transparency portal in Albania, framing it as an expression of EU solidarity and showing how EU funds improve lives, with UNDP involvement. Evaluation per narrative: EU1 (EU is a successful story): Indirectly touches on values like solidarity, but it does not highlight EU’s historical trajectory or overcoming past mistakes; focus is on a current project abroad. Not a fit. EU2 (EU is united): Mentions solidarity as a value, but does not showcase intra-EU unity or agreements among member states. Not supported. EU3 (EU useful for its citizens): This narrative is limited to benefits within the EU; the tweet concerns Albania (non-EU). Not applicable. EU4 (EU avant-garde actor): No pioneering regulation or forward-looking leadership theme; it’s about aid and transparency tools. Not supported. EU5 (EU global champion of fair causes): No emphasis on democracy/human rights advocacy; focus is on reconstruction/aid. Not supported. EU6 (EU contributes to a better world): Yes. It highlights EU contributions to reconstruction and well-being in a neighboring non-EU country, stressing solidarity, transparency, and improving people’s lives—classic external action/development support framing. Conclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

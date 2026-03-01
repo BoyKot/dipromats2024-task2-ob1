@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces U.S. action against a network linked to Russian operative Yevgeniy Prigozhin for malign influence in Africa and pledges continued accountability for supporters of Russian malign activities.\n- US1 (honorable tradition): Not promoted. No reference to historical legacy or long-standing traditions.\n- US2 (admirable society): Not promoted. No mention of U.S. society, diversity, civil groups, companies, or heroes.\n- US3 (hostile enemies): Promoted. It labels Russian-linked actors as engaging in “malign influence/activities,” depicting Russia/its operatives as adversarial threats.\n- US4 (force for good): Promoted. The U.S. presents itself as enforcing accountability and countering malign activities abroad, implying protection of stability and norms.\n- US5 (great international ally): Not explicitly. No emphasis on allies or partnership support.\n- US6 (at the forefront): Not explicitly. While assertive action is noted, there is no framing of broad leadership or superiority across domains.\nConclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

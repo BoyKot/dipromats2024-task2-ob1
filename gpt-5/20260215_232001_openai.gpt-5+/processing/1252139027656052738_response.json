@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet portrays #TeamEurope (EU and its Member States) acting in solidarity to protect people, save lives, and address the economic and social impacts of coronavirus, including support to partner countries, framed as priorities and action (#StrongerTogether). Evaluation: EU1 (successful story): Implicitly positive but not about history or overcoming past obstacles; it focuses on current actions, so not a fit. EU2 (EU is united): Strongly supported—explicit emphasis on solidarity (#TeamEurope, #StrongerTogether) and coordinated priorities among EU and Member States. EU3 (useful for its citizens): Focus is not explicitly on benefits within the EU; it mentions supporting partner countries and general goals, so insufficient for EU3. EU4 (avant-garde actor): No claim of pioneering or leading regulation/innovation; not supported. EU5 (global champion of fair causes): Not about democracy/human rights specifically; not supported. EU6 (EU contributes to a better world): Yes—highlights EU and Member States supporting partner countries to tackle the pandemic and address socio-economic impacts globally, indicating contribution to global well-being and cooperation. Conclusion: The tweet promotes EU2 and EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

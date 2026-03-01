@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that Dr. Zhang Jixian is the real whistleblower who first reported COVID-19 cases in Wuhan on Dec 27, 2019, and mentions her interview with CGTN addressing questions about Dr. Li Wenliang. Evaluation: CH1 (West immoral/hostile): Not applicable; no mention or critique of the West. CH2 (China benevolent power): Not applicable; no framing of China's international conduct or multilateralism. CH3 (Epic history): Not applicable; no historical arc or adversity narrative. CH4 (Appropriate political system/values): Implicitly defends the Chinese official narrative by elevating an officially recognized whistleblower (Zhang) and channeling it via CGTN, which can be read as legitimizing the state's transparency and moral rectitude versus alternative accounts centered on Li Wenliang. However, the tweet does not explicitly discuss the political system or values; evidence is weak. CH5 (CCP succeeds): Not applicable; no claim of policy or governance success beyond identifying an early reporter. CH6 (Culture/nature/heritage): Not applicable. Conclusion: The tweet primarily reframes the origin story of COVID-19 whistleblowing in a way that subtly supports the government’s narrative and credibility; assign CH4 with caution.",
+    "narrative_ids": ["CH4"]
+  }
+}

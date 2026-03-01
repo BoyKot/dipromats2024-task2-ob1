@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns Iran for arresting the British ambassador, calling it a violation of the Vienna Convention, urges an apology to the UK, and calls for respect for diplomats' rights. Evaluation of narratives: US1 (honorable tradition) – Not promoted; the tweet does not reference U.S. traditions or historical legacy. US2 (admirable society) – Not promoted; no mention of U.S. society or groups. US3 (hostile enemies) – Promoted; it portrays the Iranian regime as violating international law and diplomats’ rights, framing it as immoral and hostile to liberal norms, a threat aligned with the “hostile enemies” framing. US4 (force for good) – Partially implied through advocacy for human rights and international norms, but the tweet does not explicitly present the U.S. acting or supporting; it's more a condemnation and a call, not showcasing U.S. actions. So not clearly promoted. US5 (great international ally) – Not promoted; no explicit praise of a U.S. alliance or support to an ally beyond calling for apology to the UK. US6 (at the forefront) – Not promoted; no leadership or capability claims about the U.S. Concluding determination: Only US3 applies.",
+    "narrative_ids": ["US3"]
+  }
+}

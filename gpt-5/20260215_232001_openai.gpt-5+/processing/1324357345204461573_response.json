@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns an act of vandalism against a Soviet war memorial in Poland and blames it on Warsaw’s policy of rewriting WWII history and denying the Red Army’s liberating role. Evaluation: RU1 (West and allies are immoral/hostile/decadent): Applicable. The tweet portrays Poland (a Western ally) as engaging in hostile, immoral behavior—historical revisionism—that purportedly leads to vandalism, casting Russia/Soviet legacy as a victim of Western antagonism. RU2 (Russia leads an alternative system): Not present; no mention of multilateralism or alternative orders. RU3 (Russia is a benevolent partner): Not present; no cooperative or peacebuilding framing. RU4 (Russian history is admirable): Partly applicable. By asserting the Red Army’s “liberating role,” it defends and valorizes Soviet/Russian WWII history against revisionism, highlighting the admirable aspect of that history. RU5 (Russia at the forefront): Not present. RU6 (Russia culture/heritage): Not applicable; focus is political-historical, not cultural promotion. Conclusion: The tweet promotes RU1 and RU4.",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

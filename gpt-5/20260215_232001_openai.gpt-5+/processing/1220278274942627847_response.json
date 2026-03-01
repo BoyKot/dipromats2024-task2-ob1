@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports a diplomatic courtesy call by Russia's ambassador to Brunei with the Minister of Transport and Infocommunications to discuss bilateral cooperation in transport and ICT. Evaluation against narratives: RU1 (West immoral/hostile): Not referenced; no criticism of the West or its allies. RU2 (Russia leads an alternative system): While it shows non-Western bilateral engagement, it does not frame it as part of an alternative system or multilateralism outside Western influence; no explicit contrast with the West. RU3 (Russia is a benevolent partner): Implicitly positions Russia as a cooperative, constructive partner by highlighting bilateral cooperation discussions; this aligns with portraying Russia as a reliable, development-oriented partner. RU4 (Russian history admirable): No historical content. RU5 (Russia at the forefront): No claims of superiority or achievements. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

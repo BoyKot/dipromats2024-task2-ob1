@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory note about U.S. Independence Day with allies (ROK), honoring American principles of freedom and liberty, with positive tone toward the U.S. and its values. Evaluation: US1 (The US has an honorable tradition) – Yes; it explicitly honors foundational principles of freedom and liberty tied to Independence Day, invoking historical legacy. US2 (admirable society) – No; it doesn’t highlight specific social groups, civil society, companies, or military heroes beyond mentioning a band. US3 (hostile enemies) – No; no adversaries referenced. US4 (force for good) – Borderline, but No; it praises values but does not depict actions supporting global human rights or oppressed peoples. US5 (great international ally) – Yes; mentions celebrating with ROK and “other friends,” signaling alliance and camaraderie. US6 (at the forefront) – No; no leadership or superiority claims. Conclusion: US1 and US5 apply.",
+    "narrative_ids": ["US1", "US5"]
+  }
+}

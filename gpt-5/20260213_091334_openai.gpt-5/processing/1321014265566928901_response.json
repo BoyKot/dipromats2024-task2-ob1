@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov states that Russia and Croatia share interest in strengthening international peace, security, stability, sustainable development, and resolving crises through political and diplomatic means. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; the tweet does not mention or criticize the West or allies. RU2 (Russia leads an alternative system) – Not explicit; while it favors diplomacy and multilateral-sounding goals, it does not position Russia as leading an alternative system or highlight non-Western frameworks. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as committed to peace, stability, development, and diplomatic solutions in partnership with Croatia, aligning with the image of a reliable, peace-promoting partner. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the forefront) – Not claimed. RU6 (Russia culture/nature) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet amplifies Josep Borrell’s statement condemning the use of Novichok against Navalny, framing it as a breach of international law and human rights, and calls for Russian cooperation with the OPCW. Evaluation by narrative: EU1 (EU successful story) – Not applicable; no reference to EU history or overcoming past challenges. EU2 (EU united) – Not explicit; the tweet cites an EU High Representative but does not stress unity or collective EU agreement. EU3 (EU useful for its citizens) – Not applicable; this is about external human rights and international law, not internal citizen-focused utility. EU4 (EU avant-garde political actor) – Not applicable; no pioneering policy/regulatory leadership angle beyond a condemnation. EU5 (EU as global champion of fair causes) – Applicable; the tweet showcases EU leadership in defending human rights and international law by condemning chemical weapons use and urging cooperation with OPCW. EU6 (EU contributes to a better world) – Partially relevant but not clearly promoted; while invoking multilateral cooperation (OPCW) suggests support for international norms, the tweet centers on condemnation rather than broader contributions to development/peace. Final determination: EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

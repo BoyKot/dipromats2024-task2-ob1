@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says EU citizens living in the UK have fewer reasons to worry after Brexit and invites readers to learn about reassurances obtained by the European Parliament. This frames the EU (via the European Parliament) as taking practical steps to protect citizens’ interests. EU1: Not about historical success or learning from past; no. EU2: Does not emphasize unity or agreement among member states; no. EU3: Yes — it highlights the EU addressing citizens’ concerns and providing reassurances, showing usefulness to EU citizens (even in the Brexit context). EU4: No claim of regulatory or policy avant-garde. EU5: Not about defending global fair causes/human rights broadly. EU6: Not about global contributions or external partnerships. Final: Only EU3 applies.",
+    "narrative_ids": ["EU3"]
+  }
+}

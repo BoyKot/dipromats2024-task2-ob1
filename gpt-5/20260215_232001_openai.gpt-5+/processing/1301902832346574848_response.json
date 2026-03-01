@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims confidential IAEA reports on Iran were immediately leaked to the US press, calling it shameful, while highlighting that the reports confirm good Iran–IAEA cooperation. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent): The tweet implies misconduct by Western/US-linked media or actors leaking confidential documents, labeling it \"shameful.\" This frames the West/US as acting improperly/hostilely, aligning with RU1. RU2 (Russia leads an alternative system): No mention of Russia or an alternative non-Western system. RU3 (Russia is a benevolent partner): No reference to Russia’s benevolence or partnership. RU4 (Russian history is admirable): Not relevant. RU5 (Russia at the forefront): Not relevant. RU6 (Russia culture/nature): Not relevant. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative post marking the birthday of Alexander Griboyedov, praising him as a talented Russian diplomat, playwright, and composer, noting the enduring popularity of his play. Evaluation: RU1 (West immoral/hostile) – not present; no mention of the West or hostility. RU2 (Russia leads alternative system) – not present; no system or multilateral framing. RU3 (Russia benevolent partner) – not present; no claims about Russia’s partnership or mediation. RU4 (Russian history is admirable) – yes; it highlights a notable historical Russian figure and enduring cultural contribution, portraying Russian history/culture as admirable. RU5 (Russia at the world’s forefront) – not present; no current achievements or leadership claims. RU6 (Russia interesting in culture/nature/heritage) – partially overlaps as cultural pride, but the focus is specifically on historical admiration rather than tourism or general cultural promotion; primary fit is RU4. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

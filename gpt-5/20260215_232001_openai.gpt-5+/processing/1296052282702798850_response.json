@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that China attended the Arms Trade Treaty conference as a state party for the first time and mentions its 2020 accession deposited with the UN Secretary-General, framing this as opening a new page in relations with the ATT. Evaluation: CH1 (West immoral/hostile): Not referenced; no criticism of the West. CH2 (China is a benevolent power): Yes—by highlighting accession to a major international arms control treaty and engagement with the UN framework, the tweet projects cooperation with international law, multilateralism, and responsible behavior. CH3 (epic history): Not present; no historical struggle theme. CH4 (appropriate political system/values domestically): Not addressed; focus is international role, not domestic system. CH5 (CCP government succeeds): Indirectly could imply competence, but the tweet does not claim domestic developmental success or leadership; too weak. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

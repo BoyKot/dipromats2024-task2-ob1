@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Josep Borrell stating that the EU (on behalf of EU27) welcomes the establishment of diplomatic relations between Bahrain and Israel, calling it a positive contribution to peace and stability in the region. Evaluation by narrative: EU1 (EU successful story): Not directly—no reference to EU history, overcoming obstacles, or past lessons. EU2 (EU is united): Partially supported—explicit mention of speaking 'on behalf of EU27' signals unity/consensus among member states on this foreign policy stance. EU3 (EU useful for its citizens): Not applicable—this concerns external relations, not internal citizen-focused utility. EU4 (EU avant-garde political actor): Not supported—no claim of pioneering regulation or leadership in future-oriented domains. EU5 (EU as global champion of fair causes): Not directly—while peace is a fair cause, the tweet frames support for diplomatic normalization rather than explicit human rights/democracy advocacy. EU6 (EU contributes to a better world): Supported—the EU positions itself as promoting peace and regional stability by welcoming Bahrain–Israel normalization, reflecting contribution to global peace and cooperation. Conclusion: The tweet promotes EU2 and EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

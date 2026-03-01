@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that COVID-19 affects everyone globally and highlights that, as Team Europe, the EU and its Member States are redirecting €15.6 billion to support partner countries worldwide, tagged #StrongerTogether. Evaluation: EU1 (successful story) – Not directly; no historical reflection or success-over-time narrative. EU2 (EU is united) – Implied by \"Team Europe\" and joint action by the EU and its Member States, showcasing solidarity; this fits. EU3 (useful for its citizens) – No; the action targets partner countries abroad, not EU citizens. EU4 (avant-garde) – No pioneering regulation or forward-looking leadership is claimed. EU5 (global champion of fair causes) – Not focused on rights/democracy/gender; it’s pandemic assistance. EU6 (EU contributes to a better world) – Yes; concrete global support (redirecting €15.6b to partner countries) demonstrates contribution to global well-being and cooperation. Conclusion: EU2 and EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

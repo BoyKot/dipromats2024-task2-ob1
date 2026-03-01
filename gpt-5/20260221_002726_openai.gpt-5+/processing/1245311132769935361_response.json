@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia is sending a U.S.-bound cargo plane with humanitarian aid (medical equipment and protective gear) to help fight coronavirus. Evaluation by narrative: RU1 (West immoral/hostile) – not present; there is no criticism of the West. RU2 (Russia leads an alternative system) – not indicated; the tweet does not discuss multilateralism or alternative systems. RU3 (Russia is a benevolent partner) – supported; the act of sending humanitarian aid and medical supplies portrays Russia as helpful and solidaristic. RU4 (Russian history admirable) – not relevant. RU5 (Russia at the world’s forefront) – not explicit; no claim of superiority or leading capability, just aid. RU6 (culture/nature/heritage) – not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

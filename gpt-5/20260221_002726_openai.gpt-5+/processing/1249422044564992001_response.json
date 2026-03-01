@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces completion of an OPEC+ oil deal that purportedly saves many U.S. energy jobs and thanks Russia’s President and Saudi Arabia’s King, calling it a great deal for all. Evaluation by narrative: US1 (honorable tradition): No reference to U.S. values, history, or traditions. US2 (admirable society): No mention of diverse groups, civil society, companies (beyond generic jobs), or military heroes. US3 (hostile enemies): No adversaries are depicted; instead, foreign leaders are thanked. US4 (force for good): The tweet frames the deal as beneficial (“great deal for all”) and job-saving, but it does not reference human rights, freedoms, oppressed peoples, or broader peace/development/security efforts, so insufficient for this narrative. US5 (great international ally): The tweet highlights cooperation and gratitude toward Russia and Saudi Arabia, portraying productive relations; this aligns with emphasizing U.S. support and positive engagement with partners/allies. US6 (at the forefront): While it claims domestic economic/job benefits, it does not position the U.S. as a leader in economy/technology/military/trade explicitly. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

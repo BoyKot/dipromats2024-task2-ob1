@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the U.S. for sowing discord and urges it to focus on COVID-19 at home instead of driving a wedge between China and Africa, calling such behavior immoral and irresponsible. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Yes. The tweet explicitly labels U.S. behavior as immoral and irresponsible and accuses it of hostile wedge-driving, positioning China as the target of U.S. actions. CH2 (China is a benevolent power): Implicit at best; the tweet calls for solidarity but does not highlight China's cooperative actions or benevolence, so not clearly supported. CH3 (China has an epic history): Not referenced. CH4 (China has an appropriate political system and honorable values): No domestic system/values claim is made. CH5 (CCP government succeeds): No claims about China's development or governance success. CH6 (China is interesting culturally): Not applicable. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

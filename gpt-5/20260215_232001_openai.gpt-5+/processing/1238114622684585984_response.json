@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that some US-reported influenza deaths were actually COVID-19 cases, citing CDC Director Robert Redfield, and challenges US authorities to disclose how many deaths were related to COVID-19. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – The tweet questions US public health reporting accuracy and implies misclassification or lack of transparency by a US institution. This is a critical portrayal of the US, suggesting incompetence or concealment, which aligns with depicting the West/US negatively. Thus, CH1 is supported. CH2 (China is a benevolent power) – No mention of China’s cooperative or benevolent role. Not supported. CH3 (China has an epic history) – No historical references to China. Not supported. CH4 (China has an appropriate political system and honorable values) – No comparison of systems or praise of Chinese governance. Not supported. CH5 (The government of the Chinese Communist Party succeeds) – No claims about CCP achievements. Not supported. CH6 (China is interesting culturally) – Not relevant. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

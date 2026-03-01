@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that the foreign ministers of Qatar, Turkey, and Russia met in Doha on March 11, 2021, to discuss the Syria crisis and cooperation toward a lasting political solution, and it links to a joint statement. Evaluation by narrative: RU1 (West immoral/hostile/decadent): Not promoted; the tweet makes no mention of the West or moral judgments. RU2 (Russia leads an alternative system to the West): Partially aligned; it highlights Russia engaging in multilateral cooperation with non-Western partners (Qatar and Turkey) on Syria, implying constructive, non-Western diplomatic coordination, consistent with showcasing alternative, sovereignty-respecting multilateralism. RU3 (Russia is a benevolent partner): Aligned; framing Russia as working with others to contribute to a lasting political solution in Syria portrays it as a peace-promoting, reliable partner. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Not applicable; no claims of superiority or achievements. RU6 (Russia culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU2 and RU3.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

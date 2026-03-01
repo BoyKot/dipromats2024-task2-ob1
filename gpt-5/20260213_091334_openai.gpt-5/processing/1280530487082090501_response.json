@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet relays a Chinese FM spokesperson stating China firmly supports CPEC and is ready to work with Pakistan to implement leader-level consensus and focus on cooperation in social development, livelihoods, industry, and agriculture. Evaluation: CH1 (West immoral/hostile): Not mentioned; no reference to the West or hostility. CH2 (China is a benevolent power): Yes. It portrays China as supportive, cooperative, and focused on mutual development and livelihoods with Pakistan, aligning with benevolence and development assistance. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not about China’s domestic system or values. CH5 (CCP government succeeds): No internal achievements highlighted; focus is external cooperation. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

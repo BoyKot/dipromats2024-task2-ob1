@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Secretary Pompeo demanding that the Chinese Government be transparent and accountable about COVID-19 information, implying wrongdoing or concealment by China.\nEvaluation by narrative:\n- US1 (honorable tradition): Not referenced; no mention of US legacy or historical values.\n- US2 (admirable society): Not applicable; no focus on US society, groups, or heroes.\n- US3 (hostile enemies): Yes. The tweet portrays the Chinese Government as deceptive and unaccountable regarding COVID-19, framing it as an immoral actor that withholds critical information, consistent with highlighting a hostile adversary.\n- US4 (force for good): Implicitly, the call for accountability and transparency could reflect support for norms, but the tweet does not showcase US actions aiding others; it centers on criticizing China. Insufficient to claim US4.\n- US5 (great international ally): Not mentioned.\n- US6 (at the forefront): Not mentioned; no leadership or capability claims.\nConclusion: The tweet promotes the narrative that the US has hostile enemies (US3).",
+    "narrative_ids": ["US3"]
+  }
+}

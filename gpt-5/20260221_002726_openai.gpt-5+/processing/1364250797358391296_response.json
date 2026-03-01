@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: At a UN Security Council meeting on climate change, China's climate envoy emphasized that humanity shares a common future and should commit to multilateralism to tackle climate change. Evaluation by narrative: CH1 (West immoral/hostile): Not present—no criticism of the West or hostile framing. CH2 (China is a benevolent power): Yes—the tweet highlights China's envoy promoting multilateralism and a \"community with a shared future,\" a signature phrase tied to China's cooperative, benevolent international posture. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not addressed; focus is international cooperation, not domestic system. CH5 (CCP government succeeds): No claims about domestic achievements or leadership success. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates that filmmaker Oliver Stone, visiting Russia, became the first Oscar winner vaccinated with Russia’s Sputnik V, framing it as a triumphant moment (“V is for Victory”).\nEvaluation by narrative:\n- RU1 (West immoral/hostile/decadent): No criticism of the West; not applicable.\n- RU2 (Russia leads an alternative system): No reference to multilateralism or alternative governance systems; not applicable.\n- RU3 (Russia is a benevolent partner): The tweet doesn’t emphasize partnership, peace, or aid; not applicable.\n- RU4 (Russian history admirable): No historical content; not applicable.\n- RU5 (Russia at the world’s forefront): Yes. It spotlights a high-profile, first-of-its-kind achievement tied to a Russian scientific product (Sputnik V) and frames it as a victory, implying cutting-edge status and global prominence.\n- RU6 (Russia interesting culture/nature/heritage): No cultural or tourism angle; not applicable.\nConclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

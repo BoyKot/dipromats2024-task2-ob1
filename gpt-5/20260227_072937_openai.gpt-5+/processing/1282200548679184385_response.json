@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China–Iran as ancient civilizations and 'natural long-term partners' to reshape the global order to be fairer for developing countries, and quotes a line suggesting 'the era of American invasions in the region is over.' Evaluation: CH1 (The West is immoral, hostile and decadent): Implicitly yes—the quote about the end of 'American invasions' portrays the US as an aggressive, hostile actor; this aligns with depicting the West/US negatively. CH2 (China is a benevolent power): Yes—the tweet frames China as partnering to build a 'fairer and more just' global order for developing countries, emphasizing cooperative, justice-oriented international role. CH3 (China has an epic history): Partially references 'oldest civilizations,' but it's not about China’s historical resilience or past adversities; not promoted. CH4 (appropriate political system and honorable values): No reference to China’s domestic system or governance values; not promoted. CH5 (CCP succeeds): No claims about China’s domestic achievements or leadership; not promoted. CH6 (culture/nature/heritage): Not applicable. Conclusion: The tweet advances CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

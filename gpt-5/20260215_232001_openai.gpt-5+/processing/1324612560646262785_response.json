@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet alleges Democrats are trying to gain control of the U.S. Senate and, if successful, would enact drastic institutional and policy changes (end the filibuster, restrict abortion rights stance \"Life\", undermine 2nd Amendment, pack/rotate the Supreme Court). It emphasizes the presidency’s importance and predicts victory. Evaluation of narratives: US1 (honorable tradition) – Not promoted; no reference to historical values or traditions as virtues. US2 (admirable society) – Not promoted; no celebration of society, groups, or heroes. US3 (hostile enemies) – Partially relevant framing: it casts domestic political opponents (Democrats) as a threatening force to core institutions and rights, portraying them as a danger. This aligns with highlighting an adversary as a threat, albeit domestic rather than international. US4 (force for good) – Not promoted; no claim of US promoting human rights or global good. US5 (great international ally) – Not promoted. US6 (at the forefront) – Not promoted. Conclusion: The tweet promotes US3 by depicting Democrats as a hostile threat to fundamental norms and rights.",
+    "narrative_ids": ["US3"]
+  }
+}

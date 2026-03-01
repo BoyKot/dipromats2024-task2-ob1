@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Putin asserting that Russia upholds the primacy of international law and UN Charter principles underpinning the modern world order, rooted in post–WWII outcomes. Evaluation by narrative: RU1 (West immoral/hostile): Not promoted; the tweet does not mention or criticize the West. RU2 (Russia leads an alternative system): Partially relevant theme of multilateralism/UN Charter, but it frames commitment to the existing UN-based order rather than an alternative system outside Western influence; not a clear fit. RU3 (Russia is a benevolent partner): The claim that Russia is committed to international law and UN principles presents Russia as a responsible, cooperative actor; this aligns with portraying Russia as a benevolent, peace- and rules-oriented partner. RU4 (Russian history admirable): Mentions WWII outcomes as the basis of the order, but not specifically praising Russian history; insufficient. RU5 (Russia at the forefront): No claims of superiority or achievements. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

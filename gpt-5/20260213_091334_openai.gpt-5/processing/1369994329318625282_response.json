@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports a trilateral meeting of the foreign ministers of Qatar, Turkey, and Russia in Doha to discuss the Syria crisis and cooperation toward a lasting political solution, and invites readers to read the joint statement. Evaluation by narrative: RU1 (West immoral/hostile/decadent): Not present; no mention or criticism of the West. RU2 (Russia leads an alternative system to that sponsored by the West): Partially aligned; the tweet highlights non-Western multilateral cooperation (Russia with Turkey and Qatar) on a major conflict, implicitly showcasing Russia’s engagement in alternative, non-Western diplomatic formats aimed at political solutions. RU3 (Russia is a benevolent partner): Supported; the tweet frames Russia as working constructively with regional partners to contribute to a lasting political solution in Syria, emphasizing peace-oriented cooperation. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Not claimed; no achievements or leadership superlatives. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU2 and RU3.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

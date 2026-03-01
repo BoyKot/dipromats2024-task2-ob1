@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US is predatory while China is benevolent, promoting a vision of shared future and friendly, mutually beneficial diplomacy. Evaluation by narrative: CH1 — Yes. It portrays the US (the West) as predatory/hostile, aligning with the depiction of the West as immoral/hostile. CH2 — Yes. It asserts China upholds a benevolent, cooperative international vision (“shared future for mankind,” “amity, sincerity, mutual benefit, inclusiveness”), matching China-as-benevolent-power. CH3 — No mention of history or overcoming adversity. CH4 — No explicit advocacy of China’s domestic political system or values in a domestic context. CH5 — No claims about CCP governance successes or development achievements. CH6 — No cultural/nature content. Conclusion: CH1 and CH2 apply.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

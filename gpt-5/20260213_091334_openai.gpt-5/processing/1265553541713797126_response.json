@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet invites viewers to watch NASA and SpaceX launch astronauts to the International Space Station from U.S. soil for the first time since 2011, highlighting the #LaunchAmerica mission. Evaluation by narrative: US1 (honorable tradition) — Partially relevant via \"watch history unfold\" and first time since 2011, but it does not emphasize long-standing traditions or values; it focuses on a current milestone, not a legacy, so not strongly supported. US2 (admirable society) — No mention of social groups, civil society, companies as societal actors (SpaceX is mentioned but in a technical/mission context), or military heroes; not applicable. US3 (hostile enemies) — No enemies or threats mentioned. US4 (force for good) — No claims about human rights, peace, or aiding oppressed peoples. US5 (great international ally) — No reference to allies or support for other countries. US6 (at the forefront) — Yes: framing a crewed launch from U.S. soil, coordinated by NASA and SpaceX, signals U.S. leadership and capability in space and technology; the celebratory tone (#LaunchAmerica, #USA2Space) positions the U.S. as leading in space endeavors. Conclusion: The tweet promotes US6.",
+    "narrative_ids": ["US6"]
+  }
+}

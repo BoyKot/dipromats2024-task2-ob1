@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames the EU as a successful story built on dialogue, peace, and unity, and highlights its role as a pillar of multilateralism and supporter of the UN Charter. This aligns with EU1 (EU is a successful story) and EU6 (EU contributes to a better world). It does not focus on citizen-level policies (EU3) or rights advocacy (EU5), and while it praises unity, it does not explicitly discuss internal consensus as EU2 requires.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

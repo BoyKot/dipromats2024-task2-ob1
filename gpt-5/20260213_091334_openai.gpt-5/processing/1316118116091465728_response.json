@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China announces its election to the UN Human Rights Council (2021–2023) and pledges to play an active, constructive role in protecting and promoting human rights. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; there is no mention of the West or criticism. CH2 (China is a benevolent power) – Yes; presents China as constructive within a multilateral UN body, committed to protecting and promoting human rights, aligning with cooperative, internationalist, benevolent framing. CH3 (epic history) – Not referenced. CH4 (appropriate political system and honorable values) – Implicit values could be inferred, but the tweet frames international conduct rather than domestic system; thus not applicable. CH5 (CCP government succeeds) – Election could imply international recognition, but the tweet does not attribute this to governance success domestically; not applicable. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

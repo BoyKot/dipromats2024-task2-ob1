@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces May celebrations marking the birth of the EU and African Union, highlighting a series of virtual celebrations of AU-EU partnership starting on Europe Day with a music event. Evaluation:\n- EU1 (EU is a successful story): Implicitly positive about the EU’s founding and celebration, but it does not reference achievements, overcoming obstacles, or historical lessons. Mere commemoration without success framing—Not supported.\n- EU2 (EU is united): No mention of unity, agreements, or solidarity among member states—Not supported.\n- EU3 (EU useful for its citizens): No policies or benefits to EU citizens—Not supported.\n- EU4 (EU avant-garde): No pioneering policies or leadership claims—Not supported.\n- EU5 (EU champion of fair causes): No reference to human rights/democracy advocacy—Not supported.\n- EU6 (EU contributes to a better world): It emphasizes AU-EU partnership and joint celebration, portraying the EU as engaging in positive international cooperation with Africa. This aligns with the EU as a global partner contributing to cooperation and multilateral ties—Supported.\nConclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

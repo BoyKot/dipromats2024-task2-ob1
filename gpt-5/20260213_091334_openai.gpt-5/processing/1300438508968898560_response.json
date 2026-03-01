@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Quoting Wang Yi in France, the tweet says China is neither the USSR nor a second US; regardless of development, China will never seek hegemony or expansionism and will follow a path of peaceful development. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – Not promoted; the tweet does not depict the West/US as immoral or hostile, only says China won't become a 'second US', which is a differentiation, not a moral attack. CH2 (China is a benevolent power) – Promoted; asserting peaceful development and rejection of hegemony/expansionism positions China as cooperative and non-threatening internationally. CH3 (China has an epic history) – Not present; no historical struggle or resilience themes. CH4 (China has an appropriate political system and honorable values) – Partially overlaps in language about peaceful intent, but the focus is on foreign policy posture rather than domestic system/values; thus not clearly promoted. CH5 (CCP government succeeds) – Not present; no claims about domestic achievements or leadership success. CH6 (China is interesting culturally/naturally) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

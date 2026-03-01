@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the United States calls on all parties and institutions in Kosovo to respect Constitutional Court decisions and ensure free, fair, peaceful elections. This positions the US as advocating for rule of law and democratic processes. Evaluation per narrative: US1 (honorable tradition) – Not directly; it does not reference US history or traditions. US2 (admirable society) – Not relevant; no mention of US societal groups or civil society. US3 (hostile enemies) – No adversary is identified or criticized. US4 (force for good) – Yes; the US is portrayed as supporting human rights, rule of law, and democratic elections abroad, aligning with advocacy for freedoms and peace. US5 (great international ally) – Indirect at best; while it concerns Kosovo, it does not stress alliance or support for an ally specifically, so not clearly promoted. US6 (at the forefront) – No claims of leadership in domains like tech/economy/military. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

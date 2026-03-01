@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China's ancient civilization, natural beauty, rich cultural heritage, ethnic diversity, and high number of UNESCO World Heritage Sites, using the hashtag #WorldHeritageinChina. Evaluation per narrative: CH1 (West immoral/hostile): Not referenced; no comparison or criticism of the West. CH2 (China as benevolent power): No mention of international law, multilateralism, aid, or global governance; not applicable. CH3 (Epic history/resilience/adversities): While it mentions time-honored civilization, it does not discuss historical adversity, resilience, or the CCP's role; thus not aligned. CH4 (Appropriate political system/values): No reference to political system, governance, or values; not applicable. CH5 (CCP government succeeds): No claims about governmental achievements, development, technology, or minority policy outcomes; not applicable. CH6 (China as interesting in culture/nature/heritage): Directly promotes China's culture, nature, and heritage (World Heritage Sites); clearly applicable. Conclusion: Only CH6 is promoted.",
+    "narrative_ids": ["CH6"]
+  }
+}

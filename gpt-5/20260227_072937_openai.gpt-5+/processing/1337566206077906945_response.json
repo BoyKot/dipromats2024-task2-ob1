@@ -1,0 +1,8 @@
+{
+  "analysis": {
+    "reasoning": "Core message: On Human Rights Day, the tweet asserts that the right to subsistence and development is the most basic human right, claims China prioritizes protecting and promoting human rights, and questions governments that don’t care for their own people’s lives. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Implicit contrast suggests others (often Western governments) neglect real human rights, but no explicit mention of the West/US; the critique is generic. Insufficient to classify as CH1. CH2 (China is a benevolent power): The tweet emphasizes China’s commitment to human rights and development as a value position, but it focuses on China’s stance rather than international cooperation, multilateralism, or aiding others. Partially consonant but not squarely within CH2’s international framing; not selected. CH3 (China has an epic history): No historical content. Not applicable. CH4 (China has an appropriate political system and honorable values): The tweet asserts China “attaches great importance to protecting and promoting human rights,” framing Chinese governance/values as morally upright and aligned with genuine human rights domestically. This matches CH4’s emphasis on honorable values and appropriate system in domestic context. Applicable. CH5 (The government of the CCP succeeds): No concrete claims of development outcomes, achievements, or minority coexistence; more a value claim than success metrics. Not applicable. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": [
+      "CH4"
+    ]
+  }
+}

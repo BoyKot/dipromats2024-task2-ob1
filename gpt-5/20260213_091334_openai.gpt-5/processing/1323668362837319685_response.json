@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that under Chinese law, Uyghur Muslims’ freedom of religious belief is fully guaranteed and their cultural and religious traditions are respected in Xinjiang. Evaluation: CH1 (West immoral/hostile) – Not referenced; no comparison to the West. CH2 (China as benevolent power internationally) – The tweet is domestic-focused, not about international cooperation; not applicable. CH3 (epic history) – No historical narrative present. CH4 (appropriate political system and honorable values) – Yes. It credits Chinese law and governance with protecting religious freedom and respecting traditions, portraying China’s system and values as morally upright and aligned with people’s rights domestically. CH5 (CCP government succeeds) – Partially overlaps, but the tweet emphasizes legal protection and respect rather than broader development or success; still, it asserts effective governance in managing minority rights, which fits fostering minority coexistence; however, the primary framing is about values/governance legitimacy (CH4). To avoid overreach, classify mainly as CH4. CH6 (culture/nature/heritage) – Not a cultural tourism or heritage promotion.",
+    "narrative_ids": ["CH4"]
+  }
+}

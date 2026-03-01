@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames China as an adversary in the context of the coronavirus and portrays a punitive US action (banning China) as justified, signaling a hostile-actor narrative. This matches 'The US has hostile enemies' (US3) and does not clearly map to the other narratives.",
+    "narrative_ids": ["US3"]
+  }
+}

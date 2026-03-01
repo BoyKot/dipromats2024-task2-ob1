@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov announces that Russia and Serbia will sign an intergovernmental agreement on cooperation against terrorism, framing it as a pivotal step that provides a solid legal framework for practical projects. Evaluation by narrative: RU1 (West immoral/hostile/decadent): Not present; the tweet does not mention or criticize the West. RU2 (Russia leads an alternative system): Partially relevant; while it showcases non-Western bilateral cooperation (Russia–Serbia) and implies structured, sovereign collaboration outside explicit Western frameworks, it does not explicitly contrast with the West or present a broader alternative order. Still, it promotes Russia-facilitated multilateral/bilateral cooperation, fitting RU2's emphasis on cooperation outside Western influence. RU3 (Russia is a benevolent partner): Yes; the tweet positions Russia as a constructive, reliable partner offering legal frameworks and practical cooperation against terrorism, a public good. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the forefront): No explicit claim of superiority or achievement beyond the agreement. RU6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3 clearly and RU2 plausibly.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

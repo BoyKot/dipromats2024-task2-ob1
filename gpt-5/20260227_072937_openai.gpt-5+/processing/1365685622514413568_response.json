@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights EU solidarity during the pandemic via SURE, noting a proposed €230 million for Estonia and total proposed support of €90.6 billion covering 19 EU countries, with the hashtag #StrongerTogether. Evaluation: EU1 (successful story): Implicitly positive but focused on current measures rather than historic success or lessons; not strongly supported. EU2 (EU is united): Strongly supported—emphasizes solidarity and collective coverage of many member states, reinforced by #StrongerTogether. EU3 (EU is useful for its citizens): Supported—promotes a concrete EU policy (SURE) delivering substantial financial support within the EU to address citizens’ concerns during the pandemic. EU4 (avant-garde): Not applicable—no claim of pioneering regulation or future-oriented leadership. EU5 (global champion of fair causes): Not relevant—no mention of human rights or similar causes. EU6 (contributes to a better world): Not applicable—focus is internal EU support, not global actions. Conclusion: The tweet promotes EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

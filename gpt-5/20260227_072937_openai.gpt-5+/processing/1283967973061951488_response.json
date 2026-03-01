@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the preservation and transmission of Chinese culture across generations, referencing cultural elements like green tiles and restoration of cultural relics. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no mention of the West. CH2 (China as benevolent power): Not addressed; no international cooperation or global governance themes. CH3 (Epic history, overcoming adversity): While it mentions culture and history, it does not reference historical struggles or resilience; not applicable. CH4 (Appropriate political system and honorable values): No discussion of political system or governance; not applicable. CH5 (CCP government succeeds): No claims about government achievements or policy outcomes; not applicable. CH6 (China as interesting in culture, nature, heritage): Yes; it promotes Chinese culture, heritage, and restoration of cultural relics, fitting this cultural showcase narrative. Conclusion: Only CH6 is promoted.",
+    "narrative_ids": ["CH6"]
+  }
+}

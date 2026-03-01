@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks the end of Black History Month and highlights notable African-American figures’ contributions to U.S. history, inviting readers to take a quiz on African-American history. Evaluation: US1 (honorable tradition) – Partially relevant because it references historical figures, but the emphasis is not on the broader U.S. tradition or national legacy; it centers on a specific community’s contributions. Not a clear promotion. US2 (admirable society) – Yes. It promotes an ethnic group within the U.S., celebrates their role in shaping society, and encourages public engagement (quiz), aligning with recognition of societal diversity and achievements. US3 (hostile enemies) – No mention of adversaries. US4 (force for good) – No claim about U.S. actions supporting human rights or global good. US5 (great international ally) – Not addressed. US6 (at the forefront) – No leadership claims in economy/technology/military. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

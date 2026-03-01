@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes the Palace Museum (Forbidden City) in Beijing on its 600th anniversary, highlighting Chinese culture, architecture, philosophy as unique and inclusive.\n- CH1 (West is immoral, hostile and decadent): Not present. No mention or contrast with the West.\n- CH2 (China is a benevolent power): Not present. No references to international cooperation, multilateralism, or global justice.\n- CH3 (China has an epic history): Partially related thematically (history), but the tweet does not discuss resilience, adversities, or historical struggles; it’s celebratory heritage content. Therefore, not a fit for CH3.\n- CH4 (Appropriate political system and honorable values): Not mentioned. No political system or governance claims.\n- CH5 (CCP government succeeds): Not addressed. No governance, development, or achievement claims tied to the CCP.\n- CH6 (China is interesting in culture, nature, heritage): Yes. The tweet showcases Chinese culture, heritage, architecture, and a museum exhibition, fitting cultural promotion.\nConclusion: The tweet promotes CH6 only.",
+    "narrative_ids": ["CH6"]
+  }
+}

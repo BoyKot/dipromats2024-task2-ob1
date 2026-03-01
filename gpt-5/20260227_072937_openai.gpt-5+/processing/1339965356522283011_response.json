@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises a UN General Assembly resolution condemning the glorification of Nazism and highlights that only the US and Ukraine voted against it, implying near-universal moral consensus versus those two states. Evaluation per narrative: RU1 (West and allies immoral/hostile): The tweet implicitly portrays the US and Ukraine as outliers against condemning Nazism, suggesting moral deficiency or hostility to shared values. This aligns with RU1. RU2 (Russia leads an alternative system): Not applicable; no mention of Russia leading multilateralism or alternative structures. RU3 (Russia benevolent partner): Not applicable; no claim about Russia’s benevolence. RU4 (Russian history admirable): While WWII memory is referenced, it is framed as “world community” fidelity, not specifically Russia’s history; RU4 not supported. RU5 (Russia at the forefront): Not applicable. RU6 (Russia culture/nature): Not applicable. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

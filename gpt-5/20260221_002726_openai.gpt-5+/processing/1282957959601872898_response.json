@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US is predatory while portraying China as upholding a benevolent, inclusive vision for global relations. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) — Supported: it explicitly states the US has a predatory worldview, casting the West/US as hostile. CH2 (China is a benevolent power) — Supported: it says China upholds a community with a shared future for mankind and practices amity, sincerity, mutual benefit, and inclusiveness, which directly matches the description. CH3 (China has an epic history) — Not present: no historical references. CH4 (China has an appropriate political system and honorable values) — Not applicable: the virtues described are in the context of foreign policy and international role, not domestic system or governance. CH5 (The government of the CCP succeeds) — Not present: no claims about domestic achievements or leadership success. CH6 (China culture/nature/heritage) — Not present. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that in China, COVID-19 measures apply equally to Chinese and foreigners, including diplomats—no discrimination or privileges. Evaluation: CH1 (West immoral/hostile): Not referenced; no comparison to the West. CH2 (China is a benevolent power): Partially relevant as it portrays China as fair and committed to public health and security, but it focuses on domestic application rather than international cooperation; still, it signals principled, rule-based behavior benefiting all. CH3 (epic history): Not applicable. CH4 (appropriate political system and honorable values): Yes—emphasizes fairness, equality before rules, and moral governance in domestic policy, aligning with honorable values and proper system functioning. CH5 (CCP succeeds): No explicit claims of developmental or technological success. CH6 (culture/heritage): Not applicable. Conclusion: CH4 clearly applies; CH2 is arguable but secondary. Primary: CH4; include CH2 due to framing of safeguarding all and equal treatment.",
+    "narrative_ids": ["CH4", "CH2"]
+  }
+}

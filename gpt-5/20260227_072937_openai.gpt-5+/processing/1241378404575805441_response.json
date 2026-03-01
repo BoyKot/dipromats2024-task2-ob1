@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Chinese experts sharing COVID-19 experience with US scientists, asserting that cooperation is the right way, while also quoting a US State Dept spokesperson criticizing early Chinese actions (destroying samples, silencing doctors). The primary thrust of the author's own text is pro-cooperation and portrays China as providing helpful know-how to save lives. Evaluation:\n- CH1 (West immoral/hostile): Not promoted. The tweet does not depict the West as immoral or hostile; instead it calls for cooperation. The quoted criticism of China comes from a US spokesperson, but the tweet does not endorse that critique as a narrative against the West.\n- CH2 (China is a benevolent power): Yes. It presents China as sharing expertise to save lives and emphasizes cooperation against a common enemy, framing China as constructive and helpful internationally.\n- CH3 (Epic history): Not relevant; no historical framing.\n- CH4 (Appropriate political system/values): Not addressed; no defense of China’s domestic system or values.\n- CH5 (CCP government succeeds): Not explicitly. It does not claim domestic governance success or leadership, just knowledge sharing.\n- CH6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

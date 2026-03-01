@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates National Hispanic American Heritage Month, honoring the cultures and contributions of Hispanic and Latino Americans to U.S. society across fields like leadership, innovation, entrepreneurship, arts, and diplomacy.\nUS1: Not directly. It does not emphasize long-standing national traditions or historical feats of the nation as a whole; it focuses on a community's contributions rather than framing it as an American tradition legacy.\nUS2: Yes. It highlights an ethnic group's contributions and celebrates diversity within U.S. society, fitting the promotion of the country's admirable society and its different ethnic groups.\nUS3: No mention of adversaries or threats.\nUS4: No explicit claim about U.S. actions supporting human rights or global good.\nUS5: No reference to allies or international partnerships.\nUS6: No claim of U.S. leadership or being at the forefront in any domain.\nConclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

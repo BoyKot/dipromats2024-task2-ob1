@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China's contribution to UN peacekeeping since 1990, highlighting bravery and bringing peace and hope to conflict areas. CH1: No mention of the West or hostility; not applicable. CH2: Yes—portrays China as a benevolent, peace-contributing power aiding international security and local populations, fitting the narrative of cooperative, peaceful international role. CH3: No reference to epic history or past adversities. CH4: No discussion of China's domestic political system or values. CH5: No focus on domestic governance success or technological/economic leadership. CH6: Not about culture or heritage. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

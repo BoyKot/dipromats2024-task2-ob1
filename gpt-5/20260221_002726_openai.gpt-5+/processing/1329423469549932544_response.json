@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Mikhail Lomonosov’s birth, praising his multifaceted genius and contributions to Russian science and literature, and noting he founded Moscow State University, Russia’s oldest university. Evaluation: RU1 (West immoral/hostile) – Not referenced. RU2 (Russia leads alternative system) – Not addressed. RU3 (Russia benevolent partner) – Not addressed. RU4 (Russian history is admirable) – Yes; it highlights a prominent historical figure and foundational institution, celebrating Russia’s historical contributions in science, literature, and education. RU5 (Russia at the world’s forefront) – Partially overlaps, but the focus is historical commemoration, not current achievements, so not applicable. RU6 (Russia’s culture/nature/heritage) – Indirectly could fit heritage, but the tweet is framed as historical admiration rather than cultural promotion; RU4 is the clearer match. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

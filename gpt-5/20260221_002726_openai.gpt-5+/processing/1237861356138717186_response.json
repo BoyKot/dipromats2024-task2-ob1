@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Praises Chinese medical heroes, emphasizes unity and solidarity of the Chinese people in defeating COVID-19, and asserts China will unite with international partners to crush the virus, quoting People's Daily about Wuhan’s last makeshift hospital closing. Evaluation: CH1 (West immoral/hostile): Not mentioned; no comparison or critique of the West. CH2 (China is a benevolent power): Yes; it highlights China’s willingness to unite with international partners against a global threat, projecting cooperation and collective action. CH3 (Epic history): No reference to historical resilience beyond the immediate pandemic episode. CH4 (Appropriate political system/values): Implicit pride and values are present, but there is no explicit advocacy of the political system or governance model; focus is societal unity rather than system legitimacy, so not supported. CH5 (CCP government succeeds): The closure of makeshift hospitals and “defeating COVID-19” could imply success, but the tweet credits “the Chinese people” and heroes rather than the government, without emphasizing policy or governance achievements; evidence is insufficient for CH5. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

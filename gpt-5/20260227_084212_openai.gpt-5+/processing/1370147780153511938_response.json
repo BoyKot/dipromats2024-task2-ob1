@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights progress in the U.S. COVID-19 vaccination campaign under the President’s leadership, citing increased supply, daily shots, and total doses administered. Evaluation by narrative: US1 (honorable tradition) – Not applicable; no reference to historical values or legacy. US2 (admirable society) – Not applicable; no focus on social groups, civil society, companies, or heroes. US3 (hostile enemies) – Not applicable; no adversaries mentioned. US4 (force for good) – Implicitly about public health progress, but it does not frame this as support for human rights or oppressed peoples; primarily domestic operational metrics, so not clearly promoted. US5 (great international ally) – Not applicable; no allies mentioned. US6 (at the forefront) – Applicable; it presents U.S. leadership and capability in a key domain (public health/technology/operations) by emphasizing scale, speed, and targets, positioning the U.S. as leading in vaccination rollout.",
+    "narrative_ids": ["US6"]
+  }
+}

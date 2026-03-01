@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mocks and condemns Trump for threatening China, highlighting US COVID-19 failures (cases and deaths) and calling him a cheater and liar. It implies US moral failure and desperation rather than commenting positively on China. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): The tweet portrays the US (Trump) as hostile (threatening China) and morally deficient (cheater, liar), and highlights US pandemic failure. This fits CH1’s depiction of the West/US as immoral and hostile. CH2 (China is a benevolent power): No praise of China’s cooperative or benevolent role; only mentions China as target of Trump’s threat. Not promoted. CH3 (China has an epic history): No historical content about China. Not promoted. CH4 (China has an appropriate political system and honorable values): No defense of China’s political system or values. Not promoted. CH5 (CCP succeeds): No claims about Chinese government success. Not promoted. CH6 (China culture/nature): Not relevant. Conclusion: Only CH1 is supported.",
+    "narrative_ids": ["CH1"]
+  }
+}

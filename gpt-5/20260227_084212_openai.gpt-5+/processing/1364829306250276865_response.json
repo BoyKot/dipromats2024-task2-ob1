@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet portrays China as compassionate and caring, emphasizing Chinese culture guiding its global outreach and prioritizing vulnerable groups for vaccines. Evaluation: CH1 (West immoral/hostile) – Not present; no comparison or criticism of the West. CH2 (China is a benevolent power) – Yes; it highlights China’s caring approach internationally and prioritizing vulnerable groups in vaccine outreach, aligning with benevolence and support for global well-being. CH3 (epic history) – Not referenced. CH4 (appropriate political system and honorable values, domestically focused) – Partially touches on values, but the context is outward-facing (global outreach and vaccines), which fits CH2 rather than a domestic-system defense; thus not CH4. CH5 (CCP government succeeds) – No explicit claim of governmental success or achievements. CH6 (interesting culture/nature/heritage) – Culture is mentioned but in service of benevolent outreach, not as a cultural/heritage promotion. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

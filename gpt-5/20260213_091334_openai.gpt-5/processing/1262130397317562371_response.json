@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet recalls a 1606 uprising against 'False Dmitry I,' described as an invader and foreign-backed pretender, and urges to 'LearnFromHistory' and 'NeverInvadeRussia.' It highlights unity of Russian nobility and commoners against foreign interference. Evaluation per narrative: RU1 (West immoral/hostile): Implicitly frames foreign powers as hostile meddlers supporting an invader; while not naming 'the West,' it promotes a theme of hostile foreign interference against Russia. This aligns with RU1’s depiction of foreign-backed hostility toward Russia. RU2 (Russia leads alternative system): No mention of multilateralism or alternative systems. Not applicable. RU3 (Russia benevolent partner): No content on partnership or benevolence. Not applicable. RU4 (Russian history admirable): Yes. It valorizes Russian historical unity and resistance, presenting a proud, exemplary past and a lesson to others. RU5 (Russia at the world’s forefront): No current achievements highlighted. Not applicable. RU6 (Russia interesting culturally/naturally): Not a cultural/travel promo. Not applicable. Conclusion: The tweet promotes RU4 clearly and RU1 implicitly through the hostile-foreign-invader framing.",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

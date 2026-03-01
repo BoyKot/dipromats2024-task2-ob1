@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges the international community to unite against the virus, reject prejudice, scapegoating, stigmatization, and politicization, and frames China as calling for cooperation. Evaluation: CH1 (The West is immoral, hostile and decadent) – Not explicit. Although it criticizes stigmatization and scapegoating (often associated with some Western rhetoric), the tweet does not name or attack the West or the US; it focuses on general behaviors. CH2 (China is a benevolent power) – Yes. China is portrayed as calling on the international community to come together, abandoning prejudice and politicization, consistent with a cooperative, multilateral, benevolent stance and the “community of shared destiny” framing. CH3 (China has an epic history) – No historical content. CH4 (China has an appropriate political system and honorable values) – Not applicable; no advocacy of domestic political system, though values are implied, they are in an international context, which fits CH2 rather than CH4. CH5 (CCP government succeeds) – No claims about domestic achievements or governance success. CH6 (China is interesting culturally/naturally) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

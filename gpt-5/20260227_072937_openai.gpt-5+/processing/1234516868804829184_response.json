@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the U.S. stands with the people of Iran during COVID-19, urges transparent cooperation with international aid organizations, and asserts that supporting the Iranian people is a top priority. Evaluation by narrative: US1 (honorable tradition) – Not explicit; no reference to historical legacy or tradition. US2 (admirable society) – No; does not highlight U.S. society, groups, or companies. US3 (hostile enemies) – No; Iran’s regime is not attacked or framed as immoral/hostile; the tone is supportive and cooperative. US4 (force for good) – Yes; it highlights U.S. support for an oppressed/suffering population and cooperation with international aid during a crisis, portraying the U.S. as promoting humanitarian values. US5 (great international ally) – No; not about allies or praising partnerships with specific allied countries. US6 (at the forefront) – No; no leadership, superiority, or capability claims. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

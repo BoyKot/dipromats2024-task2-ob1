@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims China is on track to eradicate absolute poverty by 2020 despite COVID-19, framing this as a historic milestone and a contribution to human development. Evaluation by narrative: CH1 (West immoral/hostile): Not applicable; no mention or contrast with the West. CH2 (China is a benevolent power): Partially aligns; presenting poverty eradication as an \"important Chinese contribution to human development\" positions China as contributing to global well-being, a benevolent role. CH3 (China has an epic history): It references a milestone in Chinese history but does not emphasize past adversities or historical resilience; weak fit, not sufficient. CH4 (Appropriate political system/values): Implicit pride but no explicit advocacy of the political system or values; not supported. CH5 (CCP government succeeds): Strongly aligns; claims of eradicating absolute poverty and achieving development goals despite challenges highlight successful governance and domestic achievement. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 and CH5.",
+    "narrative_ids": ["CH2", "CH5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov says the West wants Russia to be a \"convenient\" territory for advancing Western interests, but Russia will pursue an independent foreign policy defending national interests and justice internationally. Evaluation by narrative: RU1 (West immoral/hostile): The tweet portrays the West as seeking to exploit Russia for its own security, economic, social, and political interests—casting the West as hostile and self-serving—thus it aligns with RU1. RU2 (Russia leads an alternative system): The assertion of an \"independent foreign policy\" and upholding \"justice on [the] intl stage\" implies advocacy for a sovereign, alternative approach to the Western-led order; while not naming institutions like BRICS, it promotes a non-Western, multipolar stance—supports RU2. RU3 (Russia benevolent partner): It claims upholding justice but does not emphasize partnership, aid, mediation, or cooperation—insufficient for RU3. RU4 (Russian history admirable): No historical content—not applicable. RU5 (Russia at the world’s forefront): No claims of current successes or leadership achievements—not applicable. RU6 (culture/nature/heritage): Not applicable. Conclusion: RU1 and RU2 are promoted.",
+    "narrative_ids": ["RU1", "RU2"]
+  }
+}

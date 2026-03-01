@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that 'Welcome to Russian Home!' will become a traditional greeting in Russian Centres for Science and Culture abroad, implying a branding/identity shift for these cultural institutions.\nEvaluation by narrative:\n- RU1 (West immoral/hostile): No criticism or mention of the West; not applicable.\n- RU2 (Russia leads alternative system): Implicitly suggests Russia is shaping its own cultural outreach/brand abroad, but there is no explicit framing of an alternative international system or multilateral model; insufficient evidence.\n- RU3 (Russia is a benevolent partner): While cultural centers can imply soft-power engagement, the tweet does not claim peace, solidarity, or partnership benefits; not supported.\n- RU4 (Russian history admirable): No historical references; not applicable.\n- RU5 (Russia at the world’s forefront): No claim of leadership or superiority; not applicable.\n- RU6 (Russia’s culture/heritage interesting): The reference to Russian Centres for Science and Culture and a welcoming cultural greeting promotes Russian culture/identity abroad. This aligns with showcasing Russian culture and traditions.\nConclusion: The tweet promotes RU6.",
+    "narrative_ids": ["RU6"]
+  }
+}

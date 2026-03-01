@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet amplifies Putin’s UNGA address proposing a binding agreement among leading space powers to prohibit weaponization of outer space and use of force against space objects, framed with hashtags like #ArmsControl and #WHO. Evaluation: RU1 (West immoral/hostile): Not present; the tweet does not criticize the West or depict it as hostile or decadent. RU2 (Russia leads an alternative system): Partially relevant insofar as it promotes a multilateral, rules-based initiative outside a specifically Western frame, but the tweet does not contrast it against the West or highlight non-Western cooperation; it simply proposes a global agreement. Evidence is insufficient to claim this narrative. RU3 (Russia is a benevolent partner): Yes; presenting Russia’s initiative for arms control in space and non-use of force positions Russia as promoting peace, stability, and responsible international behavior, fitting the benevolent partner framing. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the world’s forefront): Not clearly; while proposing an initiative shows activity, the tweet does not showcase a specific success or leadership achievement beyond the proposal itself. RU6 (culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

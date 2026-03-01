@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Sergey Lavrov claiming the EU sacrificed its geoeconomic and strategic interests to satisfy a short-term desire to align with the US in 'punishing Russia,' and links to his interview. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent): Yes. The tweet portrays the EU (and by extension the US-led West) as acting irrationally and vindictively ('momentary desire to punish Russia') and against its own interests, implying hostility and moral/strategic bankruptcy. RU2 (Russia leads an alternative system): Not directly. The tweet does not present Russia as leading a fairer multilateral alternative or highlight non-Western cooperation. RU3 (Russia is a benevolent partner): No such framing; it focuses on Western misconduct, not Russia’s benevolence. RU4 (Russian history is admirable): Not relevant. RU5 (Russia is at the world’s forefront): Not addressed. RU6 (Russia is interesting culturally): Not relevant. Conclusion: Only RU1 is promoted.",
+    "narrative_ids": ["RU1"]
+  }
+}

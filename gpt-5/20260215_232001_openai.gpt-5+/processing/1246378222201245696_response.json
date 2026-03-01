@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the birth of Andrei Tarkovsky, lauding him as a world-famous filmmaker whose works like Stalker and Solaris are classics of Russian and global cinema. Evaluation: RU1 (West immoral/hostile) – Not addressed; no mention of the West. RU2 (Russia leads alternative system) – Not addressed. RU3 (Russia benevolent partner) – Not addressed. RU4 (Russian history is admirable) – Yes; it highlights a distinguished Russian cultural figure and Russia’s contribution to world cinema, fitting the celebration of Russia’s historical cultural achievements. RU5 (Russia at the forefront) – Not directly; it references past achievements, not current prowess. RU6 (Russia interesting in culture/nature/heritage) – Partially relevant as cultural pride, but the tweet focuses on historical accomplishment rather than promoting tourism or broader cultural/natural appeal; primary fit remains RU4. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

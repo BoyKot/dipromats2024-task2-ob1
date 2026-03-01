@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the significant presence of women (17 of 31) on the Sputnik V development team and thanks women in science on International Women’s Day. Evaluation against narratives: RU1 (West immoral/hostile) – not referenced; no criticism of the West. RU2 (Russia leads an alternative system) – no mention of multilateralism or non-Western cooperation. RU3 (Russia is a benevolent partner) – not about partnerships, peace, or solidarity abroad; it’s a celebratory note. RU4 (Russian history admirable) – not historical; it’s contemporary. RU5 (Russia at the world’s forefront) – implicitly showcases a Russian scientific achievement (Sputnik V) and highlights progressive gender representation, suggesting leadership in science and societal progress; aligns with promoting Russia’s current successes. RU6 (interesting culture/nature/heritage) – not cultural or touristic. Conclusion: Promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

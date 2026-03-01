@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet describes the U.S. Women, Peace & Security strategy, emphasizing recognition of women’s unique experiences in conflict and their positive role in peace and conflict management. Evaluation by narrative: US1 (honorable tradition): Not explicitly about historical legacy or tradition; it presents a current policy stance, not a historical lineage. US2 (admirable society): It highlights a value (supporting women) but does not showcase specific social groups, civil society, companies, or heroes; focus is on policy, so not a clear fit. US3 (hostile enemies): No mention of adversaries. US4 (force for good): Yes—frames the U.S. as advancing human rights, peace, and security through WPS, highlighting positive global impact. US5 (great international ally): No reference to allies or support for specific countries. US6 (at the forefront): Implicit leadership could be inferred, but the tweet does not claim U.S. leadership or superiority; it simply describes the strategy, so evidence is insufficient. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes President Biden’s Black History Month statement, honoring Black Americans’ history and achievements and reflecting on centuries of struggle leading to reckoning, redemption, and hope. Evaluation by narrative: US1 (honorable tradition) – Partially, it references national history and a moral arc of redemption, but focus is on Black Americans rather than broad U.S. feats; however, it situates this within American historical reckoning and hope, modestly reflecting national values. US2 (admirable society) – Yes, it explicitly celebrates the achievements of a key ethnic group and calls on Americans to honor them, matching the promotion of diverse groups and civil recognition. US3 (hostile enemies) – No adversary or threat is mentioned. US4 (force for good) – Indirectly positive, but it does not describe actions supporting human rights globally; it’s a commemorative call, so not a clear fit. US5 (great international ally) – Not applicable. US6 (at the forefront) – No leadership/innovation claims. Conclusion: The tweet clearly promotes US2; US1 is weakly suggested but not the focus, so only US2.",
+    "narrative_ids": ["US2"]
+  }
+}

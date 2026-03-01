@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises Chinese societal solidarity and the government's quick, orderly, and effective response to COVID-19, asserting that China values lives and will emerge stronger and more united. Evaluation by narrative: CH1 (West immoral/hostile): Not referenced; no comparison with the West. CH2 (China as benevolent power internationally): The emphasis is domestic (solidarity within China, government response inside China), not on international cooperation or multilateralism, so not a fit. CH3 (epic history): No historical arc or past adversities discussed. CH4 (appropriate political system and honorable values): Yes. It lauds the government's leadership, orderly management, and moral valuation of lives, and highlights societal values of mutual help—framing China’s system/values as honorable in domestic governance. CH5 (CCP government succeeds): Yes. It attributes effective, quick intervention and orderly work to “my Government,” claiming China becomes stronger and more united—signaling successful governance in crisis. CH6 (culture/nature/heritage): Not about culture or tourism. Conclusion: CH4 and CH5 apply.",
+    "narrative_ids": ["CH4", "CH5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says Ambassador Zhang at the UNGA refuted the US and some countries for interfering in China’s internal affairs under the pretext of human rights and provoking confrontation at the UN. Evaluation per narrative: CH1 (The West is immoral, hostile and decadent): Yes—tweet portrays the US and others as wrongful actors interfering in China’s internal affairs and provoking confrontation, casting the West as hostile and China as the victim. CH2 (China is a benevolent power): Not explicitly—no emphasis on China’s cooperative or law-upholding role, just refutation of others. CH3 (China has an epic history): Not relevant. CH4 (China has an appropriate political system and honorable values): Not directly—no defense of China’s domestic system or values, only opposition to external interference. CH5 (CCP government succeeds): Not addressed. CH6 (culture/nature/heritage): Not relevant. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. ambassador at the Munich Security Conference states the United States stands with NATO ally Turkey on Idlib and supports Turkey's goal of restoring the Sochi ceasefire lines in Syria. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or values as tradition. US2 (admirable society) – Not relevant; no mention of societal groups or heroes. US3 (hostile enemies) – Not explicit; no adversary is labeled immoral or hostile. US4 (force for good) – Implicitly touches peace/stability by supporting a ceasefire line, but the focus is alliance support rather than broader human rights or humanitarian framing; evidence is insufficient. US5 (great international ally) – Yes; explicitly emphasizes unwavering support for a NATO ally (Turkey) and alignment with its security objective. US6 (at the forefront) – No claim of leadership or superiority is made. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

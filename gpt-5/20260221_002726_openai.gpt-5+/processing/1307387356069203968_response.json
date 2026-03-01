@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mourns the passing of U.S. Supreme Court Justice Ruth Bader Ginsburg, praising her as an inspiration tied to the Constitution and rule of law. Evaluation by narrative: US1 (honorable tradition) – Yes. By invoking the Constitution and rule of law as inspirational touchstones, it implicitly highlights enduring American values and tradition. US2 (admirable society) – Partially relevant but not primary; it praises an iconic public figure and her inspiration to women and girls, reflecting societal role models, yet the emphasis is more on institutional values than broader society; still, it does showcase admiration for a societal figure. US3 (hostile enemies) – No mention of adversaries. US4 (force for good) – Not directly; it’s a eulogy rather than asserting U.S. actions supporting human rights globally. US5 (great international ally) – Not addressed. US6 (at the forefront) – Not addressed. Final determination: US1 is clearly promoted; US2 is reasonably supported through honoring a celebrated figure’s societal impact.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

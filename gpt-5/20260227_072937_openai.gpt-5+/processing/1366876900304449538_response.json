@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes EU Council sanctions related to the Navalny poisoning, emphasizing a clear, unified US-EU stance that Russia’s chemical weapon use and human rights abuses carry severe consequences. It quotes the EU announcement about using its Global Human Rights Sanctions Regime. Evaluation per narrative: US1 (honorable tradition) – not present; no reference to American legacy or historical feats. US2 (admirable society) – not present. US3 (hostile enemies) – partially relevant because it condemns Russia for immoral actions (assassination attempt, human rights abuses), framing Russia negatively; this aligns with portraying a hostile adversary. US4 (force for good) – present: the US is depicted acting with the EU to uphold human rights and impose consequences for abuses, signaling support for human rights and accountability. US5 (great international ally) – present: the tweet highlights US-EU unity and welcomes EU action, showcasing solidarity and support for an ally. US6 (at the forefront) – not present; no leadership or superiority claim. Conclusion: The tweet promotes US3, US4, and US5.",
+    "narrative_ids": ["US3", "US4", "US5"]
+  }
+}

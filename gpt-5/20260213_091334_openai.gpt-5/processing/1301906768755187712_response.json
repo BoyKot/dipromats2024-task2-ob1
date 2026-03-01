@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the US for imposing its standards on others and asserts that China does not interfere in other countries' domestic affairs. Evaluation: CH1 fits because it portrays the US negatively as judgmental and interventionist, implying hostility/immorality. CH2 is supported implicitly by presenting China as non-interfering and unwilling to meddle abroad, projecting a benign, respectful international posture. CH3 is not referenced (no history). CH4 concerns domestic political system/values; while it hints at values (non-interference), the focus is China's external behavior, which is CH2, not CH4. CH5 (CCP governance success) is absent. CH6 (culture/heritage) is irrelevant. Conclusion: CH1 and CH2 apply.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

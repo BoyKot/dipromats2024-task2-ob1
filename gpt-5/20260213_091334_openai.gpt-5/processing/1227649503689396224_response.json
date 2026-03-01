@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. Assistant Secretary (Schenker) states the U.S. will press countries involved in Libya to pursue a peaceful resolution, framing peace as the only viable path to end the conflict. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or tradition. US2 (admirable society) – Not relevant; no mention of society, groups, or heroes. US3 (hostile enemies) – No adversary is singled out as immoral or a threat. US4 (force for good) – Yes; the U.S. advocates and works toward peace and conflict resolution in Libya, positioning itself as promoting peace and stability. US5 (great international ally) – Not explicit; no emphasis on support for a specific ally or praising allied countries. US6 (at the forefront) – Implicit leadership could be inferred, but the tweet doesn’t explicitly claim U.S. leadership or superiority; focus is on advocacy for peace rather than leading status. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

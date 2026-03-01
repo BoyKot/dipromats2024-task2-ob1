@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises a Chinese company's donation of masks to Warsaw schools during COVID-19, emphasizing Sino-Polish friendship, unity, and solidarity to win the pandemic battle. Evaluation by narrative: CH1 (West immoral/hostile): Not present; the tweet does not criticize the West or portray China as a victim. CH2 (China is a benevolent power): Supported; it highlights Chinese generosity/international solidarity and frames China as a cooperative, benevolent actor helping another country in crisis. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not discussed; no mention of Chinese governance or political values. CH5 (CCP government succeeds): Not applicable; the donation is by a company and there is no claim about CCP governance achievements. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

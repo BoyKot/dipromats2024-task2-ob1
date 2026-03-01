@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes the U.S. \"back\" to transatlantic cooperation and claims Europe is already setting global benchmarks on climate and digital policy, inviting the U.S. to join forces. Evaluation: EU1 (EU successful story) – Implicitly positive but not about history or overcoming obstacles; not clearly promoted. EU2 (EU united) – No mention of internal EU unity or agreement; not promoted. EU3 (EU useful for its citizens) – Focus is global leadership, not specific benefits within the EU; not promoted. EU4 (EU as avant-garde) – Yes. It explicitly states Europe sets global benchmarks for climate action and a values-based digital world, positioning the EU as a pioneer. EU5 (EU champion of fair causes) – Values are mentioned in the digital context, but the focus is regulatory/benchmark leadership rather than human rights advocacy; insufficient. EU6 (EU contributes to a better world) – The invitation to join forces and claim of setting global benchmarks implies EU contribution to global goods (climate, digital standards); moderately supported. Conclusion: EU4 clearly applies; EU6 also applies.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames the Chinese Communist Party as a malign actor threatening Americans' privacy, IP, and national security (US3). It also presents US-led action (the Clean Network) to counter that threat as protective, aligning with the US is a force for good (US4).",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

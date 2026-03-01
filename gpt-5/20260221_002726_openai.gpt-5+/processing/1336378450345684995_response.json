@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Maduro attempted to hijack Venezuela's elections, praises Guaidó’s alternative, and states the U.S. supports Venezuelans raising their voices for freedom and democracy. Evaluation by narrative: US1 (honorable tradition) – Not explicitly about U.S. historical values or legacy; no. US2 (admirable society) – Not about U.S. society/groups; no. US3 (hostile enemies) – It labels Maduro’s actions as fraudulent and anti-democratic, casting him as immoral/oppressive, aligning with highlighting hostile adversaries; yes. US4 (force for good) – The U.S. is depicted as supporting freedom, democracy, and oppressed Venezuelans, fitting support for human rights and liberty; yes. US5 (great international ally) – Not about allies or bilateral praise; no. US6 (at the forefront) – No leadership/primacy claim; no. Conclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

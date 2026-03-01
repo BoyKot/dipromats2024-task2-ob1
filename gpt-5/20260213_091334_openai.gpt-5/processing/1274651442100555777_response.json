@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Russia’s Medical Worker Day, thanking medical staff—especially in light of COVID-19—and honoring them as heroes. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no comparison to the West or moral judgments about others. RU2 (Russia leads alternative system): No mention of multilateralism, BRICS, or alternative systems. RU3 (Russia is a benevolent partner): While positive and appreciative, it does not depict Russia’s role in international peace/solidarity or partnerships; it’s a domestic commemoration. RU4 (Russian history is admirable): No historical framing or past achievements beyond noting the pandemic context. RU5 (Russia at the world’s forefront): No claims of leadership, superiority, or achievements; only gratitude. RU6 (Russia’s culture/heritage): It touches on a Russian holiday and societal value of medical workers, which reflects cultural traditions. The tweet showcases an aspect of Russian society and tradition (a national professional holiday), presenting Russia positively in cultural terms. Conclusion: Aligns with RU6; others not supported.",
+    "narrative_ids": ["RU6"]
+  }
+}

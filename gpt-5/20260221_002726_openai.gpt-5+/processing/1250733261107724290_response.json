@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Digital technology, such as mobile contact-tracing apps, can help combat COVID-19 and enable a gradual return to normal life, provided citizens’ data privacy, confidentiality, and security are ensured.\n\nEU1 (EU is a successful story): Not referenced; no historical reflection or EU achievements mentioned.\nEU2 (EU is united): No mention of EU unity, solidarity, or agreement among member states.\nEU3 (EU is useful for its citizens): The tweet promotes a practical, citizen-focused solution (digital contact tracing) addressing a key concern (public health and normalcy) and emphasizes trust via privacy/security. Even without explicit EU branding, this aligns with the narrative of EU policies/recommendations improving citizens’ lives within the EU context, typical of public-health digital tools promoted by EU institutions.\nEU4 (EU is avant-garde): Implicitly about digitalization, but it doesn’t position the EU as a pioneer or leader; no comparative or leadership framing.\nEU5 (EU a global champion of fair causes): No reference to democracy or human rights advocacy globally.\nEU6 (EU contributes to a better world): No global or external dimension presented.\n\nConclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

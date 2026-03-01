@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet highlights Russia's support for UNDP/UNFPA/UNOPS and the Russia-UNDP Trust Fund, framing Russia as a cooperative, benevolent partner in international development. This matches RU3; it does not indicate Western hostility (RU1), an explicit alternative system (RU2), or other narratives.",
+    "narrative_ids": ["RU3"]
+  }
+}

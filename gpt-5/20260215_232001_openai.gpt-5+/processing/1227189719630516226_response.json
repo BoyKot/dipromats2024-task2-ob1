@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces the upcoming 'Art Russia' fair in Moscow, highlighting contemporary Russian art and a professional educational program discussing the role of Russian culture in the world. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or hostility. RU2 (Russia leads alternative system): Not indicated; no reference to multipolarity or alternative governance systems. RU3 (Russia benevolent partner): Not applicable; no mention of partnerships, peace, or aid. RU4 (Russian history admirable): Not focused on history or past achievements; it's about a current art fair. RU5 (Russia at the world’s forefront): No explicit claim of leadership, success, or superiority. RU6 (Russia is interesting in culture, nature, heritage): Yes; the tweet promotes Russian culture and an art event, presenting Russia as culturally interesting and engaged globally. Conclusion: Only RU6 applies.",
+    "narrative_ids": ["RU6"]
+  }
+}

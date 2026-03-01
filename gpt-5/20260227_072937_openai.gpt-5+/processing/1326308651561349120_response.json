@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises Ronald Reagan’s legacy of prioritizing freedom in U.S. foreign policy and claims continuity with that tradition today. Evaluation by narrative: US1 (The US has an honorable tradition) — Yes. It explicitly invokes a historic leader and frames belief in freedom as a longstanding American tradition continued today. US2 (admirable society) — No mention of society, groups, civil society, companies, or military heroes. US3 (hostile enemies) — No adversaries referenced. US4 (force for good) — Implicitly positive about freedom, but the tweet does not describe concrete actions supporting human rights or aiding oppressed peoples; it is more about legacy/values than actions, so not a clear match. US5 (great international ally) — No reference to allies. US6 (at the forefront) — No leadership in domains mentioned. Conclusion: Only US1 applies.",
+    "narrative_ids": ["US1"]
+  }
+}

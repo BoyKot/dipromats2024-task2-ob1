@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses well-wishes to the UK as it leaves the EU, sharing optimism about future opportunities. Evaluation against narratives: US1 (honorable tradition) – not referenced; no values, legacy, or historical feats of the US mentioned. US2 (admirable society) – no mention of US social groups, civil society, companies, or military heroes. US3 (hostile enemies) – no adversaries are identified. US4 (force for good) – while positive, it does not frame US actions supporting human rights/peace; it’s simply congratulatory toward the UK. US5 (great international ally) – closest fit: it praises and supports an allied country (the UK) at a key moment, signaling solidarity and encouragement; this aligns with emphasizing US support for allies. US6 (at the forefront) – no leadership claims about the US. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

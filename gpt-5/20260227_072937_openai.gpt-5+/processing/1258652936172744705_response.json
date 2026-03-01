@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet honors Indian soldiers who supported the USSR in WWII, noting that the Russian Ministry of Defense will commemorate them in a Moscow museum, highlighting shared history and recognition. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no criticism of the West. RU2 (Russia leads an alternative system): No reference to multipolarity or alternative systems; absent. RU3 (Russia is a benevolent partner): Yes—Russia (MoD) recognizing and immortalizing Indian heroes signals goodwill, solidarity, and partnership with India. RU4 (Russian history is admirable): Implicitly yes—celebrating Soviet WWII history and decorations, and museum commemoration, presents Russian/Soviet historical valor positively. RU5 (Russia at the forefront): No claims of current achievements or superiority. RU6 (Interesting culture/heritage): Marginally related to heritage, but the focus is on commemoration rather than promoting culture/tourism; not a fit. Conclusion: RU3 and RU4 apply.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

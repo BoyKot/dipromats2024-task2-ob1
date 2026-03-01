@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A stark deterrent threat that any Iranian attack on the US will trigger a retaliatory response \"1,000 times greater.\" It frames Iran as an aggressor and emphasizes overwhelming U.S. retaliation. Evaluation:\n- US1 (honorable tradition): No reference to values, history, or legacy; it's a threat, not a heritage claim.\n- US2 (admirable society): No mention of society, diversity, civil groups, companies, or heroes.\n- US3 (hostile enemies): Yes. The tweet positions Iran as an active threat to the US, portraying it as an adversary warranting severe retaliation.\n- US4 (force for good): No claims about human rights, peace, or supporting oppressed peoples.\n- US5 (great international ally): No mention of allies or support to other countries.\n- US6 (at the forefront): Indirectly implies military might, but does not explicitly position the US as a leader across domains; the focus is deterrence, not leadership claims. Not sufficiently supported.\nConclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

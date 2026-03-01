@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian MFA spokesperson (Zakharova) states that Russia expects Turkey to separate moderates from extremists in Syria’s Idlib de-escalation zone and asserts that rebranding terrorist groups does not change their terrorist nature. Evaluation against narratives: RU1 (West immoral/hostile): The tweet does not mention the West or its allies as immoral or hostile; focus is on Turkey and terrorist groups in Syria. Not supported. RU2 (Russia leads an alternative system): There is no framing of a Russia-led multilateral order or alternative system; it’s a pragmatic expectation of Turkey’s actions within an existing de-escalation context. Not supported. RU3 (Russia is a benevolent partner): The tweet presents Russia as a responsible actor urging counterterrorism clarity and cooperation with Turkey to uphold de-escalation in Syria, implying constructive, peace-promoting behavior. This aligns with portraying Russia as a reliable, peace-oriented partner. Supported. RU4 (Russian history admirable): No historical content. Not supported. RU5 (Russia at the world’s forefront): No showcase of current successes or leadership claims beyond a cooperative stance. Not supported. RU6 (Russia interesting culturally/naturally): Irrelevant. Not supported. Conclusion: Only RU3 applies.",
+    "narrative_ids": ["RU3"]
+  }
+}

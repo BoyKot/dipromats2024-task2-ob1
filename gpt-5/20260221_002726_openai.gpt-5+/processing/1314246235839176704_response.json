@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges Guatemala’s Attorney General to prosecute corruption cases and not target anti-corruption prosecutors (FECI), framing the U.S. as supporting anti-corruption efforts and partnership with Guatemala. Evaluation: US1 (honorable tradition) – Not explicitly invoked; no reference to American historical values or legacy. US2 (admirable society) – Not relevant; no mention of U.S. society or groups. US3 (hostile enemies) – Not applicable; it criticizes corruption and prosecuting anti-corruption actors but does not frame a hostile enemy to the U.S. US4 (force for good) – Yes; it presents the U.S. as supporting anti-corruption, rule of law, and good governance in Guatemala, advocating for human rights and accountability. US5 (great international ally) – Partially relevant: it describes the U.S. counting on Guatemala as a partner, but the emphasis is normative pressure rather than praising an ally; still, it signals partnership and support. However, the primary thrust is advocacy for good governance, so US5 is weaker. US6 (at the forefront) – Not applicable; no leadership in tech/economy/military highlighted. Conclusion: The tweet promotes US4 clearly. US5 is debatable but present through the “partner” framing; include US5 as secondary.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

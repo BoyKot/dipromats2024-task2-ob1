@@ -1,0 +1,7276 @@
+[
+  {
+    "language": "en",
+    "id": 26,
+    "country": "USA",
+    "tweet_id": "1213081403014955008",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 78,
+    "country": "Russia",
+    "tweet_id": "1214456508496388098",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 81,
+    "country": "China",
+    "tweet_id": "1214507512864444416",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 86,
+    "country": "European Union",
+    "tweet_id": "1214561065134018567",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 108,
+    "country": "European Union",
+    "tweet_id": "1214854305699782656",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 115,
+    "country": "USA",
+    "tweet_id": "1214963742024380417",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 116,
+    "country": "USA",
+    "tweet_id": "1214965065230761985",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 122,
+    "country": "China",
+    "tweet_id": "1214991202011009028",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 127,
+    "country": "USA",
+    "tweet_id": "1215077856365240320",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 157,
+    "country": "USA",
+    "tweet_id": "1215628593109307392",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 185,
+    "country": "USA",
+    "tweet_id": "1216126889951145984",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 199,
+    "country": "USA",
+    "tweet_id": "1216368125924532226",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 201,
+    "country": "USA",
+    "tweet_id": "1216399475771682819",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 213,
+    "country": "China",
+    "tweet_id": "1216599126357336064",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 219,
+    "country": "Russia",
+    "tweet_id": "1216708717342855169",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 230,
+    "country": "USA",
+    "tweet_id": "1216857518921670656",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 239,
+    "country": "European Union",
+    "tweet_id": "1217035949923762176",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 246,
+    "country": "European Union",
+    "tweet_id": "1217125238217039873",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 255,
+    "country": "USA",
+    "tweet_id": "1217228990387294209",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 272,
+    "country": "Russia",
+    "tweet_id": "1217502945111150592",
+    "narratives": [
+      "RU4",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 291,
+    "country": "Russia",
+    "tweet_id": "1217792596208246784",
+    "narratives": [
+      "RU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 301,
+    "country": "USA",
+    "tweet_id": "1217879198049669122",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 315,
+    "country": "Russia",
+    "tweet_id": "1218184910520844290",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 352,
+    "country": "European Union",
+    "tweet_id": "1219230166850981889",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 373,
+    "country": "European Union",
+    "tweet_id": "1219532978717634561",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 401,
+    "country": "European Union",
+    "tweet_id": "1220013102781149184",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 423,
+    "country": "Russia",
+    "tweet_id": "1220278274942627847",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 430,
+    "country": "USA",
+    "tweet_id": "1220383397094273024",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 431,
+    "country": "European Union",
+    "tweet_id": "1220390145972744193",
+    "narratives": [
+      "EU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 440,
+    "country": "USA",
+    "tweet_id": "1220462690637877249",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 520,
+    "country": "USA",
+    "tweet_id": "1222079004884205569",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 532,
+    "country": "European Union",
+    "tweet_id": "1222205042666745856",
+    "narratives": [
+      "EU2",
+      "EU3",
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 535,
+    "country": "European Union",
+    "tweet_id": "1222251658803064834",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 547,
+    "country": "Russia",
+    "tweet_id": "1222453963578118144",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 548,
+    "country": "Russia",
+    "tweet_id": "1222458900701700097",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 591,
+    "country": "European Union",
+    "tweet_id": "1223141709854519306",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 608,
+    "country": "Russia",
+    "tweet_id": "1223257466651148288",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 619,
+    "country": "USA",
+    "tweet_id": "1223351951963967488",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 620,
+    "country": "USA",
+    "tweet_id": "1223354657415757824",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 634,
+    "country": "European Union",
+    "tweet_id": "1223546534354194432",
+    "narratives": [
+      "EU1",
+      "EU3",
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 637,
+    "country": "China",
+    "tweet_id": "1223570694937743363",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 641,
+    "country": "USA",
+    "tweet_id": "1223651096360603649",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 646,
+    "country": "USA",
+    "tweet_id": "1223781744635273216",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 674,
+    "country": "China",
+    "tweet_id": "1224381607479431168",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 685,
+    "country": "Russia",
+    "tweet_id": "1224603474085711874",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 701,
+    "country": "European Union",
+    "tweet_id": "1224716437618614273",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 707,
+    "country": "USA",
+    "tweet_id": "1224886571272413184",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 725,
+    "country": "Russia",
+    "tweet_id": "1225130189702778880",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 760,
+    "country": "European Union",
+    "tweet_id": "1225797370287460352",
+    "narratives": [
+      "EU2",
+      "EU3",
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 767,
+    "country": "Russia",
+    "tweet_id": "1225833168206430211",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 785,
+    "country": "European Union",
+    "tweet_id": "1226433806690742272",
+    "narratives": [
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 786,
+    "country": "European Union",
+    "tweet_id": "1226440434198700032",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 794,
+    "country": "USA",
+    "tweet_id": "1226551331072045059",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 803,
+    "country": "European Union",
+    "tweet_id": "1226827208192397312",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 810,
+    "country": "Russia",
+    "tweet_id": "1226878860559552512",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 833,
+    "country": "Russia",
+    "tweet_id": "1227189719630516226",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 852,
+    "country": "European Union",
+    "tweet_id": "1227320014144970753",
+    "narratives": [
+      "EU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 866,
+    "country": "European Union",
+    "tweet_id": "1227583191587926017",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 889,
+    "country": "Russia",
+    "tweet_id": "1228083175383031809",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 923,
+    "country": "USA",
+    "tweet_id": "1228656724061675521",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 951,
+    "country": "China",
+    "tweet_id": "1229325922559348736",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 962,
+    "country": "USA",
+    "tweet_id": "1229431255751700480",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 968,
+    "country": "Russia",
+    "tweet_id": "1229526831696662528",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1017,
+    "country": "European Union",
+    "tweet_id": "1230497743023595521",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1044,
+    "country": "Russia",
+    "tweet_id": "1231105840934944773",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1051,
+    "country": "European Union",
+    "tweet_id": "1231517442670841856",
+    "narratives": [
+      "EU2",
+      "EU3",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1057,
+    "country": "USA",
+    "tweet_id": "1231757065133142016",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1068,
+    "country": "China",
+    "tweet_id": "1232114563740512257",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1108,
+    "country": "USA",
+    "tweet_id": "1232652371832004608",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1110,
+    "country": "European Union",
+    "tweet_id": "1232662767825543170",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1129,
+    "country": "European Union",
+    "tweet_id": "1232948675946655744",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1151,
+    "country": "Russia",
+    "tweet_id": "1233059296574918657",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1197,
+    "country": "USA",
+    "tweet_id": "1233751226992463872",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1231,
+    "country": "USA",
+    "tweet_id": "1234516868804829184",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1247,
+    "country": "USA",
+    "tweet_id": "1234831012732993536",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1248,
+    "country": "China",
+    "tweet_id": "1234836532042883072",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1271,
+    "country": "Russia",
+    "tweet_id": "1235179521999024128",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1286,
+    "country": "European Union",
+    "tweet_id": "1235255209888280579",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1302,
+    "country": "USA",
+    "tweet_id": "1235599306347999234",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1303,
+    "country": "China",
+    "tweet_id": "1235605761423601670",
+    "narratives": [
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1308,
+    "country": "USA",
+    "tweet_id": "1235680812722515970",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1321,
+    "country": "European Union",
+    "tweet_id": "1235888351959543809",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1342,
+    "country": "USA",
+    "tweet_id": "1236233231726411783",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1359,
+    "country": "Russia",
+    "tweet_id": "1236583469767184386",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1363,
+    "country": "European Union",
+    "tweet_id": "1236683093274025984",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1400,
+    "country": "European Union",
+    "tweet_id": "1237340223916441600",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1431,
+    "country": "China",
+    "tweet_id": "1237861356138717186",
+    "narratives": [
+      "CH2",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1447,
+    "country": "China",
+    "tweet_id": "1238114622684585984",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1451,
+    "country": "China",
+    "tweet_id": "1238130675024306178",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1459,
+    "country": "China",
+    "tweet_id": "1238306822957588480",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1480,
+    "country": "Russia",
+    "tweet_id": "1238803823956819968",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1494,
+    "country": "Russia",
+    "tweet_id": "1239244100173512705",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1497,
+    "country": "Russia",
+    "tweet_id": "1239440588514168834",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1511,
+    "country": "European Union",
+    "tweet_id": "1239570619810951168",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1526,
+    "country": "China",
+    "tweet_id": "1239875435799826433",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1529,
+    "country": "China",
+    "tweet_id": "1239904460949917698",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1559,
+    "country": "China",
+    "tweet_id": "1240254537518034946",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1567,
+    "country": "European Union",
+    "tweet_id": "1240300837068582915",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1578,
+    "country": "China",
+    "tweet_id": "1240345495387746310",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1579,
+    "country": "China",
+    "tweet_id": "1240353527593140225",
+    "narratives": [
+      "CH2",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1603,
+    "country": "USA",
+    "tweet_id": "1240684787666305024",
+    "narratives": [
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1620,
+    "country": "China",
+    "tweet_id": "1240991227677298688",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1633,
+    "country": "China",
+    "tweet_id": "1241028420491866113",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1641,
+    "country": "Russia",
+    "tweet_id": "1241078090245312520",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1647,
+    "country": "China",
+    "tweet_id": "1241201717133205506",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1655,
+    "country": "European Union",
+    "tweet_id": "1241351076370137089",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1659,
+    "country": "China",
+    "tweet_id": "1241378404575805441",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1683,
+    "country": "China",
+    "tweet_id": "1241750383791308801",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1685,
+    "country": "USA",
+    "tweet_id": "1241824706208112642",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 1711,
+    "country": "Russia",
+    "tweet_id": "1242110562869354502",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1745,
+    "country": "China",
+    "tweet_id": "1242461838794616836",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1746,
+    "country": "European Union",
+    "tweet_id": "1242463698347855883",
+    "narratives": [
+      "EU1",
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1753,
+    "country": "Russia",
+    "tweet_id": "1242470085807259651",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1757,
+    "country": "Russia",
+    "tweet_id": "1242506715515543552",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1771,
+    "country": "China",
+    "tweet_id": "1242759084291448832",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1794,
+    "country": "China",
+    "tweet_id": "1243107958654824448",
+    "narratives": [
+      "CH1",
+      "CH2",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1825,
+    "country": "USA",
+    "tweet_id": "1243394658320805897",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1830,
+    "country": "China",
+    "tweet_id": "1243455682176626689",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1854,
+    "country": "European Union",
+    "tweet_id": "1243885084530311172",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1868,
+    "country": "European Union",
+    "tweet_id": "1244221406461788160",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1872,
+    "country": "Russia",
+    "tweet_id": "1244274780116791297",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1936,
+    "country": "European Union",
+    "tweet_id": "1245242733519872000",
+    "narratives": [
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1946,
+    "country": "European Union",
+    "tweet_id": "1245310534980902917",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1947,
+    "country": "Russia",
+    "tweet_id": "1245311132769935361",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 1974,
+    "country": "Russia",
+    "tweet_id": "1245464169991811074",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2007,
+    "country": "China",
+    "tweet_id": "1245764123637379072",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2031,
+    "country": "China",
+    "tweet_id": "1246096608208359424",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2032,
+    "country": "China",
+    "tweet_id": "1246097169502756864",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2041,
+    "country": "Russia",
+    "tweet_id": "1246125295259746311",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2055,
+    "country": "Russia",
+    "tweet_id": "1246378222201245696",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2058,
+    "country": "Russia",
+    "tweet_id": "1246419269967122432",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2060,
+    "country": "Russia",
+    "tweet_id": "1246429646201270273",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2101,
+    "country": "China",
+    "tweet_id": "1247424900249333760",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2134,
+    "country": "European Union",
+    "tweet_id": "1247849149975928833",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2173,
+    "country": "European Union",
+    "tweet_id": "1248164661767389184",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2222,
+    "country": "China",
+    "tweet_id": "1248646870152278016",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2230,
+    "country": "European Union",
+    "tweet_id": "1248883484753453057",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2246,
+    "country": "Russia",
+    "tweet_id": "1249295706835337217",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2255,
+    "country": "USA",
+    "tweet_id": "1249422044564992001",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2260,
+    "country": "China",
+    "tweet_id": "1249443920632786944",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2270,
+    "country": "China",
+    "tweet_id": "1249685749777059846",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2331,
+    "country": "European Union",
+    "tweet_id": "1250455525554356224",
+    "narratives": [
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2354,
+    "country": "European Union",
+    "tweet_id": "1250716028067348481",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2355,
+    "country": "European Union",
+    "tweet_id": "1250733261107724290",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2356,
+    "country": "USA",
+    "tweet_id": "1250734044154941441",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2360,
+    "country": "USA",
+    "tweet_id": "1250767145425866752",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2373,
+    "country": "Russia",
+    "tweet_id": "1251047808507002880",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2396,
+    "country": "USA",
+    "tweet_id": "1251274499762163713",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2397,
+    "country": "USA",
+    "tweet_id": "1251279922703880195",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2422,
+    "country": "China",
+    "tweet_id": "1251751157560721408",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2425,
+    "country": "European Union",
+    "tweet_id": "1251783341612732416",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2429,
+    "country": "China",
+    "tweet_id": "1251833114080526339",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2432,
+    "country": "European Union",
+    "tweet_id": "1251919447926980609",
+    "narratives": [
+      "EU1",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2443,
+    "country": "European Union",
+    "tweet_id": "1252139027656052738",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2446,
+    "country": "European Union",
+    "tweet_id": "1252200579683713024",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2448,
+    "country": "USA",
+    "tweet_id": "1252228044661624832",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2449,
+    "country": "European Union",
+    "tweet_id": "1252234659431211008",
+    "narratives": [
+      "EU3",
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2450,
+    "country": "USA",
+    "tweet_id": "1252239571351490560",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2458,
+    "country": "China",
+    "tweet_id": "1252258505618157568",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2461,
+    "country": "Russia",
+    "tweet_id": "1252281091324620804",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2474,
+    "country": "Russia",
+    "tweet_id": "1252502366194196484",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2481,
+    "country": "USA",
+    "tweet_id": "1252583537338912771",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2486,
+    "country": "USA",
+    "tweet_id": "1252645302458335233",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2508,
+    "country": "European Union",
+    "tweet_id": "1252983275813036038",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2512,
+    "country": "Russia",
+    "tweet_id": "1253011083520094209",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2570,
+    "country": "USA",
+    "tweet_id": "1253700295974105096",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2580,
+    "country": "European Union",
+    "tweet_id": "1253847518879854592",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2596,
+    "country": "European Union",
+    "tweet_id": "1254304202358046725",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2605,
+    "country": "Russia",
+    "tweet_id": "1254423970444718080",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2648,
+    "country": "China",
+    "tweet_id": "1255119662242770944",
+    "narratives": [
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2671,
+    "country": "European Union",
+    "tweet_id": "1255442084535951361",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2673,
+    "country": "European Union",
+    "tweet_id": "1255451588501680128",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2679,
+    "country": "Russia",
+    "tweet_id": "1255471262236893190",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2683,
+    "country": "European Union",
+    "tweet_id": "1255492198138892296",
+    "narratives": [
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2701,
+    "country": "Russia",
+    "tweet_id": "1255775497600016385",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2710,
+    "country": "Russia",
+    "tweet_id": "1255856326959382528",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2717,
+    "country": "European Union",
+    "tweet_id": "1255903372097568769",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2726,
+    "country": "USA",
+    "tweet_id": "1255987824190504960",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2745,
+    "country": "USA",
+    "tweet_id": "1256628709496369152",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2754,
+    "country": "European Union",
+    "tweet_id": "1256838864620204033",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2768,
+    "country": "USA",
+    "tweet_id": "1257041819097092096",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2777,
+    "country": "European Union",
+    "tweet_id": "1257243202152783872",
+    "narratives": [
+      "EU1",
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2784,
+    "country": "USA",
+    "tweet_id": "1257302911866089473",
+    "narratives": [
+      "US2",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2819,
+    "country": "USA",
+    "tweet_id": "1257838326675095561",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2820,
+    "country": "USA",
+    "tweet_id": "1257857842993717248",
+    "narratives": [
+      "US1",
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2825,
+    "country": "European Union",
+    "tweet_id": "1257957062048313344",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2836,
+    "country": "China",
+    "tweet_id": "1258027202400092162",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2844,
+    "country": "China",
+    "tweet_id": "1258074548009918464",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2883,
+    "country": "Russia",
+    "tweet_id": "1258652936172744705",
+    "narratives": [
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2893,
+    "country": "European Union",
+    "tweet_id": "1258702490658357249",
+    "narratives": [
+      "EU1",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2897,
+    "country": "Russia",
+    "tweet_id": "1258717600407846912",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2907,
+    "country": "Russia",
+    "tweet_id": "1258767067697819651",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 2908,
+    "country": "Russia",
+    "tweet_id": "1258774712357990402",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2909,
+    "country": "China",
+    "tweet_id": "1258778336400011264",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2929,
+    "country": "European Union",
+    "tweet_id": "1258979216059744256",
+    "narratives": [
+      "EU1",
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2966,
+    "country": "European Union",
+    "tweet_id": "1259121980051271681",
+    "narratives": [
+      "EU1",
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2987,
+    "country": "Russia",
+    "tweet_id": "1259780257462263808",
+    "narratives": [
+      "RU1",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 2992,
+    "country": "European Union",
+    "tweet_id": "1259796074572722181",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3005,
+    "country": "Russia",
+    "tweet_id": "1260145812375588864",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3014,
+    "country": "USA",
+    "tweet_id": "1260222583452073984",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3025,
+    "country": "Russia",
+    "tweet_id": "1260449037330907136",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3035,
+    "country": "Russia",
+    "tweet_id": "1260541786151358465",
+    "narratives": [
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3047,
+    "country": "Russia",
+    "tweet_id": "1260598974861291521",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3052,
+    "country": "Russia",
+    "tweet_id": "1260715539611160577",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3066,
+    "country": "Russia",
+    "tweet_id": "1260961310864523264",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 3071,
+    "country": "USA",
+    "tweet_id": "1260986593155977216",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3099,
+    "country": "USA",
+    "tweet_id": "1261368451555360774",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3104,
+    "country": "European Union",
+    "tweet_id": "1261412333449908224",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3113,
+    "country": "USA",
+    "tweet_id": "1261647712543559680",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3125,
+    "country": "China",
+    "tweet_id": "1261890129737715712",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3132,
+    "country": "Russia",
+    "tweet_id": "1262130397317562371",
+    "narratives": [
+      "RU1",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3182,
+    "country": "USA",
+    "tweet_id": "1262832459118452738",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 3249,
+    "country": "China",
+    "tweet_id": "1263505306090422274",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3250,
+    "country": "Russia",
+    "tweet_id": "1263506615216586753",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3260,
+    "country": "Russia",
+    "tweet_id": "1263764617773318144",
+    "narratives": [
+      "RU4",
+      "RU5",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3281,
+    "country": "Russia",
+    "tweet_id": "1264083394629009408",
+    "narratives": [
+      "RU4",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3282,
+    "country": "European Union",
+    "tweet_id": "1264088854690181120",
+    "narratives": [
+      "EU3",
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3302,
+    "country": "Russia",
+    "tweet_id": "1264478497084444673",
+    "narratives": [
+      "RU4",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3315,
+    "country": "China",
+    "tweet_id": "1264534751299461120",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3332,
+    "country": "China",
+    "tweet_id": "1264575180325769220",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3372,
+    "country": "USA",
+    "tweet_id": "1265013797334507521",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3383,
+    "country": "European Union",
+    "tweet_id": "1265240604096835584",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3399,
+    "country": "USA",
+    "tweet_id": "1265553541713797126",
+    "narratives": [
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3450,
+    "country": "Russia",
+    "tweet_id": "1266014729887154177",
+    "narratives": [
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3501,
+    "country": "Russia",
+    "tweet_id": "1266399526245601280",
+    "narratives": [
+      "RU1",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3569,
+    "country": "China",
+    "tweet_id": "1267430207377469441",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3571,
+    "country": "China",
+    "tweet_id": "1267430528535326721",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3625,
+    "country": "European Union",
+    "tweet_id": "1268063075963412480",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3635,
+    "country": "China",
+    "tweet_id": "1268171174950760448",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 3670,
+    "country": "USA",
+    "tweet_id": "1268662537068953600",
+    "narratives": [
+      "US4",
+      "US5",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3671,
+    "country": "European Union",
+    "tweet_id": "1268714385289048064",
+    "narratives": [
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3676,
+    "country": "Russia",
+    "tweet_id": "1268859427005833216",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 3723,
+    "country": "China",
+    "tweet_id": "1269584809426386944",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3734,
+    "country": "China",
+    "tweet_id": "1269739659967389696",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3740,
+    "country": "Russia",
+    "tweet_id": "1269906696698245121",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3746,
+    "country": "China",
+    "tweet_id": "1269954551395659777",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3806,
+    "country": "European Union",
+    "tweet_id": "1270748956000223234",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3825,
+    "country": "European Union",
+    "tweet_id": "1271057646469210113",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3840,
+    "country": "China",
+    "tweet_id": "1271109365529886720",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3847,
+    "country": "USA",
+    "tweet_id": "1271201090013446155",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3850,
+    "country": "Russia",
+    "tweet_id": "1271305042386026496",
+    "narratives": [
+      "RU4",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3883,
+    "country": "European Union",
+    "tweet_id": "1271563502084390913",
+    "narratives": [
+      "EU1",
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3895,
+    "country": "China",
+    "tweet_id": "1271834220571262976",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3896,
+    "country": "USA",
+    "tweet_id": "1271844162200047620",
+    "narratives": [
+      "US1",
+      "US2",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3900,
+    "country": "European Union",
+    "tweet_id": "1271855570337873920",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3967,
+    "country": "European Union",
+    "tweet_id": "1272922979668819970",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 3997,
+    "country": "Russia",
+    "tweet_id": "1273253485430091777",
+    "narratives": [
+      "RU1",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4028,
+    "country": "European Union",
+    "tweet_id": "1273556898349043715",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4031,
+    "country": "European Union",
+    "tweet_id": "1273570980347117568",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4041,
+    "country": "USA",
+    "tweet_id": "1273599899448348672",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4045,
+    "country": "European Union",
+    "tweet_id": "1273615686477152256",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4066,
+    "country": "Russia",
+    "tweet_id": "1273800669447815169",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4068,
+    "country": "European Union",
+    "tweet_id": "1273847225878118400",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4082,
+    "country": "Russia",
+    "tweet_id": "1273973929951059970",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4091,
+    "country": "USA",
+    "tweet_id": "1274059147626123264",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4138,
+    "country": "Russia",
+    "tweet_id": "1275058265945108480",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4184,
+    "country": "China",
+    "tweet_id": "1275700189710303232",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4187,
+    "country": "USA",
+    "tweet_id": "1275731468082438150",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4189,
+    "country": "European Union",
+    "tweet_id": "1275755286754721792",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4206,
+    "country": "China",
+    "tweet_id": "1275826740259164162",
+    "narratives": [
+      "CH2",
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4212,
+    "country": "USA",
+    "tweet_id": "1275927740340895746",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4247,
+    "country": "European Union",
+    "tweet_id": "1276439218974228481",
+    "narratives": [
+      "EU1",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4265,
+    "country": "European Union",
+    "tweet_id": "1276534868000813057",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4273,
+    "country": "USA",
+    "tweet_id": "1276606739685814272",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4285,
+    "country": "Russia",
+    "tweet_id": "1276853589479239682",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4319,
+    "country": "USA",
+    "tweet_id": "1277263064560209922",
+    "narratives": [
+      "US3",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4343,
+    "country": "China",
+    "tweet_id": "1277607122025377792",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4378,
+    "country": "Russia",
+    "tweet_id": "1277973225520025603",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4401,
+    "country": "USA",
+    "tweet_id": "1278113285343260673",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4413,
+    "country": "European Union",
+    "tweet_id": "1278290457253023747",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4415,
+    "country": "USA",
+    "tweet_id": "1278326462349787149",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4421,
+    "country": "USA",
+    "tweet_id": "1278340886519255045",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4431,
+    "country": "China",
+    "tweet_id": "1278383195931713539",
+    "narratives": [
+      "CH1",
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4434,
+    "country": "European Union",
+    "tweet_id": "1278415767718055939",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4449,
+    "country": "USA",
+    "tweet_id": "1278656645808046082",
+    "narratives": [
+      "US1",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4524,
+    "country": "Russia",
+    "tweet_id": "1279381701924397064",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4538,
+    "country": "USA",
+    "tweet_id": "1279577086051651584",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4590,
+    "country": "Russia",
+    "tweet_id": "1280251815989260288",
+    "narratives": [
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4595,
+    "country": "China",
+    "tweet_id": "1280426331222704129",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4612,
+    "country": "China",
+    "tweet_id": "1280530487082090501",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4651,
+    "country": "China",
+    "tweet_id": "1280871572119719936",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4659,
+    "country": "China",
+    "tweet_id": "1280956243968962561",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4660,
+    "country": "USA",
+    "tweet_id": "1281017429326520320",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4673,
+    "country": "China",
+    "tweet_id": "1281061698825146368",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 4697,
+    "country": "China",
+    "tweet_id": "1281278794570006528",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4713,
+    "country": "China",
+    "tweet_id": "1281541831751110657",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4745,
+    "country": "European Union",
+    "tweet_id": "1281879983431069696",
+    "narratives": [
+      "EU1",
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4758,
+    "country": "Russia",
+    "tweet_id": "1282198783472939010",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4759,
+    "country": "China",
+    "tweet_id": "1282200548679184385",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4788,
+    "country": "USA",
+    "tweet_id": "1282674632089362432",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4790,
+    "country": "China",
+    "tweet_id": "1282689576100741120",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4818,
+    "country": "China",
+    "tweet_id": "1282957959601872898",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4846,
+    "country": "USA",
+    "tweet_id": "1283164559973535751",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4865,
+    "country": "USA",
+    "tweet_id": "1283406192669347841",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4867,
+    "country": "USA",
+    "tweet_id": "1283414846869045249",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4902,
+    "country": "USA",
+    "tweet_id": "1283579608298852354",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4910,
+    "country": "China",
+    "tweet_id": "1283730388075139072",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4923,
+    "country": "China",
+    "tweet_id": "1283775305434316800",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4934,
+    "country": "China",
+    "tweet_id": "1283967973061951488",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4945,
+    "country": "China",
+    "tweet_id": "1284154582956797953",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4958,
+    "country": "China",
+    "tweet_id": "1284273237816422400",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4960,
+    "country": "USA",
+    "tweet_id": "1284356736954982401",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 4986,
+    "country": "China",
+    "tweet_id": "1284995243423813632",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5028,
+    "country": "USA",
+    "tweet_id": "1285581584834400256",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5029,
+    "country": "European Union",
+    "tweet_id": "1285602717960941570",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5077,
+    "country": "Russia",
+    "tweet_id": "1286065601664950272",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5107,
+    "country": "China",
+    "tweet_id": "1286337362029617156",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5115,
+    "country": "European Union",
+    "tweet_id": "1286357977730027523",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5156,
+    "country": "Russia",
+    "tweet_id": "1287037605352177664",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5183,
+    "country": "China",
+    "tweet_id": "1287687187891445760",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5231,
+    "country": "China",
+    "tweet_id": "1288246995996626944",
+    "narratives": [
+      "CH1",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5233,
+    "country": "China",
+    "tweet_id": "1288293553907499008",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5267,
+    "country": "USA",
+    "tweet_id": "1288815049604292610",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 5288,
+    "country": "China",
+    "tweet_id": "1288988311835598848",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5299,
+    "country": "European Union",
+    "tweet_id": "1289165419241181184",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 5315,
+    "country": "USA",
+    "tweet_id": "1289471203866968066",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 5320,
+    "country": "USA",
+    "tweet_id": "1289564250009206784",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5338,
+    "country": "USA",
+    "tweet_id": "1289896501234110464",
+    "narratives": [
+      "US3",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5350,
+    "country": "USA",
+    "tweet_id": "1290282508303716352",
+    "narratives": [
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5351,
+    "country": "USA",
+    "tweet_id": "1290283634130214913",
+    "narratives": [
+      "US3",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5409,
+    "country": "China",
+    "tweet_id": "1291083871853916161",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5412,
+    "country": "Russia",
+    "tweet_id": "1291225646778261509",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5422,
+    "country": "Russia",
+    "tweet_id": "1291311113221570561",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5437,
+    "country": "China",
+    "tweet_id": "1291425467719917570",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5452,
+    "country": "China",
+    "tweet_id": "1291647957415030785",
+    "narratives": [
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5454,
+    "country": "China",
+    "tweet_id": "1291695269189279747",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5468,
+    "country": "European Union",
+    "tweet_id": "1291766047465328650",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5534,
+    "country": "China",
+    "tweet_id": "1292867878312697856",
+    "narratives": [
+      "CH4",
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5541,
+    "country": "Russia",
+    "tweet_id": "1292943520295260161",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5576,
+    "country": "USA",
+    "tweet_id": "1293312517889032192",
+    "narratives": [
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5609,
+    "country": "China",
+    "tweet_id": "1293688535644614662",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5622,
+    "country": "China",
+    "tweet_id": "1293879064869007360",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5647,
+    "country": "European Union",
+    "tweet_id": "1294214489781534726",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5668,
+    "country": "European Union",
+    "tweet_id": "1294333012734287873",
+    "narratives": [
+      "EU2",
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5684,
+    "country": "China",
+    "tweet_id": "1294614605227069441",
+    "narratives": [
+      "CH2",
+      "CH3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5700,
+    "country": "China",
+    "tweet_id": "1295075732310364163",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5704,
+    "country": "Russia",
+    "tweet_id": "1295122076785946625",
+    "narratives": [
+      "RU4",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5707,
+    "country": "European Union",
+    "tweet_id": "1295270002568945664",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5736,
+    "country": "China",
+    "tweet_id": "1295454008291753985",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5738,
+    "country": "USA",
+    "tweet_id": "1295459821945344002",
+    "narratives": [
+      "US3",
+      "US4",
+      "US5",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5750,
+    "country": "Russia",
+    "tweet_id": "1295683648981794816",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5759,
+    "country": "China",
+    "tweet_id": "1295782287980855298",
+    "narratives": [
+      "CH3",
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5768,
+    "country": "China",
+    "tweet_id": "1296052282702798850",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5791,
+    "country": "China",
+    "tweet_id": "1296160358793728002",
+    "narratives": [
+      "CH3",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5802,
+    "country": "Russia",
+    "tweet_id": "1296409928819777536",
+    "narratives": [
+      "RU4",
+      "RU5",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5867,
+    "country": "European Union",
+    "tweet_id": "1297182048835317762",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5902,
+    "country": "Russia",
+    "tweet_id": "1297895905631371267",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 5927,
+    "country": "European Union",
+    "tweet_id": "1298194611664556032",
+    "narratives": [
+      "EU3",
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5935,
+    "country": "European Union",
+    "tweet_id": "1298275439752777730",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 5980,
+    "country": "China",
+    "tweet_id": "1298667017344618497",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5981,
+    "country": "USA",
+    "tweet_id": "1298671856812204033",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 5999,
+    "country": "USA",
+    "tweet_id": "1298908680423759874",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6021,
+    "country": "China",
+    "tweet_id": "1299017780180615169",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6024,
+    "country": "Russia",
+    "tweet_id": "1299040301844238336",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6026,
+    "country": "China",
+    "tweet_id": "1299052429535780865",
+    "narratives": [
+      "CH3",
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6034,
+    "country": "USA",
+    "tweet_id": "1299226772656082944",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6057,
+    "country": "European Union",
+    "tweet_id": "1299444119115313156",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6072,
+    "country": "USA",
+    "tweet_id": "1299814080744751104",
+    "narratives": [
+      "US3",
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6086,
+    "country": "USA",
+    "tweet_id": "1300170578134003713",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6100,
+    "country": "European Union",
+    "tweet_id": "1300434416628531201",
+    "narratives": [
+      "EU3",
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6102,
+    "country": "China",
+    "tweet_id": "1300438508968898560",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6105,
+    "country": "China",
+    "tweet_id": "1300454366713962499",
+    "narratives": [
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6122,
+    "country": "European Union",
+    "tweet_id": "1300703151838949376",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6141,
+    "country": "European Union",
+    "tweet_id": "1300848764660350977",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6151,
+    "country": "China",
+    "tweet_id": "1301022231431122945",
+    "narratives": [
+      "CH1",
+      "CH3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6163,
+    "country": "USA",
+    "tweet_id": "1301165714108297216",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6182,
+    "country": "Russia",
+    "tweet_id": "1301391540099510272",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6201,
+    "country": "USA",
+    "tweet_id": "1301516949793505287",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6203,
+    "country": "China",
+    "tweet_id": "1301520930326417409",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6245,
+    "country": "European Union",
+    "tweet_id": "1301881386324946944",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6279,
+    "country": "USA",
+    "tweet_id": "1302343498562187265",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6282,
+    "country": "China",
+    "tweet_id": "1302515892224286720",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6296,
+    "country": "China",
+    "tweet_id": "1302855319383613440",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6313,
+    "country": "Russia",
+    "tweet_id": "1302948967416819713",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6326,
+    "country": "European Union",
+    "tweet_id": "1303248622453227520",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6340,
+    "country": "China",
+    "tweet_id": "1303356857558368256",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6347,
+    "country": "China",
+    "tweet_id": "1303410329439875074",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6348,
+    "country": "Russia",
+    "tweet_id": "1303425934477996033",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6397,
+    "country": "China",
+    "tweet_id": "1303995430817202179",
+    "narratives": [
+      "CH4",
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6405,
+    "country": "China",
+    "tweet_id": "1304059249421508610",
+    "narratives": [
+      "CH1",
+      "CH2",
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6409,
+    "country": "China",
+    "tweet_id": "1304066317352271873",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6453,
+    "country": "China",
+    "tweet_id": "1304444418947051521",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6455,
+    "country": "China",
+    "tweet_id": "1304445728907952129",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6482,
+    "country": "USA",
+    "tweet_id": "1304772823572000771",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6486,
+    "country": "European Union",
+    "tweet_id": "1304833866121842688",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6506,
+    "country": "China",
+    "tweet_id": "1305370693320597506",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6522,
+    "country": "China",
+    "tweet_id": "1305494677366419456",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6523,
+    "country": "Russia",
+    "tweet_id": "1305519028480376835",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6530,
+    "country": "Russia",
+    "tweet_id": "1305551546420203520",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6540,
+    "country": "USA",
+    "tweet_id": "1305704032988622848",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6545,
+    "country": "European Union",
+    "tweet_id": "1305778378146893825",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6556,
+    "country": "European Union",
+    "tweet_id": "1305884896603312128",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6574,
+    "country": "China",
+    "tweet_id": "1306105639635050496",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6579,
+    "country": "Russia",
+    "tweet_id": "1306135030515855360",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6592,
+    "country": "USA",
+    "tweet_id": "1306202647356231681",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6612,
+    "country": "USA",
+    "tweet_id": "1306393270541402112",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6624,
+    "country": "China",
+    "tweet_id": "1306565636999479296",
+    "narratives": [
+      "CH2",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6626,
+    "country": "Russia",
+    "tweet_id": "1306580383002177537",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6660,
+    "country": "European Union",
+    "tweet_id": "1306864486297538562",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6669,
+    "country": "USA",
+    "tweet_id": "1306936856924258304",
+    "narratives": [
+      "US1",
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6700,
+    "country": "China",
+    "tweet_id": "1307318867170033665",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6701,
+    "country": "China",
+    "tweet_id": "1307345719569899522",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6705,
+    "country": "USA",
+    "tweet_id": "1307368579856244736",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6706,
+    "country": "USA",
+    "tweet_id": "1307381189414735874",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6708,
+    "country": "USA",
+    "tweet_id": "1307387356069203968",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6721,
+    "country": "European Union",
+    "tweet_id": "1307597868132429825",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6738,
+    "country": "European Union",
+    "tweet_id": "1307930182242775040",
+    "narratives": [
+      "EU1",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6747,
+    "country": "Russia",
+    "tweet_id": "1307999787300433921",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 6748,
+    "country": "Russia",
+    "tweet_id": "1308003603471314944",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6809,
+    "country": "China",
+    "tweet_id": "1308406840884178951",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6814,
+    "country": "China",
+    "tweet_id": "1308416846320873473",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6831,
+    "country": "USA",
+    "tweet_id": "1308436198176763904",
+    "narratives": [
+      "US4",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6839,
+    "country": "Russia",
+    "tweet_id": "1308489395914366976",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6842,
+    "country": "Russia",
+    "tweet_id": "1308503612105134080",
+    "narratives": [
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6856,
+    "country": "Russia",
+    "tweet_id": "1308747849711136768",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6865,
+    "country": "USA",
+    "tweet_id": "1308791352222789633",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6878,
+    "country": "European Union",
+    "tweet_id": "1309024392186335232",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6880,
+    "country": "USA",
+    "tweet_id": "1309051586308694018",
+    "narratives": [
+      "US1",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6907,
+    "country": "USA",
+    "tweet_id": "1309235691281354760",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6935,
+    "country": "European Union",
+    "tweet_id": "1309489954263793665",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6940,
+    "country": "China",
+    "tweet_id": "1309535273370431488",
+    "narratives": [
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6952,
+    "country": "China",
+    "tweet_id": "1309827712563974144",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 6992,
+    "country": "China",
+    "tweet_id": "1310554239937044481",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7018,
+    "country": "USA",
+    "tweet_id": "1310755912009695232",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7042,
+    "country": "European Union",
+    "tweet_id": "1311001960104030209",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7053,
+    "country": "European Union",
+    "tweet_id": "1311256552653889536",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7060,
+    "country": "European Union",
+    "tweet_id": "1311304434941603843",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7061,
+    "country": "European Union",
+    "tweet_id": "1311310257516412928",
+    "narratives": [
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7098,
+    "country": "European Union",
+    "tweet_id": "1311747223647125506",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7101,
+    "country": "China",
+    "tweet_id": "1311800320360624128",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7107,
+    "country": "China",
+    "tweet_id": "1311862630152318976",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7137,
+    "country": "China",
+    "tweet_id": "1312167417951395840",
+    "narratives": [
+      "CH2",
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7144,
+    "country": "Russia",
+    "tweet_id": "1312342632169902081",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7169,
+    "country": "China",
+    "tweet_id": "1313058660130713602",
+    "narratives": [
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7200,
+    "country": "China",
+    "tweet_id": "1313491578011475970",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7213,
+    "country": "European Union",
+    "tweet_id": "1313600475309187073",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7221,
+    "country": "European Union",
+    "tweet_id": "1313739072934948864",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7225,
+    "country": "China",
+    "tweet_id": "1313757098975653888",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7230,
+    "country": "European Union",
+    "tweet_id": "1313767802277433346",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7235,
+    "country": "China",
+    "tweet_id": "1313836061114593280",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7258,
+    "country": "China",
+    "tweet_id": "1314103160084951042",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7265,
+    "country": "China",
+    "tweet_id": "1314174068694941697",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7268,
+    "country": "USA",
+    "tweet_id": "1314185752276799488",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7271,
+    "country": "Russia",
+    "tweet_id": "1314208514097651714",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7282,
+    "country": "Russia",
+    "tweet_id": "1314244614312820739",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7283,
+    "country": "USA",
+    "tweet_id": "1314246235839176704",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7313,
+    "country": "European Union",
+    "tweet_id": "1314572948766953476",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 7331,
+    "country": "USA",
+    "tweet_id": "1314707415452004353",
+    "narratives": [
+      "US1",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7344,
+    "country": "Russia",
+    "tweet_id": "1314968268197761024",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7348,
+    "country": "USA",
+    "tweet_id": "1315106212543975425",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7351,
+    "country": "China",
+    "tweet_id": "1315254118139789313",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7362,
+    "country": "USA",
+    "tweet_id": "1315581253664403456",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7369,
+    "country": "USA",
+    "tweet_id": "1315621458056536070",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 7371,
+    "country": "European Union",
+    "tweet_id": "1315635433557065728",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7379,
+    "country": "China",
+    "tweet_id": "1315687216216264704",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 7405,
+    "country": "China",
+    "tweet_id": "1316063992268435456",
+    "narratives": [
+      "CH2",
+      "CH3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7408,
+    "country": "China",
+    "tweet_id": "1316103735052042240",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7410,
+    "country": "USA",
+    "tweet_id": "1316107850855460866",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7413,
+    "country": "China",
+    "tweet_id": "1316118116091465728",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7419,
+    "country": "Russia",
+    "tweet_id": "1316184219001872384",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7422,
+    "country": "China",
+    "tweet_id": "1316271138331398144",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7427,
+    "country": "Russia",
+    "tweet_id": "1316338964601729025",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7432,
+    "country": "USA",
+    "tweet_id": "1316395647419940864",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7443,
+    "country": "USA",
+    "tweet_id": "1316462990938583042",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7494,
+    "country": "Russia",
+    "tweet_id": "1317456213999837184",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7523,
+    "country": "European Union",
+    "tweet_id": "1318106300895711232",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7540,
+    "country": "China",
+    "tweet_id": "1318234330896998402",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7551,
+    "country": "USA",
+    "tweet_id": "1318267921227943936",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 7581,
+    "country": "USA",
+    "tweet_id": "1318841909440294913",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7642,
+    "country": "European Union",
+    "tweet_id": "1319553136567123969",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7657,
+    "country": "China",
+    "tweet_id": "1319670201324081152",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7666,
+    "country": "European Union",
+    "tweet_id": "1319873651831939072",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7682,
+    "country": "European Union",
+    "tweet_id": "1320093711590690816",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7691,
+    "country": "European Union",
+    "tweet_id": "1320273895463632897",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7707,
+    "country": "China",
+    "tweet_id": "1320478304739229697",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7709,
+    "country": "USA",
+    "tweet_id": "1320651694988996608",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7715,
+    "country": "China",
+    "tweet_id": "1320690980626952192",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7724,
+    "country": "USA",
+    "tweet_id": "1320715903198240768",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7742,
+    "country": "Russia",
+    "tweet_id": "1321014265566928901",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7750,
+    "country": "Russia",
+    "tweet_id": "1321037936897478656",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7758,
+    "country": "Russia",
+    "tweet_id": "1321089225773752323",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7763,
+    "country": "European Union",
+    "tweet_id": "1321106239103868929",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7777,
+    "country": "China",
+    "tweet_id": "1321306308700704774",
+    "narratives": [
+      "CH1",
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7782,
+    "country": "China",
+    "tweet_id": "1321384536433856512",
+    "narratives": [
+      "CH1",
+      "CH2",
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7798,
+    "country": "USA",
+    "tweet_id": "1321488929430917120",
+    "narratives": [
+      "US1",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7802,
+    "country": "USA",
+    "tweet_id": "1321493488081477639",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7834,
+    "country": "European Union",
+    "tweet_id": "1321886064739553284",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7845,
+    "country": "European Union",
+    "tweet_id": "1322148055207038976",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7850,
+    "country": "China",
+    "tweet_id": "1322199647172108289",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7863,
+    "country": "China",
+    "tweet_id": "1322474404681580544",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7866,
+    "country": "USA",
+    "tweet_id": "1322533839374352385",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 7892,
+    "country": "Russia",
+    "tweet_id": "1323263199060336640",
+    "narratives": [
+      "RU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7894,
+    "country": "USA",
+    "tweet_id": "1323269127583268864",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7907,
+    "country": "Russia",
+    "tweet_id": "1323515564002856961",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7922,
+    "country": "China",
+    "tweet_id": "1323668362837319685",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7969,
+    "country": "Russia",
+    "tweet_id": "1324346897948155904",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7973,
+    "country": "Russia",
+    "tweet_id": "1324357345204461573",
+    "narratives": [
+      "RU1",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 7988,
+    "country": "USA",
+    "tweet_id": "1324612560646262785",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8008,
+    "country": "Russia",
+    "tweet_id": "1325078631815766016",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8070,
+    "country": "European Union",
+    "tweet_id": "1326050926377881600",
+    "narratives": [
+      "EU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8106,
+    "country": "USA",
+    "tweet_id": "1326308651561349120",
+    "narratives": [
+      "US1",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8121,
+    "country": "Russia",
+    "tweet_id": "1326483640872787968",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8127,
+    "country": "European Union",
+    "tweet_id": "1326531452616511488",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8176,
+    "country": "European Union",
+    "tweet_id": "1327227601207824384",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8291,
+    "country": "USA",
+    "tweet_id": "1329007784466198528",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8335,
+    "country": "Russia",
+    "tweet_id": "1329423469549932544",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8343,
+    "country": "European Union",
+    "tweet_id": "1329483939967283204",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8346,
+    "country": "USA",
+    "tweet_id": "1329515966322135041",
+    "narratives": [
+      "US3",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8351,
+    "country": "Russia",
+    "tweet_id": "1329702483338424320",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8356,
+    "country": "China",
+    "tweet_id": "1329765283490271233",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8360,
+    "country": "Russia",
+    "tweet_id": "1329776898940039168",
+    "narratives": [
+      "RU1",
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8367,
+    "country": "Russia",
+    "tweet_id": "1329865461299777536",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8379,
+    "country": "China",
+    "tweet_id": "1330155147398418441",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8389,
+    "country": "Russia",
+    "tweet_id": "1330443656801742853",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8393,
+    "country": "China",
+    "tweet_id": "1330515423675224065",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8398,
+    "country": "European Union",
+    "tweet_id": "1330575392219029508",
+    "narratives": [
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8410,
+    "country": "Russia",
+    "tweet_id": "1330831857219416065",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8445,
+    "country": "China",
+    "tweet_id": "1331198161780555778",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8479,
+    "country": "Russia",
+    "tweet_id": "1331632991043543049",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8483,
+    "country": "European Union",
+    "tweet_id": "1331681629090279437",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8503,
+    "country": "China",
+    "tweet_id": "1332142095344173057",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8512,
+    "country": "China",
+    "tweet_id": "1332295391438655491",
+    "narratives": [
+      "CH2",
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8539,
+    "country": "Russia",
+    "tweet_id": "1332685672025628674",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8556,
+    "country": "Russia",
+    "tweet_id": "1333356538371698688",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8591,
+    "country": "European Union",
+    "tweet_id": "1333878709779128322",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8616,
+    "country": "Russia",
+    "tweet_id": "1334288635038998528",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8624,
+    "country": "European Union",
+    "tweet_id": "1334422438168367105",
+    "narratives": [
+      "EU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8637,
+    "country": "Russia",
+    "tweet_id": "1334537798142091265",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8688,
+    "country": "USA",
+    "tweet_id": "1335679426516881409",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8701,
+    "country": "European Union",
+    "tweet_id": "1335930981107294208",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8712,
+    "country": "USA",
+    "tweet_id": "1335977700037681159",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8731,
+    "country": "European Union",
+    "tweet_id": "1336216454128136193",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8750,
+    "country": "USA",
+    "tweet_id": "1336378450345684995",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8769,
+    "country": "European Union",
+    "tweet_id": "1336655514562924544",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8770,
+    "country": "USA",
+    "tweet_id": "1336678973980487681",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8788,
+    "country": "China",
+    "tweet_id": "1337025695852109833",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8790,
+    "country": "Russia",
+    "tweet_id": "1337029198658088960",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8792,
+    "country": "Russia",
+    "tweet_id": "1337040212849995783",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8839,
+    "country": "European Union",
+    "tweet_id": "1337415430206582784",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8843,
+    "country": "European Union",
+    "tweet_id": "1337433345668636674",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8845,
+    "country": "Russia",
+    "tweet_id": "1337439726270353409",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 8847,
+    "country": "USA",
+    "tweet_id": "1337442024228786177",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8882,
+    "country": "USA",
+    "tweet_id": "1338256445482151939",
+    "narratives": [
+      "US3",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8901,
+    "country": "China",
+    "tweet_id": "1338514706278060032",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8906,
+    "country": "China",
+    "tweet_id": "1338551523320733706",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8917,
+    "country": "Russia",
+    "tweet_id": "1338791208055943169",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8923,
+    "country": "Russia",
+    "tweet_id": "1338855068548780036",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8944,
+    "country": "Russia",
+    "tweet_id": "1339144427986677761",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8956,
+    "country": "Russia",
+    "tweet_id": "1339306090547318787",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8962,
+    "country": "USA",
+    "tweet_id": "1339344554311487493",
+    "narratives": [
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8983,
+    "country": "Russia",
+    "tweet_id": "1339578859365126146",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 8986,
+    "country": "Russia",
+    "tweet_id": "1339590326625832960",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9026,
+    "country": "China",
+    "tweet_id": "1339912715716812802",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9027,
+    "country": "China",
+    "tweet_id": "1339912933032128512",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9037,
+    "country": "Russia",
+    "tweet_id": "1339965356522283011",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9045,
+    "country": "Russia",
+    "tweet_id": "1339995691620429825",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9047,
+    "country": "USA",
+    "tweet_id": "1340011022204231683",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9057,
+    "country": "China",
+    "tweet_id": "1340157399903186945",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9072,
+    "country": "China",
+    "tweet_id": "1340694115273609217",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9108,
+    "country": "USA",
+    "tweet_id": "1341307758277255169",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9129,
+    "country": "China",
+    "tweet_id": "1341761916356587520",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9139,
+    "country": "European Union",
+    "tweet_id": "1342002068765085696",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9194,
+    "country": "European Union",
+    "tweet_id": "1343111879351156737",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9200,
+    "country": "European Union",
+    "tweet_id": "1343222857401315334",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9201,
+    "country": "Russia",
+    "tweet_id": "1343229566584811520",
+    "narratives": [
+      "RU1",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9258,
+    "country": "European Union",
+    "tweet_id": "1344275845641285632",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9306,
+    "country": "China",
+    "tweet_id": "1345469094464790528",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9308,
+    "country": "China",
+    "tweet_id": "1345708275170328577",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9402,
+    "country": "Russia",
+    "tweet_id": "1347143029623296001",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9432,
+    "country": "USA",
+    "tweet_id": "1347551129505320962",
+    "narratives": [
+      "US4",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9475,
+    "country": "European Union",
+    "tweet_id": "1348557528423141377",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 9497,
+    "country": "USA",
+    "tweet_id": "1348721340811980801",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9550,
+    "country": "European Union",
+    "tweet_id": "1349644526399451138",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 9555,
+    "country": "Russia",
+    "tweet_id": "1349688432428244994",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9570,
+    "country": "USA",
+    "tweet_id": "1349832119829233664",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9619,
+    "country": "USA",
+    "tweet_id": "1350497521714524160",
+    "narratives": [
+      "US3",
+      "US4",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9661,
+    "country": "Russia",
+    "tweet_id": "1351137264957489152",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9663,
+    "country": "USA",
+    "tweet_id": "1351144809541623809",
+    "narratives": [
+      "US1",
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9709,
+    "country": "USA",
+    "tweet_id": "1351580135464558593",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9714,
+    "country": "USA",
+    "tweet_id": "1351597797171191811",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 9722,
+    "country": "European Union",
+    "tweet_id": "1351814020404301824",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9729,
+    "country": "European Union",
+    "tweet_id": "1351861269108826113",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9735,
+    "country": "European Union",
+    "tweet_id": "1351890749722419200",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9788,
+    "country": "European Union",
+    "tweet_id": "1352380049568247820",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9827,
+    "country": "Russia",
+    "tweet_id": "1352720297582096386",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9829,
+    "country": "China",
+    "tweet_id": "1352760209412861952",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9830,
+    "country": "China",
+    "tweet_id": "1352762002381434882",
+    "narratives": [
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9850,
+    "country": "Russia",
+    "tweet_id": "1353351624404701184",
+    "narratives": [
+      "RU3",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9855,
+    "country": "European Union",
+    "tweet_id": "1353401822547853312",
+    "narratives": [
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9901,
+    "country": "European Union",
+    "tweet_id": "1354047916067991552",
+    "narratives": [
+      "EU1",
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9917,
+    "country": "European Union",
+    "tweet_id": "1354204657833435138",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 9937,
+    "country": "China",
+    "tweet_id": "1354447448194822148",
+    "narratives": [
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 9942,
+    "country": "Russia",
+    "tweet_id": "1354502997775179778",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 9959,
+    "country": "European Union",
+    "tweet_id": "1354744498568441856",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 9984,
+    "country": "Russia",
+    "tweet_id": "1355072610728607744",
+    "narratives": [
+      "RU3",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10030,
+    "country": "Russia",
+    "tweet_id": "1355597690764193793",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10182,
+    "country": "European Union",
+    "tweet_id": "1357324284268580869",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 10271,
+    "country": "USA",
+    "tweet_id": "1358749734844923905",
+    "narratives": [
+      "US4",
+      "US5",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10281,
+    "country": "Russia",
+    "tweet_id": "1358798667738734596",
+    "narratives": [
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10333,
+    "country": "China",
+    "tweet_id": "1359400395022364672",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10376,
+    "country": "Russia",
+    "tweet_id": "1359842060782698496",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10377,
+    "country": "European Union",
+    "tweet_id": "1359851493793411076",
+    "narratives": [
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10390,
+    "country": "USA",
+    "tweet_id": "1359962812253143043",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10437,
+    "country": "USA",
+    "tweet_id": "1360846237872881664",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10460,
+    "country": "Russia",
+    "tweet_id": "1361303774690570240",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10510,
+    "country": "Russia",
+    "tweet_id": "1362074437676367872",
+    "narratives": [
+      "RU4",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10514,
+    "country": "Russia",
+    "tweet_id": "1362088304573882372",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10522,
+    "country": "USA",
+    "tweet_id": "1362170608231014402",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10525,
+    "country": "Russia",
+    "tweet_id": "1362286331691474946",
+    "narratives": [
+      "RU3",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10564,
+    "country": "European Union",
+    "tweet_id": "1362721716519268352",
+    "narratives": [
+      "EU2",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10584,
+    "country": "European Union",
+    "tweet_id": "1362820480084963329",
+    "narratives": [
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10596,
+    "country": "European Union",
+    "tweet_id": "1363020561551667200",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10604,
+    "country": "Russia",
+    "tweet_id": "1363065152418050057",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10620,
+    "country": "European Union",
+    "tweet_id": "1363506221874098177",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10626,
+    "country": "European Union",
+    "tweet_id": "1363564649866817538",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10681,
+    "country": "European Union",
+    "tweet_id": "1364195497276297217",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10684,
+    "country": "European Union",
+    "tweet_id": "1364204371953778689",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10696,
+    "country": "European Union",
+    "tweet_id": "1364313790792273921",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 10716,
+    "country": "China",
+    "tweet_id": "1364594949375729668",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10736,
+    "country": "China",
+    "tweet_id": "1364829306250276865",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10737,
+    "country": "China",
+    "tweet_id": "1364833490919854081",
+    "narratives": [
+      "CH1",
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10740,
+    "country": "China",
+    "tweet_id": "1364868603024056320",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10777,
+    "country": "Russia",
+    "tweet_id": "1365262400589623298",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10800,
+    "country": "Russia",
+    "tweet_id": "1365576955555414016",
+    "narratives": [
+      "RU3",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10806,
+    "country": "Russia",
+    "tweet_id": "1365659742417354752",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10809,
+    "country": "European Union",
+    "tweet_id": "1365685622514413568",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10821,
+    "country": "USA",
+    "tweet_id": "1365919748710674432",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10845,
+    "country": "European Union",
+    "tweet_id": "1366322013913178112",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10850,
+    "country": "Russia",
+    "tweet_id": "1366362230158221316",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10858,
+    "country": "USA",
+    "tweet_id": "1366403845056790528",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10890,
+    "country": "USA",
+    "tweet_id": "1366769310610427907",
+    "narratives": [
+      "US1",
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10900,
+    "country": "Russia",
+    "tweet_id": "1366858971345285121",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10905,
+    "country": "USA",
+    "tweet_id": "1366876900304449538",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10912,
+    "country": "USA",
+    "tweet_id": "1366966536758386690",
+    "narratives": [
+      "US1",
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10919,
+    "country": "Russia",
+    "tweet_id": "1367020408957005832",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 10992,
+    "country": "European Union",
+    "tweet_id": "1367806902781030401",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 11000,
+    "country": "European Union",
+    "tweet_id": "1367851133327249408",
+    "narratives": [
+      "EU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11012,
+    "country": "USA",
+    "tweet_id": "1367961367882444800",
+    "narratives": [
+      "US2",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11029,
+    "country": "China",
+    "tweet_id": "1368458596657197056",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11034,
+    "country": "European Union",
+    "tweet_id": "1368463930272714752",
+    "narratives": [
+      "EU1",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11051,
+    "country": "China",
+    "tweet_id": "1368499301186334722",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11065,
+    "country": "China",
+    "tweet_id": "1368729166145785859",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 11076,
+    "country": "Russia",
+    "tweet_id": "1368903181422493698",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11108,
+    "country": "China",
+    "tweet_id": "1369247612885299201",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11115,
+    "country": "European Union",
+    "tweet_id": "1369281792834994177",
+    "narratives": [
+      "EU4",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11120,
+    "country": "Russia",
+    "tweet_id": "1369310954375290881",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11143,
+    "country": "European Union",
+    "tweet_id": "1369621700002770949",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11172,
+    "country": "Russia",
+    "tweet_id": "1369890832162164737",
+    "narratives": [
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11185,
+    "country": "Russia",
+    "tweet_id": "1369982140084064259",
+    "narratives": [
+      "RU3",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11187,
+    "country": "Russia",
+    "tweet_id": "1369994329318625282",
+    "narratives": [
+      "RU2",
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11307,
+    "country": "Russia",
+    "tweet_id": "1369225952350371851",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11310,
+    "country": "Russia",
+    "tweet_id": "1330034403477688320",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11319,
+    "country": "Russia",
+    "tweet_id": "1370320638557233152",
+    "narratives": [
+      "RU1",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11326,
+    "country": "Russia",
+    "tweet_id": "1231629599035056131",
+    "narratives": [
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11351,
+    "country": "Russia",
+    "tweet_id": "1224605865019432962",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11354,
+    "country": "Russia",
+    "tweet_id": "1286582215367962624",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11362,
+    "country": "Russia",
+    "tweet_id": "1237022822918209537",
+    "narratives": [
+      "RU4",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11364,
+    "country": "Russia",
+    "tweet_id": "1259030346676330497",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11365,
+    "country": "Russia",
+    "tweet_id": "1240506077868785664",
+    "narratives": [
+      "RU4",
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11368,
+    "country": "Russia",
+    "tweet_id": "1334042776690946048",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11385,
+    "country": "Russia",
+    "tweet_id": "1366724347445080071",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11402,
+    "country": "Russia",
+    "tweet_id": "1325786242785701890",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 11410,
+    "country": "Russia",
+    "tweet_id": "1232978068102426625",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11420,
+    "country": "Russia",
+    "tweet_id": "1359090004065087488",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11443,
+    "country": "Russia",
+    "tweet_id": "1308382188065509376",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11454,
+    "country": "Russia",
+    "tweet_id": "1368889262125457410",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 11484,
+    "country": "USA",
+    "tweet_id": "1334849159665512448",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11497,
+    "country": "USA",
+    "tweet_id": "1322846222391103488",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11511,
+    "country": "USA",
+    "tweet_id": "1358381255436476417",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11550,
+    "country": "USA",
+    "tweet_id": "1322868487870648320",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11581,
+    "country": "USA",
+    "tweet_id": "1364883240415358979",
+    "narratives": [
+      "US1",
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11588,
+    "country": "USA",
+    "tweet_id": "1261008965577687050",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11628,
+    "country": "USA",
+    "tweet_id": "1357313146587910146",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11629,
+    "country": "USA",
+    "tweet_id": "1261236141614936065",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11639,
+    "country": "USA",
+    "tweet_id": "1255708564804587523",
+    "narratives": [
+      "US1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11648,
+    "country": "USA",
+    "tweet_id": "1305869287912091649",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11678,
+    "country": "USA",
+    "tweet_id": "1356895579696152578",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11679,
+    "country": "USA",
+    "tweet_id": "1356218814082535430",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11711,
+    "country": "China",
+    "tweet_id": "1246308940985577474",
+    "narratives": [
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11715,
+    "country": "China",
+    "tweet_id": "1275028560097546247",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11716,
+    "country": "China",
+    "tweet_id": "1364250797358391296",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11746,
+    "country": "China",
+    "tweet_id": "1238013487210790912",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11754,
+    "country": "China",
+    "tweet_id": "1323552223473897472",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11781,
+    "country": "China",
+    "tweet_id": "1291396238634557440",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11806,
+    "country": "China",
+    "tweet_id": "1275826737767690240",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11840,
+    "country": "China",
+    "tweet_id": "1265989533599961088",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11857,
+    "country": "China",
+    "tweet_id": "1251769121420828676",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11861,
+    "country": "China",
+    "tweet_id": "1320471647506280448",
+    "narratives": [
+      "CH3",
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11866,
+    "country": "China",
+    "tweet_id": "1241152618367344640",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11874,
+    "country": "China",
+    "tweet_id": "1226495300161986560",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11886,
+    "country": "China",
+    "tweet_id": "1266896929524416519",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11902,
+    "country": "USA",
+    "tweet_id": "1238192712320520192",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11915,
+    "country": "USA",
+    "tweet_id": "1349660042023337984",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11930,
+    "country": "USA",
+    "tweet_id": "1220701350490726407",
+    "narratives": [
+      "US2",
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11944,
+    "country": "USA",
+    "tweet_id": "1263764879778988033",
+    "narratives": [
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11955,
+    "country": "USA",
+    "tweet_id": "1239219535313592325",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11965,
+    "country": "USA",
+    "tweet_id": "1227649503689396224",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 11968,
+    "country": "USA",
+    "tweet_id": "1341304385742254087",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12013,
+    "country": "USA",
+    "tweet_id": "1268300044970704896",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12014,
+    "country": "USA",
+    "tweet_id": "1307290416887201792",
+    "narratives": [
+      "US1",
+      "US2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12022,
+    "country": "USA",
+    "tweet_id": "1283317906391142401",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12031,
+    "country": "USA",
+    "tweet_id": "1358753224778518530",
+    "narratives": [
+      "US4",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12052,
+    "country": "European Union",
+    "tweet_id": "1224344891557367816",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12061,
+    "country": "European Union",
+    "tweet_id": "1362015830104489986",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12082,
+    "country": "European Union",
+    "tweet_id": "1283072759791341568",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12123,
+    "country": "European Union",
+    "tweet_id": "1261355054793027585",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12125,
+    "country": "European Union",
+    "tweet_id": "1305454204102807552",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12139,
+    "country": "European Union",
+    "tweet_id": "1332392191289864192",
+    "narratives": [
+      "EU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12165,
+    "country": "European Union",
+    "tweet_id": "1284049950200991745",
+    "narratives": [
+      "EU2",
+      "EU3",
+      "EU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12179,
+    "country": "European Union",
+    "tweet_id": "1354453234639904769",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12197,
+    "country": "China",
+    "tweet_id": "1315917044160761856",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12216,
+    "country": "China",
+    "tweet_id": "1301906768755187712",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12217,
+    "country": "China",
+    "tweet_id": "1367039853255221253",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12259,
+    "country": "USA",
+    "tweet_id": "1271528950213128192",
+    "narratives": [
+      "US1",
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12274,
+    "country": "USA",
+    "tweet_id": "1296220769190584321",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 12298,
+    "country": "USA",
+    "tweet_id": "1272578058424385539",
+    "narratives": [
+      "US3",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12340,
+    "country": "European Union",
+    "tweet_id": "1331899033661693952",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 12352,
+    "country": "European Union",
+    "tweet_id": "1263104529559625728",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 12357,
+    "country": "European Union",
+    "tweet_id": "1284134409369788417",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12402,
+    "country": "China",
+    "tweet_id": "1281639151906029568",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12435,
+    "country": "China",
+    "tweet_id": "1300857464557051906",
+    "narratives": [
+      "CH6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12440,
+    "country": "China",
+    "tweet_id": "1276224986794143744",
+    "narratives": [
+      "CH2",
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12451,
+    "country": "Russia",
+    "tweet_id": "1366339769605750787",
+    "narratives": [
+      "RU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12461,
+    "country": "Russia",
+    "tweet_id": "1352574225391906817",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 12480,
+    "country": "Russia",
+    "tweet_id": "1329842413372923908",
+    "narratives": [
+      "RU1",
+      "RU2",
+      "RU3",
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12491,
+    "country": "Russia",
+    "tweet_id": "1301902832346574848",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12492,
+    "country": "Russia",
+    "tweet_id": "1243597232697495563",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12493,
+    "country": "Russia",
+    "tweet_id": "1308400993034555396",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12554,
+    "country": "USA",
+    "tweet_id": "1258019715974410241",
+    "narratives": [
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12601,
+    "country": "European Union",
+    "tweet_id": "1258074375481327616",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12613,
+    "country": "European Union",
+    "tweet_id": "1266319986328571905",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12646,
+    "country": "European Union",
+    "tweet_id": "1317414480616280066",
+    "narratives": [
+      "EU3",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12652,
+    "country": "European Union",
+    "tweet_id": "1275473449117507589",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12684,
+    "country": "China",
+    "tweet_id": "1285663586841436160",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12710,
+    "country": "Russia",
+    "tweet_id": "1318554622139781121",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12721,
+    "country": "Russia",
+    "tweet_id": "1361713137926475778",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12727,
+    "country": "Russia",
+    "tweet_id": "1304335710686720001",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12728,
+    "country": "Russia",
+    "tweet_id": "1316367212639334401",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12732,
+    "country": "Russia",
+    "tweet_id": "1310553414888230913",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12781,
+    "country": "USA",
+    "tweet_id": "1367370738890645505",
+    "narratives": [
+      "US4",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12788,
+    "country": "USA",
+    "tweet_id": "1259844309492342787",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12815,
+    "country": "USA",
+    "tweet_id": "1230859125808128000",
+    "narratives": [
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12833,
+    "country": "European Union",
+    "tweet_id": "1228052473081929728",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 12852,
+    "country": "European Union",
+    "tweet_id": "1221820775499534336",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12918,
+    "country": "China",
+    "tweet_id": "1246303533042790400",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12937,
+    "country": "China",
+    "tweet_id": "1252975176490323968",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12951,
+    "country": "China",
+    "tweet_id": "1309855340666613760",
+    "narratives": [
+      "CH1",
+      "CH4",
+      "CH5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 12956,
+    "country": "Russia",
+    "tweet_id": "1263459567859531779",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 12999,
+    "country": "Russia",
+    "tweet_id": "1295637570118918144",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13039,
+    "country": "Russia",
+    "tweet_id": "1274651442100555777",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13046,
+    "country": "USA",
+    "tweet_id": "1247877636094857216",
+    "narratives": [
+      "US4",
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13056,
+    "country": "USA",
+    "tweet_id": "1259920270221103105",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13065,
+    "country": "USA",
+    "tweet_id": "1317478724800073728",
+    "narratives": [
+      "US2",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13074,
+    "country": "USA",
+    "tweet_id": "1250590787840217089",
+    "narratives": [
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13083,
+    "country": "USA",
+    "tweet_id": "1234961194194292741",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 13108,
+    "country": "USA",
+    "tweet_id": "1323035091094917122",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13123,
+    "country": "USA",
+    "tweet_id": "1237176636048650241",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13137,
+    "country": "USA",
+    "tweet_id": "1291102279974768643",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13138,
+    "country": "USA",
+    "tweet_id": "1254176187011735553",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13163,
+    "country": "European Union",
+    "tweet_id": "1244582792144531456",
+    "narratives": [
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13166,
+    "country": "European Union",
+    "tweet_id": "1253586198603456513",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 13182,
+    "country": "European Union",
+    "tweet_id": "1292400226150387713",
+    "narratives": []
+  },
+  {
+    "language": "en",
+    "id": 13199,
+    "country": "European Union",
+    "tweet_id": "1329713346384449540",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13223,
+    "country": "European Union",
+    "tweet_id": "1299255398353039360",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13224,
+    "country": "European Union",
+    "tweet_id": "1326086887740674051",
+    "narratives": [
+      "EU2",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13250,
+    "country": "Russia",
+    "tweet_id": "1368635056978280456",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13265,
+    "country": "USA",
+    "tweet_id": "1370147780153511938",
+    "narratives": [
+      "US6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13296,
+    "country": "China",
+    "tweet_id": "1270025143440617475",
+    "narratives": [
+      "CH1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13308,
+    "country": "Russia",
+    "tweet_id": "1263597867882541062",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13347,
+    "country": "USA",
+    "tweet_id": "1366203861342511105",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13355,
+    "country": "USA",
+    "tweet_id": "1258541802002345984",
+    "narratives": [
+      "US3",
+      "US4",
+      "US5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13398,
+    "country": "European Union",
+    "tweet_id": "1323685112609939461",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13404,
+    "country": "European Union",
+    "tweet_id": "1331510089384144898",
+    "narratives": [
+      "EU1",
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13414,
+    "country": "European Union",
+    "tweet_id": "1366759860092743682",
+    "narratives": [
+      "EU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13429,
+    "country": "China",
+    "tweet_id": "1334069484949213186",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13435,
+    "country": "China",
+    "tweet_id": "1318478247437492224",
+    "narratives": [
+      "CH1",
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13437,
+    "country": "China",
+    "tweet_id": "1337566206077906945",
+    "narratives": [
+      "CH4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13470,
+    "country": "China",
+    "tweet_id": "1281875598969917440",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13490,
+    "country": "China",
+    "tweet_id": "1331564501171245062",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13499,
+    "country": "China",
+    "tweet_id": "1322144595484925952",
+    "narratives": [
+      "CH2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13512,
+    "country": "Russia",
+    "tweet_id": "1305820553111130117",
+    "narratives": [
+      "RU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13520,
+    "country": "Russia",
+    "tweet_id": "1349656111905976326",
+    "narratives": [
+      "RU4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13529,
+    "country": "Russia",
+    "tweet_id": "1326246194650165249",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13531,
+    "country": "Russia",
+    "tweet_id": "1249290558486589442",
+    "narratives": [
+      "RU4",
+      "RU5"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13556,
+    "country": "Russia",
+    "tweet_id": "1308445766365650949",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13564,
+    "country": "Russia",
+    "tweet_id": "1267328905486229504",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13592,
+    "country": "Russia",
+    "tweet_id": "1356679935247724548",
+    "narratives": [
+      "RU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13600,
+    "country": "Russia",
+    "tweet_id": "1297045858324631552",
+    "narratives": [
+      "RU1"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13617,
+    "country": "USA",
+    "tweet_id": "1332748163229360129",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13621,
+    "country": "USA",
+    "tweet_id": "1351890340534509570",
+    "narratives": [
+      "US3",
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13642,
+    "country": "USA",
+    "tweet_id": "1293620025643982849",
+    "narratives": [
+      "US3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13673,
+    "country": "USA",
+    "tweet_id": "1333549485105033217",
+    "narratives": [
+      "US4"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13684,
+    "country": "European Union",
+    "tweet_id": "1276461148632526848",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13711,
+    "country": "European Union",
+    "tweet_id": "1361370728579428356",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13718,
+    "country": "European Union",
+    "tweet_id": "1330037201472786432",
+    "narratives": [
+      "EU5",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13719,
+    "country": "European Union",
+    "tweet_id": "1336715046639063041",
+    "narratives": [
+      "EU2"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13745,
+    "country": "European Union",
+    "tweet_id": "1218473102415290370",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13755,
+    "country": "European Union",
+    "tweet_id": "1303281060608966657",
+    "narratives": [
+      "EU3"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13774,
+    "country": "European Union",
+    "tweet_id": "1239962833510477826",
+    "narratives": [
+      "EU3",
+      "EU6"
+    ]
+  },
+  {
+    "language": "en",
+    "id": 13777,
+    "country": "European Union",
+    "tweet_id": "1321357282022584322",
+    "narratives": [
+      "EU3"
+    ]
+  }
+]

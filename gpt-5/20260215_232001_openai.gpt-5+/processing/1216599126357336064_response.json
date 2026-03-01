@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses congratulations for a Chinese New Year event in Kolkata and hopes the trip will enhance China-India cooperation and exchanges for a brighter future in bilateral relations. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; no mention of the West or criticism. CH2 (China is a benevolent power) – Partly present: the tweet emphasizes cooperation, exchange, and a brighter future for China-India relations, which aligns with portraying China as cooperative and seeking mutual benefits internationally. CH3 (epic history) – Not present; no historical references. CH4 (appropriate political system/values) – Not present; no discussion of domestic political system or values. CH5 (CCP government succeeds) – Not present; no claims about domestic achievements or governance success. CH6 (culture/nature/heritage) – Weakly related via mention of Chinese New Year, but the focus is diplomatic cooperation rather than promoting Chinese culture itself; thus not counted. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

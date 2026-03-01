@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes the U.S. Embassy community mourning Sultan Qaboos, highlighting shared grief among Americans, Omanis, and international staff, and recognizing his impact on Oman and global peace and security. Evaluation: US1 (honorable tradition) – Not explicitly; no reference to U.S. legacy or historical feats. US2 (admirable society) – Partially relevant as it portrays a diverse, inclusive embassy community coming together, but the focus is commemorative rather than promoting U.S. societal groups; still, it does showcase community values. US3 (hostile enemies) – Not present. US4 (force for good) – Implicitly aligns: the U.S. Embassy’s engagement honors a leader associated with peace and security, projecting the U.S. as supportive of peace and mutual respect; however, it is indirect. US5 (great international ally) – Yes: it underscores solidarity with Oman during mourning, reflecting respect and allied goodwill. US6 (at the forefront) – Not present. Conclusion: The tweet promotes US5 clearly, and to a reasonable extent US4 and US2.",
+    "narrative_ids": ["US5", "US4", "US2"]
+  }
+}

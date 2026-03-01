@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses several countries of attempting to rewrite World War II history for political gain, and asserts Russia’s commitment to defending the historical truth and honoring Soviet heroism. Evaluation by narrative: RU1 (West immoral/hostile/decadent): Implicitly blames unnamed countries (likely Western) for politicized historical revisionism, casting them as acting immorally/hostilely toward historical truth; this aligns with RU1. RU2 (Russia leads an alternative system): No reference to multilateralism or alternative global order; not applicable. RU3 (Russia benevolent partner): No cooperation/peace-building framing; not applicable. RU4 (Russian history is admirable): Strongly highlights Soviet heroism and sacred memory tied to WWII victory, portraying Russian/Soviet historical contribution as admirable; applicable. RU5 (Russia at the world’s forefront): No claim of current leadership or success; not applicable. RU6 (Russia interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes RU1 and RU4.",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

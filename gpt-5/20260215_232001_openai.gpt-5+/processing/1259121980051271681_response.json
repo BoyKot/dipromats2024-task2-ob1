@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The UN Secretary-General praises the EU on Europe Day, highlighting its founding ideals of cross-border cooperation, solidarity, unity, and its inspirational example of nations coming together with purpose. EU1: Yes—portrays the EU as a successful story built on cooperation and solidarity, suggesting a positive historical trajectory and achievement. EU2: Yes—explicitly emphasizes unity (“when nations come together with unity & purpose”), aligning with the narrative of a united EU. EU3: No—does not discuss concrete benefits or policies for EU citizens. EU4: No—does not present the EU as a pioneer in regulation or future challenges. EU5: No—does not highlight leadership in democracy or human rights specifically. EU6: Partial resonance with multilateral inspiration, but the tweet focuses on internal EU unity/ideals rather than global contributions; thus not sufficiently supported. Conclusion: EU1 and EU2 are promoted.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

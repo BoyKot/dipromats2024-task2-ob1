@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China's imminent achievement of building a moderately prosperous society by 2020 and eradicating rural poverty, highlighting a specific example (wood ear fungus industry) and Xi Jinping’s endorsement of poverty alleviation efforts. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no mention of the West or hostility. CH2 (China as benevolent power internationally): Not applicable; focus is domestic poverty reduction, not international cooperation or multilateralism. CH3 (Epic history/adversity overcome): Slight historical framing (“unprecedented in the history of China over thousands of years”), but the emphasis is on current policy success rather than a narrative of historical adversity and resilience; evidence insufficient to code CH3. CH4 (Appropriate political system and honorable values): Implicit, but not explicit advocacy of system/values; the tweet does not discuss socialism with Chinese characteristics or governance values per se. CH5 (CCP government succeeds): Yes; it credits China (under Xi) with achieving nationwide poverty alleviation and prosperity targets on schedule, and showcases effective policy-driven development (rural industry example). CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH5.",
+    "narrative_ids": ["CH5"]
+  }
+}

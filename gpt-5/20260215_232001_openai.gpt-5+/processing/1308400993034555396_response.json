@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov makes a quip about the Republican Party’s elephant symbol and warns the U.S. not to treat the world like a fragile china shop, in the context of Middle East/Iran/JCPOA. This is a mild rebuke of U.S. (Republican) foreign policy as reckless. Evaluation per narrative: RU1 (West immoral/hostile/decadent): The tweet implicitly criticizes the U.S. as careless and potentially destructive in international affairs, portraying it as a hostile/reckless actor. This aligns with depicting the West (the U.S.) negatively; thus RU1 is promoted. RU2 (Russia leads an alternative system): No mention of Russia offering a multilateral alternative or promoting non-Western cooperation; not supported. RU3 (Russia benevolent partner): No explicit positioning of Russia as a mediator/partner; not supported. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the forefront): No achievements cited. RU6 (Russian culture/nature): Not relevant. Conclusion: Only RU1 applies.",
+    "narrative_ids": ["RU1"]
+  }
+}

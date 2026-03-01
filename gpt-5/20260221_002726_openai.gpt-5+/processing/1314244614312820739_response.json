@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet by Zakharova accuses Poland/Warsaw of acting selfishly, ignoring fair competition and consumer interests, and undermining European energy and environmental security in the context of Nord Stream 2.\nEvaluation:\n- RU1 (The West and their allies are immoral, hostile and decadent): Yes. The tweet portrays a Western ally (Poland) as selfish, unfair, and harmful to Europe's security, casting the West/ally as immoral and hostile to fair principles and public interest. This aligns with RU1's framing of Western actors as immoral and hostile, with Russia as a victim/critic of such behavior.\n- RU2 (Russia leads an alternative system): No. The tweet does not promote multipolarity, BRICS, or an alternative order led by Russia.\n- RU3 (Russia is a benevolent partner): No explicit positioning of Russia as a reliable or peaceful partner; the focus is criticism of Poland.\n- RU4 (Russian history is admirable): Not relevant.\n- RU5 (Russia is at the world’s forefront): Not relevant.\n- RU6 (Russia’s culture/nature): Not relevant.\nConclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

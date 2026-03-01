@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Russian Air Defence in western and southern districts promptly detected US B-1B bombers over neutral Black and Baltic Sea waters and escorted them with Russian fighters, implying vigilance and capability. Evaluation per narrative: RU1 (West immoral/hostile): The tweet mentions US bombers but does not label the West as hostile, immoral, or decadent; it is descriptive and neutral in tone toward the US action. Not promoted. RU2 (Russia leads an alternative system): No mention of multilateralism, alternative order, or non-West cooperation. Not promoted. RU3 (Russia is a benevolent partner): No framing of partnership, peace, or solidarity. Not promoted. RU4 (Russian history admirable): No historical references. Not promoted. RU5 (Russia at the world’s forefront): The tweet highlights prompt detection and successful escort by Russian forces, showcasing current military capability and readiness—an example of projecting competence and operational superiority. Promoted. RU6 (Interesting culture/nature): Irrelevant. Conclusion: The tweet primarily promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

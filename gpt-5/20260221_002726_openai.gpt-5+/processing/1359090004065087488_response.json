@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Russian poet Vasily Zhukovsky’s birthday, highlighting his role as a founder of Russian romanticism and mentor to generations of writers. Evaluation: RU1 (West immoral/hostile): Not referenced; no critique of the West. RU2 (Russia leads alternative system): No mention of systems, multilateralism, or global order. RU3 (Russia benevolent partner): Not about partnership or diplomacy. RU4 (Russian history is admirable): Yes—celebrates a notable historical literary figure and Russia’s cultural heritage, framing it as influential and admirable. RU5 (Russia at the world’s forefront): No current achievements cited. RU6 (Russia interesting in culture/nature/heritage): Indirectly cultural, but the focus is on historical admiration rather than promoting tourism or cultural appeal broadly; primary fit is RU4. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights longstanding US-UK solidarity from the World Wars to NATO, asserting both are stronger together and invoking shared security. Evaluation: US1 (honorable tradition) — Partially aligned, as it references historical feats (World Wars) implying a proud legacy; this promotes the idea of a respectable historical tradition. US2 (admirable society) — Not applicable; no mention of society, diversity, civil groups, companies, or heroes. US3 (hostile enemies) — Not applicable; no adversary is identified. US4 (force for good) — Implicitly suggests positive role in peace/security via NATO and shared security, but the tweet focuses more on alliance strength than explicit support for human rights or oppressed peoples; evidence is insufficient to code US4. US5 (great international ally) — Strongly aligned; it praises the US-UK alliance and underscores steadfast support within NATO, framing the US as a reliable ally. US6 (at the forefront) — Not applicable; no claim of leadership or superiority. Conclusion: The tweet promotes US1 and US5.",
+    "narrative_ids": ["US1", "US5"]
+  }
+}

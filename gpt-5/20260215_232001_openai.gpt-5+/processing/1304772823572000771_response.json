@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that Secretary Pompeo called Sudan’s prime minister to express U.S. solidarity amid severe flooding and to discuss additional U.S. assistance. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or traditions. US2 (admirable society) – Not relevant; no mention of U.S. social groups or civil society. US3 (hostile enemies) – No adversary is mentioned. US4 (force for good) – Yes; the tweet highlights U.S. solidarity and intent to assist a country facing a humanitarian disaster, aligning with support for peace, development, and humanitarian aid. US5 (great international ally) – Partially adjacent, but Sudan is not framed as an ally nor is allied reliability emphasized; focus is humanitarian aid, so not a clear fit. US6 (at the forefront) – No claims of leadership or superiority. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

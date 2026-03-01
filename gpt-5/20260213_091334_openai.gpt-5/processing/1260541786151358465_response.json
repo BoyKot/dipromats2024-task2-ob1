@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet cites a Sri Lankan opinion praising Russia’s commemoration of the Great Patriotic War as showing respect for humanity, and urges Sri Lanka to increase cooperation with Russia.\n- RU1 (West immoral/hostile/decadent): Not present. The tweet does not mention or criticize the West or its allies.\n- RU2 (Russia leads an alternative system to the West): Partially relevant through the call for more cooperation with Russia outside a Western frame, but the tweet does not explicitly frame it as an alternative system or multilateral order. Insufficient to assign RU2.\n- RU3 (Russia is a benevolent partner): Yes. The tweet portrays Russia positively (respect for humanity) and advocates more cooperation, positioning Russia as a good, reliable partner.\n- RU4 (Russian history is admirable): Yes. It lauds Russia’s WWII commemoration and implies pride and respect tied to Russia’s historical role, aligning with admiration of Russian history.\n- RU5 (Russia at the world’s forefront): Not mentioned.\n- RU6 (Russia interesting in culture/nature/heritage): Not relevant.\nConclusion: RU3 and RU4 are promoted.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

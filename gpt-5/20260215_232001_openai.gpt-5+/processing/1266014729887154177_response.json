@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Zakharova claims Russia has long-standing, friendly, mutually beneficial ties with African countries dating back to the 1960s, when the Soviet Union unconditionally supported African decolonization. Evaluation: RU1 (West immoral/hostile): The tweet implies colonial oppression existed (historically tied to Western powers) but does not explicitly attack the West as immoral/hostile in the present; it's more about Russia’s role, so not a clear fit. RU2 (Russia leads an alternative system): It highlights cooperation with Africa outside Western influence and hints at a non-Western partnership tradition, but it doesn't explicitly frame a systemic alternative or multilateral order; partial but not strong enough. RU3 (Russia is a benevolent partner): Strongly supported—depicts Russia/Soviet Union as unconditionally supporting just causes (anti-colonial freedom) and maintaining friendly, mutually beneficial ties. RU4 (Russian history is admirable): Yes—presents historical Soviet support as admirable, valorizing Russia’s historical role in decolonization. RU5 (Russia at the world’s forefront): No current achievements highlighted. RU6 (Culture/nature/heritage): Not relevant. Conclusion: RU3 and RU4 apply.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

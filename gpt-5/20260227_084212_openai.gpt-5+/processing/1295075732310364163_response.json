@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the Wudang Mountains' Ancient Building Complex as a UNESCO World Heritage site, praising its preservation and exemplary Taoist architecture spanning nearly a millennium. Evaluation: CH1 (West immoral/hostile) – Not referenced. CH2 (China benevolent power) – No mention of international cooperation, law, or global stewardship. CH3 (epic history) – While it references a long historical period, it does not frame adversity, resilience, or CCP-linked overcoming; it's descriptive, not narrative of struggle. CH4 (political system/values) – No political content. CH5 (CCP governance succeeds) – No link to government achievements or development. CH6 (China’s culture/nature/heritage) – Yes; it promotes cultural heritage and architecture, fitting this narrative. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

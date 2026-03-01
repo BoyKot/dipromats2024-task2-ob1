@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet calls for China to stand firm against 'unfriendly forces,' respond to 'defamations and attacks,' and 'speak up for justice' against 'power politics & bullying,' framing this as the duty of China's diplomacy and character. Evaluation: CH1 (The West is immoral, hostile and decadent) – Implicitly aligns: references to 'unfriendly forces,' 'defamations,' 'power politics & bullying' portray external actors (often code for Western powers) as hostile and unjust. This fits the victimization/hostility framing of CH1. CH2 (China is a benevolent power) – Partially aligns: invoking 'speak up for justice' and positioning China's diplomacy as responsible suggests a principled, justice-oriented international role, consistent with portraying China as defending fairness. CH3 (epic history) – Not present; no historical narrative. CH4 (appropriate political system and honorable values) – Not directly; values are framed in foreign policy terms, not domestic system legitimacy. CH5 (CCP succeeds) – Not discussed; no governance performance claims. CH6 (culture/nature) – Not relevant. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

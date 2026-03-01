@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights China hosting COP15 in Kunming, praising Yunnan’s biodiversity and framing the event as an opportunity for global biodiversity strategies. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no criticism of the West. CH2 (China is a benevolent power): Partially supported—by positioning China as host facilitating multilateral cooperation on global biodiversity and environmental governance, it implies a constructive international role. CH3 (epic history): Not referenced. CH4 (appropriate political system/values): Not discussed; no linkage to domestic political system or values. CH5 (CCP government succeeds): Not explicit; while hosting could imply capability, the tweet does not credit government performance or achievements. CH6 (interesting culture/nature/heritage): Supported—the tweet emphasizes Yunnan’s natural beauty and exceptional biodiversity (“Kingdom of Animals and Plants,” “Gene Bank of Species”). Conclusion: CH2 and CH6 apply.",
+    "narrative_ids": ["CH2", "CH6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns Iran for detaining U.S. citizens (Siamak Namazi, his father Baquer, and Morad Tahbaz) on alleged false charges and demands their immediate release. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to U.S. historical values or legacy. US2 (admirable society) – Not applicable; no mention of U.S. social groups or civil society. US3 (hostile enemies) – Applicable; it portrays the Iranian regime as unjust and immoral (arresting on fake charges, holding innocent victims), positioning Iran as a hostile adversary. US4 (force for good) – Partially implied through calling for release, but the tweet centers on condemning Iran rather than showcasing U.S. actions or support; not sufficiently promoted. US5 (great international ally) – Not relevant; no ally mentioned. US6 (at the forefront) – Not relevant; no leadership or capability claims. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

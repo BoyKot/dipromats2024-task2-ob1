@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet offers condolences on the passing of former Kenyan President Daniel Arap Moi and states that the United States, as a long-time friend and partner of Kenya, stands with Kenyans during mourning. Evaluation: US1 (honorable tradition) – Not directly; it mentions a 55-year partnership but does not showcase US values or historical feats as a legacy. US2 (admirable society) – No reference to US society or groups. US3 (hostile enemies) – No adversaries mentioned. US4 (force for good) – Implicitly compassionate, but primarily a condolence; it does not highlight human rights, freedoms, or active support efforts. US5 (great international ally) – Yes; it emphasizes the US as a “friend and partner” of Kenya for over 55 years and expresses solidarity, showcasing dependable alliance. US6 (at the forefront) – No claims of leadership or superiority. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

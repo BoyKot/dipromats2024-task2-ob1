@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that by working with allies, the U.S. can hold the worst human rights violators accountable at the UN Human Rights Council, concluding that U.S. leadership matters. Evaluation: US1 (honorable tradition) – Not explicit; it does not reference tradition or historical legacy. US2 (admirable society) – No focus on society, groups, or heroes. US3 (hostile enemies) – It mentions \"countries with the worst human rights records\" but does not identify adversaries or frame them as threats to the U.S.; primary emphasis is accountability, so not applicable. US4 (force for good) – Yes; it highlights U.S. support for human rights and holding abusers accountable, portraying the U.S. as promoting rights and justice internationally. US5 (great international ally) – Partially implied through \"work closely with our allies and friends,\" but the emphasis is not on steadfast support to allies; still, it underscores cooperation. This supports the narrative of being a good ally. US6 (at the forefront) – Yes; \"U.S. leadership matters\" positions the U.S. as a leader in international human rights forums. Conclusion: US4, US5, and US6 apply.",
+    "narrative_ids": ["US4", "US5", "US6"]
+  }
+}

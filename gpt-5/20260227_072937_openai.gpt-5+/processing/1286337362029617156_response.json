@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet denies UK/US accusations about Chinese cyberattacks, asserts China is a firm defender of cybersecurity, and labels Western claims as baseless slander disrespecting Chinese scientists. CH1: Yes—depicts the US/UK as hostile, making groundless accusations and slander, positioning China as the victim of Western misconduct. CH2: Partially—by calling China a \"firm defender of cyber security,\" it presents China as upholding international security norms, but the focus is defensive rebuttal rather than broad cooperative benevolence; still, it promotes a benevolent role in cybersecurity. CH3: No—no historical resilience or past adversity. CH4: Not directly—does not discuss China’s domestic political system or values in governance; it is about external accusations. CH5: No—no claims about government performance or technological/social success, aside from defending scientists’ integrity. CH6: No—unrelated to culture or heritage. Conclusion: CH1 clearly applies; CH2 applies to a lesser extent due to framing China as a defender of international cybersecurity.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights a UNESCO World Heritage site in China—the Classical Gardens of Suzhou—describing their historical period and cultural significance in reflecting natural beauty in Chinese culture. Evaluation: CH1 (West immoral/hostile) – Not present; no comparison or criticism of the West. CH2 (China as benevolent power) – Not present; no references to international cooperation or global governance. CH3 (Epic history/adversities) – Not present; mentions historical timeframe but not adversity or resilience. CH4 (Appropriate political system/values) – Not present; no politics or governance claims. CH5 (CCP government succeeds) – Not present; no mention of government achievements or development. CH6 (China’s culture/nature/heritage) – Present; the tweet explicitly promotes Chinese cultural heritage by showcasing a UNESCO-listed site and its cultural meaning. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

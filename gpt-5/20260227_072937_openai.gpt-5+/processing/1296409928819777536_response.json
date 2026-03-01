@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Tsar Alexander II laying the cornerstone of the State Historical Museum in 1875 and praises it as one of the world's largest museums representing Russia's history and culture. Evaluation: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads alternative system): Not mentioned; no multilateral or alternative-order framing. RU3 (Russia benevolent partner): Not applicable; no partnership or peace/development claims. RU4 (Russian history is admirable): Yes. It celebrates a historic milestone and elevates Russia’s historical legacy via a premier national museum spanning from earliest times to present, implying pride and significance of Russian history. RU5 (Russia at the world’s forefront): Partially suggested by “among the world 5 largest museums,” which positions a Russian institution at a global top tier; this aligns with showcasing current prominence. RU6 (Russia interesting in culture, nature, heritage): Yes. It promotes Russian culture and heritage via the museum and its representation of national history. Conclusion: RU4, RU5, and RU6 are promoted.",
+    "narrative_ids": ["RU4", "RU5", "RU6"]
+  }
+}

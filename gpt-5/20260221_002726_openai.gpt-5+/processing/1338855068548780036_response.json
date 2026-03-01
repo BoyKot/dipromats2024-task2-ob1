@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates filmmaker Oliver Stone receiving Russia’s Sputnik V vaccine, framing it as a notable achievement (“V is for Victory”) and a “great Sputnik V moment.”\nEvaluation by narrative:\n- RU1 (West immoral/hostile/decadent): The tweet does not mention or criticize the West; no alignment.\n- RU2 (Russia leads an alternative system): No reference to multilateralism or alternative global order; not applicable.\n- RU3 (Russia is a benevolent partner): No emphasis on partnership, aid, or solidarity; not applicable.\n- RU4 (Russian history is admirable): No historical framing; not applicable.\n- RU5 (Russia is at the world’s forefront): Yes. Highlighting a prominent Oscar-winning figure choosing Sputnik V and labeling it a “great moment” and “Victory” underscores Russia’s scientific/technological success and leadership in vaccines.\n- RU6 (Russia’s culture/nature/heritage): Not about culture or nature; not applicable.\nConclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

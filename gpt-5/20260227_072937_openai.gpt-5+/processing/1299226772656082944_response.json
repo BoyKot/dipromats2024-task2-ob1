@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states the U.S. strongly supports the OSCE, calling it the paramount instrument for building a peaceful, stable, open region, and notes a positive exchange with the OSCE Troika. Evaluation by narrative: US1 (honorable tradition): Not explicitly about U.S. historical legacy or tradition; it's a present-tense endorsement of an institution. US2 (admirable society): No reference to U.S. society, diversity, civil actors, or heroes. US3 (hostile enemies): No adversary is mentioned. US4 (force for good): Yes. It frames U.S. support for the OSCE as advancing peace, stability, and open societies—hallmarks of promoting human rights and peace. US5 (great international ally): Yes. It emphasizes steadfast U.S. support for an international partner/institution (OSCE) and positive engagement with allied members (Troika), underscoring reliability as an ally. US6 (at the forefront): No claim of leadership, superiority, or being number one; it supports rather than leads. Conclusion: US4 and US5 apply.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

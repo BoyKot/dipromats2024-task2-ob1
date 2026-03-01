@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that EU leaders are discussing the COVID-19 situation; it acknowledges citizens’ fatigue and calls for patience, discipline, and solidarity, asserting that the EU is working hard on all aspects of the crisis. Evaluation: EU1 (EU as a successful story): Not directly; no historical reflection or track record, just current efforts. EU2 (EU is united): Implicitly promoted by referencing joint discussion with EU leaders and emphasizing solidarity; suggests coordination and unity. EU3 (EU is useful for its citizens): Promotes the idea that the EU is actively working on all aspects of the COVID-19 crisis, addressing public concerns—this frames the EU as practical and responsive domestically. EU4 (avant-garde actor): Not claimed; no pioneering or leadership framing. EU5 (global champion of fair causes): Not relevant; no human rights/democracy angle. EU6 (EU contributes to a better world): Not applicable; focus is internal crisis management, not global contributions. Conclusion: The tweet promotes EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

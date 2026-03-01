@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A quote praising China as a 'real and heart-warming country' and pledging to act as a cultural ambassador to build China–Africa friendship. Evaluation by narrative: CH1 (West immoral/hostile) – not mentioned or implied; no comparison to the West. CH2 (China is a benevolent power) – implicitly supported: portrays China positively and emphasizes friendship-building and cultural diplomacy with Africa, aligning with a cooperative, mutually beneficial image internationally. CH3 (epic history) – not referenced. CH4 (appropriate political system/values, domestically) – not addressed; praise is general and cultural, not about governance or political system. CH5 (CCP government succeeds) – no mention of governance achievements. CH6 (culture/nature/heritage) – partially relevant: the tweet frames China as 'heart-warming' and highlights a role as a 'culture Ambassador,' promoting cultural exchange; while not citing specific cultural elements, it does present China as culturally appealing. Conclusion: CH2 and CH6 apply.",
+    "narrative_ids": ["CH2", "CH6"]
+  }
+}

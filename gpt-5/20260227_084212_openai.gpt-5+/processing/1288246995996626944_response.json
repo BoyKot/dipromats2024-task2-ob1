@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Western countries/media spread lies about Xinjiang, asserts China protects religious freedom, and cites the renovated Id Kah Mosque and an Uyghur imam as proof, amplifying a Chinese Embassy post. CH1: It depicts the West as spreading rumors and lies (hostile, immoral behavior toward China), so CH1 applies. CH2: No emphasis on China’s international cooperative role or multilateralism; not applicable. CH3: No historical arc or past adversities; not applicable. CH4: It asserts honorable domestic governance/values (protecting freedom of religious belief) and implicitly defends the Chinese political system’s moral uprightness in domestic affairs, so CH4 applies. CH5: It highlights concrete government success domestically (renovation of a key mosque, minority coexistence/religious protection), so CH5 applies. CH6: While referencing a famous mosque, the intent is political rebuttal, not cultural/heritage promotion; not applicable. Conclusion: CH1, CH4, CH5.",
+    "narrative_ids": ["CH1", "CH4", "CH5"]
+  }
+}

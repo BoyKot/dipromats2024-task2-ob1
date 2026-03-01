@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates the formal launch of Europe’s Beating Cancer Plan, framing it as an emotional, hopeful milestone grounded in European values and dignity. Evaluation by narrative: EU1 (EU is a successful story): Implicitly positive about the EU, but it does not reference history, overcoming past obstacles, or lessons learned; focus is on a current policy launch. Not sufficiently supported. EU2 (EU is united): No mention of unity among member states or reaching agreements; not supported. EU3 (EU is useful for its citizens): Yes. It highlights a concrete EU policy (Beating Cancer Plan) aimed at addressing citizens’ concerns (fighting cancer) and implies practical benefit and determination. EU4 (EU as avant‑garde): Partially implied by launching a major plan, but no explicit claim of pioneering or leadership; insufficient evidence. EU5 (EU as champion of fair causes): Mentions values and dignity, but in the health policy context rather than rights advocacy; not aligned. EU6 (EU contributes to a better world): The scope is internal EU health policy, not global action; not supported. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Digital tech, specifically mobile tracing apps, can help combat COVID-19 and enable a gradual return to normal, but public trust requires strong data privacy, confidentiality, and security. Evaluation: EU1 (EU successful story): Not referenced; no historical or success framing of the EU. EU2 (EU united): No mention of EU unity, solidarity, or agreements. EU3 (EU useful for its citizens): The tweet promotes practical, citizen-focused solutions (contact tracing apps, privacy/security requirements) that address public concerns and improve daily life. Although it doesn’t explicitly name the EU, this aligns with the narrative of EU policies/recommendations being useful to citizens within the EU. EU4 (EU avant-garde): It mentions digitalization tools but does not frame the EU as a pioneer or leader. EU5 (EU global champion of fair causes): Human rights framing is absent. EU6 (EU contributes to a better world): No global or external action context. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

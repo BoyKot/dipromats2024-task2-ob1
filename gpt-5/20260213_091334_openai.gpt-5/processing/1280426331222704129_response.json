@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Shaanxi’s historical significance as the seat of many ancient Chinese dynasties and invites readers to learn more about the province. Evaluation by narrative: CH1 (West immoral/hostile): Not referenced; no comparison to the West. CH2 (China benevolent power): No mention of international conduct or cooperative stance. CH3 (China has an epic history): While it references ancient dynasties, it does not frame resilience, adversity, or unfair treatment, nor link to CCP governance; it's neutral heritage, not epic struggle. CH4 (appropriate political system/values): No political content. CH5 (CCP succeeds): No claims about current government achievements. CH6 (China is interesting in culture/nature/heritage): Yes; it promotes Chinese culture and historical heritage by featuring Shaanxi’s ancient capitals and inviting further exploration. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

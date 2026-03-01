@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet commemorates Russia's naval history and links it to Crimea, portraying Russian history as admirable; thus RU4 applies. It does not promote Western hostility (RU1), an alternative system (RU2), a benevolent partnership (RU3), current leadership (RU5), or culture/nature (RU6) narratives.",
+    "narrative_ids": ["RU4"]
+  }
+}

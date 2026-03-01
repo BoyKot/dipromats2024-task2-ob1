@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet warns that most EU countries are off-track on 2030 air pollution targets, then argues that investing in clean air benefits health, climate, and the economy, framing this as the essence of the European Green Deal. Evaluation per narrative: EU1 (EU is a successful story) – Not supported; the tweet highlights shortcomings (off-track) rather than past successes. EU2 (EU is united) – Not supported; no mention of unity or agreement among member states. EU3 (EU is useful for its citizens) – Supported; it promotes an EU policy (European Green Deal) as delivering practical benefits for citizens’ health, climate, and the economy, addressing internal EU concerns. EU4 (EU as avant-garde) – Supported; it positions the European Green Deal as a forward-looking framework tackling climate and pollution, implying EU leadership/pioneering action. EU5 (global champion of fair causes) – Not applicable; no focus on democracy/human rights. EU6 (EU contributes to a better world) – Not applicable; focus is internal, not on global contributions. Conclusion: The tweet promotes EU3 and EU4.",
+    "narrative_ids": ["EU3", "EU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Ivan Bilibin, a renowned Russian artist, noting his iconic style, contributions to Russian heraldry and art institutions, and widespread recognition among Russian children. Evaluation: RU1 (West immoral/hostile) – Not present; no mention of the West or morality. RU2 (Russia leads alternative system) – Not present; no geopolitical or multilateral framing. RU3 (Russia benevolent partner) – Not present; no partnership or diplomacy content. RU4 (Russian history is admirable) – Yes; it highlights a notable Russian historical figure’s cultural contributions and frames them positively as nationally iconic, aligning with celebrating Russia’s historical and cultural legacy. RU5 (Russia at the world’s forefront) – Not present; no claim of current superiority or cutting-edge status. RU6 (Russia’s culture/nature/heritage interesting) – Partially relevant, but the tweet is more about historical admiration than tourism or cultural promotion broadly; the emphasis is on historical-cultural legacy rather than inviting interest in contemporary culture or nature. Final determination: RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

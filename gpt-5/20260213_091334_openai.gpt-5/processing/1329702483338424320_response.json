@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A neutral diplomatic update stating that Russia’s ambassador to Ethiopia met the UN Secretary-General's Special Envoy for the Horn of Africa to discuss regional and international security, describing the exchange as fruitful. Evaluation against narratives: RU1 (West immoral/hostile): Not present; no mention or criticism of the West. RU2 (Russia leads an alternative system): Not evident; the meeting is with a UN envoy, within mainstream multilateralism, and does not claim leadership of an alternative system. RU3 (Russia is a benevolent partner): Mildly implied; the tweet portrays Russia engaging constructively on security issues and highlights a “fruitful exchange,” suggesting responsible, cooperative behavior. RU4 (Russian history admirable): Not referenced. RU5 (Russia at forefront): No claims of superiority or achievements. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet subtly promotes RU3 by presenting Russia as a constructive diplomatic partner; no other narratives apply.",
+    "narrative_ids": ["RU3"]
+  }
+}

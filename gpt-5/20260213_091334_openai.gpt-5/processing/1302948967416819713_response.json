@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russian Deputy PM Borisov and FM Lavrov met Syria’s President Assad in Damascus to discuss strengthening bilateral cooperation. Evaluation by narrative: RU1 (West immoral/hostile) – not referenced; no mention of the West or moral judgments. RU2 (Russia leads an alternative system) – implicitly hints at non-Western cooperation with Syria, but the tweet does not frame it as an alternative system or multilateral order; it's a bilateral meeting without such positioning, so not sufficiently supported. RU3 (Russia is a benevolent partner) – yes; the emphasis on strengthening bilateral cooperation across various spheres presents Russia as a constructive, cooperative partner. RU4 (Russian history admirable) – not present. RU5 (Russia at the world’s forefront) – no claims of superiority or achievements. RU6 (Russia’s culture/nature) – not relevant. Conclusion: RU3 applies.",
+    "narrative_ids": ["RU3"]
+  }
+}

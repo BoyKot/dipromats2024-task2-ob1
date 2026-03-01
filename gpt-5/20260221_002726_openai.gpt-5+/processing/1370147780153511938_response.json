@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet touts the White House COVID-19 response achievements under the President’s leadership—vaccine supply for all adults by end of May, over 2 million daily shots, and 95 million doses administered in 50 days. Evaluation: US1 (honorable tradition) — Not invoked; no reference to historical legacy or founding values. US2 (admirable society) — Not about societal groups or civil society; focuses on government performance. US3 (hostile enemies) — No adversaries mentioned. US4 (force for good) — Implicitly presents the US government’s efforts to protect public health and deliver vaccines as beneficial, but it’s domestically focused without explicit human-rights/aid framing; still aligns with showcasing efforts toward development/security (public health). US5 (great international ally) — No ally references. US6 (at the forefront) — The emphasis on rapid scale-up, high daily vaccination rates, and large cumulative doses positions the US as leading in pandemic response performance, fitting a leadership/forefront framing. Conclusion: US4 and US6.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

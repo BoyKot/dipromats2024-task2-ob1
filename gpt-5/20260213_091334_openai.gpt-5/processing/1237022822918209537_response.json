@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Yuri Gagarin’s birthday, celebrating him as the first human in space and asserting his achievement changed humanity and showed that nothing is impossible. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or moral judgments. RU2 (Russia leads an alternative system): Not present; no discussion of systems, multilateralism, or non-Western cooperation. RU3 (Russia is a benevolent partner): Not present; no partnership or peacebuilding claims. RU4 (Russian history is admirable): Yes; it highlights a landmark Soviet/Russian historical achievement with global impact, portraying Russian history as admirable and trend-setting. RU5 (Russia at the world’s forefront): Implicitly yes; by emphasizing being first in space and transformative impact, it showcases Russia/Soviet scientific-technological primacy. RU6 (Russia’s culture/nature/heritage): Not applicable; this is not about culture/tourism/heritage broadly. Conclusion: The tweet promotes RU4 and RU5.",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

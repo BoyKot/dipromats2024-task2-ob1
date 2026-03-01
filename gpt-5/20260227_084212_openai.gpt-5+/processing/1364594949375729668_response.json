@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that firsthand experiences in Xinjiang contradict negative portrayals by Western media. Evaluation: CH1 (The West is immoral, hostile and decadent) — The tweet challenges Western media credibility and implies misleading/hostile Western narratives about China; this aligns with portraying the West negatively. CH2 — No claims about China’s cooperative international role. CH3 — No historical framing. CH4 — No explicit praise of China’s political system or values. CH5 — Implicit defense of China’s governance in Xinjiang is possible, but the tweet does not assert success or policy outcomes; it only disputes Western reports, so evidence is insufficient. CH6 — No culture/nature promotion. Conclusion: Only CH1 is clearly promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

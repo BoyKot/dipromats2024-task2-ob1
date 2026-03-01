@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates that 17 of 31 key Sputnik V developers are women and extends gratitude to women in science on International Women’s Day. It highlights inclusivity and scientific achievement linked to Sputnik V (a Russian vaccine). Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads alternative system): No mention of multipolarity, non-Western cooperation, or alternative order. RU3 (Russia as benevolent partner): The tone is appreciative, but it does not frame Russia as a partner in peace/solidarity internationally; it’s an internal achievement acknowledgment. RU4 (Russian history admirable): Not about historical legacy; it’s contemporary. RU5 (Russia at the world’s forefront): Yes—by emphasizing the composition and success-linked team behind Sputnik V, it implicitly showcases Russia’s cutting-edge scientific capacity and leadership in vaccine development. RU6 (Russia interesting in culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

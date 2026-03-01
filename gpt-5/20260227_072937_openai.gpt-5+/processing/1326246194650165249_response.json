@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Crimea is highly diverse in religious confessions and that Russian authorities prioritize preserving and developing the historically established unity of the peninsula’s multinational people. Evaluation by narrative: RU1 (West immoral/hostile) – Not referenced; no mention of the West or hostility. RU2 (Russia leads an alternative system) – Not applicable; no multilateral/global system angle. RU3 (Russia is a benevolent partner) – Partially aligns: it portrays Russian authorities as caretakers promoting social harmony and unity in Crimea, emphasizing benevolent governance. RU4 (Russian history admirable) – Not applicable; no historical glorification beyond a brief note of “historically established unity,” which serves the benevolent-governance frame rather than celebrating broader history. RU5 (Russia at the world’s forefront) – Not applicable; no achievements or superiority claims. RU6 (Russia’s culture/nature/heritage) – Some cultural diversity is mentioned, but the intent is governance/unity rather than promoting culture or tourism; insufficient to match RU6. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

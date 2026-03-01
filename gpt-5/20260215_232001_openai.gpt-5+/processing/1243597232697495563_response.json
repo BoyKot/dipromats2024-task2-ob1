@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian MFA spokesperson (Zakharova) urges Turkey to separate moderates from extremists in Syria’s Idlib de-escalation zone and asserts that rebranding terrorist groups does not change their nature. Evaluation against narratives: RU1 (West immoral/hostile): The tweet does not criticize the West or its allies; it focuses on Turkey and extremist groups in Syria, so not applicable. RU2 (Russia leads an alternative system): While it references de-escalation efforts and cooperation with Turkey, it does not portray Russia as leading a non-Western multilateral system or contrast with Western order explicitly; insufficient to claim RU2. RU3 (Russia is a benevolent partner): The tweet positions Russia as working constructively with Turkey on counterterrorism and stabilization in Syria, implying responsible, peace-promoting conduct; this aligns with portraying Russia as a reliable, benevolent partner. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the forefront): No claim of achievements or leadership superiority. RU6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

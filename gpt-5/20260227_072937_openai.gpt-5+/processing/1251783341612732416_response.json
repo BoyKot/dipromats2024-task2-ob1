@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises European solidarity during the coronavirus crisis, highlighting coordinated EU action reviewed by President von der Leyen. Evaluation by narrative: EU1 (EU successful story) – Implicitly suggested through positive framing of Europe standing up together in a crisis, but the tweet focuses on the present response rather than historical trajectory; still, it showcases overcoming obstacles, so moderately applicable. EU2 (EU is united) – Strongly applicable: “real Europe is standing up … there for each other” and reference to coordinated action explicitly emphasize unity and solidarity. EU3 (EU useful for its citizens) – Applicable: mentions coordinated EU action on coronavirus, implying practical measures addressing citizens’ concerns. EU4 (avant-garde actor) – Not supported; no claim of pioneering regulation or leadership in future-oriented domains. EU5 (global champion of fair causes) – Not referenced. EU6 (EU contributes to a better world) – Not indicated; focus is internal EU pandemic response, not global role. Conclusion: The tweet promotes EU2 clearly and EU3; EU1 is also supported to a lesser extent.",
+    "narrative_ids": ["EU2", "EU3", "EU1"]
+  }
+}

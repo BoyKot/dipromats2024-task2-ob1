@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet warns that if the US continues discriminatory suppression of Chinese media/journalists, China will respond with necessary and legitimate countermeasures. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) — Supported: it portrays the US as engaging in political discrimination and suppression, casting China as a victim of hostile US behavior. CH2 (China is a benevolent power) — Not supported: no emphasis on cooperation, multilateralism, or global public goods; only mentions retaliation as legitimate. CH3 (China has an epic history) — Not supported: no historical references. CH4 (China has an appropriate political system and honorable values) — Not supported: no discussion of China’s domestic political system or values. CH5 (The government of the CCP succeeds) — Not supported: no claims about development or governance success. CH6 (China is interesting culturally) — Not applicable. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

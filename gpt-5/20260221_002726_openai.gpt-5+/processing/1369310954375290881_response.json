@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Yuri Gagarin’s birth and first human spaceflight, adding a trivia note that a street in Kampala is named after him. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no mention of the West or adversarial framing. RU2 (Russia leads alternative system) – Not present; no reference to multilateralism or non-Western cooperation. RU3 (Russia as benevolent partner) – Not explicit; while mentioning a Kampala street hints at international recognition, it does not portray partnership, aid, or solidarity actions. RU4 (Russian history is admirable) – Yes; it lauds a seminal Soviet/Russian historical achievement (first human in space) and highlights its global resonance. RU5 (Russia at the world’s forefront) – Implicitly yes in historical terms; presenting the first human spaceflight underscores Russian/Soviet technological leadership at that time. RU6 (Russia interesting culturally/naturally) – Not applicable; no cultural or travel promotion. Conclusion: The tweet promotes RU4 and, by emphasizing pioneering achievement, also aligns with RU5.",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

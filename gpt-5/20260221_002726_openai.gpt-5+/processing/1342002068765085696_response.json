@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU is dispatching newly approved COVID-19 vaccines to all 27 member states for coordinated EU Vaccination Days on 27–29 December. Evaluation per narrative: EU1 (successful story): Implicitly showcases EU capacity to deliver after vaccine approval, but the tweet focuses on current logistics rather than historical success; weak fit. EU2 (EU is united): Strongly supported—mentions all 27 EU countries receiving shipments and a coordinated vaccination schedule, signaling unity and solidarity. EU3 (useful for its citizens): Supported—the coordinated delivery of vaccines addresses a core public health concern and demonstrates practical, timely action benefiting EU residents. EU4 (avant-garde): Not indicated—no claim of pioneering leadership or regulatory forefront beyond approval and dispatch. EU5 (global champion of fair causes): Not relevant—no human rights or democracy framing. EU6 (contributes to a better world): Not applicable—focus is internal to the EU, not global outreach. Conclusion: The tweet promotes EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

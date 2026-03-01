@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges Beijing and Hong Kong authorities to release detained pan-democratic candidates, arguing the National Security Law is used to stifle dissent and undermine Hong Kong’s autonomy. It signals solidarity with the \"international community\" and emphasizes human rights and freedoms. Evaluation per narrative: US1 (honorable tradition) — not invoked; no reference to U.S. historical legacy or traditions. US2 (admirable society) — not relevant; no mention of U.S. society or groups. US3 (hostile enemies) — while it criticizes Beijing/Hong Kong authorities, the framing is about human rights concerns rather than portraying a general hostile enemy to the U.S.; not a fit. US4 (force for good) — yes; the tweet aligns with promoting human rights and standing with oppressed/democratic actors, positioning the speaker (implicitly the U.S. or allied stance) as supporting freedoms and autonomy. US5 (great international ally) — not applicable; no praise of allies or U.S. support to specific allies. US6 (at the forefront) — not applicable; no leadership/innovation framing. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

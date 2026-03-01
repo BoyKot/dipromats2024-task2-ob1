@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates IDAHOT and asserts that all human rights are universal, emphasizing the EU’s commitment to defending LGBTI rights and individuals’ freedom to define identity and love whom they choose. Evaluation per narrative: EU1 (successful story) – not referenced; no historical achievements or overcoming obstacles mentioned. EU2 (united) – no mention of internal EU unity or member state agreement. EU3 (useful for citizens) – while it concerns rights relevant to citizens, it does not highlight concrete EU policies or practical measures improving lives; it’s a values statement, so not a fit. EU4 (avant-garde actor) – could be loosely implied, but the tweet does not frame the EU as a pioneer versus others or highlight leading regulations; insufficient. EU5 (global champion of fair causes) – yes: explicitly positions the EU as fighting for universal human rights and LGBTI rights, aligning with championing minority rights. EU6 (contributes to a better world) – not explicit; no mention of development, peace, or global partnerships beyond value affirmation. Conclusion: The tweet promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

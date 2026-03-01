@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet denies accusations of Chinese 'hostage diplomacy,' asserting that two Australian journalists were questioned lawfully to aid an investigation, and challenges Australia to provide evidence they were forced out. Evaluation: CH1 (The West is immoral, hostile and decadent): Implicitly challenges Australian/Western accusations as unfounded and provocative, positioning China as wrongly accused. This frames the West (Australia) as making baseless claims, aligning with CH1. CH2 (China is a benevolent power): The tweet appeals to legality and due process but does not emphasize international cooperation or benevolence; focus is defensive, not promoting global public goods—weak fit. CH3 (epic history): Not referenced. CH4 (appropriate political system and honorable values): It asserts actions were 'in accordance with law,' implying China’s governance is rule-based and legitimate—this defends the propriety and moral uprightness of China’s system domestically, fitting CH4. CH5 (CCP succeeds): No developmental or performance claims. CH6 (culture/nature): Not relevant. Conclusion: CH1 and CH4 apply.",
+    "narrative_ids": ["CH1", "CH4"]
+  }
+}

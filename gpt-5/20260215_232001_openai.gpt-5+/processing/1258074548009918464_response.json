@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts China’s cooperative, generous actions during a health crisis (supplying medical goods, calling for international cooperation) with the US’s alleged hostile/immoral behavior (defunding WHO, intercepting supplies, maligning China). Evaluation per narrative: CH1 – Yes. The tweet portrays the US/West as hostile and immoral (stopping WHO funding, intercepting allies’ supplies, spreading lies), implicitly positioning China as a victim of Western hostility. CH2 – Yes. It frames China as a benevolent, cooperative power providing aid to over 150 countries and to Americans, and advocating international cooperation. CH3 – No. No historical arc or adversity narrative. CH4 – No. No discussion of China’s domestic political system or values. CH5 – No. Not about CCP governance success domestically or technological/economic leadership. CH6 – No. Not about culture or heritage. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

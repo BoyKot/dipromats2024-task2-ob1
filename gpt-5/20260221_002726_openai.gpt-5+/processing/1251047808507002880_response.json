@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative note about a long-running Soviet/Russian nature TV show, highlighting its longevity and beloved status, and mentioning biologist Nikolay Drozdov. Evaluation by narrative: RU1 (West immoral/hostile) – not mentioned or implied. RU2 (Russia leads alternative system) – no discussion of global systems or multipolarity. RU3 (Russia benevolent partner) – not about partnerships or diplomacy. RU4 (Russian history is admirable) – yes: it praises a historical cultural achievement (iconic, longest-running, adored by generations), framing Russia/Soviet legacy as admirable. RU5 (Russia at the world’s forefront) – partially suggested by “longest-running programme of its kind,” implying a superlative/leadership in a domain; however the focus is historical commemoration rather than current prowess; still, the superlative supports RU5. RU6 (Russia’s culture/nature/heritage interesting) – yes: it promotes cultural heritage (a nature TV program) and a prominent cultural figure, showcasing Russian cultural/natural heritage. Final determination: RU4 and RU6 clearly apply; RU5 is also supported by the explicit claim of being the longest-running of its kind.",
+    "narrative_ids": ["RU4", "RU5", "RU6"]
+  }
+}

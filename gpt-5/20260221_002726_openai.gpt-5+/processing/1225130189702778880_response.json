@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that during the occupation of Pskov, the Estonian security police and Security Service were responsible for the deaths of at least 3,000 Soviet people, tying it to WWII and Black Ribbon Day. Evaluation: RU1 (West and allies are immoral, hostile and decadent): The tweet portrays Estonia (a Western-aligned country) as having committed atrocities against Soviet people, framing a Western ally as immoral/hostile. This aligns with RU1’s depiction of the West or its allies as hostile actors harming Russians/Soviets. RU2 (Russia leads an alternative system): No mention of alternative systems or multilateralism. RU3 (Russia is a benevolent partner): Not applicable; no claims about Russia’s benevolence. RU4 (Russian history is admirable): The tweet references Soviet-era victimhood and WWII but does not praise Russian/Soviet achievements or contributions; it focuses on alleged crimes by Estonian services. RU5 (Russia at the world’s forefront): Not relevant. RU6 (Russia culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the U.S. (under President Trump) for threatening to ban TikTok unless sold to a U.S. company, using this to mock claims of U.S. 'democracy,' 'free market,' and 'fair competition.' Evaluation: RU1 (The West and their allies are immoral, hostile and decadent) – Supported. The tweet portrays the U.S./West as hypocritical and unfair, undermining their proclaimed values, which fits depicting the West as immoral/hostile and its liberal order as hypocritical/decadent. RU2 (Russia leads an alternative system) – Not present; no mention of Russia or an alternative multilateral system. RU3 (Russia is a benevolent partner) – Not present. RU4 (Russian history is admirable) – Not present. RU5 (Russia is at the world’s forefront) – Not present. RU6 (Russia culture/nature) – Not present. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that on March 30, President Putin offered to send humanitarian cargo to help the US counter COVID-19, the offer was accepted, and a Russian aircraft with medical supplies landed in New York City two days later. Evaluation: RU1 (West immoral/hostile) – Not promoted; there is no criticism of the West or the US, only mention of cooperation. RU2 (Russia leads an alternative system) – Not directly; while it implies international cooperation, it does not frame an alternative system or multipolar order. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as providing humanitarian aid to the US promptly, emphasizing solidarity and helpfulness. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Not explicitly; no claims of superiority or cutting-edge capability, only aid delivery. RU6 (Russia interesting culturally/naturally) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

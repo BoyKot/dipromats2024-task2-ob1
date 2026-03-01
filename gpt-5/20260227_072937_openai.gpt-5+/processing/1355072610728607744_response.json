@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia (via RDIF) offers to supply the EU with 100 million doses of Sputnik V after finishing mass vaccination at home, noting EMA approval is required and that Sputnik V is already registered in 15 countries with documents submitted for EMA rolling review. Evaluation per narrative: RU1 (West immoral/hostile): Not present; the tweet is non-confrontational and does not criticize the West. RU2 (Russia leads an alternative system): Partially adjacent, but the tweet does not frame an alternative order or non-Western cooperation; it seeks EMA approval and cooperation with the EU, so not RU2. RU3 (Russia is a benevolent partner): Yes; it portrays Russia as willing to help the EU with vaccine doses, emphasizing solidarity and reliability. RU4 (Russian history admirable): Not applicable. RU5 (Russia at the world’s forefront): Yes; highlighting mass vaccination completion, capacity to export large quantities, registrations in 15 countries, and EMA rolling review positions Russia as successful and advanced in biotech/public health. RU6 (culture/nature): Not applicable. Conclusion: RU3 and RU5 apply.",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

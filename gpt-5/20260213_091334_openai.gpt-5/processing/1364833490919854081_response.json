@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet dismisses allegations of human rights abuses in Xinjiang by claiming a few witnesses' testimonies cannot outweigh the voices of 25 million residents, implying the allegations are lies. Evaluation: CH1 (The West is immoral, hostile and decadent) – Implicitly targets countries (likely Western) accusing Xinjiang of abuses as using dubious testimonies and spreading lies; portrays China/Xinjiang as victim of hostile, dishonest accusations. This aligns with CH1. CH2 (China is a benevolent power) – No mention of international cooperation or benevolence; not supported. CH3 (China has an epic history) – No historical framing; not supported. CH4 (China has an appropriate political system and honorable values) – The tweet defends China’s domestic governance by asserting the populace’s collective voice over external accusations, implying legitimacy and moral uprightness of China’s system in Xinjiang; this fits CH4’s domestic-values/legitimacy defense. CH5 (CCP government succeeds) – No explicit claims of development, minority coexistence success, or achievements; only denial of abuses; weak fit, so not included. CH6 (culture/nature) – Not relevant. Conclusion: CH1 and CH4 are promoted.",
+    "narrative_ids": ["CH1", "CH4"]
+  }
+}

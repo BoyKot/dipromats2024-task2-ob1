@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the Nobel Peace Prize was awarded to the UN World Food Programme and that Russian FM Sergey Lavrov sent congratulations to WFP's Executive Director. Evaluation: RU1 (West immoral/hostile) – not present; no criticism of the West. RU2 (Russia leads an alternative system) – not present; no mention of multipolarity or alternative institutions. RU3 (Russia is a benevolent partner) – partially aligned: Russia/Lavrov congratulating a UN humanitarian body portrays Russia as supportive of global peace and humanitarian work, signaling benevolence and partnership with international institutions. RU4 (Russian history admirable) – not referenced. RU5 (Russia at the forefront) – no claims of current achievements. RU6 (Culture/nature/heritage) – not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The speaker expresses condolences to Ukraine for the UIA Flight 752 crash and pledges U.S. support/assistance in the investigation, signaling solidarity with an ally. \nEvaluation:\n- US1 (honorable tradition): The tweet does not reference U.S. historical values or legacy; not applicable.\n- US2 (admirable society): No mention of U.S. societal groups, civil society, companies, or heroes; not applicable.\n- US3 (hostile enemies): No adversary is identified or criticized; not applicable.\n- US4 (force for good): Offering support and assistance in a tragedy and investigation reflects humanitarian support and constructive international engagement; applicable.\n- US5 (great international ally): Explicitly states “We stand with Ukraine” and readiness to assist, underscoring steadfast support to an ally; applicable.\n- US6 (at the forefront): No claim of leadership or superiority in domains like tech/economy/military; not applicable.\nConclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

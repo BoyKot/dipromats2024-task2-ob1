@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims China acted openly and responsibly during Covid-19 by rapidly sharing the virus’s full genetic sequence and its experience with other countries, citing the UK NHS medical director via China Daily. Evaluation: CH1 (West immoral/hostile) – Not present; no criticism of the West. CH2 (China is a benevolent power) – Yes; the tweet highlights China's cooperative, transparent sharing with the international community, aiding global vaccine development, which fits the benevolent, multilateral framing. CH3 (epic history) – Not addressed. CH4 (appropriate political system/values domestically) – Partially adjacent via “open, transparent and responsible,” but this is framed in an international cooperation context rather than advocating China’s domestic political system; not a fit. CH5 (CCP government succeeds) – Some overlap in portraying effective governance (rapid sequencing/sharing), but the emphasis is on international benevolence rather than showcasing domestic development or broader success; primary fit is CH2, not CH5. CH6 (culture/nature) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

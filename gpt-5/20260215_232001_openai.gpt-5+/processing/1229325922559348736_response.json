@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet questions US warnings about 'untrustworthy' 5G vendors by invoking Snowden and alleging US spying on Merkel, implying US hypocrisy and suggesting the US is the real threat. Evaluation: CH1 (The West is immoral, hostile and decadent) — Supported. The tweet portrays the US as untrustworthy, threatening, and hypocritical due to past spying, depicting the West/US as hostile and immoral. CH2 — Not supported; no depiction of China as benevolent. CH3 — Not supported; no historical resilience theme. CH4 — Not supported; no praise of China's political system or values. CH5 — Not supported; no claim about CCP governance success. CH6 — Not supported; no cultural content. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the Trump administration’s recognition of Israeli sovereignty over the Golan Heights as proof of U.S. commitment to a strong Israel, and underscores ongoing security threats to Israel from Iran and its proxies. Evaluation by narrative: US1 (honorable tradition): Not directly; it does not invoke U.S. historical values or legacy. US2 (admirable society): Not relevant. US3 (hostile enemies): Partially references Iran and its proxies as threats, but frames them as threats to Israel, not explicitly to the U.S.; still, it highlights immoral adversaries in a U.S. foreign policy context—however the core thrust is alliance support. US4 (force for good): Implicit security support, but no explicit framing of human rights or broader global good; weak fit. US5 (great international ally): Strongly supported—the tweet showcases unwavering U.S. support for ally Israel via recognition of sovereignty and commitment to its security. US6 (at the forefront): No leadership/primacy claim beyond policy action. Conclusion: The primary narrative is US5. While Iran is labeled a threat, the tweet centers on alliance support; thus only US5 is clearly promoted.",
+    "narrative_ids": ["US5"]
+  }
+}

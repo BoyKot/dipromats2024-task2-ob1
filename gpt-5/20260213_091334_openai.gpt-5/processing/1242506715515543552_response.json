@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that two Russian Tu-95MS strategic missile carriers conducted a planned flight over neutral waters in the Sea of Japan and the northwestern Pacific, tagged with Russian Air Force-related hashtags.\nEvaluation:\n- RU1 (West immoral/hostile): No mention or implication about the West or allies being immoral/hostile.\n- RU2 (Russia leads an alternative system): No reference to multilateralism, alternative orders, or non-Western cooperation.\n- RU3 (Russia as benevolent partner): No framing of partnership, peacekeeping, or solidarity; it's a military flight report.\n- RU4 (Russian history admirable): No historical framing or references.\n- RU5 (Russia at the world’s forefront): The tweet highlights operational capability of strategic missile carriers and long-range aviation. While neutral in tone, it showcases current military capacity and reach, which aligns with portraying Russia’s advanced military prowess.\n- RU6 (Russia interesting culturally/nature): Not applicable.\nConclusion: The tweet promotes RU5 by showcasing contemporary military capability and reach; others are not supported.",
+    "narrative_ids": ["RU5"]
+  }
+}

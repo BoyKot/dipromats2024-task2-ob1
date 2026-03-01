@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises U.S.–Georgia cooperation, expresses unwavering U.S. support for Georgia’s sovereignty, and condemns/frames Russia as an occupier. Evaluation by narrative: US1 (honorable tradition) – not present; no reference to American historical legacy or traditions. US2 (admirable society) – not present. US3 (hostile enemies) – partially relevant via depicting Russia as an occupying adversary, but the narrative is defined as highlighting threats to the US; here Russia is framed as a threat to Georgia, not explicitly to the US. Nonetheless, it portrays a hostile actor undermining liberal values, so it tangentially fits but is secondary. US4 (force for good) – supported: the U.S. is shown defending sovereignty and opposing occupation, aligning with support for freedoms and security. US5 (great international ally) – strongly supported: emphasizes unwavering support for an ally (Georgia) and the importance of cooperation. US6 (at the forefront) – not present. Conclusion: The tweet clearly promotes US5 and US4; US3 is arguable but not primary.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

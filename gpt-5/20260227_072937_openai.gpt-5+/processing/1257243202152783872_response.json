@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Robert Schuman’s role in founding the EU for peace and solidarity after WWII, and claims Europeans today are again choosing solidarity and neighborly support to face a new common challenge. Evaluation: EU1 (successful story): Yes. It highlights the EU’s foundational purpose (peace, solidarity) and implies continuity of success from post-WWII to today, echoing learned lessons and cooperation. EU2 (EU is united): Yes. It explicitly states Europeans are choosing solidarity and neighborly support now to succeed, emphasizing present unity despite challenges. EU3 (useful for citizens): No explicit mention of concrete policies or practical measures improving lives; it’s aspirational rather than policy-focused. EU4 (avant-garde actor): No reference to pioneering regulation or leadership on future challenges. EU5 (global champion of fair causes): Not addressed; focus is intra-EU peace/solidarity, not external rights advocacy. EU6 (contributes to a better world): Not addressed; no claim about global or external contributions. Conclusion: Narratives EU1 and EU2 are promoted.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

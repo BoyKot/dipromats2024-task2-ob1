@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An invitation from the U.S. Embassy to join a discussion for Filipino American History Month highlighting achievements, contributions, and experiences of Filipino-Americans across sectors. Evaluation by narrative: US1 (honorable tradition) — Implicitly tied to celebrating a history month, but the tweet focuses on contemporary achievements of a community rather than extolling long-standing national traditions or historical feats of the U.S. Not clearly promoted. US2 (admirable society) — Yes; it highlights an ethnic community within the U.S. and their contributions in media, literature, government, and healthcare, showcasing diversity and civil society. US3 (hostile enemies) — No mention of adversaries. US4 (force for good) — No claims about human rights or international benevolence. US5 (great international ally) — No reference to alliances or supporting other nations. US6 (at the forefront) — No leadership or superiority claims. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

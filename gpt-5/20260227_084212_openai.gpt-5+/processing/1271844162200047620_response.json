@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates US–Iceland space collaboration, praises NASA and Women@NASA, and congratulates Kathy Lueders for leadership inspiring future STEM generations. Evaluation by narrative: US1 (honorable tradition) — The reference to a \"great history of space collaboration\" and celebrating NASA’s achievements evoke US historical feats and legacy; supported. US2 (admirable society) — Highlighting Women@NASA and celebrating a female leader’s success elevates inclusivity and societal achievements; supported. US3 (hostile enemies) — No mention of adversaries; not supported. US4 (force for good) — While positive, it doesn’t frame actions in terms of human rights or aiding oppressed peoples; not supported. US5 (great international ally) — Praises cooperation with Iceland and positions the US as a reliable partner in collaboration; supported. US6 (at the forefront) — Implicit leadership in space and inspiring future STEM suggests US leadership in technology/space; supported. Final determination: US1, US2, US5, US6.",
+    "narrative_ids": ["US1", "US2", "US5", "US6"]
+  }
+}

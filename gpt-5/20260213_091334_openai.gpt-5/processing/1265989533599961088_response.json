@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Cites Premier Li Keqiang stating that China will promote the peaceful reunification of the country (implicitly referencing Taiwan) during Two Sessions 2020. Evaluation: CH1 (West immoral/hostile) – not mentioned or implied. CH2 (China is a benevolent power) – partially overlaps with peace rhetoric internationally, but the statement is about domestic reunification, not China's cooperative international role; insufficient to claim CH2. CH3 (epic history) – no historical framing present. CH4 (appropriate political system and honorable values) – the pledge of 'peaceful reunification' portrays the government's values and approach to a domestic political issue, aligning with honorable, non-coercive principles and domestic governance claims; this supports CH4. CH5 (CCP government succeeds) – no claims of achievements or performance. CH6 (culture/nature) – not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

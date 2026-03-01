@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges deference to WHO and scientific experts, calls some actors 'habitual liars,' and suggests an international expert investigation trip to the US. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Implicitly targets the US by implying dishonesty ('habitual liars') and proposing an investigation in the US, casting the US as untrustworthy; this aligns with portraying the West/US negatively. CH2 (China is a benevolent power): Not promoted; the tweet does not portray China’s cooperative international role or altruism. CH3 (China has an epic history): Not relevant. CH4 (China has an appropriate political system and honorable values): Not addressed; no linkage to China’s domestic system or values. CH5 (The government of the CCP succeeds): Not mentioned. CH6 (China culture/nature): Not relevant. Conclusion: The tweet primarily advances CH1 by casting suspicion on the US and elevating international/WHO expertise against alleged Western/US dishonesty.",
+    "narrative_ids": ["CH1"]
+  }
+}

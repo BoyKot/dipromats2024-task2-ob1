@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the U.S. State Department’s decision to expel 60 Chinese reporters as based on 'absurd excuses,' and notes the U.S. has long known China is a socialist country led by the CPC. Evaluation: CH1 (The West is immoral, hostile and decadent) – Yes. The tweet portrays the U.S. action as unjust/hostile toward China, casting China as a victim of U.S. behavior. CH2 (China is a benevolent power) – No. No claims about China’s cooperative or benevolent international role. CH3 (China has an epic history) – No. No historical resilience or past adversity themes. CH4 (China has an appropriate political system and honorable values) – Partial but ultimately No. While it references China’s socialist system led by the CPC, it does not advocate its merits or values; it’s used contextually to criticize U.S. actions, not to promote the system’s appropriateness. CH5 (CPC government succeeds) – No. No claims of governance success or achievements. CH6 (China culture/nature) – No. Final determination: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

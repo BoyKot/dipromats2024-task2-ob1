@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Pompeo claims the U.S. is the most generous nation ever and praises outcomes of the World Food Programme under the Trump administration, expressing pride in America's role. Evaluation per narrative: US1 (honorable tradition): Yes—framing the U.S. as historically the \"most generous nation in the history of the world\" invokes a longstanding national legacy and virtue. US2 (admirable society): No—does not highlight ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies): No—no adversaries mentioned. US4 (force for good): Yes—emphasizes U.S. support for global humanitarian efforts via the World Food Programme, aligning with promoting peace, development, and aid. US5 (great international ally): No—focus is on U.S. contribution rather than support for specific allies. US6 (at the forefront): Arguably implied by superlative \"most generous,\" but the domain is moral generosity rather than leadership in economy/tech/military/trade; not a clear fit. Conclusion: US1 and US4.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

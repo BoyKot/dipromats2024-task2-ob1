@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates the 40th anniversary of the Russian Center of Science and Culture in Phnom Penh and highlights close cooperation to promote humanitarian ties between Russia and Cambodia. Evaluation: RU1 (West immoral/hostile): Not promoted—no mention of the West or criticism. RU2 (Russia leads an alternative system): Not explicit—while it highlights non-Western cooperation, it does not frame it as an alternative system or multilateral model. RU3 (Russia is a benevolent partner): Yes—emphasizes humanitarian ties, cooperation, and cultural/scientific engagement, portraying Russia as a positive, reliable partner. RU4 (Russian history admirable): Partly historical reference to an institution's anniversary, but no broader claim about Russia’s historical greatness; not promoted. RU5 (Russia at the world’s forefront): No claims of cutting-edge achievements. RU6 (Russia interesting culturally): Indirectly cultural, but the focus is institutional cooperation/humanitarian ties rather than promoting Russia’s culture, nature, or heritage to attract interest; not clearly promoted. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

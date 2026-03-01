@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Five Eyes countries, especially the US, pressure tech firms to install backdoors, implying hypocrisy in Western accusations against China. Evaluation: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet portrays the US/West as intrusive and hypocritical ('old hand' at backdoors), casting the West as immoral/hostile and implicitly positioning China as unfairly accused. CH2 (China is a benevolent power) — No; no positive framing of China's international conduct. CH3 (China has an epic history) — No historical content. CH4 (China has an appropriate political system and honorable values) — No defense of China's domestic system/values. CH5 (CCP government succeeds) — No claims of performance or achievements. CH6 (China culture/nature) — Not applicable. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

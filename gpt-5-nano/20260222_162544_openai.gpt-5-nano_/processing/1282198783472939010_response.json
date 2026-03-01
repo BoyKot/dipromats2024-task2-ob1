@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet centers on a celebrated Soviet WWII heroine and frames Russia's historical contributions in a positive light, which aligns with 'Russian history is admirable' (RU4). It does not promote Western hostility (RU1), a non-Western alternative system (RU2), benevolent partnership (RU3), current global leadership (RU5), or culture/heritage promotion (RU6) beyond the historical figure.",
+    "narrative_ids": ["RU4"]
+  }
+}

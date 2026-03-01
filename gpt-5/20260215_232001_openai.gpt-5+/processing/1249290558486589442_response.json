@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Cosmonautics Day (April 12), celebrates Yuri Gagarin’s first human spaceflight in 1961, and asserts that Russia remains a world leader in space exploration. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no mention of the West or hostility. RU2 (Russia leads alternative system) – Not present; no multilateral or anti-West framing. RU3 (Russia benevolent partner) – Not present; no emphasis on partnership or aid. RU4 (Russian history is admirable) – Yes; it highlights a seminal historical achievement (Gagarin’s first flight) as a proud milestone of Russian history. RU5 (Russia at the world’s forefront) – Yes; it claims Russia remains one of the world leaders in space exploration, a current success/leadership claim. RU6 (Russia interesting culturally/naturally) – Not present; no culture/nature/heritage tourism content. Conclusion: RU4 and RU5 apply.",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

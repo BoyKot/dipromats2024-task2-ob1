@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that disinformation waves hit Europe during the COVID-19 pandemic, and that \"we\" assessed the immediate EU response and proposed concrete actions that can be quickly implemented, tagged #EUvsDisinfo #FactsMatter. Evaluation by narrative: EU1 (successful story) – not about historical success or overcoming past traumas; no. EU2 (EU is united) – no explicit mention of unity or joint agreement among member states; no. EU3 (EU is useful for its citizens) – yes: it highlights a practical, proactive EU response to a citizen-relevant problem (disinformation during the pandemic) and proposes concrete, quickly actionable measures within the EU. EU4 (avant-garde) – partially suggests proactive leadership, but it does not frame the EU as a pioneer or leader in a broader forward-looking regulatory sense; insufficient. EU5 (global champion of fair causes) – focus is domestic disinformation, not rights advocacy; no. EU6 (contributes to a better world) – scope is internal to the EU, not global; no. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

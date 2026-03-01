@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that reunification of China and Taiwan is inevitable and reflects the historical trend and the collective will of the Chinese nation. Evaluation: CH1 (West immoral/hostile) – Not mentioned; no reference to the West or hostility. CH2 (China as benevolent power) – Not applicable; no emphasis on international cooperation, peace, or multilateralism. CH3 (China has an epic history) – Partially relevant: it invokes 'the trend of history' and the 'collective will of the entire Chinese nation,' framing reunification as historically destined and nationally willed, which aligns with historical destiny themes. CH4 (appropriate political system/values) – Not explicit; no discussion of political system, democracy, or values. CH5 (CCP government succeeds) – Not discussed; no claims about development or governance outcomes. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet primarily advances a historical-destiny narrative consistent with CH3.",
+    "narrative_ids": ["CH3"]
+  }
+}

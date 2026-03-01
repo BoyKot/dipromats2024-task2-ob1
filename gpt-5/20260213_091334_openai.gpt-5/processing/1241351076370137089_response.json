@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says the EU Delegation aligns with a UN statement praising dialogue between Somali leaders, advocating combining principles with pragmatism and compromise to steer political discourse constructively. Evaluation: EU1 (successful story) – not referenced; no historical reflection on EU’s past or its overcoming of internal obstacles. EU2 (EU is united) – not explicitly; it says the EU Delegation aligns with the UN, but does not showcase intra-EU unity or agreements among member states. EU3 (useful for its citizens) – no; the content concerns Somalia, not internal EU benefits. EU4 (avant-garde actor) – no pioneering regulation or leadership claim. EU5 (global champion of fair causes) – partially relevant? The tweet promotes dialogue and compromise, but does not explicitly frame human rights/democracy advocacy; it’s more about facilitation/endorsement of dialogue than championing rights. EU6 (EU contributes to a better world) – yes; it presents the EU aligning with the UN to encourage dialogue and peacebuilding in Somalia, illustrating support for multilateralism and conflict-resolution abroad. Conclusion: EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

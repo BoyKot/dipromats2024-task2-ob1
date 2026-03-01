@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises former/top Directors-General of the EU, endorsing a quoted comment by Stefano Manservisi as \"Absolutely right. Calm and strong. A lesson,\" implying confidence in EU senior leadership and their judgment. Evaluation per narrative: EU1 (EU successful story): Implicitly supported—praising the \"best DGs in the history of the EU\" suggests longstanding competence and positive institutional legacy, aligning with portraying the EU's successful history. EU2 (EU united): No explicit or implicit reference to EU unity or consensus. EU3 (EU useful for citizens): No concrete policies or citizen benefits mentioned. EU4 (EU avant-garde): No claims about pioneering regulation or leadership on future challenges. EU5 (EU champion of fair causes): No reference to democracy/human rights leadership. EU6 (EU contributes to a better world): No mention of global contributions or external actions. Conclusion: Only EU1 is promoted, via endorsement of EU institutional competence and historical success.",
+    "narrative_ids": ["EU1"]
+  }
+}

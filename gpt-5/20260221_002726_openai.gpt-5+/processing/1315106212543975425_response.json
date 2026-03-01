@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet argues that court packing is unacceptable, citing historical precedent (FDR’s failed attempt) and claiming today’s 'Radical Left Democrats' are pushing Biden to do it, which would 'destroy the Court.' It is primarily a partisan critique, invoking history to warn against a perceived threat. Evaluation by narrative: US1 (The US has an honorable tradition) — Partially relevant because it invokes a historical precedent (FDR’s own party rejecting court packing) to suggest a tradition/norm protecting judicial integrity; however, it uses that history to criticize current actors rather than to broadly celebrate US values. Still, it positively references a past norm as honorable restraint, so it modestly fits. US2 (admirable society) — Not addressed. US3 (hostile enemies) — The tweet labels 'Radical Left Democrats' as pushing a destructive move, framing them as a threat to a core institution; this aligns with portraying an immoral/hostile adversary threatening US values. US4 (force for good) — Not addressed. US5 (great international ally) — Not addressed. US6 (at the forefront) — Not addressed. Conclusion: The tweet promotes US1 (via historical norm against court packing) and US3 (depicting a hostile internal adversary).",
+    "narrative_ids": ["US1", "US3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The Russian MFA spokesperson claims US-led sanctions on Syria are severe, illegitimate, and harm civilians by obstructing recovery and aid. Evaluation by narrative: RU1 (The West is immoral/hostile): Yes. The tweet portrays the US and allies as imposing illegitimate sanctions that hurt peaceful Syrians, depicting them as hostile and morally wrong. RU2 (Russia leads an alternative system): No mention of Russia promoting a multilateral alternative or sovereignty-based system. RU3 (Russia is a benevolent partner): The tweet does not highlight Russian assistance or benevolence; it focuses on condemning Western sanctions. RU4 (Russian history admirable): Not applicable. RU5 (Russia at the world’s forefront): Not applicable. RU6 (Russia’s culture/nature): Not applicable. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

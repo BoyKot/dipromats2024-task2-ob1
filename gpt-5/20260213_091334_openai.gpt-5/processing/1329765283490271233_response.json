@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet questions why Canada uniquely acted to detain Meng Wanzhou under a US extradition request while other US treaty partners did not, implicitly casting doubt on Canada's decision and, by extension, US motives or consistency among Western allies. Evaluation: CH1 (The West is immoral, hostile and decadent) — The tweet hints at inconsistency or selective enforcement among Western countries and implicitly challenges the legitimacy of the US-led action and Canada's compliance, suggesting unfair or hostile behavior toward China. This aligns with portraying the West (US/ally) as acting improperly; therefore, CH1 is supported. CH2 (China is a benevolent power) — No content praising China’s cooperative or lawful behavior; not supported. CH3 (China has an epic history) — No historical framing; not supported. CH4 (China has an appropriate political system and honorable values) — No discussion of China’s political system or values; not supported. CH5 (The government of the CCP succeeds) — No claims about domestic achievements; not supported. CH6 (China is interesting culturally) — Not relevant. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

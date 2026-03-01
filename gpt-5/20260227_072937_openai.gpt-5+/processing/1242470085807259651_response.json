@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports Putin’s visit to a Moscow infectious diseases hospital during COVID-19 and praises Russian medical personnel, invoking “the best traditions of Russian medicine.” Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no comparison with the West or hostility implied. RU2 (Russia leads an alternative system): No mention of international systems, multilateralism, or alternatives to Western order. RU3 (Russia is a benevolent partner): While positive, it focuses on domestic healthcare, not on partnership, peace mediation, or solidarity abroad. RU4 (Russian history is admirable): The phrase “best traditions of Russian medicine” invokes pride in Russian historical medical tradition; this aligns with highlighting Russia’s historical contributions and admirable legacy. RU5 (Russia at the world’s forefront): No explicit claim of current superiority or cutting-edge status; it is gratitude rather than asserting global leadership. RU6 (Russia’s culture/nature/heritage): Not about culture, nature, or general heritage promotion for tourism or society. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

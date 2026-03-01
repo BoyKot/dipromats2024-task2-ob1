@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises a virtual meeting with recent YES exchange program graduates, highlighting their positive American experience, exposure to a multicultural society, and the new possibilities they see for themselves and Kosovo, calling them future leaders. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoked; no reference to U.S. historical legacy or traditions. US2 (admirable society) – Yes; it positively highlights the U.S. as a multicultural society and implies beneficial social exposure through exchange, reflecting admiration for American societal diversity. US3 (hostile enemies) – Not present; no adversaries mentioned. US4 (force for good) – Indirect at best; while the exchange benefits youth and Kosovo, the tweet does not frame this as a broader U.S. human rights or freedom agenda; insufficient to claim US4. US5 (great international ally) – Some implication of supportive ties via the exchange with Kosovo, but the tweet does not explicitly emphasize U.S. support for allies or praise an allied country; insufficient. US6 (at the forefront) – Not present; no claims of leadership in economy/tech/military/trade. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

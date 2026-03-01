@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that under U.S. law and practice, individuals who engage in electoral fraud or undermine democratic institutions and peaceful transition of power can face consequences, tagged with #Guyana. This signals the U.S. stance on democracy and rule of law, implying accountability measures. Evaluation: US1 (honorable tradition): Partially fits because it references U.S. legal norms and practices as upholding democratic integrity, which can be seen as reflecting an honorable tradition, but the tweet is more about current legal consequences than celebrating historical legacy. Weak alignment. US2 (admirable society): Not applicable; no reference to society, groups, or heroes. US3 (hostile enemies): Not applicable; no adversary is named as hostile to the U.S. US4 (force for good): Strong fit; the tweet frames the U.S. as upholding democratic processes and penalizing anti-democratic actions abroad, implying support for democracy and peaceful transitions—classic “force for good” framing. US5 (great international ally): Not applicable; no ally support or praise. US6 (at the forefront): Not applicable; no leadership in economy/tech/military/trade. Conclusion: The tweet promotes US4 clearly; US1 is too indirect to affirm. Return US4 only.",
+    "narrative_ids": ["US4"]
+  }
+}

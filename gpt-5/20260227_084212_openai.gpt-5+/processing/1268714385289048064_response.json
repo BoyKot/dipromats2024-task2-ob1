@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the EU Green Deal and the EU Biodiversity Strategy for 2030, and showcases participation in a local environmental clean-up with a partner organization, framing the EU as actively protecting nature. Evaluation by narrative: EU1 (EU is a successful story): Not explicitly about history or overcoming past challenges; no. EU2 (EU is united): No mention of unity among member states or collective decision-making; no. EU3 (EU useful for its citizens): The action is framed in general terms and in Suva (outside the EU), not explicitly about benefits to EU citizens; no. EU4 (EU avant-garde political actor): Yes—positions the EU as pioneering on climate and biodiversity via the Green Deal and a 2030 strategy. EU5 (EU global champion of fair causes): Focus is environmental protection, not human rights/democracy; no. EU6 (EU contributes to a better world): Yes—shows EU engaging internationally (in Suva) in cooperative environmental action contributing to global well-being.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Russia (and previously the Soviet Union) has long-standing, friendly, mutually beneficial ties with African countries, highlighting unconditional Soviet support for African decolonization, thereby portraying Russia positively in Africa. Evaluation by narrative: RU1 (West immoral/hostile): Not explicitly present; while colonial oppression is implied as negative, the tweet does not directly attribute it to today's West or attack the West. RU2 (Russia leads an alternative system): Indirectly hints at non-Western cooperation, but the tweet focuses more on bilateral goodwill and historical support than on presenting a systemic alternative or multipolar framework; insufficient to code RU2. RU3 (Russia is a benevolent partner): Yes—emphasizes “close friendly ties,” “mutually beneficial cooperation,” and past “unconditional” support for African freedom, clearly framing Russia/Soviet Union as a reliable, benevolent partner. RU4 (Russian history is admirable): Yes—explicitly valorizes historical Soviet actions in the 1960s supporting decolonization, presenting Russian/Soviet history as laudable. RU5 (Russia at the forefront): No mention of current achievements. RU6 (Culture/nature/heritage): Not relevant. Conclusion: RU3 and RU4 apply.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

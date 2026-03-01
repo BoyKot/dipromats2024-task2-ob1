@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet recalls a 1606 revolt against False Dmitry I, described as an invader and foreign-backed pretender, and ends with #NeverInvadeRussia—framing Russian unity against foreign interference and invasion. Evaluation by narrative: RU1 (West immoral/hostile): Implicitly portrays foreign powers as hostile meddlers supporting a pretender; while not naming the West specifically, it fits the broader trope of foreign hostility toward Russia. Partially aligned, but sufficiently consistent with RU1’s theme of Russia as victim of foreign (Western-aligned) interference. RU2 (alternative system): No mention of multilateralism or non-Western cooperation. Not supported. RU3 (benevolent partner): No content on partnership or aid. Not supported. RU4 (Russian history is admirable): Celebrates a historical episode highlighting unity of Russian people and resilience against invasion, encouraging to learn from history. This clearly fits RU4. RU5 (world’s forefront): No current achievement. Not supported. RU6 (culture/nature/heritage): Not about culture/tourism. Not supported. Conclusion: RU4 clearly applies; RU1 applies by implication of hostile foreign powers backing an invader.",
+    "narrative_ids": ["RU4", "RU1"]
+  }
+}

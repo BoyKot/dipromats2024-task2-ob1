@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces launching the Coronavirus Global Response to raise €7.5bn for diagnostics, treatments, and vaccines to be deployed worldwide at affordable prices, ending with the hashtag #UnitedAgainstCoronavirus. Evaluation: EU1 (EU is a successful story) – not directly; it doesn’t reference history or past successes. EU2 (EU is united) – implicitly supported via the unity-focused hashtag and collective action framing, indicating solidarity and coordinated effort. EU3 (EU useful for its citizens) – focus is global deployment, not specifically EU-internal benefits; not applicable. EU4 (EU avant-garde) – partially implied by initiating a major global response, but the tweet does not stress pioneering regulation or leadership in innovation; evidence is insufficient. EU5 (EU global champion of fair causes) – not about rights/democracy; not applicable. EU6 (EU contributes to a better world) – clearly supported: raising funds and deploying health solutions globally at affordable prices highlights EU’s role in global well-being and multilateral cooperation. Conclusion: EU2 and EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises strong U.S. actions against China over Hong Kong and declares that the U.S. stands with the people of Hong Kong, asserting moral resolve by the President. Evaluation by narrative: US1 (honorable tradition) – implied moral stance but no explicit reference to tradition or historical legacy; not clearly promoted. US2 (admirable society) – no mention of U.S. society, groups, companies, or heroes; not promoted. US3 (hostile enemies) – China is positioned as a wrongdoing actor that the U.S. will not give a pass; this frames China as an adversary to liberal values and the U.S., aligning with highlighting a hostile enemy. US4 (force for good) – the tweet explicitly says the U.S. stands with the people of Hong Kong and is taking strong actions, presenting the U.S. as defending human rights/freedoms; this aligns. US5 (great international ally) – no reference to allies or allied support; not promoted. US6 (at the forefront) – no leadership in domains like economy/technology/trade is claimed; not promoted. Conclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

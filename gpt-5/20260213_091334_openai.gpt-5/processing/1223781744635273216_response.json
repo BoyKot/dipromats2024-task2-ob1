@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. official met Belarusian leaders to discuss strengthening democracy, human rights, trade, and investment, affirming strong U.S. support for Belarus’s sovereignty and independence. Evaluation: US1 (honorable tradition) – Not explicitly about U.S. historical values or legacy; no. US2 (admirable society) – No mention of U.S. society, groups, or heroes; no. US3 (hostile enemies) – No adversary is identified; no. US4 (force for good) – Yes: the U.S. is presented as supporting democracy, human rights, and assisting a country’s sovereignty, which aligns with promoting human rights and freedoms. US5 (great international ally) – Partially relevant; it emphasizes unwavering support for Belarus’s sovereignty, which frames the U.S. as a supportive partner/ally; yes. US6 (at the forefront) – No claims of leadership, superiority, or edge; no. Conclusion: US4 and US5 apply.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

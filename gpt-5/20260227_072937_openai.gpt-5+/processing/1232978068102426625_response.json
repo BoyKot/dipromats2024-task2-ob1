@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Russian pilot Pyotr Nesterov, highlighting his pioneering achievement of the first inside loop in aviation history, celebrating him as an 'Outstanding Russian.'\n- RU1 (West immoral/hostile): Not referenced. No criticism of the West.\n- RU2 (Alternative system leadership): Not addressed.\n- RU3 (Benevolent partner): Not addressed.\n- RU4 (Russian history is admirable): Yes. It praises a historical Russian figure and his pioneering contribution to global aviation, framing Russian history as noteworthy and trend-setting.\n- RU5 (Russia at the world’s forefront): Partially implied by a pioneering achievement, but the tweet is historical rather than asserting current leadership; primary alignment is with historical admiration, not current forefront status. So not selected.\n- RU6 (Interesting culture/nature/heritage): Indirectly cultural pride, but the focus is on a historical achievement rather than cultural/natural attractions; primary fit is RU4.\nConclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

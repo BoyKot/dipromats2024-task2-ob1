@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The Russian MFA spokesperson condemns a US airstrike in Syria, invoking Syria’s sovereignty and warning against using its territory for geopolitical score-settling. Evaluation: RU1 (West immoral/hostile): The tweet portrays the US as violating another state's sovereignty and acting irresponsibly for geopolitical ends—depicting the West (US) as hostile and immoral. This fits RU1. RU2 (Russia leads an alternative system): While it stresses sovereignty and implies multilateral norms, it does not explicitly present Russia as leading an alternative system or promoting specific non-Western cooperation—so not supported. RU3 (Russia benevolent partner): It condemns US action but does not highlight Russia’s constructive assistance or partnership—so not supported. RU4 (history admirable): Not relevant. RU5 (world’s forefront): No claim of Russian achievements—not relevant. RU6 (culture/nature): Not relevant. Conclusion: Only RU1 is promoted.",
+    "narrative_ids": ["RU1"]
+  }
+}

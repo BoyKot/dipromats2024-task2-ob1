@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that China pursues peaceful development and is a defender of world peace, contributor to global development, and upholder of international order, echoing a CGTN quote about China's unwavering pledge to peaceful development.\n- CH1 (West immoral/hostile): Not present; no mention or implication about the West or US.\n- CH2 (China is a benevolent power): Yes. The tweet explicitly frames China as peaceful, contributing to global development, defending peace, and upholding international order—directly matching CH2’s description and example.\n- CH3 (Epic history): Not referenced; no historical resilience or past adversities mentioned.\n- CH4 (Appropriate political system/values domestically): Not applicable; the focus is international role, not domestic governance or political system.\n- CH5 (CCP government succeeds domestically/technologically): Not addressed.\n- CH6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

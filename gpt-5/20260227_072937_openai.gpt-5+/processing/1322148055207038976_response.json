@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet explains that the rule of law is a foundational EU value, emphasizing government accountability, non-arbitrary decision-making, and access to independent courts. It invites readers to learn more. EU1: By affirming foundational values and implying institutional strength derived from them, it modestly supports the idea of the EU as a successful project grounded in rule of law. EU2: No mention of unity or collective action among member states. EU3: It highlights practical benefits for citizens (ability to challenge government actions in independent courts), which frames the EU as useful to its citizens within the EU context. EU4: No claim of pioneering regulation or avant-garde leadership beyond stating a core value. EU5: While rule of law touches human rights and democracy, the tweet is inward-focused on EU fundamentals, not global championing; thus EU5 does not clearly apply. EU6: No reference to global contributions. Final: EU1 and EU3 are supported.",
+    "narrative_ids": ["EU1", "EU3"]
+  }
+}

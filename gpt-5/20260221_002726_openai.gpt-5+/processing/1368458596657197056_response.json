@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses optimism about defeating the pandemic and emphasizes that China will cooperate in solidarity with other countries for humanity's victory. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – Not present; no criticism of the West or depiction of China as a victim. CH2 (China is a benevolent power) – Present; it portrays China as cooperative, working with others, and contributing to a global, humanitarian goal, aligning with multilateralism and a shared destiny. CH3 (China has an epic history) – Not referenced; no historical framing. CH4 (China has an appropriate political system and honorable values) – Not applicable; no reference to domestic political system or governance values. CH5 (The government of the Chinese Communist Party succeeds) – Not applicable; no claims about domestic achievements or leadership success. CH6 (China is interesting culturally) – Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns Trump's remarks as racist and labels them a 'political virus' harming international solidarity against COVID-19, while emphasizing the effort and sacrifice of the Chinese people. CH1: By attacking Trump's (US) remarks as racist and harmful to international solidarity, the tweet portrays the West/US as hostile and immoral; this aligns with CH1. CH2: It calls for international solidarity and cooperation and highlights Chinese efforts, but it does not explicitly present China as a benevolent international actor promoting multilateralism; partial implication but not clearly framed as China's benevolence—so not a fit. CH3: No reference to China's epic history or past adversities. CH4: No discussion of China's political system or values. CH5: No claims about CCP governance success or achievements. CH6: Not about culture or heritage. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the United States for deporting COVID-19–infected immigrants, linking U.S. actions to outbreaks in Guatemala, and urges the U.S. to behave responsibly. Evaluation: CH1 (The West is immoral, hostile and decadent): Applicable. The tweet portrays the U.S. (a Western country) as acting irresponsibly and harming others by exporting the virus, which fits depictions of the West as immoral/hostile. CH2: Not applicable; no mention of China as benevolent or cooperative. CH3: Not applicable; no reference to China’s history. CH4: Not applicable; no advocacy of China’s political system or values. CH5: Not applicable; no mention of CCP governance successes. CH6: Not applicable; no cultural content. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

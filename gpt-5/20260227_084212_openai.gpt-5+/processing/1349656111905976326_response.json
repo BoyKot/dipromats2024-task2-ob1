@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates a historical milestone, stating that 150 years ago Emperor Alexander II allowed Russian women to enter public civil service in fields like medicine, education, telegraph, and clerical work. Evaluation by narrative: RU1 (West immoral/hostile): No mention of the West or moral comparisons; not promoted. RU2 (Russia leads an alternative system): No claim about contemporary systems or multipolarity; not promoted. RU3 (Russia as benevolent partner): Not about partnership or international aid; not promoted. RU4 (Russian history is admirable): Yes. It highlights a positive, progressive achievement in Russian history, portraying Russia as historically forward-thinking regarding women in public service. RU5 (Russia at the world’s forefront): The tweet is historical, not asserting current leadership; not promoted. RU6 (Russia interesting in culture/nature/heritage): While historical, the focus is not on culture/heritage tourism or general interest; marginally related but not its intent. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates National Hispanic American Heritage Month, honoring the cultures and contributions of Hispanic and Latino Americans to U.S. society, highlighting their roles as leaders, innovators, entrepreneurs, artists, and diplomats. Evaluation: - US1 (honorable tradition): While it references a national observance, the emphasis is not on long-standing U.S. traditions or historical feats as a national legacy; it's more about contemporary recognition of a community's contributions. Not strongly promoted. - US2 (admirable society): Yes. It promotes the diversity and contributions of an ethnic group within the U.S., celebrating societal enrichment and notable roles, which aligns directly with this narrative. - US3 (hostile enemies): No mention of adversaries. - US4 (force for good): The tweet does not discuss human rights, freedoms, or international support; it's a domestic celebration. Not applicable. - US5 (great international ally): No reference to allies or foreign relations beyond mentioning diplomats in a domestic context. Not applicable. - US6 (at the forefront): No claim of U.S. leadership in domains like economy/technology/military; focus is on recognition. Not applicable. Conclusion: The tweet promotes US2 only.",
+    "narrative_ids": ["US2"]
+  }
+}

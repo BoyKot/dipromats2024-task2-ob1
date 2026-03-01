@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks 13 January as Day of Russian Press, noting that in 1703 the St. Petersburg Vedomosti became the first newspaper printed in Russia by decree of Peter the Great. Evaluation: RU1 (West immoral/hostile) – not referenced. RU2 (alternative system) – not referenced. RU3 (benevolent partner) – not referenced. RU4 (Russian history is admirable) – yes: it highlights a historical milestone and links it to a revered figure (Peter the Great), presenting Russian historical achievement in media. RU5 (world’s forefront) – not current success; it’s historical, so no. RU6 (culture/nature/heritage) – tangentially cultural, but the focus is a historical fact rather than promoting culture/heritage for interest; primary fit is RU4. Conclusion: RU4 applies.",
+    "narrative_ids": ["RU4"]
+  }
+}

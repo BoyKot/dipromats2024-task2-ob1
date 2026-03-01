@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports a meeting with former Afghan President Hamid Karzai and states that China will continue to play a constructive role in the next stages of the Afghan peace process. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; the tweet does not mention or criticize the West or the US. CH2 (China is a benevolent power) – Supported; asserting China’s continued “constructive role” in the Afghan peace process portrays China as cooperative and supportive of international peace and stability. CH3 (epic history) – Not referenced. CH4 (appropriate political system/values domestically) – Not discussed; the focus is international engagement, not domestic governance. CH5 (CCP government succeeds) – No claims about China’s domestic achievements or leadership performance. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

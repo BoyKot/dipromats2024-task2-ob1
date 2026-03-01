@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes the UNODC head stating that Russia is a very important and strategic partner for UNODC and a global player, with intent to deepen cooperation. Evaluation by narrative: RU1 (West immoral/hostile) – Not referenced; no mention of the West or hostility. RU2 (Russia leads an alternative system) – Partially related to multilateralism, but the tweet frames Russia as a key UNODC partner within a UN context, not as leading an alternative system outside Western influence; thus not promoted. RU3 (Russia is a benevolent partner) – Yes: portraying Russia as a strategic partner to a UN body and a global player implies reliability and positive cooperation, aligning with the benevolent partner framing. RU4 (Russian history admirable) – Not mentioned. RU5 (Russia at the world’s forefront) – Calling Russia a \"global player\" could hint at prominence, but lacks evidence of current achievements; the emphasis is partnership rather than showcasing successes, so not clearly promoted. RU6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

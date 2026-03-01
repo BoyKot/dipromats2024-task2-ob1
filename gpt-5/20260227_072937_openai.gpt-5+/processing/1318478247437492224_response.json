@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet lists global challenges and warns that treating China as a rival and inciting conflict undermines global cooperation and harms all. Evaluation: CH1 – Partially aligns; it implicitly criticizes those (implied Western actors) who cast China as a rival and incite conflict, portraying them as harmful/hostile to global problem-solving. While not explicitly naming the West/US, the framing fits the depiction of hostile Western behavior. CH2 – Yes; it frames China as a cooperative actor whose inclusion is necessary for global synergy, echoing themes of multilateralism and collective problem-solving (‘community’ orientation). CH3 – No reference to history or past adversities. CH4 – No discussion of China’s domestic political system or values. CH5 – No claims about CCP governance successes or domestic achievements. CH6 – Not relevant. Conclusion: The tweet promotes CH2 clearly and CH1 implicitly.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

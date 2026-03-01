@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A condolence tweet appreciating Swedish officials' tributes to U.S. Supreme Court Justice Ruth Bader Ginsburg, calling her trailblazing and inspirational, and noting her affection for Sweden. Evaluation: US1 (honorable tradition) – Partially relevant since honoring a renowned jurist reflects U.S. legal/civic legacy, but the tweet does not explicitly showcase broader U.S. traditions or historical feats; still, by elevating a seminal figure emblematic of U.S. judicial values, it implicitly supports this narrative. US2 (admirable society) – Yes, it highlights an admired American figure (RBG) as inspirational, reflecting positively on U.S. civil society and its icons. US3 (hostile enemies) – Not present. US4 (force for good) – Indirect at best; the tweet focuses on tribute, not on U.S. actions supporting rights globally. US5 (great international ally) – Yes, it underscores warm ties with Sweden (“a great friend of Sweden,” “Sweden had a special place in her heart”) and mutual respect, signaling close allied relations. US6 (at the forefront) – Not present. Final determination: US2 and US5 are clearly supported; US1 is borderline but not explicit, so exclude it.",
+    "narrative_ids": ["US2", "US5"]
+  }
+}

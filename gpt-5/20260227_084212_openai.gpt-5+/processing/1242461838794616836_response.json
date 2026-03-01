@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Chinese spokesperson cites EU's Borrell urging cooperation and multilateralism during the pandemic and rejecting blame terms like 'Chinese virus.' Evaluation: CH1 (West immoral/hostile): The tweet does not attack the West as immoral or hostile; it references an EU official positively and focuses on avoiding blame, so CH1 is not promoted. CH2 (China is a benevolent power): By amplifying calls for cooperation and multilateralism and rejecting recrimination—key themes of China's benevolent, multilateral image—the tweet aligns with CH2, even though it quotes an EU figure; it implicitly supports China's preferred narrative of cooperation over blame. CH3 (epic history): No historical or resilience references—Not promoted. CH4 (appropriate political system/values domestically): No discussion of China’s domestic system—Not promoted. CH5 (CCP government succeeds): No claims about governance performance—Not promoted. CH6 (culture/nature): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

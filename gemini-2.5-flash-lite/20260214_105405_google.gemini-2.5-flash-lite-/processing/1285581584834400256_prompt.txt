@@ -1,0 +1,75 @@
+<prompt_instruction>
+Greetings officer!
+Today your task is to identify which of the following strategic narratives are being promoted in the given tweet.
+The tweet is provided in <tweet_to_analyze>. The list of possible narratives for this country is in <narratives_list>.
+A tweet may promote one, several, or no narratives from the list.
+Carefully read the tweet and compare its message and intent against the title and description of each narrative.
+</prompt_instruction>
+
+<tweet_to_analyze>
+Support for Hong Kong unites @SecPompeo and UK Foreign Secretary @DominicRaab in London @ForeignOffice.
+</tweet_to_analyze>
+
+<narratives_list>
+  <narrative>
+    <id>US1</id>
+    <title>The US has an honorable tradition.</title>
+    <description>Showcases the values of the US, which are commonly presented as a legacy, a result of the long tradition of the country. Showcases the historical feats of this country</description>
+    <example>Freedom of religion was the driving force behind some of the earliest defining moments of American identity — our Founding Fathers made it our No. 1 freedom for a reason.</example>
+  </narrative>
+  <narrative>
+    <id>US2</id>
+    <title>The US has an admirable society.</title>
+    <description>Promotes the different ethnic groups of the country, its civil society, its companies and its military heroes.</description>
+    <example>Each February, the United States celebrates African-American History Month, also known as Black History Month. This annual observance recognizes the important achievements by African Americans in U.S. history.</example>
+  </narrative>
+  <narrative>
+    <id>US3</id>
+    <title>The US has hostile enemies.</title>
+    <description>Highlights immoral adversaries. These may be seen as obstacles to global peace and liberal values, ultimately posing a threat to the US.</description>
+    <example>@khamenei_ir’s corrupt regime should listen to the people of #Iran. They want their culture and their country back.</example>
+  </narrative>
+  <narrative>
+    <id>US4</id>
+    <title>The US is a force for good.</title>
+    <description>Showcases American support for human rights, freedoms, oppressed peoples, and its efforts toward peace, development, and security.</description>
+    <example>America stands with the suffering people of Venezuela and Cuba and Nicaragua in their righteous struggle for liberty. We’ll continue working for the day when we will become the first fully free hemisphere in all of human history. We’ll have that day.</example>
+  </narrative>
+  <narrative>
+    <id>US5</id>
+    <title>The US is a great international ally.</title>
+    <description>Emphasizes the US's unwavering support for allies and praises allied countries.</description>
+    <example>Proud to support American policy and stand with our great ally Israel. New guidelines outlined today protect Israeli producers and put the United States, and the world, on track towards recognizing reality.</example>
+  </narrative>
+  <narrative>
+    <id>US6</id>
+    <title>The US is at the forefront.</title>
+    <description>Positions the US as a leader in various domains, including economy, technology, military, and trade.</description>
+    <example>Glad to discuss ways to maintain America’s edge in innovation and technology with the university research community. Academic values such as openness, transparency, reciprocity, and merit-based competition make U.S. universities the best in the world.</example>
+  </narrative>
+
+</narratives_list>
+
+<output_format_instructions>
+Your response MUST be ONLY a valid JSON object.
+The JSON object must contain a single key: 'analysis'.
+The value of 'analysis' must be an object containing one key:
+  1. 'narrative_ids': A list of strings, where each string is the 'id' of an applicable narrative from the list above. If the tweet promotes multiple narratives, include all their IDs. If it promotes none, return an empty list: [].
+Example 1 (multiple narratives):
+```json
+{
+  "analysis": {
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}
+```
+Example 2 (no narratives):
+```json
+{
+  "analysis": {
+    "narrative_ids": []
+  }
+}
+```
+Do not include any other text, explanations, or formatting outside of the JSON object.
+</output_format_instructions>

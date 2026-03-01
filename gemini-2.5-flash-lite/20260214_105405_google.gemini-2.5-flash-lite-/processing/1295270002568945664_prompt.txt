@@ -1,0 +1,75 @@
+<prompt_instruction>
+Greetings officer!
+Today your task is to identify which of the following strategic narratives are being promoted in the given tweet.
+The tweet is provided in <tweet_to_analyze>. The list of possible narratives for this country is in <narratives_list>.
+A tweet may promote one, several, or no narratives from the list.
+Carefully read the tweet and compare its message and intent against the title and description of each narrative.
+</prompt_instruction>
+
+<tweet_to_analyze>
+1 year ago today, the Sudanese parties agreed on a Constitutional Declaration, an historical moment in a civilian-led transition towards democracy, peace and prosperity. The 🇪🇺 EU stands #TogetherwithSudan
+</tweet_to_analyze>
+
+<narratives_list>
+  <narrative>
+    <id>EU1</id>
+    <title>The European Union is a successful story.</title>
+    <description>Showcases EU's successful history, which may entail showing how it overcome obstacles and differences among EU members It highlights past, honest cooperation among partners. It points at historical mistakes/traumas, which may show acknowledgment and regret but also at that the EU has learnt from these dramatic experiences.</description>
+    <example>In 1950,R.Schuman made the emblematic proposals that founded the EU. Today we mark the 70th anniversary of this historic moment.This difficult period challenges us to reaffirm our values & keep sight of what Europe is & what it stands for:peace,unity & solidarity</example>
+  </narrative>
+  <narrative>
+    <id>EU2</id>
+    <title>The European Union is united.</title>
+    <description>Emphasizes the EU's current ability to reach agreements and remain united despite internal discrepancies, showcasing solidarity among member states and a genuine European sentiment across EU societies.</description>
+    <example>Only united and in a spirit of solidarity are we able to maintain our Union's strength. Countries, regions and citizens across the EU have extended a helping hand during the crisis.  Read stories of European solidarity.</example>
+  </narrative>
+  <narrative>
+    <id>EU3</id>
+    <title>The European Union is useful for its citizens.</title>
+    <description>Promotes EU policies and recommendations, It highlights how the EU addresses its citizens’ concerns It shows that the EU keeps a practical and proactive approach, in contrast to criticism for being too bureaucratic or passive to perform timely. It shows that European measures improve the lives of Europeans. Note that this narrative refers exclusively to issues within the EU. EU5 and EU6 narratives cover EU’s actions abroad.</description>
+    <example>Our new #MigrationEU pact sets a predictable and reliable system with: - more efficient & faster procedures - a fair sharing of responsibility & solidarity This approach will restore trust between EU countries and confidence in our capacity to manage migration.</example>
+  </narrative>
+  <narrative>
+    <id>EU4</id>
+    <title>The European Union is an avant-garde political actor.</title>
+    <description>Positions the EU as a pioneer in regulation and tackling present and future challenges like climate change and digitalization.</description>
+    <example>Europe is the leader in the fight against climate change. We decided to cut our greenhouse gas emissions of at least 55% by 2030.</example>
+  </narrative>
+  <narrative>
+    <id>EU5</id>
+    <title>The European Union a global champion of fair causes.</title>
+    <description>Showcases the EU's leadership in defending democracy, human rights, gender and minority rights, and repressed communities, etc.</description>
+    <example>Respect for human rights is a pillar of free, stable, prosperous societies. The EU is proud to be at the forefront of its promotion and protection worldwide.</example>
+  </narrative>
+  <narrative>
+    <id>EU6</id>
+    <title>The European Union contributes to a better world.</title>
+    <description>Illustrates the EU's contributions to development, peace, multilateralism, cooperation, safety, and well-being globally, particularly as a key partner for neighboring societies.</description>
+    <example>#Africa is Europe’s closest neighbour. To strengthen our ties with our sister continent, the EU proposes five key partnerships. With the new #EUAfricaStrategy we can pursue common goals together.</example>
+  </narrative>
+
+</narratives_list>
+
+<output_format_instructions>
+Your response MUST be ONLY a valid JSON object.
+The JSON object must contain a single key: 'analysis'.
+The value of 'analysis' must be an object containing one key:
+  1. 'narrative_ids': A list of strings, where each string is the 'id' of an applicable narrative from the list above. If the tweet promotes multiple narratives, include all their IDs. If it promotes none, return an empty list: [].
+Example 1 (multiple narratives):
+```json
+{
+  "analysis": {
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}
+```
+Example 2 (no narratives):
+```json
+{
+  "analysis": {
+    "narrative_ids": []
+  }
+}
+```
+Do not include any other text, explanations, or formatting outside of the JSON object.
+</output_format_instructions>

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet explains that the rule of law is a founding EU value, outlining constraints on governments and citizens’ ability to challenge decisions in independent courts, and invites readers to learn more. Evaluation:\n- EU1 (EU is a successful story): Implicitly positive about EU foundational values but does not reference history, overcoming obstacles, or past lessons. Not promoted.\n- EU2 (EU is united): No mention of unity, agreements, or solidarity among member states. Not promoted.\n- EU3 (EU is useful for its citizens): It highlights a concrete benefit to Europeans—being able to challenge government actions in independent courts—which frames the EU’s value as practical for citizens’ rights. Promoted.\n- EU4 (EU as avant-garde actor): No claim of pioneering regulation or leadership in future challenges. Not promoted.\n- EU5 (EU champion of fair causes): Focus is internal EU rule of law rather than global defense of rights. Not promoted.\n- EU6 (EU contributes to a better world): No external/global angle. Not promoted.\nConclusion: The tweet promotes EU3 by emphasizing practical citizen benefits tied to EU values and institutions.",
+    "narrative_ids": ["EU3"]
+  }
+}

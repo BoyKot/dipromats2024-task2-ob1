@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet emphasizes solidarity between China and another country amid the pandemic, stating the virus is ruthless but China, having controlled the epidemic domestically, is sharing experience and offering support abroad, illustrated by Chinese medical volunteers flying to Italy with humanitarian aid. Evaluation per narrative: CH1 (West immoral/hostile): Not present; no criticism of the West or the US. CH2 (China is a benevolent power): Yes; portrays China as cooperative, providing aid, sharing experience, and supporting other countries—hallmarks of benevolence and mutual support. CH3 (Epic history): Not referenced; no historical adversity or CCP-led resilience mentioned. CH4 (Appropriate political system/values domestically): Not addressed; focus is international assistance, not domestic system or values. CH5 (CCP government succeeds): Implicit domestic success controlling the epidemic is mentioned, but the framing serves to justify international assistance rather than tout governance performance or broader developmental success; insufficient to claim this narrative. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

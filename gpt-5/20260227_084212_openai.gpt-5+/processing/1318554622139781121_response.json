@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that Russian State Duma members support the UN’s central coordinating role in international relations and adherence to the UN Charter and international law. Evaluation: RU1 (West immoral/hostile) – Not present; no mention or critique of the West. RU2 (Russia leads an alternative system to the West) – Partially related to multilateralism, but the tweet endorses the UN (a universal institution), not an alternative system or non-Western frameworks like BRICS; thus not applicable. RU3 (Russia is a benevolent partner) – Implicitly presents Russia as law-abiding and supportive of international norms, which aligns with portraying Russia as a constructive, reliable actor; this fits RU3. RU4 (Russian history admirable) – Not referenced. RU5 (Russia at the world’s forefront) – No claims of superiority or achievements. RU6 (Culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes RU3 by framing Russia as a principled, cooperative partner upholding the UN and international law.",
+    "narrative_ids": ["RU3"]
+  }
+}

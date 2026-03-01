@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the Tehran Conference, crediting it to Soviet victories over Nazi Germany and noting King George VI’s gift of the Sword of Stalingrad presented by Churchill—highlighting global admiration for Soviet achievements. Evaluation: RU1 (West immoral/hostile): Not promoted; the tweet does not criticize the West, rather cites Western admiration. RU2 (Russia leads an alternative system): Not applicable; no reference to alternative systems or multipolarity. RU3 (Russia is a benevolent partner): Not explicit; while it shows respect from allies, it doesn’t frame Russia as a partner promoting peace/development in the present. RU4 (Russian history is admirable): Yes; it celebrates Soviet military achievements as foundational to a major Allied conference and emphasizes international awe, portraying Russia/Soviet history as heroic and globally influential. RU5 (Russia at the world’s forefront): Not current achievements; historical focus only. RU6 (Culture/nature/heritage): Not applicable; this is historical-political, not cultural tourism. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

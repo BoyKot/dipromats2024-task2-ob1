@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet from an EU account congratulates Kenya on UN Security Council matters and expresses the EU and its Member States’ anticipation to cooperate with Kenya on peace, climate, gender, and security, highlighting multilateral cooperation. Evaluation per narrative: EU1 (EU success story): Not explicitly about EU’s historical success or overcoming obstacles; no. EU2 (EU is united): Mentions \"the EU and its Member States\" looking forward to cooperating, implying a collective stance, but unity is not the central emphasis; still, it signals cohesion; weak but present. EU3 (useful for its citizens - internal): Not about internal EU benefits; no. EU4 (avant-garde actor): No claim of pioneering leadership; no. EU5 (global champion of fair causes): References cooperation on gender, peace, security—values areas—but the tweet frames cooperation rather than asserting EU leadership or championing rights; borderline, but not clearly promoted. EU6 (EU contributes to a better world): Clearly promotes EU’s role in global cooperation with Kenya on peace, climate, gender, and security within a multilateral UN context; yes. Conclusion: EU6 clearly applies; EU2 is weakly suggested but acceptable due to explicit mention of the EU and its Member States acting together.",
+    "narrative_ids": ["EU6", "EU2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the US of military provocations in the South China Sea and asserts that China will take necessary measures to defend its sovereignty and work with regional countries to safeguard peace and stability. Evaluation: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet portrays the US as hostile and provocative ('frequently sent vessels & aircraft... to flex its muscles') and positions China as reacting defensively, fitting CH1’s depiction of the West as hostile and China as a victim of reckless behavior. CH2 (China is a benevolent power) — Yes. It emphasizes China working with regional countries to safeguard peace and stability, framing China as cooperative and peace-promoting internationally. CH3 (China has an epic history) — No historical or resilience framing. CH4 (China has an appropriate political system and honorable values) — Not applicable; no domestic political system or values discussion. CH5 (The government of the CCP succeeds) — No focus on development or domestic governance success. CH6 (China is interesting culturally/naturally) — Not relevant. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

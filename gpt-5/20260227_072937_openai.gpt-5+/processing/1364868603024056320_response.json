@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet dismisses allegations of genocide and forced labor in Xinjiang as lies, citing Uyghur population growth as proof against genocide. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – Implicitly aligns by framing widely Western-reported allegations as \"lies of the century,\" suggesting deceit/hostility from Western actors; thus CH1 is promoted. CH2 (China is a benevolent power) – Not presented; no claims about China’s cooperative international role. CH3 (China has an epic history) – Not relevant; no historical arc or resilience theme. CH4 (China has an appropriate political system and honorable values) – Partially implied by defending domestic policy in Xinjiang as legitimate and not abusive, portraying moral rectitude; this supports CH4. CH5 (The government of the CCP succeeds) – Indirectly suggested via demographic growth, but the tweet does not credit governance achievements broadly; primary aim is rebuttal, not showcasing success, so not sufficiently supported. CH6 (China is interesting culturally/naturally) – Not relevant. Conclusion: CH1 and CH4 are applicable.",
+    "narrative_ids": ["CH1", "CH4"]
+  }
+}

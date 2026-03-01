@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes China released a COVID-19 white paper titled 'Fighting COVID-19: China in Action' and that the author and colleagues joined international political parties in a joint appeal for cooperation against the virus. Evaluation: CH1 (West immoral/hostile): Not present; no mention or critique of the West. CH2 (China is a benevolent power): Yes; the framing emphasizes China 'in action' on COVID-19 and international cooperation, portraying China as cooperative and contributing to global efforts. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not discussed; no explicit advocacy of China’s political system. CH5 (CCP government succeeds): Partially implied by 'China in Action,' but the tweet does not claim specific successes or outcomes; it’s more about cooperation than domestic achievement, so not strong enough. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

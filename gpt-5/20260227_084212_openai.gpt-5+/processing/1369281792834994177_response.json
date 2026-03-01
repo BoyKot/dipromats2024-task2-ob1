@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU aims to be climate neutral by 2050; EU leader Frans Timmermans met with US Climate Envoy John Kerry to discuss goals for COP26, tagged #EUGreenDeal and inviting to follow press statements. Evaluation: EU1 (EU as a successful story): Not explicitly about past successes or overcoming historical challenges; it's future-oriented on climate policy—so not supported. EU2 (EU is united): No mention of intra-EU unity or solidarity among member states—so not supported. EU3 (EU useful for citizens within EU): While climate neutrality benefits citizens, the tweet does not frame concrete citizen-focused measures or domestic benefits; focus is on goals and diplomacy—weak/indirect, so not supported. EU4 (EU as avant-garde political actor): Yes. Setting an ambitious climate-neutral-by-2050 target and leading on the European Green Deal positions the EU as a pioneer on climate policy. EU5 (EU as global champion of fair causes): Not about human rights/democracy/minority rights—so not supported. EU6 (EU contributes to a better world): The meeting with the U.S. envoy and COP26 context shows international engagement and cooperation toward global climate goals, indicating contribution to global well-being—supported. Conclusion: EU4 and EU6 apply.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

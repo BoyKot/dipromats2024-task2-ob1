@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. ambassador to the OAS reflects on service, stating they advanced U.S. interests and fought for democracy and human rights in Cuba, Nicaragua, and Venezuela, and provides follow information. Evaluation: US1 (honorable tradition) – not explicitly about historical legacy or traditions; no. US2 (admirable society) – not about society, groups, or heroes; no. US3 (hostile enemies) – mentions Cuba, Nicaragua, Venezuela in context of fighting for democracy and human rights, implicitly casting those regimes as adversarial, but the focus is less on demonizing them than on U.S. action; still, it highlights immoral adversaries obstructing liberal values, so partially yes. US4 (force for good) – explicitly claims the U.S. fought for democracy and human rights; strong yes. US5 (great international ally) – no praise of allies; no. US6 (at the forefront) – no leadership/primacy claim beyond values promotion; no. Conclusion: US4 clearly applies; US3 reasonably applies.",
+    "narrative_ids": ["US4", "US3"]
+  }
+}

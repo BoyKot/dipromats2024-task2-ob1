@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet defends America’s environmental record as exceptional, accuses critics of ignoring China’s pollution, and frames such critics as seeking to punish America. Evaluation by narrative: US1 (honorable tradition) — Partially adjacent because it praises an \"exceptional\" American record, but it’s about current environmental performance rather than historical tradition or legacy; not a clear fit. US2 (admirable society) — No reference to society, ethnic groups, civil society, companies, or military heroes; not applicable. US3 (hostile enemies) — The tweet characterizes unnamed critics as acting in bad faith to \"punish America\" and contrasts with China’s pollution, implying adversarial intent toward the US; this aligns with framing hostile actors. US4 (force for good) — Implicitly positive on US environmental stewardship, but it doesn’t explicitly discuss supporting human rights, freedoms, or global good; weak/indirect, not sufficient. US5 (great international ally) — No ally content; not applicable. US6 (at the forefront) — Calling the US record \"exceptional\" suggests leadership in environmental performance; this fits positioning the US as leading in a domain. Conclusion: US3 and US6 are promoted.",
+    "narrative_ids": ["US3", "US6"]
+  }
+}

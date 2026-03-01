@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses national mourning in China for COVID-19 martyrs and victims, offers condolences, and emphasizes that the ongoing fight will be overcome through solidarity and cooperation. Evaluation: CH1 (West immoral/hostile) – Not present; no mention of the West or blame. CH2 (China is a benevolent power) – Partially aligned: it stresses solidarity and cooperation in the fight against COVID-19, projecting a cooperative, responsible image, albeit without explicit international framing; still consistent with benevolence rhetoric. CH3 (Epic history) – Not applicable; no historical narrative or past adversities beyond current pandemic. CH4 (Appropriate political system/values) – Not explicit; while values of solidarity are mentioned, there’s no advocacy of China’s political system or domestic governance model. CH5 (CCP government succeeds) – Not present; no claims of success or performance. CH6 (Interesting culture/nature/heritage) – Not applicable. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet informs that every February the U.S. celebrates Black History Month, honoring contributions of African Americans to American society. Evaluation:\n- US1 (honorable tradition): It references an annual observance and national tradition, but the emphasis is on celebrating contributions rather than showcasing the nation's broader historical legacy or values as a tradition. Only indirectly related; not clearly promoted.\n- US2 (admirable society): Yes. It highlights an ethnic group (African Americans) and their valuable contributions, portraying U.S. society as recognizing and celebrating diversity.\n- US3 (hostile enemies): No mention of adversaries.\n- US4 (force for good): No reference to U.S. actions supporting human rights abroad or broader moral leadership.\n- US5 (great international ally): Not addressed.\n- US6 (at the forefront): No leadership claim.\nConclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

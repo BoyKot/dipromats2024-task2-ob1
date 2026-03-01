@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the Chinese Communist Party’s national security law as ending Hong Kong’s freedoms and reveals the CCP’s fear of its own people’s free will and thinking. Evaluation:\n- US1 (honorable tradition): Not referenced; no mention of U.S. historical values or legacy.\n- US2 (admirable society): Not about U.S. society, groups, companies, or heroes.\n- US3 (hostile enemies): The tweet portrays the CCP as repressive and hostile to freedoms, positioning it as an immoral adversary threatening liberal values, which aligns with framing a hostile enemy to the U.S. and liberal order.\n- US4 (force for good): The tweet does not present U.S. support for human rights or actions; it only criticizes the CCP.\n- US5 (great international ally): No mention of alliances or support for allies.\n- US6 (at the forefront): No claim about U.S. leadership or superiority.\nConclusion: The tweet promotes US3 by depicting the CCP as a hostile, freedom-opposing adversary.",
+    "narrative_ids": ["US3"]
+  }
+}

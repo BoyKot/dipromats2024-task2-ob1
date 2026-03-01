@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Chinese peacekeepers completing assistance and reconstruction at Beirut Port and pledges continued support to UN peacekeeping to maintain world peace and stability. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; the tweet does not mention the West or criticize it. CH2 (China is a benevolent power) – Yes; it frames China as actively supporting UN peacekeeping, contributing to global peace and stability, and performing reconstruction assistance, which fits the benevolent, cooperative, peace-promoting image. CH3 (Epic history) – Not referenced; no historical adversity or CCP-led resilience mentioned. CH4 (Appropriate political system/values domestically) – Not addressed; the focus is international peacekeeping, not domestic governance or system. CH5 (CCP government succeeds) – Not applicable; no claims about domestic development, technological leadership, or minority coexistence. CH6 (Culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

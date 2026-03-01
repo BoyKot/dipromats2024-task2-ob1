@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts high domestic satisfaction with China's government and widespread international participation in the BRI against Pompeo's negative labels ('tyranny' and 'predation'), implying U.S. hostility/misrepresentation and China's legitimacy and cooperative role. Evaluation: CH1 (The West is immoral, hostile and decadent) — Supported: it frames a U.S. official (Pompeo) as unfairly attacking China, casting the West/US as hostile and mischaracterizing China. CH2 (China is a benevolent power) — Supported: citing 138 countries and 30 international organizations signing BRI agreements presents China as cooperative and beneficial internationally. CH4 (China has an appropriate political system and honorable values) — Partly implied: the 93% satisfaction statistic is used to legitimize China's political system as aligned with the people's will, countering 'tyranny'; this fits CH4’s domestic legitimacy framing. CH5 (CCP government succeeds) — Indirectly: high satisfaction could imply success, but the tweet focuses on legitimacy rather than concrete achievements; still, it signals successful governance. Others (CH3, CH6) — Not present. Final determination: CH1, CH2, CH4, with CH5 less direct but present through the satisfaction claim.",
+    "narrative_ids": ["CH1", "CH2", "CH4", "CH5"]
+  }
+}

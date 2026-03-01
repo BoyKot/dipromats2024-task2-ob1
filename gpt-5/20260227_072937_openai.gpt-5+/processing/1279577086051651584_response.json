@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A patriotic exhortation to keep 'America first' and preserve 'freedom' as core values. Evaluation by narrative: US1 (honorable tradition): The appeal to enduring values ('freedom') as something to keep alive suggests continuity with American legacy; this implicitly showcases US values as a tradition. Likely promoted. US2 (admirable society): No mention of society, groups, civil society, companies, or heroes. Not promoted. US3 (hostile enemies): No adversary referenced. Not promoted. US4 (force for good): While 'freedom' is invoked, the tweet does not reference support for human rights abroad or aiding oppressed peoples; it's a domestic, value-based slogan. Not promoted. US5 (great international ally): No reference to allies. Not promoted. US6 (at the forefront): No claim of leadership in domains. Not promoted. Conclusion: Only US1 applies.",
+    "narrative_ids": ["US1"]
+  }
+}

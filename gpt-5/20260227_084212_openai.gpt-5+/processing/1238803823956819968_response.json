@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The MFA spokesperson states Russia has no intention to send troops to Afghanistan, while highlighting expanded cooperation with Afghanistan on counterterrorism, anti-drug efforts, military-technical cooperation, and training specialists. Evaluation by narrative: RU1 (West immoral/hostile): The tweet does not mention the West or criticize it; not applicable. RU2 (Russia leads an alternative system): There is no explicit framing of an alternative system or multipolar leadership; it’s a bilateral/functional cooperation note; not applicable. RU3 (Russia is a benevolent partner): The tweet portrays Russia as a responsible actor avoiding military deployment while engaging in cooperative efforts to fight terrorism and drug trafficking and to train specialists—positioning Russia as a helpful, reliable partner; applicable. RU4 (Russian history admirable): No historical references; not applicable. RU5 (Russia at the world’s forefront): No claim of current superiority or achievements; not applicable. RU6 (Russia’s culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

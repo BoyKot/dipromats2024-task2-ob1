@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates the first anniversary of the EU-Japan trade agreement, claiming it delivers benefits such as recognition of European products, strong labor/environment standards, fair trade rules, green tech growth, and EU job creation. Evaluation: EU1 (EU is a successful story): Implicitly yes—the agreement’s anniversary and listed achievements frame the EU’s external economic engagement as successful. EU2 (EU is united): Not addressed; no mention of intra-EU unity or solidarity. EU3 (EU useful for its citizens): Yes—claims concrete benefits for Europeans (jobs, recognition of EU delicacies), showing practical advantages within the EU. EU4 (EU as avant‑garde actor): Partly—emphasis on strong standards and green tech growth portrays the EU as pioneering in regulation and sustainability. EU5 (global champion of fair causes): Not directly; while standards are mentioned, there’s no explicit human rights/democracy framing. EU6 (EU contributes to a better world): Yes—promotes fair global trade rules and cooperation with Japan, suggesting contribution to better, fairer global trade and green tech growth. Conclusion: EU1, EU3, EU4, and EU6 apply.",
+    "narrative_ids": ["EU1", "EU3", "EU4", "EU6"]
+  }
+}

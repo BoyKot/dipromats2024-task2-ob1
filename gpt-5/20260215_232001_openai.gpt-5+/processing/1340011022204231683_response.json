@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The U.S. announces sanctions on a Venezuelan biometrics company and its representatives for supporting fraudulent elections by the Maduro regime, asserting accountability for undermining free and fair elections. Evaluation: US1 (honorable tradition) – not explicitly about U.S. historical values or legacy; no. US2 (admirable society) – no reference to society, groups, or heroes; no. US3 (hostile enemies) – it labels the Maduro-aligned actors as undermining democracy and illegitimate, portraying them as immoral adversaries; partially fits but the focus is more on U.S. action than threat to the U.S. Still, it highlights hostile actors to liberal values; likely yes. US4 (force for good) – the U.S. taking action to defend free and fair elections and hold wrongdoers accountable frames the U.S. as supporting human rights and democracy; yes. US5 (great international ally) – no ally focus; no. US6 (at the forefront) – not about leadership in domains like tech/economy; no. Conclusion: The tweet promotes US4 clearly and US3 to a lesser extent.",
+    "narrative_ids": ["US4", "US3"]
+  }
+}

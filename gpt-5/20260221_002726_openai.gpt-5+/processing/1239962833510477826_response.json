@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU is providing up to €80 million to a European research company (CureVac) to accelerate vaccine development and production against COVID-19, which could save lives in Europe and worldwide. Evaluation per narrative: EU1 (successful story): Not about historical success or learning from past; it's a current action, so not promoted. EU2 (united): No mention of unity among member states or solidarity; not promoted. EU3 (useful for its citizens): Yes—highlights a concrete EU policy/action (financial support for vaccine R&D) addressing citizens’ health needs promptly and pragmatically within the EU context. EU4 (avant-garde political actor): Partially related to innovation, but the tweet does not frame the EU as regulatory or pioneering in a broader sense; focus is support funding, so not a clear fit. EU5 (global champion of fair causes): Not about rights/democracy; not promoted. EU6 (contributes to a better world): Yes—the tweet says the action could save lives “around the world,” portraying the EU’s contribution to global well-being. Conclusion: Narratives EU3 and EU6 are promoted.",
+    "narrative_ids": ["EU3", "EU6"]
+  }
+}

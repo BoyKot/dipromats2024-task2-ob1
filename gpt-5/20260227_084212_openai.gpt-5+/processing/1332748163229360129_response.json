@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the United States condemns violence against peaceful protesters in Nasiriyah, asserting such violence has no place in a democracy. This is a human-rights/democracy-support stance. Evaluation by narrative: US1 (honorable tradition): Not explicitly invoking US historical legacy or tradition; no fit. US2 (admirable society): Not about US society or groups; no fit. US3 (hostile enemies): Does not frame a specific adversary as a threat to the US; no fit. US4 (force for good): Yes—by publicly defending peaceful protestors and democratic norms abroad, the US positions itself as supporting human rights and freedoms. US5 (great international ally): No mention of allies or support to a specific partner; no fit. US6 (at the forefront): No leadership/competence framing; no fit. Conclusion: Only US4 applies.",
+    "narrative_ids": ["US4"]
+  }
+}

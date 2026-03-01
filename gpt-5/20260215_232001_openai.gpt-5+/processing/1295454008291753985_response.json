@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China’s ancient civilization, natural wonders, cultural heritage, ethnic diversity, and highlights that China has 55 UNESCO World Heritage Sites. Evaluation: CH1 (West immoral) – not referenced. CH2 (benevolent international role) – not present; no mention of international cooperation or multilateralism. CH3 (epic history overcoming adversity) – it mentions time-honored civilization but not resilience, unfair treatment, or CCP-led overcoming; not supported. CH4 (appropriate political system/values) – no political system or governance claims; not supported. CH5 (CCP governance success) – no explicit link to government achievements; not supported. CH6 (culture, nature, heritage) – directly promotes China’s culture, nature, and heritage, and references World Heritage; supported. Conclusion: The tweet promotes CH6 only.",
+    "narrative_ids": ["CH6"]
+  }
+}

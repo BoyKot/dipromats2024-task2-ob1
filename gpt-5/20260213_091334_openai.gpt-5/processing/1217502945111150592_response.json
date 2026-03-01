@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative post marking the birthday of Alexander Griboyedov, highlighting his talents and enduring cultural legacy in Russia, with a historical photo reference. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned or implied. RU2 (Russia leads alternative system): No reference to geopolitical systems or multilateralism. RU3 (Russia benevolent partner): No claims about Russia’s role in peace or partnership. RU4 (Russian history is admirable): Yes—celebrates a notable Russian historical figure and his lasting cultural impact, framing Russian heritage as admirable. RU5 (Russia at the world’s forefront): No current achievements highlighted. RU6 (Russia is interesting culturally/naturally): Implicitly yes—promotes Russian culture and heritage through literature and arts. Conclusion: RU4 and RU6 apply.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

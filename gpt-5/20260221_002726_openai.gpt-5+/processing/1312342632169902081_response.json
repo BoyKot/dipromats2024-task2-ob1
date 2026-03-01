@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia delivers Sputnik V vaccines to Venezuela, portrayed as needed medical assistance, contrasted against \"unlawful US sanctions\" restricting Venezuelans' access to medicine; hashtag #RussiaHelps. Evaluation by narrative: RU1 (West immoral/hostile): The tweet labels US sanctions as \"unlawful\" and harmful to civilians, depicting the US (West) as hostile and immoral; supported. RU2 (Russia leads alternative system): The tweet highlights Russia aiding Venezuela outside Western influence, but it does not explicitly frame a broader alternative system or multilateral order; partial implication but not strong enough; not selected. RU3 (Russia is a benevolent partner): Emphasizes humanitarian assistance and help to fight COVID-19, with #RussiaHelps; strongly supported. RU4 (Russian history admirable): Not addressed. RU5 (Russia at the world’s forefront): While Sputnik V implication could suggest capability, the tweet focuses on aid rather than showcasing technological leadership; not selected. RU6 (Culture/nature/heritage): Not relevant. Conclusion: RU1 and RU3 are promoted.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet calls COVID-19 the 'China Plague,' claims Europe and other places touted by 'Fake News' are seeing big spikes used to make the U.S. look bad, urges vigilance, and touts vaccines/cures coming fast. Assessment by narrative: US1 (honorable tradition) – not referenced; no historical/values framing. US2 (admirable society) – no praise of society, groups, or heroes. US3 (hostile enemies) – 'Fake News' is blamed for making the U.S. look bad, but the narrative refers to immoral adversaries threatening the U.S.; however, the tweet targets media, not geopolitical enemies, so it does not clearly fit. US4 (force for good) – no explicit support for human rights or oppressed peoples; absent. US5 (great international ally) – no reference to allies; absent. US6 (at the forefront) – implies U.S. leadership/competence by asserting vaccines and cures are coming fast (suggesting U.S.-led rapid development), but it does not explicitly position the U.S. as a leader; still, the boast about rapid vaccine/cure progress aligns most closely with positioning the U.S. at the forefront. Final determination: only US6 is weakly but reasonably promoted.",
+    "narrative_ids": ["US6"]
+  }
+}

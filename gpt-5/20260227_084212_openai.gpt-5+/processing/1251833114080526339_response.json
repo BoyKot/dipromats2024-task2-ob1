@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet endorses WHO and multilateralism, noting broad international support (UK, France, Japan, Germany) and implying the US stands alone on defunding WHO, while quoting a Chinese MFA spokesperson emphasizing unity against COVID-19 and defending WHO. Evaluation: CH1 (The West is immoral, hostile and decadent) – Not directly. While it isolates the US on defunding WHO, it does not portray the West broadly as immoral/hostile; it contrasts US vs. multiple countries but avoids moral condemnation. CH2 (China is a benevolent power) – Yes. By amplifying Hua Chunying’s points that supporting WHO equals supporting multilateralism and unity against a common enemy, it aligns with China’s benevolent, multilateral, cooperative image internationally. CH3 (China has an epic history) – No historical or adversity themes. CH4 (Appropriate political system and honorable values) – Not applicable; no domestic system/values advocacy. CH5 (CCP government succeeds) – No claims about CCP governance performance or achievements. CH6 (Culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

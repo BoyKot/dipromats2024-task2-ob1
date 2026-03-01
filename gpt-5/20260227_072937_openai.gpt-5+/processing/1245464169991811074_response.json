@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights that Putin offered humanitarian aid to the US during COVID-19, the offer was accepted, and a Russian plane with medical supplies landed in New York City shortly after. Evaluation by narrative: RU1 (West immoral/hostile): Not promoted; the tweet does not criticize the West or portray it as hostile—on the contrary, it notes US acceptance of aid. RU2 (Russia leads an alternative system): Not explicitly; there is no framing of an alternative order or multilateral system, just a bilateral aid gesture. RU3 (Russia is a benevolent partner): Yes; it emphasizes Russia’s prompt humanitarian assistance to help the US counter the pandemic, portraying Russia as helpful and reliable. RU4 (Russian history admirable): Not relevant; no historical references. RU5 (Russia at the world’s forefront): Not directly; no claim of superiority or achievements beyond the aid instance. RU6 (Russia culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

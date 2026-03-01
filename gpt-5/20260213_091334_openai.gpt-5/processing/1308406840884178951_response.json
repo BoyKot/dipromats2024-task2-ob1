@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes President Xi stating China will uphold multilateralism, support UN-centered international order, and engage in reforming global governance under international law. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no criticism of the West. CH2 (China is a benevolent power): Yes; it portrays China as a cooperative, law-abiding supporter of multilateralism and the UN-centered order, fitting the description of promoting international justice and shared governance. CH3 (Epic history): Not referenced. CH4 (Appropriate political system/values domestically): Not about domestic system or governance model; focus is international role. CH5 (CCP government succeeds domestically/technologically): Not discussed. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

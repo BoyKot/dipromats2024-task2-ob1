@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the United States stands with its NATO ally Turkey regarding the Idlib crisis and supports Turkey's goal of restoring the Sochi ceasefire lines. Evaluation: US1 (honorable tradition) – Not invoked; no reference to historical values or legacy. US2 (admirable society) – Not relevant. US3 (hostile enemies) – No adversary is named or framed as immoral; it's focused on support rather than condemning an enemy. US4 (force for good) – Indirectly touches peace/ceasefire, but the emphasis is on alliance support rather than broader human rights or humanitarian framing; insufficient to claim this narrative. US5 (great international ally) – Yes; explicitly highlights unwavering support for an ally (Turkey) and alignment with its goals. US6 (at the forefront) – No claims of leadership or superiority. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

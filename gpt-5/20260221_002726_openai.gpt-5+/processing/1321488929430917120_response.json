@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Secretary Pompeo praising the United States as the most generous nation and highlighting successful outcomes of the World Food Programme under the Trump administration, expressing pride in America’s role. Evaluation: US1 (honorable tradition) – Promoted, as calling the US “the most generous nation in the history of the world” invokes a longstanding national legacy of generosity. US2 (admirable society) – Not promoted; no focus on society, ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies) – Not promoted; no adversaries mentioned. US4 (force for good) – Promoted, since it credits the US with contributing to humanitarian aid and positive outcomes via the WFP, aligning with supporting development and alleviating suffering. US5 (great international ally) – Not promoted; no emphasis on allies or bilateral support. US6 (at the forefront) – Partially implied by leadership language, but the tweet stresses generosity and humanitarian outcomes rather than leadership/edge; not clearly promoted. Conclusion: US1 and US4 apply.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

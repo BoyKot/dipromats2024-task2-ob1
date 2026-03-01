@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet invites the public to participate in the EU’s consultation on the Digital Services Act, framing it as an opportunity to shape EU digital policy, with a deadline reminder. EU1: Not about past successes or historical trajectory—no. EU2: No explicit emphasis on unity or solidarity—no. EU3: Yes—promotes an EU policy process (DSA) as responsive and useful to citizens by inviting input on freedom of expression and digital platforms, showing a practical, proactive approach. EU4: Yes—positions the EU as a pioneer/regulator on digitalization through the DSA and citizen shaping of digital policy. EU5: Indirect mention of freedom of expression, but the tweet does not claim EU global leadership on rights—no. EU6: Not about global contributions—no. Conclusion: EU3 and EU4.",
+    "narrative_ids": ["EU3", "EU4"]
+  }
+}

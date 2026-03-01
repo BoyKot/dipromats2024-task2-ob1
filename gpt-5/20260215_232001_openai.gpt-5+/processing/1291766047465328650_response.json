@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU greets ASEAN on ASEAN Day, stressing the importance of joining forces to combat Covid-19 and promote a sustainable economic recovery, tagging EU in ASEAN. EU1: Not about EU history or past successes; no direct reference—reject. EU2: Mentions \"joining forces\" but in the context of EU-ASEAN cooperation, not intra-EU unity—does not evidence EU’s internal unity—reject. EU3: Focus is external (ASEAN, global cooperation), not about benefits to EU citizens—reject. EU4: No claim of pioneering regulation or leadership—reject. EU5: No reference to democracy/human rights—reject. EU6: Yes—positions the EU as contributing to global well-being through international cooperation against Covid-19 and for sustainable recovery, highlighting multilateral engagement with ASEAN—accept. Conclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

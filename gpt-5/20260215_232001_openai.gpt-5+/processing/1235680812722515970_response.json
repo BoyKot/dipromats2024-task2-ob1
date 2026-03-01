@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the U.S. supports fundamental freedoms and the restoration of democracy in Nicaragua and that new sanctions demonstrate standing with the Nicaraguan people against repression by Ortega’s security apparatus. Evaluation by narrative: US1 (honorable tradition): Implicitly touches on U.S. values, but the tweet focuses on current actions/support rather than historical legacy or tradition; not a clear fit. US2 (admirable society): No reference to U.S. society, groups, companies, or military heroes; not applicable. US3 (hostile enemies): It labels Ortega’s security apparatus as violently repressive, but the focus is not on a threat to the U.S. or framing adversaries to the U.S.; borderline, but primarily about supporting Nicaraguans, so not selected. US4 (force for good): Directly presents the U.S. as supporting human rights, democracy, and oppressed people via sanctions; strong fit. US5 (great international ally): Not about allies or praising allied countries; not applicable. US6 (at the forefront): No claim of leadership in economy/tech/military/trade; not applicable. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

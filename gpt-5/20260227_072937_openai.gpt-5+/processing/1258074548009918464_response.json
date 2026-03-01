@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts China's cooperative aid during a crisis with alleged U.S. hostility and malpractice, claiming China provided medical supplies globally (including to the U.S.) while the U.S. cut WHO funding, intercepted supplies, and smeared China. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Supported. The tweet portrays the U.S. as hostile and unethical—stopping WHO funding, intercepting allies' supplies, maligning China—casting China as a victim of U.S. lies. CH2 (China is a benevolent power): Supported. It emphasizes China's international cooperation and generosity—calling for cooperation and providing medical supplies to over 150 countries and billions of masks to Americans. CH3 (China has an epic history): Not present; no historical arc or past adversities discussed. CH4 (China has an appropriate political system and honorable values): Not directly; focuses on international conduct, not China’s domestic system or values. CH5 (The government of the Chinese Communist Party succeeds): Not explicit; no emphasis on domestic development or governance success. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Reuters reports that Russia’s COVID vaccine will be registered in nine countries soon, with peer‑reviewed results to be released shortly, citing the RDIF chief. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; the tweet is neutral and does not mention the West negatively. RU2 (Russia leads an alternative system) – Not explicit; while multiple non-Russian countries registering the vaccine hints at international uptake outside a Western frame, the tweet does not frame it as an alternative system or multilateral model. RU3 (Russia is a benevolent partner) – Not asserted; no claims about altruism or partnership. RU4 (Russian history admirable) – Not applicable. RU5 (Russia at the world’s forefront) – Yes; announcing imminent registration in multiple countries and forthcoming peer‑reviewed results presents Russia’s vaccine as successful and advancing, aligning with showcasing current scientific/technological success. RU6 (culture/nature) – Not applicable. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that China has the right to present facts and defend its sovereignty, security, development interests, honor, and dignity, implicitly responding to external slander and maligning. Evaluation: CH1 (The West is immoral, hostile and decadent) — Implicitly supported: the tweet claims “others keep slandering & maligning” China, positioning China as a victim of hostile external actors, which aligns with CH1’s depiction of Western hostility. CH2 (China is a benevolent power) — Not supported: no emphasis on cooperation, multilateralism, or global public goods. CH3 (China has an epic history) — Not supported: no historical references. CH4 (China has an appropriate political system and honorable values) — Partially relevant tone about dignity, but it focuses on external defense rights rather than promoting China’s domestic political system or values as superior; thus not supported. CH5 (The government of the Chinese Communist Party succeeds) — Not supported: no claims about development achievements or governance success. CH6 (China is interesting culturally/naturally) — Not applicable. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

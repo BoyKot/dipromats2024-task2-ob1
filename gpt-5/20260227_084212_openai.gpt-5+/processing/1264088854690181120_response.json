@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces new EU economic policy guidance to member states during coronavirus via the European Semester, aiming to mitigate urgent socio-economic challenges and relaunch sustainable, green and digital growth. EU1 (successful story): Not about past achievements or historical lessons; it’s forward-looking policy, so not supported. EU2 (EU is united): No explicit mention of unity, agreements, or solidarity among member states; neutral on cohesion, so not supported. EU3 (EU is useful for its citizens): Yes—promotes concrete EU policy guidance addressing citizens’ socio-economic needs during the pandemic and supporting recovery, portraying the EU as practical and proactive. EU4 (avant-garde actor): Partially supported—emphasis on relaunching growth toward digital and green transitions positions the EU as pioneering in tackling digitalization and climate-related sustainability. EU5 (global champion of fair causes): Not addressed—no mention of rights or democracy. EU6 (better world globally): Focus is internal to the EU, not external/global contributions, so not supported. Final determination: EU3 and EU4.",
+    "narrative_ids": ["EU3", "EU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Russian Academy of Sciences scientists are ready to develop a coronavirus cure in 30 days using survivors’ blood, highlighting rapid Russian scientific capability. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no mention of the West or morality. RU2 (Russia leads alternative system): No framing about multilateralism or an alternative order. RU3 (Russia benevolent partner): While it implies helping against COVID-19, it does not frame Russia as a partner to others or emphasize solidarity; focus is on capability, not partnership. RU4 (Russian history admirable): Not about historical achievements. RU5 (Russia at the world’s forefront): Yes. It spotlights cutting-edge scientific prowess and an ambitious timeline, positioning Russia at the forefront of COVID-19 cures. RU6 (Culture/nature/heritage): Not relevant.",
+    "narrative_ids": ["RU5"]
+  }
+}

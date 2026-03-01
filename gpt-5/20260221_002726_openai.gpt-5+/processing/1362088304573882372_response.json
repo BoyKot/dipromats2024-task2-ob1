@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges that Sputnik V be evaluated on scientific, not political, grounds and notes it is already approved by 29 countries, implying legitimacy and broad acceptance. Evaluation by narrative: RU1 (West immoral/hostile): Implicitly suggests EU/EMA might act politically rather than scientifically, hinting at bias, but it stops short of calling the West immoral/hostile; the tone is cautionary rather than accusatory. Weak fit; not sufficiently direct. RU2 (Russia leads alternative system): Citing approvals by 29 countries signals broad non-Western/independent acceptance but does not frame Russia as leading an alternative system or multilateral bloc; no emphasis on alternative order. Not supported. RU3 (Russia benevolent partner): The tweet does not discuss peace, solidarity, or partnership; not applicable. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): By highlighting widespread international approvals and urging science-based evaluation, it promotes Sputnik V’s quality and Russia’s scientific capability, implying Russia’s cutting-edge vaccine success. This aligns with showcasing current scientific/technological success. RU6 (culture/nature/heritage): Not relevant. Conclusion: RU5 applies; others do not.",
+    "narrative_ids": ["RU5"]
+  }
+}

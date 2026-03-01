@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the preservation and intergenerational transmission of Chinese traditions, highlighting a regional banquet in Shanxi as a longstanding cultural practice. Evaluation by narrative: CH1 (West immoral/hostile): Not mentioned or implied. CH2 (China benevolent power): No reference to international cooperation or global role. CH3 (Epic history/adversities): While it references longevity of tradition, there is no mention of historical struggle or adversities, nor linkage to CCP governance. CH4 (Appropriate political system/values): No political system or governance values discussed. CH5 (CCP government succeeds): No claims about government-driven development or achievements. CH6 (China interesting in culture/nature/heritage): Yes. The tweet focuses on Chinese culture and a traditional banquet, promoting cultural heritage and appeal. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

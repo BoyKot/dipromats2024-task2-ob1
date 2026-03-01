@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the anniversary of a Soviet-era nature TV show, highlighting its longevity, popularity across generations, and notable host Nikolay Drozdov. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no critique of the West. RU2 (Russia leads alternative system): Not addressed; no mention of multilateral systems or alternatives. RU3 (Russia benevolent partner): Not about partnerships or peace efforts. RU4 (Russian history is admirable): Yes—frames a Soviet/Russian cultural achievement as iconic, long-running, and beloved across generations, showcasing historical cultural contribution. RU5 (Russia at the world’s forefront): Implicitly notes it as the longest-running of its kind and large episode count, but this is more historical acclaim than present-day leadership; primary fit is RU4 rather than RU5. RU6 (Russia’s culture/nature/heritage interesting): Yes—celebrates a cultural product tied to nature and Russian society, promoting heritage and traditions. Conclusion: The tweet promotes RU4 and RU6.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

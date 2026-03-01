@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China has controlled the epidemic domestically and is now sharing experience and offering support abroad; example given is Chinese medical volunteers flying to Italy with humanitarian aid. Evaluation: CH1 (The West is immoral, hostile and decadent) – Not present; no criticism of the West or depictions of hostility/decadence. CH2 (China is a benevolent power) – Present; the tweet emphasizes solidarity, sharing experience, and providing humanitarian aid to other countries, portraying China as cooperative and supportive internationally. CH3 (China has an epic history) – Not present; no historical or resilience framing. CH4 (China has an appropriate political system and honorable values) – Not directly; although it implies effective domestic control, it does not explicitly advocate China’s political system or values in domestic governance terms. CH5 (The government of the Chinese Communist Party succeeds) – Partially implied by “epidemic under control domestically,” but the focus is on international aid rather than touting CCP governance successes; insufficient to classify under CH5. CH6 (China is interesting culturally/naturally) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet amplifies Josep Borrell’s statement that Novichok was used to poison Alexei Navalny, labels it a breach of international law and human rights, and calls on Russian authorities to cooperate with an OPCW investigation. Evaluation: EU1 (EU as a successful story) – Not addressed; no historical reflection or success narrative. EU2 (EU is united) – Not explicit; no mention of EU-wide unity or agreement. EU3 (EU useful for its citizens, internal policies) – Not applicable; this concerns external human rights/chemical weapons, not internal citizen-focused utility. EU4 (EU avant-garde) – Not applicable; no pioneering regulation/leadership claim unrelated to norms. EU5 (EU as global champion of fair causes) – Yes; the tweet positions an EU High Representative defending human rights and international law and urging accountability, fitting the EU’s championing of democracy and human rights. EU6 (EU contributes to a better world) – Partially adjacent but not explicit; while it references multilateral cooperation (OPCW), the focus is rights defense rather than broader global cooperation or development. Conclusion: The tweet promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

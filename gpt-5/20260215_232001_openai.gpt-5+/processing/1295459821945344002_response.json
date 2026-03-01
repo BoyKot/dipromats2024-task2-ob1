@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the United States for supporting allies globally in defense of freedom against the Chinese Communist Party, citing Pompeo and asserting the U.S. is rising under Trump to meet the moment. Evaluation: US1 (honorable tradition) – not explicitly about historical tradition or legacy; focus is current actions, so not supported. US2 (admirable society) – no mention of society, groups, or heroes; not supported. US3 (hostile enemies) – frames the Chinese Communist Party as an adversary threatening freedom; supported. US4 (force for good) – emphasizes standing for freedom and supporting allies against oppression; supported. US5 (great international ally) – explicitly mentions supporting allies in Europe and around the world; supported. US6 (at the forefront) – “the United States is rising to meet this moment” implies leadership; supported. Conclusion: Promotes US3, US4, US5, and US6.",
+    "narrative_ids": ["US3", "US4", "US5", "US6"]
+  }
+}

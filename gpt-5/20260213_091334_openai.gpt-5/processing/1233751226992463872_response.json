@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet only states the title 'Agreement for Bringing Peace to Afghanistan - United States Department of State.' It suggests reference to a U.S. State Department peace agreement. Evaluation: US1 (honorable tradition) – not explicitly invoked; no mention of values or historical legacy. US2 (admirable society) – not relevant. US3 (hostile enemies) – no adversary mentioned. US4 (US as a force for good) – implicitly suggested by framing a U.S. State Department initiative aimed at 'bringing peace,' which aligns with promoting U.S. efforts toward peace and security. US5 (great international ally) – no explicit support to allies. US6 (at the forefront) – no leadership/innovation claims. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

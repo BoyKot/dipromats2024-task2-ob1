@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the EU and the UN are natural partners and portrays the EU as a leading defender of multilateralism and a rules-based international order. Evaluation by narrative: EU1 (EU successful story): Not directly about history or overcoming past obstacles; no. EU2 (EU united): No reference to internal EU unity; no. EU3 (useful for citizens): Not about internal benefits or policies; no. EU4 (avant-garde actor): It highlights leadership in defending a rules-based order, but not pioneering regulation or future-oriented policy; weak fit, so no. EU5 (global champion of fair causes): Defending multilateralism/rules-based order is broadly normative, but the narrative focuses on democracy/human rights; indirect at best; not explicit, so no. EU6 (EU contributes to a better world): Yes. It emphasizes EU’s global role and partnership with the UN, supporting multilateralism and a rules-based international order—key elements of contributing to a better world.",
+    "narrative_ids": ["EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet advocates for faster, effective scientific collaboration and sets strategic objectives to be implemented with EU countries, aiming to make Europe a \"lighthouse of excellence\" in research (#EUResearchArea). Evaluation per narrative: EU1 (EU is a successful story): Not explicitly referencing history, past successes, or overcoming obstacles; it's forward-looking, so not supported. EU2 (EU is united): Implicitly promotes cooperation with EU countries, but it does not claim or evidence current unity or agreement among members; thus not clearly supported. EU3 (EU is useful for its citizens): It promotes EU research collaboration but does not explicitly link to direct citizen benefits or specific EU policies improving lives; weak/indirect, so not supported. EU4 (EU as avant-garde political actor): Calling to make Europe a \"lighthouse of excellence\" in research and setting strategic objectives positions the EU as pioneering/leading in science and innovation, aligning with avant-garde framing. EU5 (global champion of fair causes): No mention of rights/democracy; not supported. EU6 (EU contributes to a better world): Focus is intra-European research collaboration, not global development/peace; not supported. Conclusion: The tweet promotes EU4.",
+    "narrative_ids": ["EU4"]
+  }
+}

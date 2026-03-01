@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that after an initial shaky start, the EU is now fully mobilized in handling COVID-19, framing the response as a long-term effort. It praises multilateralism and partnership, saying these choices resonate globally. Evaluation: EU1 (EU is a successful story) – Partially: it acknowledges a shaky start but emphasizes learning and mobilization, suggesting overcoming obstacles; this supports EU1. EU2 (EU is united) – Implicit at best; no explicit mention of unity or agreements among member states, so not sufficiently supported. EU3 (EU is useful for its citizens) – The tweet does not detail concrete measures benefiting EU citizens domestically; focus is general mobilization, so not supported. EU4 (avant-garde actor) – No claim of pioneering regulation/leadership in future challenges; not supported. EU5 (global champion of fair causes) – Not about rights or democracy; not supported. EU6 (EU contributes to a better world) – Yes: it underscores multilateralism and partnership and suggests EU choices are echoed globally, indicating a positive global role during COVID-19. Conclusion: The tweet promotes EU1 and EU6.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

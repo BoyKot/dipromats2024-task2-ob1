@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames China as an adversary and the US as defending freedom (US3). It additionally portrays the US as morally upright and supportive of oppressed peoples (US4), emphasizes ongoing support for allies (US5), and asserts US leadership on the world stage (US6).",
+    "narrative_ids": ["US3", "US4", "US5", "US6"]
+  }
+}

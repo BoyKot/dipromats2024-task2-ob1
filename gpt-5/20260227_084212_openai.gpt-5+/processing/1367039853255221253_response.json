@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet alleges that Canada's unanimous parliamentary accusation of genocide against China is illegitimate because the hearings relied on Uygur exiles supposedly sponsored and cultivated by the US government, implying US orchestration and bias. Evaluation: CH1 (The West is immoral, hostile and decadent) – Supported. The tweet portrays Western actors (Canada and the US) as hostile and manipulative, suggesting a politicized, unethical process to smear China, positioning China as a victim of Western interference. CH2 (China is a benevolent power) – Not present; the tweet does not praise China's cooperative or peaceful international role. CH3 (China has an epic history) – Not present; no historical narrative. CH4 (China has an appropriate political system and honorable values) – Not present; no defense of China’s domestic political system or values. CH5 (The government of the Chinese Communist Party succeeds) – Not present; no claims of CCP governance success or minority coexistence. CH6 (China is interesting culturally/naturally) – Not relevant. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

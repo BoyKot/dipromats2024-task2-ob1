@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports the handover of medical supplies donated by Peng Liyuan (First Lady of China) to Namibia’s First Lady, intended to help women and children in Africa combat COVID-19. Evaluation: CH1 (West immoral/hostile) – Not referenced; no critique of the West. CH2 (China is a benevolent power) – Yes: the tweet highlights Chinese donation of medical supplies to African recipients, portraying China as supportive and helpful internationally. CH3 (epic history) – Not relevant; no historical framing. CH4 (appropriate political system/values domestically) – Not discussed; focus is external assistance, not domestic system. CH5 (CCP government succeeds) – Not claimed; no mention of domestic achievements or governance success. CH6 (culture/nature/heritage) – Not relevant. Conclusion: Only CH2 is promoted.",
+    "narrative_ids": ["CH2"]
+  }
+}

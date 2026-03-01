@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Deputy FM Pankin stating Russia supports an open, transparent, inclusive trade architecture based on nondiscrimination and respect for members’ interests and development features. Evaluation: RU1 (West immoral/hostile): Not promoted; the tweet does not criticize the West or describe it as immoral/hostile. RU2 (Russia leads an alternative system): Partially aligned; it frames Russia as advocating a fairer, inclusive, nondiscriminatory, sovereignty-respecting trade order—hallmarks of an alternative to the Western-led system, even without explicit mention of BRICS or the West. RU3 (Russia is a benevolent partner): Aligned; presenting Russia as supportive of fairness, inclusivity, and respect positions it as a constructive, reliable partner in international trade. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the forefront): No claim of superiority or achievements. RU6 (culture/nature): Not relevant. Conclusion: The tweet promotes RU2 and RU3.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

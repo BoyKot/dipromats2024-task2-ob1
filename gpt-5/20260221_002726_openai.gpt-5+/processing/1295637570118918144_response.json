@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia repatriated 26 children from Syria on a Ministry of Defense plane, the first such flight since COVID-19; doctors accompanied them and all are safe and well. Evaluation by narrative: RU1 (West immoral/hostile) – not present; the tweet does not mention or imply criticism of the West. RU2 (Russia leads an alternative system) – not present; no discussion of multilateral systems or alternatives to the West. RU3 (Russia is a benevolent partner) – supported; the tweet highlights a humanitarian action by Russia (repatriating stranded children with medical support), portraying Russia as caring and responsible. RU4 (Russian history admirable) – not present; no historical content. RU5 (Russia at the world’s forefront) – not directly; while operational capability is implied, the focus is humanitarian, not showcasing superiority or cutting-edge achievements. RU6 (interesting culture/nature/heritage) – not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

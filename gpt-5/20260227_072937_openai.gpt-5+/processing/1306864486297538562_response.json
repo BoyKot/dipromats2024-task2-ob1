@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns Russia’s sentencing of individuals arrested in Crimea as illegal under international law and calls for reversing the decisions, releasing detained Ukrainians, and ending pressure on the Crimean Tatar community, explicitly invoking the EU’s stance. Evaluation:\n- EU1 (EU as a successful story): Not addressed; no reference to EU history or overcoming internal obstacles.\n- EU2 (EU is united): Not explicit; no mention of collective EU unity or consensus, only a generic EU call.\n- EU3 (EU useful for its citizens): Not applicable; this is about external human rights issues, not internal EU citizen benefits.\n- EU4 (EU avant-garde political actor): Not applicable; no pioneering regulation or future-oriented policy focus.\n- EU5 (EU as global champion of fair causes): Yes. The tweet highlights the EU defending human rights and minority rights (Crimean Tatars), calling out illegal detentions and urging corrective action, which aligns with championing fair causes.\n- EU6 (EU contributes to a better world): Arguably, but the tweet is a rights-focused condemnation rather than broader development/peace/multilateral cooperation framing. Primary fit is EU5.\nConclusion: The tweet promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

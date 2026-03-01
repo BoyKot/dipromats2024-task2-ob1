@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the U.S. must lead because without U.S. leadership issues like the plight of China’s Uyghur Muslims would not be on the international agenda, implying U.S. moral leadership and agenda-setting power. Evaluation per narrative: US1 (honorable tradition) – implied only indirectly; the tweet does not reference historical legacy or tradition, so not promoted. US2 (admirable society) – no mention of U.S. society, groups, companies, or heroes, so not promoted. US3 (hostile enemies) – it references China’s treatment of Uyghurs but does not frame adversaries as a direct threat to the U.S.; focus is on U.S. leadership rather than enemies, so not clearly promoted. US4 (force for good) – yes; it presents the U.S. as championing human rights by putting Uyghur plight on the agenda. US5 (great international ally) – no reference to allies, so not promoted. US6 (at the forefront) – yes; it asserts that if the U.S. doesn’t lead, no one will, positioning the U.S. as the indispensable leader in international affairs. Conclusion: US4 and US6 are promoted.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the U.S. for sowing discord between China and Africa during COVID-19 and urges it to focus domestically, framing such U.S. behavior as immoral and irresponsible. CH1: Fits, as it portrays the U.S./West as immoral and hostile (sowing discord, driving a wedge), implicitly casting China as a victim of U.S. behavior. CH2: Not explicitly promoted—there is no affirmative depiction of China’s benevolence or cooperative actions; the focus is on criticizing the U.S. CH3: No historical theme. CH4: No defense of China’s political system or values domestically. CH5: No claim about CCP governance success. CH6: Not cultural. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

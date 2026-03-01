@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet rebukes the U.S., accusing it of a long history (since 1898) of harassing, meddling in, and imposing its vision on other states, and of turning progressive ideas into repressive reality—framed as hypocrisy regarding 'unalienable rights.' Evaluation per narrative: RU1 (The West is immoral, hostile, decadent): The tweet portrays the U.S. (the West) as hostile and hypocritical, meddling in other nations and transforming ideals into repression—directly aligning with RU1. RU2 (Russia leads an alternative system): No mention of Russia offering an alternative or multilateralism; not applicable. RU3 (Russia is a benevolent partner): No content about Russia’s benevolence; not applicable. RU4 (Russian history is admirable): Not discussed. RU5 (Russia at the world’s forefront): Not discussed. RU6 (Russia’s culture/nature): Not discussed. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

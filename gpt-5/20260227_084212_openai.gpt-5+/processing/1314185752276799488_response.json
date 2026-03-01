@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the United States supports free and fair elections in Africa and will impose consequences (e.g., visa restrictions) on those who undermine democracy. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoking U.S. historical legacy or traditions; focus is on current policy, so not promoted. US2 (admirable society) – No mention of U.S. society, groups, companies, or military heroes; not promoted. US3 (hostile enemies) – While it threatens consequences for actors who undermine democracy, it does not frame a specific adversary as an immoral enemy or threat to the U.S.; thus not a fit. US4 (force for good) – Yes. It presents the U.S. as promoting human rights/democracy abroad and taking steps to protect them, aligning with support for freedoms and good governance. US5 (great international ally) – It references support for elections in Africa broadly but does not emphasize alliance relationships; weak to non-applicable. US6 (at the forefront) – No claim of leadership or superiority in domains like economy/technology; not applicable. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

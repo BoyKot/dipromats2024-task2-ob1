@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Pompeo states that defending human dignity and especially religious freedom is central to U.S. foreign policy because it is fundamental to the American experiment. Evaluation by narrative: US1 (honorable tradition) – Yes. It links current policy to the foundational values of the \"American experiment,\" invoking a legacy/tradition. US2 (admirable society) – No. It does not highlight societal groups or civil society achievements. US3 (hostile enemies) – No. No adversary is mentioned. US4 (force for good) – Yes. It frames U.S. foreign policy as defending human dignity and religious freedom, aligning with support for human rights. US5 (great international ally) – No. No allies or support to specific partners are referenced. US6 (at the forefront) – Possible but weak; while it implies leadership in values, it does not explicitly claim leadership in domains like economy/technology or even explicit global leadership language. Not selected. Conclusion: The tweet promotes US1 and US4.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims China will eliminate absolute poverty for the first time in its history and achieve the UN SDG on poverty 10 years early. Evaluation by narrative: CH1 (West immoral/hostile): Not mentioned or implied; no comparison to the West. CH2 (China as benevolent power): It references UN SDGs, suggesting alignment with international development goals, but focuses on China's domestic achievement rather than helping others or multilateral leadership; insufficient to claim CH2. CH3 (Epic history): No reference to historical struggles or past adversities; not applicable. CH4 (Appropriate political system/values): The tweet does not explicitly link success to China's political system or values; not applicable. CH5 (CCP government succeeds): It highlights a major domestic socioeconomic achievement (eliminating absolute poverty, ahead of UN timeline), which directly showcases government-led success within China; applicable. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH5.",
+    "narrative_ids": ["CH5"]
+  }
+}

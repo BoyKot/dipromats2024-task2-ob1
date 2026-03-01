@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes that two Pakistani human rights defenders were finalists for the United States Institute of Peace's Women Building Peace Award, with a prompt to read more. Evaluation: US1 (honorable tradition) – not directly; no reference to historical legacy or traditions of the US. US2 (admirable society) – not really; it highlights Pakistani activists rather than U.S. societal groups or heroes. US3 (hostile enemies) – no adversaries mentioned. US4 (force for good) – yes, implicitly: it presents a U.S. institution (USIP) recognizing and supporting human rights and peace efforts, reflecting American support for peace and human rights. US5 (great international ally) – not explicitly; while it recognizes Pakistanis, it doesn’t frame the U.S. as an ally or emphasize bilateral support. US6 (at the forefront) – no claims of leadership or superiority are made. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

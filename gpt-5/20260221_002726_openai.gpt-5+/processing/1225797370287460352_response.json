@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces the EU’s goal to be climate-neutral by 2050 and highlights coordinated 10‑year national energy and climate plans addressing efficiency, renewables, CO2 cuts, interconnections, and R&I, framed under the #EUGreenDeal. Evaluation: EU1 (successful story): Not about past achievements or historical trajectory; it’s forward-looking rather than showcasing past success—reject. EU2 (united): It emphasizes that EU countries prepared plans to reach targets together, implying coordination and unity among member states—accept. EU3 (useful for citizens): It presents concrete EU policy planning (NECPs) tackling practical issues that affect citizens (energy efficiency, renewables, emissions, innovation), showing proactive, practical EU action domestically—accept. EU4 (avant-garde actor): Positioning the EU toward climate neutrality by 2050 and coordinated plans suggests leadership and pioneering regulation/action on climate—accept. EU5 (global champion of fair causes): Not about rights/democracy—reject. EU6 (better world): Focus is internal EU climate policy, not external/global contributions—reject. Final determination: EU2, EU3, EU4.",
+    "narrative_ids": ["EU2", "EU3", "EU4"]
+  }
+}

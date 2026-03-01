@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet condemns US-led sanctions on Syria as severe and illegitimate, portraying Western actions as harmful to civilians (RU1). It also presents Russia as defending humanitarian relief for Syrians, aligning with a benevolent partner role (RU3).",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

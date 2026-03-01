@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US is beginning to recognize the value of Sputnik V’s heterologous (mixed) dosing, asserting Sputnik V pioneered this approach and that two different shots may work better than two identical ones. Evaluation by narrative: RU1 (West immoral/hostile): Not promoted; the tweet does not depict the West as immoral or hostile, only as slowly recognizing a scientific approach. RU2 (Russia leads an alternative system): Not directly; it’s about vaccine technology, not multilateral order or alternative systems. RU3 (Russia is a benevolent partner): Not evident; no emphasis on partnership or solidarity. RU4 (Russian history admirable): Not historical. RU5 (Russia at the world’s forefront): Yes; it positions Sputnik V/Russian science as pioneering and ahead of the US in vaccine strategy. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

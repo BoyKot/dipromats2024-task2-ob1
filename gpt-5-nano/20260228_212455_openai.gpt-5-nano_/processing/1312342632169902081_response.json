@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames Russia as providing humanitarian medical aid (Sputnik V) to Venezuela, portraying Russia as a benevolent partner (RU3). It also highlights Russia's vaccine as a notable achievement, suggesting Russia is at the world’s forefront in science (RU5). It does not clearly promote RU1 or RU2.",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

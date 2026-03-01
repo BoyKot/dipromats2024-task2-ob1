@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An invitation from the Russian-Tanzanian cultural centre to a free art exhibition featuring Russian artists, tagged with #RussianArt #culture #Russia.\nEvaluation by narrative:\n- RU1 (West immoral/hostile/decadent): No criticism of the West; not applicable.\n- RU2 (Russia leads an alternative system): No mention of geopolitical systems or multilateralism; not applicable.\n- RU3 (Russia is a benevolent partner): While it shows a cultural event abroad, it does not frame Russia as promoting peace/solidarity/development or partnership explicitly; weak/implicit at best, so not applicable.\n- RU4 (Russian history is admirable): No historical claims; not applicable.\n- RU5 (Russia at the world’s forefront): No claims of excellence or leadership; not applicable.\n- RU6 (Russia is interesting in culture/nature/heritage): Yes. It promotes Russian art and culture via an exhibition, aligning with showcasing Russian cultural appeal.\nConclusion: The tweet promotes RU6 only.",
+    "narrative_ids": ["RU6"]
+  }
+}

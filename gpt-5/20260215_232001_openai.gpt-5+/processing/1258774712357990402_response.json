@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia (via Zakharova) expresses support for the Cuban people and calls for the immediate and unconditional lifting of the US embargo on Cuba. Evaluation by narrative: RU1 (West immoral/hostile): The tweet portrays the US as imposing a long-standing economic, trade, and financial embargo against Cuba, implicitly casting the US as a hostile actor; this aligns with depicting the West (US) as hostile. RU2 (Russia leads an alternative system): The tweet does not highlight multilateralism, alternative institutions, or systemic leadership—only a stance on the embargo—so not applicable. RU3 (Russia is a benevolent partner): Emphasizing Russia’s support for the Cuban people and a just cause (lifting embargo) positions Russia as a supportive, benevolent partner. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): No current success/leadership claims. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU1 and RU3.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

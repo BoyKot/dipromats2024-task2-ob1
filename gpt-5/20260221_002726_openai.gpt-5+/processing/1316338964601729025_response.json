@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports a phone call between Russia’s FM Lavrov and Turkmenistan’s FM Meredov about bilateral cooperation and preparations for a CA5+Russia foreign ministers’ meeting. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no mention or critique of the West. RU2 (Russia leads an alternative system) – Partially supported: highlighting the CA5+Russia format and multilateral cooperation outside a Western framework subtly signals Russia fostering non-Western regional formats, aligning with advocacy of alternative, sovereignty-based multilateralism. RU3 (Russia is a benevolent partner) – Some alignment: the emphasis on cooperation and preparatory diplomatic engagement portrays Russia as a constructive, reliable partner, though the tone is factual and minimal. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Not indicated; no claims of superiority or achievements. RU6 (Culture/nature/heritage) – Not relevant. Final determination: RU2 and RU3.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces a U.S. agreement with Moderna to produce and deliver 100 million doses of a COVID-19 vaccine candidate and notes there are three candidates in Phase 3 trials, highlighting progress and capability. Evaluation by narrative: US1 (honorable tradition): Not referenced; no historical values or legacy invoked. US2 (admirable society): No focus on society, diversity, civil groups, or heroes. US3 (hostile enemies): No adversary mentioned. US4 (force for good): Implicit public-health benefit, but the tweet frames progress/production rather than humanitarian advocacy; insufficient to claim this narrative. US5 (great international ally): No allies mentioned. US6 (at the forefront): Yes—emphasizes U.S. leadership and advancement in vaccine development and manufacturing capacity, signaling being at the cutting edge (multiple Phase 3 candidates, major production deal). Conclusion: Promotes US6.",
+    "narrative_ids": ["US6"]
+  }
+}

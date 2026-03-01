@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Putin asserting that sanctions against Syria bypass the UN Security Council, are illegitimate/illegal, and worsen Syria’s economy—implicitly criticizing Western-led unilateral sanctions. Evaluation: RU1 (West immoral/hostile): Yes. It characterizes Western actors imposing sanctions outside UN mechanisms as illegitimate and harmful, depicting them as hostile and unethical. RU2 (Russia leads an alternative system): Partially relevant but not directly promoted; while invoking UN legitimacy hints at multilateralism, the tweet does not showcase Russia leading or building an alternative system or cooperation platforms. RU3 (Russia benevolent partner): Not present; no emphasis on Russia aiding or partnering with Syria beyond criticism of sanctions. RU4 (Russian history admirable): Not applicable. RU5 (Russia at the forefront): Not applicable. RU6 (Culture/nature): Not applicable. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses American politicians of hypocrisy—preaching freedom and human rights while cracking down on Chinese people's pursuit of these and hindering China's development and mutually beneficial China–US cooperation. This portrays the US as hostile and immoral toward China. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – Supported: the tweet depicts the US as hypocritical, hostile to China's human rights/freedom and development, and as undermining cooperation, positioning China as victim. CH2 (China is a benevolent power) – Partially implied via mention of 'cooperation and mutual benefit,' but the tweet does not actively portray China as promoting justice/international law or global benevolence; primary focus is US hypocrisy, so not sufficiently supported. CH3 – Not referenced. CH4 – No explicit advocacy of China's political system or values. CH5 – Mentions hindering China's development but does not claim CCP success; not supported. CH6 – Not applicable. Conclusion: Only CH1 is clearly promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

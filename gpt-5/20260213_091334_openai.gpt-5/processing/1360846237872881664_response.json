@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A light, positive greeting highlighting American diplomats celebrating Ukrainian culture by reading Ukrainian poets. Evaluation by narrative: US1 (honorable tradition) – Not directly; no reference to U.S. historical legacy or feats. US2 (admirable society) – Partially relevant but weak; it shows diplomats appreciating another culture, not promoting U.S. social groups or civil society. US3 (hostile enemies) – Not present. US4 (force for good) – Arguably present: the tweet portrays U.S. diplomats supporting and honoring Ukrainian culture, implying benevolent cultural support. US5 (great international ally) – Yes: it showcases U.S. solidarity and friendship with Ukraine, emphasizing supportive ally behavior. US6 (at the forefront) – Not present. Conclusion: Promotes US5 clearly and US4 plausibly.",
+    "narrative_ids": ["US5", "US4"]
+  }
+}

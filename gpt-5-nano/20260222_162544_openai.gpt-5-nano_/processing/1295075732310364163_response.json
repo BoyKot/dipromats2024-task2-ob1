@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet promotes a UNESCO World Heritage Site in China, emphasizing Chinese history and cultural achievement. This aligns with CH3 (China has an epic history) and CH6 (culture, heritage). It does not clearly promote narratives about the West, governance, or international benevolence.",
+    "narrative_ids": ["CH3", "CH6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses pride in U.S. military service and honors all branches of the Armed Forces for keeping the country safe, including during the fight against COVID-19. Evaluation by narrative: US1 (honorable tradition) – Implicit respect for the Armed Forces but no emphasis on historical legacy or long-standing traditions; focus is present-day service, so not strongly promoted. US2 (admirable society) – Yes: it celebrates military service members (heroes) and honors the different branches, fitting the promotion of military heroes within U.S. society. US3 (hostile enemies) – Mentions a 'new enemy' (COVID-19), but this is a disease, not an immoral adversary state or actor; the narrative is about hostile human adversaries threatening the US, so not applicable. US4 (force for good) – The tweet frames the military as keeping us safe but does not discuss broader support for human rights, oppressed peoples, or global peace; insufficient to claim this narrative. US5 (great international ally) – No reference to allies. US6 (at the forefront) – No claim of leadership or superiority in domains like military capability or technology. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

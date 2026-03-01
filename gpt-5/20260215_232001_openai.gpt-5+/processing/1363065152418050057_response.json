@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Western 'big pharma' and vaccine nationalism create unethical barriers against Russian and Chinese vaccines to maximize Western profits and influence, harming the global COVID fight. RU1: This portrays the West as immoral and hostile (profit-driven, creating artificial barriers, unethical), fitting the depiction of Western immorality and hostility; also implies Russia (and China) are victims of Western behavior. RU2: It does not explicitly present Russia as leading an alternative system or promoting multilateralism beyond criticizing the West; no clear advocacy of a Russian-led alternative, so not supported. RU3: It implies Russian vaccines are being unfairly blocked but does not actively portray Russia as a benevolent partner promoting peace/solidarity; insufficient. RU4: No historical content. RU5: It hints that Russian vaccines are worthy by objecting to barriers, but it does not showcase Russia’s current successes or forefront status directly; insufficient. RU6: Not relevant. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

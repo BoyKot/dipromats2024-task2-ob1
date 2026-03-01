@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the U.S. must lead because no one else will, asserting that the Uyghur issue only reached the international agenda after the U.S. raised it. This frames the U.S. as a necessary global leader advancing human rights. Evaluation per narrative: US1 (honorable tradition) – Implicitly touches on legacy of leading on moral issues, but the tweet focuses on current leadership rather than historical tradition; not a clear match. US2 (admirable society) – No mention of society, groups, companies, or heroes; not applicable. US3 (hostile enemies) – Mentions China’s Uyghur issue but does not frame China chiefly as a hostile enemy; focus is on U.S. leadership, so not a direct fit. US4 (force for good) – Yes; it credits the U.S. with elevating human rights abuses (Uyghurs) onto the global agenda, showcasing U.S. support for oppressed peoples. US5 (great international ally) – No reference to allies; not applicable. US6 (at the forefront) – Yes; “If we don’t lead, no one else will” positions the U.S. as the necessary and primary leader on global issues, indicating leadership/forefront status. Conclusion: The tweet promotes US4 and US6.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

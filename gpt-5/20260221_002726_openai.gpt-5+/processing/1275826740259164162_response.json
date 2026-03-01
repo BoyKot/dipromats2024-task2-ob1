@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims China uniquely pledges peaceful development in its Constitution and cites a proverb about learning from past and reflection, portraying China as inherently peaceful and principled. CH1: No attack on the West; not applicable. CH2: While it emphasizes peaceful development (an international stance), it lacks explicit references to multilateralism, global justice, or contributions abroad; still, framing China as pursuing peaceful development supports the benevolent-power image—applicable. CH3: Brief proverb about past/future but no epic history or adversity; not applicable. CH4: Cites a constitutional pledge and adherence to a specific path, implicitly validating China’s political system and values as honorable and peaceful—applicable. CH5: No content about governance success or development achievements; not applicable. CH6: No cultural/heritage promotion; not applicable. Conclusion: CH2 and CH4.",
+    "narrative_ids": ["CH2", "CH4"]
+  }
+}

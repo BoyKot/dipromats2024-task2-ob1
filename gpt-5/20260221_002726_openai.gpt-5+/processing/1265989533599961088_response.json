@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Premier Li Keqiang saying China will promote the peaceful reunification of the country, tagged #TwoSessions2020. Evaluation: CH1 (West immoral/hostile): Not referenced; no mention of the West. CH2 (China is a benevolent power): The tweet speaks to domestic reunification, not international cooperation or global benevolence; insufficient. CH3 (Epic history): No historical framing or past adversities mentioned. CH4 (Appropriate political system and honorable values): The commitment to \"peaceful reunification\" projects the government's values and approach to a core domestic issue, aligning with portraying the system/values as honorable and aligned with the people's will; this fits CH4’s domestic-values framing. CH5 (Government succeeds): No claims of achievement or performance. CH6 (Culture/nature): Not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

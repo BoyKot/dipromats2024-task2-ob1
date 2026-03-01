@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that newly approved COVID-19 vaccines are being dispatched to all 27 EU countries and will be used during coordinated EU Vaccination Days on 27–29 December. Evaluation: EU1 (EU is a successful story): Implicitly suggests effective action but does not reference history, overcoming past obstacles, or lessons learned; not a clear fit. EU2 (EU is united): Yes—emphasizes simultaneous dispatch to all 27 member states and coordinated vaccination days, showcasing unity and solidarity in action. EU3 (EU is useful for its citizens): Yes—highlights a concrete, timely EU-level measure (vaccine rollout coordination) that addresses public health needs, showing practical benefit to Europeans. EU4 (avant-garde actor): No—does not claim pioneering leadership or regulatory innovation. EU5 (global champion of fair causes): No—unrelated to rights/democracy themes. EU6 (contributes to a better world): No—focus is internal to the EU, not global impact. Conclusion: Narratives EU2 and EU3 are promoted.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

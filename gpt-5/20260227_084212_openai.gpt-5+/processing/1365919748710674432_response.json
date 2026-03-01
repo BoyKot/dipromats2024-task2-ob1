@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks the end of Black History Month and celebrates notable African Americans (MLK Jr., Rosa Parks, Obama, Beyonce), inviting readers to test their knowledge of African-American history. Evaluation per narrative: US1 (honorable tradition): Indirectly touches history, but the focus is on contributions of African Americans rather than framing broader U.S. traditions or national legacy as honorable. Not strongly promoted. US2 (admirable society): Yes. It highlights a diverse ethnic group's integral role in shaping U.S. history and society and promotes public engagement (a quiz) recognizing their achievements—clearly aligning with celebrating the society’s diversity and civil contributions. US3 (hostile enemies): Not present. US4 (force for good): Not addressed. US5 (great international ally): Not addressed. US6 (at the forefront): Not addressed. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

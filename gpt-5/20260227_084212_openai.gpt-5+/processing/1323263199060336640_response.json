@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet neutrally notes photos of the 6th meeting of a Russia–China inter-parliamentary cooperation commission. There is no explicit evaluative language. Evaluation per narrative: RU1 (West immoral/hostile) – not mentioned or implied. RU2 (Russia leads an alternative system) – the tweet highlights institutionalized Russia–China parliamentary cooperation, a form of non-Western multilateral engagement; while minimal, it implicitly showcases cooperation outside Western structures, aligning weakly with RU2. RU3 (Russia benevolent partner) – could be inferred from 'cooperation,' but no claims about peace, solidarity, or development; too neutral to support RU3. RU4 (Russian history admirable) – not relevant. RU5 (Russia at the world’s forefront) – no claims of leadership or success. RU6 (culture/nature) – not relevant. Conclusion: Only RU2 applies, based on the highlighting of non-Western cooperation.",
+    "narrative_ids": ["RU2"]
+  }
+}

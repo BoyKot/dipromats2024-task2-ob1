@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Informational update on the EU’s COVID-19 vaccine approvals and procurement, highlighting multiple vaccines under review/authorised and securing an additional 300 million Moderna doses, framed with #SafeVaccines. Evaluation:\n- EU1 (EU is a successful story): Implicitly positive, but it does not reference history or overcoming past traumas; focus is current operations. Not applicable.\n- EU2 (EU is united): No explicit mention of unity or solidarity among member states. Not applicable.\n- EU3 (EU is useful for its citizens): Yes. It showcases concrete, timely EU action (regulatory progress and large-scale vaccine procurement) addressing citizens’ health concerns, implying practical benefits within the EU.\n- EU4 (EU as avant-garde actor): No claim of pioneering leadership or being first-mover; it’s procedural/progress info. Not applicable.\n- EU5 (global champion of fair causes): Not about democracy/human rights. Not applicable.\n- EU6 (EU contributes to a better world): Focus is internal EU vaccine rollout, not global impact. Not applicable.\nConclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet, quoting the UN Secretary-General on Europe Day, praises the EU’s founding ideals of cross-border cooperation and solidarity, and portrays the EU as an inspiration when nations unite with purpose. Evaluation by narrative: EU1 (EU is a successful story) — Supported: it highlights the EU’s founding ideals and presents the EU as an inspirational success of cooperation. EU2 (EU is united) — Partially implied by references to unity and solidarity, but it speaks in general terms about ideals rather than demonstrating current unity; still, the framing of the EU as what happens when nations come together supports this narrative. EU3 (EU useful for citizens) — Not supported; nothing about concrete benefits or policies for citizens. EU4 (avant-garde actor) — Not supported; no mention of pioneering regulation or leadership on issues. EU5 (global champion of fair causes) — Not supported; no specific human rights/democracy emphasis. EU6 (EU contributes to a better world) — Indirectly suggested by “inspiration” and multilateralism tone, but the tweet focuses on the EU’s internal cooperative model rather than external global contributions; insufficient to claim EU6. Conclusion: EU1 and EU2 apply.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

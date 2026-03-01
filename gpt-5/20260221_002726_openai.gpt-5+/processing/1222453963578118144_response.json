@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet relays Lavrov’s claim that radicals in Idlib repeatedly violated a ceasefire and attacked Syrian and Russian targets; it asserts such provocations must be answered and expresses support for the Syrian army’s efforts to suppress them. Evaluation against narratives: RU1 (West immoral/hostile): Not referenced; the tweet targets \"radicals in Idlib,\" not the West or its allies. RU2 (Russia leads alternative multilateral system): No mention of multilateralism, sovereignty discourse beyond supporting Syria’s army; not highlighting an alternative system. RU3 (Russia is a benevolent partner): The tweet portrays Russia as responsibly countering terrorism and supporting the Syrian government’s efforts to protect civilians and military targets, implying Russia as a stabilizing, supportive partner in Syria. This aligns with presenting Russia as acting for security and order. RU4 (Russian history admirable): Not applicable. RU5 (Russia at the world’s forefront): No showcase of achievements/leadership beyond security stance. RU6 (Culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

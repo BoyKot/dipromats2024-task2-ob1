@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates a historical lineage of American women leaders and activists, from Elizabeth Cady Stanton to Vice President Kamala Harris, urging readers to view a list of trailblazers for Women’s History Month. Evaluation: US1 (The US has an honorable tradition) — Yes. It highlights a long historical tradition of American women's political activism and representation, showcasing historical feats and legacy. US2 (The US has an admirable society) — Yes. It promotes a segment of U.S. society (American women) and their civic engagement and achievements. US3 (The US has hostile enemies) — No mention of adversaries. US4 (The US is a force for good) — Not explicitly; it focuses on domestic historical figures rather than U.S. actions supporting global freedoms. US5 (The US is a great international ally) — Not relevant. US6 (The US is at the forefront) — Not directly asserted; leadership framing is not explicit beyond celebrating history. Conclusion: The tweet promotes US1 and US2.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

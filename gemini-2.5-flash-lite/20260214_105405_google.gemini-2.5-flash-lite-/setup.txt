@@ -1,0 +1,4 @@
+Timestamp: 20260214_105405
+Provider: google
+Model: gemini-2.5-flash-lite
+Thinking Budget: 0

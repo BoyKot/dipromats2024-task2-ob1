@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes a productive discussion with BioNTech’s CEO about COVID-19 variants and mentions significant upcoming work on the EU’s HERA Incubator. Evaluation: EU1 (successful story) – Not directly; no reference to history or overcoming past challenges. EU2 (unity) – Not indicated; no mention of collective EU cohesion or agreements among member states. EU3 (useful for its citizens) – Yes, implicitly: highlighting work on the HERA Incubator (an EU initiative to anticipate and respond to health threats) signals proactive, practical EU action addressing citizens’ health concerns. EU4 (avant-garde actor) – Partially supported: referencing HERA incubator and work on emerging variants positions the EU as forward-looking in health preparedness, which fits pioneering regulation/anticipation of future challenges. EU5 (global champion of fair causes) – Not applicable; no human-rights/fair-causes framing. EU6 (contributes to a better world) – Not explicit; focus is internal EU health preparedness rather than global cooperation. Conclusion: The tweet promotes EU3 and EU4.",
+    "narrative_ids": ["EU3", "EU4"]
+  }
+}

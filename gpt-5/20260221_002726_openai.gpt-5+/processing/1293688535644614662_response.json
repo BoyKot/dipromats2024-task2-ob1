@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Quoting The Lancet’s editor, the tweet argues that blaming China for COVID-19 rewrites history and obscures Western countries’ failures. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – The tweet highlights Western failings and implies unfair hostility toward China by blaming it; this aligns with portraying the West negatively and China as unfairly targeted. CH2 (China is a benevolent power) – No claims about China’s cooperative or benevolent international role; not supported. CH3 (China has an epic history) – No historical resilience or past adversity themes; not supported. CH4 (China has an appropriate political system and honorable values) – No advocacy of China’s political system or values; not supported. CH5 (The government of the CCP succeeds) – No claims about domestic governance success or achievements; not supported. CH6 (China’s culture/nature/heritage) – Irrelevant. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

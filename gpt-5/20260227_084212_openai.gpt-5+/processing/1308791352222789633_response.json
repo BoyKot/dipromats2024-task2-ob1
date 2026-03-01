@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The U.S. has taken action against a Prigozhin-linked network advancing Russian malign influence in CAR, Libya, and elsewhere, and pledges continued accountability for supporters of Russian malign activities. Evaluation: US1 (honorable tradition) – Not invoked; no reference to historical legacy or traditions. US2 (admirable society) – Not applicable; no mention of society, diversity, or civil actors. US3 (hostile enemies) – Yes; the tweet frames Russia/Prigozhin’s network as malign actors threatening stability, portraying them as adversaries the U.S. must counter. US4 (force for good) – Yes; emphasizes promoting accountability against malign influence abroad, implying defense of peace/security and responsible international behavior. US5 (great international ally) – Not present; no mention of allies or partnership support. US6 (at the forefront) – Implicit leadership could be inferred, but the tweet does not explicitly position the U.S. as a leader in broader domains; focus is on a specific counteraction, so not counted. Conclusion: US3 and US4 apply.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

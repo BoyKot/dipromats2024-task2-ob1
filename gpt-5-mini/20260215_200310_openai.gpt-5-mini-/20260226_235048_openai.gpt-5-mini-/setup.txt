@@ -1,0 +1,5 @@
+Timestamp: 20260226_235048
+Provider: openai
+Model: gpt-5-mini
+Explicit Chain of Thought: none
+Reasoning budget: medium

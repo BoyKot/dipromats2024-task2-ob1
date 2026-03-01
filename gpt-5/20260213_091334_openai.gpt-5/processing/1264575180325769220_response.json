@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts China with certain U.S. politicians over the virus’s origin, accusing the latter of lying, prejudice, and spreading a 'political virus' that smears China. It positions China on the side of truth and science and the U.S. (or its politicians) as deceitful and prejudiced. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Supported. The tweet portrays U.S. politicians as liars driven by prejudice, smearing China, which fits depicting the West/US as hostile and immoral while casting China as a victim of smear attacks. CH2 (China is a benevolent power): Not supported; no emphasis on cooperation, multilateralism, or global public goods. CH3 (China has an epic history): Not supported; no historical arc or resilience theme. CH4 (China has an appropriate political system and honorable values): Partially resonant with 'truth and science' virtues but not tied to China’s domestic political system or governance; therefore not supported. CH5 (CCP government succeeds): Not supported; no claims about governance performance or achievements. CH6 (China’s culture/nature): Not applicable. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

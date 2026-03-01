@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet argues that the election of China, Russia, and Cuba to the UN Human Rights Council proves the U.S. was right to withdraw in 2018 and that the U.S. is effectively protecting and promoting universal human rights through other venues, as demonstrated at UNGA. Evaluation by narrative: US1 (honorable tradition): Indirectly touches values, but focus is not on historical tradition or legacy; it's on current policy efficacy. Not promoted. US2 (admirable society): No mention of society, civil groups, or diversity. Not promoted. US3 (hostile enemies): It implies criticism of China, Russia, and Cuba’s human rights records, but it doesn’t frame them as direct enemies or existential threats to the U.S.; it's about UNHRC credibility. This is more about U.S. stance than enemies; borderline but not clearly promoted. US4 (force for good): Strongly promoted—the tweet claims the U.S. protects and promotes universal human rights and took effective action at UNGA. US5 (great international ally): No reference to allies or support for them. Not promoted. US6 (at the forefront): No explicit leadership framing in economy/technology/military/trade; while it implies leadership in human rights venues, the defined scope of US6 doesn’t fit. Not promoted. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

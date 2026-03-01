@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights U.S. citizens imprisoned in Iran on allegedly false charges, labels them innocent victims, and demands Iran release them immediately. Evaluation by narrative: US1 (honorable tradition) – Not present; no reference to U.S. historical values or legacy. US2 (admirable society) – Not present; no praise of U.S. social groups or civil society. US3 (the US has hostile enemies) – Yes; it portrays the Iranian regime as unjust and repressive, an immoral adversary targeting innocent U.S. citizens. US4 (the US is a force for good) – Partially implied through advocating for human rights (release of innocent prisoners), but the tweet focuses on condemning Iran rather than showcasing U.S. actions; not strong enough to qualify. US5 (great international ally) – Not present. US6 (at the forefront) – Not present. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

@@ -1,0 +1,16 @@
+Timestamp: 2026-02-26 04:49:48
+Model provider: OpenAI
+Model name: o4-mini
+Reasoning budget: N/A
+Explicit chain of thought in prompt: none
+-------------------------
+Total Run Time (s): 3149.059
+Successful API Interaction Time Sum (s): 3147.437
+Average Successful API Interaction Time per tweet (s): 3.934
+-------------------------
+Total Input Tokens: 929912
+Total Output Tokens: 284827
+Total Thinking Tokens: 0
+Grand Total Tokens: 1214739
+------------------------
+Average Price per 1000 tweets (USD): 2.845

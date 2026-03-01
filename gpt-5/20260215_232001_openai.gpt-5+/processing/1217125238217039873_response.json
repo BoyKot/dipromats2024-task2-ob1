@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet calls for solidarity with the most affected regions in Europe to ensure the EU Green Deal succeeds, and points to the Just Transition Mechanism as assistance. Evaluation: EU1 (EU successful story) – not directly; it talks about a current policy, not past successes or historical trajectory. EU2 (EU is united) – yes; it explicitly urges solidarity among EU regions, implying unity to achieve the Green Deal. EU3 (EU is useful for its citizens) – yes; it highlights a concrete EU instrument (Just Transition Mechanism) assisting affected regions, showcasing practical benefits to Europeans. EU4 (EU as avant-garde) – indirectly about climate leadership, but the tweet does not frame the EU as pioneering; focus is on solidarity and assistance, so not sufficiently supported. EU5 (global champion of fair causes) – no, this is internal EU policy, not global rights advocacy. EU6 (contributes to a better world) – no, the scope is intra-EU, not global. Conclusion: The tweet promotes EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

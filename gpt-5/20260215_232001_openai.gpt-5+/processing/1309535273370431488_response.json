@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China's commitment to ecological protection, biodiversity, and sustainable development, citing protected areas statistics and framing harmonious coexistence with nature as a value. Evaluation: CH1 (West immoral/hostile): Not referenced; no comparison or critique of the West. CH2 (China is a benevolent power): Partially relevant thematically (positive global-sounding values), but the tweet focuses on domestic environmental policy and does not emphasize international cooperation, multilateralism, or aiding other nations; thus not a fit. CH3 (Epic history): No historical or adversity framing. CH4 (Appropriate political system and honorable values): Yes. It advances normative claims about Chinese governance and values—harmonious coexistence, green development—and implies moral uprightness of the system in domestic management of the environment. CH5 (CCP government succeeds): Yes. It highlights concrete achievements (18% protected areas covering 90% of ecosystems and key species), showcasing effective governance and policy success. CH6 (Interesting culture/nature): While nature is mentioned, the intent is not tourism/cultural promotion but policy/achievement; not applicable. Conclusion: The tweet promotes CH4 and CH5.",
+    "narrative_ids": ["CH4", "CH5"]
+  }
+}

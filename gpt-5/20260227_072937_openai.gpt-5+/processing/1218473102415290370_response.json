@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet invites applications for the Jan Amos Comenius Prize, rewarding secondary schools that teach about the EU in engaging ways to foster active, informed, democratically engaged young citizens. Evaluation: EU1 (successful story) – not explicitly highlighted; no reference to EU history, overcoming obstacles, or learned lessons. EU2 (union/unity) – not mentioned; no emphasis on solidarity or agreement among member states. EU3 (useful for its citizens) – yes; it promotes an EU initiative that supports civic education and democratic engagement, showing a practical benefit for EU citizens (students and schools). EU4 (avant-garde actor) – not applicable; no claim of pioneering regulation or leadership on future challenges. EU5 (global champion of fair causes) – partially related to democracy, but context is internal EU civic education, not global leadership; thus not applicable. EU6 (better world) – not applicable; no external/global focus. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

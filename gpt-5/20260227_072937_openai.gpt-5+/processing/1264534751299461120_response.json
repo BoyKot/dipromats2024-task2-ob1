@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet calls for peaceful coexistence and mutually beneficial cooperation between China and the US despite different systems and cultures. Evaluation by narrative: CH1 (West immoral/hostile): Not promoted; the tweet is non-confrontational and avoids blaming the West. CH2 (China is a benevolent power): Partially aligned—the emphasis on peaceful coexistence and mutually beneficial cooperation reflects a cooperative, peace-oriented stance often associated with China's benevolent-power framing in international relations. Although it mentions both China and the US, it advances the idea that China supports peaceful, mutually beneficial ties. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not addressed; differences in systems are acknowledged without endorsing China’s domestic system. CH5 (CCP government succeeds): No claim of achievements or leadership. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

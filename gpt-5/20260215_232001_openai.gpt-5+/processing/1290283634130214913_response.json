@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet boasts about a record-high NASDAQ under the current leadership and warns that if 'Sleepy Joe' became President, the economy (jobs, stocks, 401ks) would crash and 'China and others would own us.' Evaluation by narrative: US1 (honorable tradition) – Not referenced; no appeal to historical values or legacy. US2 (admirable society) – Not applicable; no focus on societal groups or civil achievements. US3 (hostile enemies) – Applicable; it frames China (and unnamed others) as adversaries who would 'own' the US, portraying them as threats. US4 (force for good) – Not present; no claims about supporting human rights or global good. US5 (great international ally) – Not applicable; no mention of alliances. US6 (at the forefront) – Partially implied by boasting about a record-high NASDAQ, positioning US economic leadership; this aligns with portraying the US at the forefront in the economy. Conclusion: The tweet promotes US3 and US6.",
+    "narrative_ids": ["US3", "US6"]
+  }
+}

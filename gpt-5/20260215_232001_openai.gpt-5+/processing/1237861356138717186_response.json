@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Praises Chinese medical workers and national unity for defeating COVID-19, and asserts China will unite with international partners to defeat the virus. Evaluations: CH1 (West immoral/hostile): Not present; no mention or contrast with the West. CH2 (China is a benevolent power): Yes; the tweet emphasizes cooperation with international partners to combat a global threat, projecting China as collaborative and supportive. CH3 (Epic history/resilience): Partially about resilience but framed around a current event, not historical arc or past injustices; not enough for CH3. CH4 (Appropriate political system and honorable values): It praises unity and solidarity, but does not explicitly advocate China’s political system or governance values; insufficient for CH4. CH5 (CCP government succeeds): It credits “unity and solidarity of the Chinese people” and heroic doctors for defeating COVID-19, implying domestic success; however, it does not explicitly credit the CCP/government or policy achievements, so evidence is insufficient for CH5. CH6 (Culture/nature/heritage): Not relevant. Final determination: CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

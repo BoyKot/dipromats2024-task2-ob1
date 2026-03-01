@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges China and India to avoid confrontation, manage differences wisely, and pursue cooperation for mutual benefit. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; the West is not mentioned. CH2 (China is a benevolent power) – Yes; it portrays China's preference for peace, cooperation, and capability to handle differences responsibly, consistent with a cooperative, peace-promoting international stance. CH3 (epic history) – Not referenced. CH4 (appropriate political system/values domestically) – Not addressed; focus is external relations, not domestic governance. CH5 (CCP government succeeds) – No claims about domestic success or leadership. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

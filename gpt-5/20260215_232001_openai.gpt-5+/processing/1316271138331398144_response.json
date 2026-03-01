@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that the Five Eyes, with Japan and India, are demanding backdoors in encrypted apps like Signal and Telegram. This implies Western/allied governments push for surveillance access. Evaluation: CH1 (The West is immoral, hostile and decadent) — The tweet frames Western intelligence alliance (Five Eyes) and allied countries as pressuring for backdoors, which can be read as portraying the West as intrusive/hostile to privacy. While not overtly moralizing, it implicitly casts Western-led demands negatively. This is the closest match. CH2 — No mention of China’s benevolence or international role. CH3 — No historical narrative about China. CH4 — No advocacy of China’s political system or values. CH5 — No claims about CCP governance success. CH6 — Not about culture/heritage. Conclusion: Only CH1 is weakly but plausibly promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

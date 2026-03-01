@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the USSR’s successful counter-offensive in the Battle of Moscow in 1942, calling it a turning point in WWII and crediting the heroism of Moscow’s defenders for shattering the aura of Nazi invincibility. Evaluation by narrative: RU1 (West immoral/hostile): Not promoted; no mention of the West or its allies. RU2 (Russia leads alternative system): Not relevant; no discussion of multilateral order or alternative systems. RU3 (Russia as benevolent partner): Not present; no references to partnership, mediation, or peacebuilding. RU4 (Russian history is admirable): Promoted; it highlights a major Soviet/Russian historical military achievement as pivotal for WWII, praising heroism and global impact, matching the example style. RU5 (Russia at the world’s forefront): Not applicable; no claim of current achievements. RU6 (Russia’s culture/nature/heritage interest): Not applicable; this is a wartime historical commemoration, not cultural/natural promotion. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

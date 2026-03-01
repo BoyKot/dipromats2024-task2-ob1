@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts the US expelling Chinese journalists \"without any grace period\" with China handling US reporters' departures \"according to laws & regulations\" in a \"more humane & considerate\" way amid COVID-19. It criticizes the US and portrays China as more lawful and compassionate.\n- CH1 (The West is immoral, hostile and decadent): Yes. The tweet depicts the US (State Dept) as harsh and inconsiderate, implying immoral/hostile behavior toward Chinese journalists.\n- CH2 (China is a benevolent power): Yes. It frames China as humane, considerate, and law-abiding in handling reporters, highlighting moral high ground and respect for rules during a global crisis.\n- CH3 (China has an epic history): No. No historical or resilience themes.\n- CH4 (China has an appropriate political system and honorable values): Partially relevant tone (lawful, humane), but applied to international countermeasures rather than promoting China’s domestic political system or values per se. Not a clear fit; better captured by CH2.\n- CH5 (CCP government succeeds): No reference to development or governance outcomes.\n- CH6 (Culture/nature/heritage): Not applicable.\nConclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

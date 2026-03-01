@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet mainly praises a domestic political figure and references 'the China Virus.' The explicit labeling of China in relation to the virus frames China as a foreign adversary, aligning with the narrative 'The US has hostile enemies' (US3). The other narratives (honorable tradition, admirable society, force for good, ally, at the forefront) are not clearly promoted by the tweet.",
+    "narrative_ids": ["US3"]
+  }
+}

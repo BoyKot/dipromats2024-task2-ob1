@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Russia’s new Transport Worker's Day, praising the breadth of Russian transport, domestic design and manufacturing, and the skilled professionals contributing to national development. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no contrast with the West. RU2 (alternative system to West): No reference to international order or non-Western cooperation. RU3 (benevolent partner): Not about partnership, peace, or aid. RU4 (Russian history admirable): Focus is present-day celebration, not historical legacy. RU5 (Russia at the world’s forefront): The tweet highlights current capabilities—variety of transport, domestically designed and built vehicles, skilled professionals, and contribution to development—implying technological/industrial competence and national success; this aligns with showcasing current successes. RU6 (interesting culture/nature/heritage): While it’s cultural pride, it’s not about culture/nature/heritage attractions. Conclusion: Promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet alleges that Estonian security police and Security Service killed at least 3,000 Soviet people around Moglino Camp during WWII, tagged with #BlackRibbonDay and location hashtags. Evaluation per narrative: RU1 (West and allies are immoral/hostile): The tweet portrays Estonia (a Western-aligned state) as having committed killings of Soviet people, implying moral wrongdoing by a Western ally. This fits the framing of Western allies as hostile to Russians/Soviets, even if historical. RU2 (Russia leads alternative system): No mention of Russia-led multilateralism or systems. RU3 (Russia benevolent partner): Not addressed. RU4 (Russian history admirable): While WWII is referenced, the tweet focuses on victimization of Soviets by Estonian forces rather than praising Russian achievements or contributions; thus not clearly promoting admiration. RU5 (Russia at forefront): Not present. RU6 (Russia culture/nature): Not present. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

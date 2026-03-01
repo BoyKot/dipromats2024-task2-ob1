@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises a Chinese girl voluntarily distributing masks and raising awareness in Pakistan during COVID-19, ending with \"Long Live Pak-China friendship\" and \"We are together in fighting coronavirus.\" Evaluation: CH1 (West immoral/hostile): No mention of the West or criticism thereof. CH2 (China is a benevolent power): Yes—portrays Chinese goodwill, cooperation, and solidarity helping another country (Pakistan) during a global crisis, emphasizing friendship and shared fight. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): No discussion of China's political system or governance values. CH5 (CCP government succeeds): No claims about government performance, development, or leadership. CH6 (interesting culture/nature/heritage): Not about culture or heritage. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

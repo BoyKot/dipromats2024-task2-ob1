@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A promotional tweet about U.S. Marines training with Japanese forces in Hokkaido during Exercise Northern Viper to enhance interoperability and cold-weather lethality/proficiency.\n- US1 (honorable tradition): Not invoked; no reference to values, legacy, or historical feats.\n- US2 (admirable society): Not about societal groups, civil society, companies, or military heroes; focuses on a training event.\n- US3 (hostile enemies): No mention of adversaries or threats.\n- US4 (force for good): Does not frame the activity in terms of human rights, freedoms, or aiding oppressed peoples; it’s purely operational readiness.\n- US5 (great international ally): Yes. It highlights interoperability and joint training with Japan, praising allied cooperation and U.S. support for an ally.\n- US6 (at the forefront): Implicitly shows military capability/readiness, but does not claim leadership or superiority; emphasis is on training, not leadership status. Not strongly supported.\nConclusion: The tweet promotes the narrative that the US is a great international ally (US5).",
+    "narrative_ids": ["US5"]
+  }
+}

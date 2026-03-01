@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes the U.S. rejoining the Paris Agreement on day one of a new administration, framing it as a starting point for renewed cooperation and hinting at more to come. Evaluation per narrative: EU1 (EU as a successful story): Not referenced; no historical reflection or EU achievements mentioned. EU2 (EU is united): No mention of intra-EU unity or agreements among member states. EU3 (EU useful for its citizens): Not about internal EU policies or benefits to EU citizens. EU4 (EU as avant-garde political actor): Implicit climate leadership could be inferred, but the tweet does not position the EU as pioneer; it focuses on U.S. rejoining and cooperation. Insufficient to claim EU avant-garde framing. EU5 (EU as global champion of fair causes): Not about rights/democracy; it’s about climate cooperation. EU6 (EU contributes to a better world): Fits best—the tweet highlights renewed multilateral climate cooperation (Paris Agreement) and positions engagement as contributing to global efforts, aligning with EU’s promotion of multilateralism and global well-being.",
+    "narrative_ids": ["EU6"]
+  }
+}

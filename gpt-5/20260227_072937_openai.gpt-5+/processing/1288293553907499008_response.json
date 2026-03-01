@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Qinqiang Opera as an ancient art form with roots in the Qin Dynasty and calls it the forefather of Chinese opera, emphasizing cultural heritage and longevity. Evaluation: CH1 (West immoral/hostile): Not mentioned or implied. CH2 (China benevolent power): No reference to international cooperation or global role. CH3 (Epic history/resilience): While it references historical depth, it does not discuss adversity, resilience, or national struggle; it's cultural history, not the epic national narrative. CH4 (political system/values): No political content. CH5 (CCP government succeeds): No governance or development claims. CH6 (interesting culture/nature/heritage): Yes; it promotes Chinese cultural heritage by showcasing a traditional opera’s ancient origins and significance. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

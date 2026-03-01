@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims it is unjustified for the US to impose sanctions on Chinese companies and individuals for activities within China, implying US overreach and unfair hostility toward China. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – Supported: it portrays the US as acting unjustly and hostilely toward China, positioning China as a victim of unwarranted US sanctions. CH2 (China is a benevolent power) – Not supported: no mention of China’s cooperative or altruistic international role. CH3 (China has an epic history) – Not supported: no historical framing. CH4 (China has an appropriate political system and honorable values) – Not supported: no defense of China’s political system or values, only objection to US actions. CH5 (The government of the Chinese Communist Party succeeds) – Not supported: no claims about CCP governance or achievements. CH6 (China’s culture/nature/heritage) – Not applicable. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

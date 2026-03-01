@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Russian artist Ivan Bilibin, highlighting his unique style, contributions (designing the double-headed eagle coat of arms, co-founding the Union of Russian Painters), and cultural impact on Russian children. Evaluation: RU1 (West immoral/hostile) – not mentioned. RU2 (Russia leads alternative system) – not addressed. RU3 (Russia benevolent partner) – not addressed. RU4 (Russian history is admirable) – yes: it praises a notable Russian cultural figure, his role in national symbols and art history, framing Russian historical-cultural contributions positively. RU5 (Russia at the world’s forefront) – not claimed as current superiority or achievement. RU6 (Russia interesting in culture/nature/heritage) – arguably touches culture, but the tweet is less about promoting tourism or general cultural appeal and more about historical admiration; primary fit is RU4. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet touts the Biden administration’s COVID-19 vaccination progress—vaccine supply for all adults by end of May, over 2 million daily shots, and 95 million doses administered—crediting @POTUS and the White House COVID Response team. Evaluation by narrative: US1 (honorable tradition): Not invoked; no reference to historical legacy or foundational values. US2 (admirable society): Not about society, ethnic groups, civil society, companies, or heroes; focuses on government performance metrics. US3 (hostile enemies): No adversary is mentioned. US4 (force for good): Implicitly about protecting public health, but it’s framed as domestic operational success, not broader human rights/support to oppressed peoples or global good; insufficient. US5 (great international ally): No reference to allies. US6 (at the forefront): The tweet emphasizes leadership and scale (rapid ramp-up, high daily shots, massive total doses), positioning the US response as leading-edge performance; this aligns with portraying the US as a leader in capability and execution. Conclusion: Promotes US6.",
+    "narrative_ids": ["US6"]
+  }
+}

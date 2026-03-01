@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the Chinese government for prioritizing people's livelihood and wellbeing nationwide, citing infrastructure and public service achievements in Xinjiang (affordable, earthquake-resistant housing; widespread garbage treatment). Evaluation: CH1 (West immoral/hostile): Not mentioned; no comparison to the West. CH2 (China as benevolent power internationally): Focus is domestic, not on international cooperation or global governance; not applicable. CH3 (epic history/resilience): No historical narrative or past adversities referenced; not applicable. CH4 (appropriate political system and honorable values): The claim that the government prioritizes people's wellbeing and has morally upright governance aligns with promoting honorable values and the suitability of its system in domestic affairs; applicable. CH5 (CCP government succeeds): Showcases concrete developmental successes in Xinjiang (housing, village services), attributing them to government action; applicable. CH6 (culture/nature/heritage): Not relevant. Conclusion: CH4 and CH5 are promoted.",
+    "narrative_ids": ["CH4", "CH5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU begins COVID-19 vaccinations across the Union, emphasizing acting in unity and turning the page together, with hashtags #EUVaccinationDays and #StrongerTogether. Evaluation by narrative: EU1 (EU successful story): Implicitly positive but focuses on current unity and milestone rather than historic success or learning from past; not strongly supported. EU2 (EU is united): Strongly supported—repeated emphasis on acting in unity, doing it together, coordinated start across the EU, and #StrongerTogether. EU3 (EU useful for its citizens): Moderately supported—vaccination start is a concrete action addressing citizens’ health and pandemic response, showing practical benefit. EU4 (EU avant-garde): Not indicated; no pioneering regulation or leadership claim. EU5 (global champion of fair causes): Not relevant. EU6 (contributes to a better world): Not claimed; focus is internal EU action. Conclusion: The tweet promotes EU2 clearly and EU3 plausibly.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

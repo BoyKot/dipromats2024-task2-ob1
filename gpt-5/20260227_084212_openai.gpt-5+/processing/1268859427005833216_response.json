@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces a historical exhibition and an online conference about anti-Nazi resistance in Europe, organized by the Russian Historical Society, with a broadcast link forthcoming. RU1: No explicit claim about the West being immoral or hostile; it's neutral/informational. RU2: No mention of alternative systems, multipolarity, or non-Western cooperation. RU3: Does not portray Russia as a partner in peace/development; it's an event announcement without framing of benevolence. RU4: It touches on historical themes and implies Russian involvement in commemorating anti-Nazi resistance, aligning with highlighting Russian historical contributions and memory of WWII. Though subtle, this fits the pattern of promoting admiration/respect for Russian history. RU5: No claim of current forefront achievements. RU6: Not about culture/nature/heritage tourism; it's a scholarly event, not promoting cultural attractiveness per se. Conclusion: Promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

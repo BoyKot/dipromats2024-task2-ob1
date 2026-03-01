@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Russian space technology, specifically the Orlan MK/MKS spacesuit enabling up to 7-hour EVAs, with an infographic credited to Rostec. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no comparison or criticism of the West. RU2 (Alternative non-Western system): No mention of multilateralism or alternative systems; purely technical showcase. RU3 (Benevolent partner): No claims about peace, aid, or partnership. RU4 (Russian history admirable): Not about historical legacy; it's present-day tech. RU5 (Russia at the world’s forefront): Yes—showcases current Russian technological capability in space, implying advanced performance. RU6 (Culture/nature/heritage): Not about culture or nature. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

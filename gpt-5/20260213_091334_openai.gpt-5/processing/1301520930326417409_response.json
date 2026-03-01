@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A defiant warning against distorting or vilifying the Chinese Communist Party (CCP), asserting that the Chinese people will not accept such criticism. Evaluation by narrative: CH1 (West immoral/hostile): Not directly. The tweet does not mention the West or any foreign actor; it focuses on defending the CCP. CH2 (China benevolent internationally): Not addressed; no claims about international cooperation or multilateralism. CH3 (China has an epic history): Implicitly references CCP history by rejecting its distortion, but it does not celebrate historical resilience, adversities, or epic achievements; it's a protective stance rather than a historical narrative. Thus, not sufficiently supported. CH4 (Appropriate political system and honorable values): Yes. The tweet defends the nature and purpose of the CCP and frames it as aligned with the will of the Chinese people (“the Chinese people will never agree”), which fits portraying the political system as legitimate and honorable domestically. CH5 (CCP government succeeds): No explicit claims of governance success or development outcomes. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

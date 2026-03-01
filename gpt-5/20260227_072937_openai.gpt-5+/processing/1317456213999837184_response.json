@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the historical 'Great Stand on the Ugra River' 540 years ago, portraying it as an epic standoff that ended the Tatar-Mongol Yoke over Russian lands, and invites readers to imagine the scene at the modern Ugra River. Evaluation by narrative: RU1 (West immoral/hostile) – Not referenced; no mention of the West or allies. RU2 (Russia leads alternative system) – Not applicable; no discussion of current international order or multilateralism. RU3 (Russia benevolent partner) – Not applicable; no partnership or mediation themes. RU4 (Russian history is admirable) – Applicable; it glorifies a historical Russian military-political milestone as epic and pivotal in ending foreign domination, highlighting pride in Russian history. RU5 (Russia at the world’s forefront) – Not applicable; no contemporary achievements. RU6 (Russia’s culture/nature/heritage) – Partially relevant but secondary; while it shows the Ugra River today, the focus is not on tourism or natural beauty but on a historical event. Therefore, RU4 is the clear fit.",
+    "narrative_ids": ["RU4"]
+  }
+}

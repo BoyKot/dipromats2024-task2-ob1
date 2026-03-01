@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet denounces Pompeo’s remarks on China and the CPC as absurd lies rooted in a Cold War, zero-sum mentality; it asserts that U.S. attempts to contain China will fail and cites People's Daily 'fact check' to reinforce this. Evaluation: CH1 (The West is immoral, hostile and decadent) — Supported. The tweet frames U.S. politicians as driven by hostile Cold War/zero-sum thinking, misrepresenting history and reality, and trying to contain China, positioning China as a victim of Western hostility. CH2 (China is a benevolent power) — Not directly supported; no claims about China’s cooperative or multilateral behavior. CH3 (China has an epic history) — Not supported; no reference to China’s historical resilience beyond a brief mention of misrepresentation of history by the U.S. CH4 (China has an appropriate political system and honorable values) — Partially implied via defense of CPC against lies, but no positive articulation of China’s political system or values; thus not supported. CH5 (The CCP succeeds) — Not directly; asserting U.S. containment will never succeed implies China’s resilience, but no concrete claims about CCP-led achievements. CH6 (China is interesting culturally) — Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

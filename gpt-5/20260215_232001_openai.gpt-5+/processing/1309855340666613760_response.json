@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts China's success under CPC leadership in lifting 800 million out of poverty with the US having a disproportionate share of global COVID-19 cases, implying China's competence and the US's failure. CH1: By highlighting US COVID-19 failure in a negative comparative frame, it portrays the US (the West) as deficient/decadent; this aligns with depicting the West negatively, so CH1 applies. CH2: No emphasis on China's international benevolence, multilateralism, or global cooperation; not applicable. CH3: No historical arc or past adversities; not applicable. CH4: It implicitly credits the CPC system, but the focus is not on values/system design; instead it stresses outcomes. Limited fit. CH5: Explicitly credits the CPC government for massive poverty alleviation, showcasing domestic developmental success; strongly applicable. CH6: Not about culture/heritage; not applicable. Final determination: CH1 and CH5.",
+    "narrative_ids": ["CH1", "CH5"]
+  }
+}

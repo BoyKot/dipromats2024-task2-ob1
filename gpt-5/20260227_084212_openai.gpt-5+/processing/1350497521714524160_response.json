@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Contrasts China (blamed for harming the world by restricting internal travel while letting the world suffer) with the US (credited with inventing vaccines for the world), asserting a moral contrast visible to all. Evaluation: US1 (honorable tradition) – not explicitly about historical legacy or tradition; it's a current-event contrast, so not supported. US2 (admirable society) – no focus on society, ethnic groups, civil society, companies, or military heroes; not supported. US3 (hostile enemies) – the tweet portrays the CCP as immoral/harmful, framing it as an adversary; this aligns with highlighting a hostile enemy. US4 (force for good) – credits America with inventing vaccines “for the world,” implying benevolent, humanitarian contribution; aligns with US as a force for good. US5 (great international ally) – no mention of allies or support to specific partners; not supported. US6 (at the forefront) – implies leadership in vaccine invention; positions the US as leading in science/technology; supported. Conclusion: The tweet promotes US3, US4, and US6.",
+    "narrative_ids": ["US3", "US4", "US6"]
+  }
+}

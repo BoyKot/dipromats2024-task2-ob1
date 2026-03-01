@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises Ronald Reagan’s legacy of freedom-centered U.S. foreign policy and asserts continuity with that legacy today. Evaluation: US1 (The US has an honorable tradition) – Yes. It invokes a revered historical figure (Reagan) and situates current policy within a longstanding American tradition of valuing freedom, highlighting legacy and historical continuity. US2 (admirable society) – No. It does not discuss societal groups, civil society, companies, or military heroes. US3 (hostile enemies) – No. No mention of adversaries. US4 (The US is a force for good) – Yes. By emphasizing freedom and the American promise at the center of foreign policy, it implies U.S. promotion of human rights and freedoms abroad. US5 (great international ally) – No. No reference to allies or support for specific partners. US6 (at the forefront) – No. No claim of leadership in domains like economy, technology, or military. Conclusion: The tweet promotes US1 and US4.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

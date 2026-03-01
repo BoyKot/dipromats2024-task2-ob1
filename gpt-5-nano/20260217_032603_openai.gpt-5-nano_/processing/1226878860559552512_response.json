@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames Western actions as illegitimate and oppressive while expressing Russia's solidarity with Venezuela and commitment to sovereignty, portraying Russia as a benevolent partner. This maps to RU1 (West is immoral/hostile) and RU3 (Russia as a benevolent partner). It does not clearly articulate an alternative system beyond opposing Western pressure, so RU2 is not explicitly promoted.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

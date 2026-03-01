@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet is a direct government policy statement attributed to Premier Li Keqiang, outlining China’s aim to promote peaceful reunification. This centers the CCP government's governance and policy agenda, aligning with CH5 (The government of the Chinese Communist Party succeeds). It does not frame Western hostility (CH1), international benevolence narrative (CH2), or domestic cultural/values messages (CH4/CH6/CH3).",
+    "narrative_ids": ["CH5"]
+  }
+}

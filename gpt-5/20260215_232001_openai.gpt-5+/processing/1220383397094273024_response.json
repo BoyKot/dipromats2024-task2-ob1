@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that dictatorships end and expresses pride in supporting Juan Guaidó, the Venezuelan National Assembly, and the Venezuelan people in their struggle to restore democracy. Evaluation: US1 (honorable tradition) – Not explicitly about US legacy or historical feats; no. US2 (admirable society) – Does not highlight US society or groups; no. US3 (hostile enemies) – It labels \"dictatorships\" negatively but does not frame a threat to the US or identify a hostile enemy to the US specifically; leaning no. US4 (force for good) – Yes: it highlights supporting human rights/democracy and oppressed peoples (Venezuelans) and US/actor pride in aiding restoration of democracy. US5 (great international ally) – Implies support to foreign democratic actors, but not framed as steadfast alliance with a specific ally nation; borderline, but primarily not. US6 (at the forefront) – No leadership/primacy claim. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Terrorism is a global challenge; Pakistan’s anti-terror efforts deserve recognition; the US should not treat China and Pakistan as enemies; the real enemies are terrorism and COVID-19. Evaluation: CH1 (The West is immoral, hostile and decadent) – The tweet admonishes the US for misperceiving China and Pakistan as enemies, implicitly casting the US as hostile/mistaken. This aligns with portraying the West (US) negatively, so CH1 is supported. CH2 (China is a benevolent power) – The tweet positions China as not an enemy and part of a cooperative stance against common threats, implying a preference for partnership over confrontation; this aligns with China’s cooperative, security-focused posture, so CH2 is supported. CH3 – No historical or adversity theme present. CH4 – No explicit advocacy of China’s domestic political system or values. CH5 – No claims about CCP governance successes. CH6 – Not about culture or heritage. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

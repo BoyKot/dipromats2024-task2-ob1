@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet explains the roles of U.S. space-related Defense entities (Space Force, U.S. Space Command, Space Development Agency) and states they work together to ensure the U.S. maintains and strengthens its leadership in the space domain. Evaluation: US1 (honorable tradition) – not invoked; no reference to history or legacy. US2 (admirable society) – no mention of society, diversity, or heroes beyond institutional roles. US3 (hostile enemies) – no adversary is mentioned. US4 (force for good) – does not frame actions in terms of human rights or global benevolence. US5 (great international ally) – no allies referenced. US6 (at the forefront) – yes; explicitly claims maintaining and strengthening U.S. leadership in space, positioning the U.S. as a leader in a strategic domain. Conclusion: The tweet promotes US6.",
+    "narrative_ids": ["US6"]
+  }
+}

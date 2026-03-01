@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates the founding of the State Tretyakov Gallery in Moscow, praising it as a top museum with a vast collection of Russian fine art from icons to socialist realism.\n- RU1 (West immoral/hostile): No mention of the West or hostility; not applicable.\n- RU2 (Alternative system): No discussion of geopolitical systems or multilateralism; not applicable.\n- RU3 (Benevolent partner): No reference to partnership or aid; not applicable.\n- RU4 (Russian history is admirable): Yes. It highlights a historically significant Russian institution and showcases Russia’s rich artistic heritage across eras, implying pride in Russian historical cultural contributions.\n- RU5 (Russia at the world’s forefront): Partially. It claims the gallery is among the best in the world (top-20 by visitors), indicating prominence; however, the focus is cultural rather than broad national superiority. Still, it showcases a current success/standing.\n- RU6 (Russia interesting in culture/nature/heritage): Yes. It promotes Russian culture and heritage via a major art museum and its collection.\nConclusion: RU4 and RU6 clearly apply; RU5 also reasonably applies due to highlighting top global standing of a Russian institution.",
+    "narrative_ids": ["RU4", "RU5", "RU6"]
+  }
+}

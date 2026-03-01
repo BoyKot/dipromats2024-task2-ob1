@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that AU commissioners and the Chinese Ambassador to the AU jointly unveiled the model for the Africa CDC Headquarters. It highlights a ceremonial, cooperative event involving China and African Union officials. Evaluation per narrative: CH1 (West immoral/hostile): Not referenced; no criticism of the West. CH2 (China is a benevolent power): Implicitly supported—China appears as a cooperative partner in building Africa's public health infrastructure, suggesting constructive, supportive engagement. CH3 (epic history): Not present. CH4 (appropriate political system/values, domestic): Not addressed. CH5 (CCP government succeeds domestically/technologically): Not addressed; no claims about China's internal achievements. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 by presenting China in a supportive, cooperative role; no other narratives are evident.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that EU HR Josep Borrell spoke with US Secretary Mike Pompeo about COVID-19, emphasizing cooperation and solidarity, and stating that the EU and US can significantly contribute to international efforts against the pandemic.\nEvaluation:\n- EU1 (EU is a successful story): Not explicitly promoted; no reference to EU history, overcoming past obstacles, or long-term success.\n- EU2 (EU is united): Not directly; the tweet mentions solidarity in a transatlantic context, not evidence of intra-EU unity or agreements among member states.\n- EU3 (EU is useful for its citizens): No; the focus is external/international cooperation, not EU measures benefiting citizens within the EU.\n- EU4 (EU as avant-garde political actor): No claim of pioneering regulation or leadership on future challenges.\n- EU5 (EU as global champion of fair causes): No mention of human rights/democracy advocacy.\n- EU6 (EU contributes to a better world): Yes; it highlights EU engagement in multilateral cooperation with the US and the capacity to contribute significantly to international efforts to tackle a global challenge (the pandemic), aligning with the theme of contributing to global well-being and cooperation.\nConclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes the EU Green Deal as the pathway to make Europe greener, healthier, more sustainable, and to drive recovery from the coronavirus pandemic toward a more resilient society. Evaluation by narrative: EU1 (EU is a successful story) – Not explicitly about past successes or historical overcoming of obstacles; it is future-oriented, so not supported. EU2 (EU is united) – No mention of unity or agreement among member states; not supported. EU3 (EU is useful for its citizens) – Yes. It highlights concrete EU policy (EU Green Deal) improving citizens’ lives (greener, healthier, sustainable, resilient recovery from COVID-19), showing practical benefits within the EU. EU4 (EU as avant-garde) – Yes. Positioning the EU Green Deal as leading on green, sustainable recovery suggests pioneering action on climate and sustainability. EU5 (global champion of fair causes) – Not addressed. EU6 (EU contributes to a better world) – The tweet’s focus is internal (Europe’s recovery and health), not global contributions; not supported. Conclusion: The tweet promotes EU3 and EU4.",
+    "narrative_ids": ["EU3", "EU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet attacks Nancy Pelosi and Dr. Deborah Birx, defends the administration’s COVID-19 response as doing a very good job, and labels COVID-19 as the China Virus. Evaluation: US1 (honorable tradition) – not referenced; no historical legacy or values framing. US2 (admirable society) – not about society, groups, civil society, companies, or heroes. US3 (hostile enemies) – while it uses 'China Virus' terminology, the tweet does not frame China or any adversary as a broader hostile enemy; it focuses on domestic political infighting and defense of performance, so this narrative is not clearly promoted. US4 (force for good) – no claim about supporting human rights or global good. US5 (great international ally) – no mention of allies. US6 (at the forefront) – the tweet claims a very good job in combating COVID-19, including vaccines and therapeutics, implying U.S. leadership/performance excellence in this domain. This aligns with positioning the U.S. as leading/at the forefront.",
+    "narrative_ids": ["US6"]
+  }
+}

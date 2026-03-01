@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that some countries are trying to rewrite WWII history for political gain, while Russia (via Zakharova) defends the historical truth and the sacred memory of Soviet heroism. Evaluation: RU1 (West immoral/hostile): Implicitly criticizes unnamed countries (likely Western) for opportunistic historical revisionism, portraying them as acting immorally for \"momentary political dividends\"—this aligns with RU1. RU2 (alternative system): No reference to multilateralism or non-Western cooperation; not applicable. RU3 (benevolent partner): No emphasis on partnership or aiding others; not applicable. RU4 (Russian history admirable): Strongly highlights Soviet heroism and the defense of historical truth about WWII, presenting Soviet/Russian history as noble and worthy of veneration—this fits RU4. RU5 (forefront): No claim of current successes; not applicable. RU6 (culture/nature/heritage travel/culture): Not applicable. Conclusion: The tweet promotes RU1 and RU4.",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

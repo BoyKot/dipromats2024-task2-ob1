@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that after receiving billions from the prior U.S. administration, Iran engaged in terrorism—portraying Iran as a hostile, malign actor. Evaluation by narrative: US1 (honorable tradition) – not referenced. US2 (admirable society) – not referenced. US3 (the US has hostile enemies) – yes: it casts Iran as an immoral adversary engaged in terror, implying a threat to the U.S. and its values. US4 (US is a force for good) – not asserted. US5 (great international ally) – not addressed. US6 (at the forefront) – not addressed. Conclusion: Only US3 applies.",
+    "narrative_ids": ["US3"]
+  }
+}

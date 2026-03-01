@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that 'voices of justice' support China at the UN and that a few Western countries failed in their attempt to smear China on Hong Kong and Xinjiang, quoting an MFA statement about friendly countries' support. Evaluation: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet portrays Western countries as unjustly smearing China and failing, casting the West as hostile and morally wrong. CH2 (China is a benevolent power) — Partially implied via 'voices of justice' and supportive states, but the focus is defensive rather than highlighting China's cooperative global benevolence; insufficient to claim CH2. CH3 (China has an epic history) — Not present. CH4 (China has an appropriate political system and honorable values) — Implicit moral framing ('voices of justice') could suggest China's righteous stance, but it does not explicitly advocate China's domestic political system or values; insufficient. CH5 (CCP government succeeds) — Not applicable; no claims about domestic development or governance performance. CH6 (Culture/nature) — Not applicable. Conclusion: The tweet primarily promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

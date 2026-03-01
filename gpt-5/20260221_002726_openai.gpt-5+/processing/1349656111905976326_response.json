@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates a historical milestone, stating that 150 years ago Alexander II allowed Russian women to enter public civil service in various sectors. Evaluation: RU1 (West immoral/hostile) – not referenced or implied. RU2 (Russia leads alternative system) – no mention of international systems or multipolarity. RU3 (Russia benevolent partner) – not about partnership or mediation. RU4 (Russian history is admirable) – yes; it highlights a positive, progressive achievement in Russian history, portraying Russia’s past as forward-looking and noteworthy. RU5 (Russia at the world’s forefront) – the claim is historical and not framed as current global leadership; no comparative or present-day superiority is asserted. RU6 (Interesting culture/nature/heritage) – while historical, the focus is on a specific policy milestone rather than cultural heritage or tourism; weak fit. Conclusion: Only RU4 applies.",
+    "narrative_ids": ["RU4"]
+  }
+}

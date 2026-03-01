@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia (via RDIF) offers to supply the EU with 100 million doses of Sputnik V in Q2 2021, pending EMA approval, noting the vaccine is registered in 15 countries and under EMA rolling review. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no criticism of the West. RU2 (Russia leads an alternative system): Not really; the tweet addresses cooperation with the EU and regulatory approval, not promoting a non-Western alternative order. RU3 (Russia is a benevolent partner): Yes; it portrays Russia as willing to help the EU by providing large quantities of vaccines, emphasizing solidarity and reliability. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Partly yes; mentioning registration in 15 countries and EMA rolling review implies international recognition and scientific/technological capability, suggesting Russia’s leading role in vaccine development and distribution. RU6 (interesting culture/nature): Not relevant. Conclusion: The tweet promotes RU3 and RU5.",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

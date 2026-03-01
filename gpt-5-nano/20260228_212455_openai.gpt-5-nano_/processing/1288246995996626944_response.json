@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames Western actors as spreading rumors and lies about Xinjiang (CH1). It asserts that China protects religious freedom and places of worship (CH2). It presents the Chinese government as upholding values and governance (CH4). It also uses the renovation of the Id Kah Mosque as evidence of cultural heritage and minority-related governance (CH6).",
+    "narrative_ids": ["CH1", "CH2", "CH4", "CH6"]
+  }
+}

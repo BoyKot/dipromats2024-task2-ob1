@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the US for deporting COVID-19-infected migrants, allegedly causing outbreaks abroad, and urges the US to act responsibly. Evaluation: CH1 (The West is immoral, hostile and decadent) – Applicable. The tweet portrays the US (a core Western actor) as irresponsible and harmful to others, fitting the depiction of the West as immoral/hostile. CH2 (China is a benevolent power) – Not present; no mention of China’s positive international role. CH3 (China has an epic history) – Not relevant. CH4 (China has an appropriate political system and honorable values) – Not addressed. CH5 (The government of the Chinese Communist Party succeeds) – Not addressed. CH6 (China is interesting in culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the historical 'Great Stand on the Ugra River' as a pivotal event ending the 'Yoke' over Russian lands, inviting readers to imagine the historic standoff at the modern river site.\nEvaluation by narrative:\n- RU1 (West immoral/hostile): Not referenced; no mention of the West or allies.\n- RU2 (Russia leads an alternative system): No discussion of present-day systems or multilateralism.\n- RU3 (Russia benevolent partner): No mention of partnership, peace-brokering, or aid.\n- RU4 (Russian history is admirable): Yes. It glorifies a historical military event as epic and decisive in ending foreign domination, presenting Russian history as admirable.\n- RU5 (Russia at world’s forefront): No current achievements highlighted.\n- RU6 (Russia’s culture/nature/heritage): Partially touches heritage by showing the river today, but the focus is commemoration of a historic victory rather than promoting culture/nature for its own sake. Primary fit remains RU4.\nConclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

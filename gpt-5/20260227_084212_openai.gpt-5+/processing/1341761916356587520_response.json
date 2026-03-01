@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that both Han migrant workers and Uyghurs in Xinjiang pursue better incomes through work and that no one can deprive Uyghurs of this right, implying voluntary, rights-based employment in Xinjiang. Evaluation by narrative: CH1 (West immoral/hostile): Not explicitly referenced; no critique of the West. CH2 (China as benevolent power internationally): No international/cooperative framing; focuses on domestic labor and rights. CH3 (epic history): No historical arc or adversities mentioned. CH4 (appropriate political system and honorable values): Implicitly asserts that in China, Uyghurs have protected rights to work and better life, reflecting honorable domestic governance and values; this aligns with promoting the moral uprightness of China’s system in domestic affairs. CH5 (CCP government succeeds): Indirectly suggests effective ethnic coexistence and employment opportunities in Xinjiang, but it does not explicitly credit government performance or broader development successes; weaker fit than CH4. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet primarily promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet honors Martin Luther King Jr. for advancing social justice and equality, and encourages service to community and country in his memory.\nUS1: Yes. It frames MLK’s work as part of upholding Americans’ unalienable rights, invoking foundational values and a proud historical legacy, showcasing an honorable US tradition.\nUS2: Yes. It highlights a celebrated civil society figure and promotes civic service, reflecting an admirable society that values equality and community service.\nUS3: No. No mention of enemies or adversaries.\nUS4: Partially implied through values, but the tweet does not portray US actions abroad or support for others; it’s domestic commemoration. Not sufficient.\nUS5: No. No reference to allies.\nUS6: No. No leadership/forefront claims.\nConclusion: The tweet promotes US1 and US2.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

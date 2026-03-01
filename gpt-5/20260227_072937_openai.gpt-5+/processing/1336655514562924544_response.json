@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the EU’s Counter-Terrorism Agenda and broader Security Union efforts to anticipate, prevent, protect against, and respond to terrorism, including cross-border and online cooperation, and to build tolerant societies to reduce extremist appeal. Evaluation per narrative: EU1 (successful story): Not about historical achievements or overcoming past traumas; it’s present-focused policy messaging. EU2 (united): Implies cross-border cooperation (“law enforcement shouldn’t stop at borders”), but does not explicitly emphasize unity among member states or agreements; unity is implicit rather than the focus. EU3 (useful for its citizens): Strongly fits—promotes concrete EU policies addressing citizens’ safety, presenting proactive, practical measures (Counter-Terrorism Agenda, Security Union) to improve lives within the EU. EU4 (avant-garde): Some hint of forward-looking approach (anticipate, resilience, online cross-border crime), but not framed as pioneering/leading; primary thrust is utility/safety rather than global regulatory leadership. EU5 (global champion of fair causes): Not about human rights leadership per se. EU6 (contributes to a better world): Focus is internal EU security, not global contributions. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

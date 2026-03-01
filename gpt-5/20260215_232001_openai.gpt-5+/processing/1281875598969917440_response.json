@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports the handover of medical supplies donated by China's First Lady to Namibia’s First Lady to help women and children in Africa combat COVID-19. Evaluation: CH1 (West immoral/hostile): Not mentioned; no comparison or critique of the West. CH2 (China is a benevolent power): Yes—the tweet highlights Chinese humanitarian assistance and support to Africa, portraying China as helpful and cooperative internationally. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not discussed; no linkage to China's political system or domestic values. CH5 (CCP government succeeds): Not about domestic development or technological leadership; only a donation event. CH6 (culture/nature/heritage): Not relevant. Conclusion: Only CH2 is promoted.",
+    "narrative_ids": ["CH2"]
+  }
+}

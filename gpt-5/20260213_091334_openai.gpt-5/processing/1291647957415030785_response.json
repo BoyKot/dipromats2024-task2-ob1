@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet cites WHO data on the number of COVID-19 vaccine candidates in trials and notes that six, including three from China, are in phase-3. Evaluation: CH1 (West immoral/hostile) – not present; no criticism of the West. CH2 (China as benevolent power) – not present; no framing of China’s international cooperation or values. CH3 (epic history) – not relevant. CH4 (appropriate political system/values) – not addressed. CH5 (CCP government succeeds) – partially implied: highlighting that three Chinese vaccines reached phase-3 suggests technological/biomedical advancement and competence, but the tweet is neutral and informational, not overtly attributing success to the CCP or China’s governance. However, mentioning China’s presence among leading candidates can be read as signaling China at the forefront scientifically. CH6 (culture/nature) – not relevant. Conclusion: Weak but plausible alignment with CH5; others not supported.",
+    "narrative_ids": ["CH5"]
+  }
+}

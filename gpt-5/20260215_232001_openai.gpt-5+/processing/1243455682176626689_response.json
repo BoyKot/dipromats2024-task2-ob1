@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces arrival of Chinese emergency medical supplies in Malé and praises China–Maldives solidarity, invoking the 'Community of Shared Future' slogan. Evaluation: CH1 (West immoral/hostile): Not mentioned; no comparison with the West. CH2 (China is a benevolent power): Yes—portrays China providing humanitarian aid and emphasizes solidarity and the 'community of shared future' concept, which directly matches this narrative. CH3 (epic history): Not referenced. CH4 (appropriate political system/values, domestic focus): Not addressed; no discussion of China's political system or domestic values. CH5 (CCP government succeeds): No claims about China's internal achievements or leadership superiority; only aid delivery. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

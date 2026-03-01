@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: After an EU Foreign Affairs Council, the speaker declares full solidarity with Greece and Cyprus against Turkey, urges de-escalation and dialogue in the Eastern Mediterranean, and states the EU does not accept Belarus election results and will work on sanctions for violence and falsification. Evaluation: EU1 (successful story) – Not promoted; no reference to history or overcoming past obstacles. EU2 (EU is united) – Implicitly promoted: \"full solidarity w/ Greece & Cyprus\" and a collective stance on Belarus signal unity among member states. EU3 (useful for citizens) – Not applicable; focus is external/foreign policy. EU4 (avant-garde actor) – Not indicated; no pioneering regulation or leadership on future challenges. EU5 (global champion of fair causes) – Promoted: rejecting Belarus’s falsified election and preparing sanctions for violence aligns with defending democracy and human rights. EU6 (contributes to a better world) – Partly implied via de-escalation and dialogue in Eastern Med, but the primary framing is solidarity and principles rather than broader development/multilateral contributions; evidence is insufficient to code EU6. Final determination: EU2 and EU5.",
+    "narrative_ids": ["EU2", "EU5"]
+  }
+}

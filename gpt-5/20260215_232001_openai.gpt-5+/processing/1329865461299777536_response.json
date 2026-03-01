@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates a new Russian holiday, praising the breadth of Russia’s transport sector, domestically designed and built vehicles, and the contribution of skilled professionals. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or hostility. RU2 (Alternative system to West): Not addressed; no multilateral or systemic comparisons. RU3 (Russia as benevolent partner): Not about partnership or international aid/peace. RU4 (Russian history admirable): Focus is current achievements, not historical legacy. RU5 (Russia at the world’s forefront): Yes, implicitly—claims that Russia has all kinds of transport, with many vehicles designed and built domestically, highlighting capability and success, and national pride. RU6 (Interesting culture/nature/heritage): Not about culture or nature/heritage; it’s an industrial/sectoral celebration. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

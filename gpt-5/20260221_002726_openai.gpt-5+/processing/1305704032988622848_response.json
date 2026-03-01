@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A strong deterrent threat that any Iranian attack on the US will be answered with a response '1,000 times greater.' This frames Iran as an aggressor and emphasizes US retaliatory strength. Evaluation by narrative: US1 (honorable tradition) — Not promoted; no reference to values, history, or legacy. US2 (admirable society) — Not relevant; no mention of society, diversity, civil actors, or heroes. US3 (US has hostile enemies) — Promoted; it portrays Iran as a hostile actor threatening the US, justifying a forceful response. US4 (US is a force for good) — Not supported; the tweet is about deterrence/punishment, not human rights or altruistic support. US5 (great international ally) — Not mentioned; no allies referenced. US6 (at the forefront) — Partially implied via overwhelming military capability, but the tweet doesn’t explicitly position the US as a broader leader; it’s a narrow deterrent threat. Conclusion: Only US3 clearly applies.",
+    "narrative_ids": ["US3"]
+  }
+}

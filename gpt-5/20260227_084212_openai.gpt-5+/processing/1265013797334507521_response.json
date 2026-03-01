@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet boasts about the U.S. government's effective COVID-19 response (ventilators, testing, medical supply distribution), claiming success, helping governors and people, and not receiving due credit. Evaluation by narrative: US1 (honorable tradition) – Not applicable; no reference to historical legacy or long-standing values. US2 (admirable society) – Not applicable; it doesn’t highlight ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies) – Not applicable; no adversary is identified (the phrase “China Virus” is used as a label but no enemy narrative is developed). US4 (force for good) – Partially applicable; it frames U.S. actions as helping “a lot of great people,” portraying benevolent aid in a public-health crisis. US5 (great international ally) – Not applicable; no mention of allies or support to other countries. US6 (at the forefront) – Applicable; it claims leadership/competence in pandemic management (ventilators, testing, distribution), implying U.S. capability and leading performance. Conclusion: US4 and US6 are promoted.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the U.S. is the most damaging force to the international order due to unilateralism and bullying, while portraying China as a firm defender of the international order committed to peaceful development.\n- CH1 (The West is immoral, hostile and decadent): Applicable. The tweet depicts the U.S. (the West) as engaging in harmful, extreme unilateralism and bullying, casting it as a hostile, damaging actor.\n- CH2 (China is a benevolent power): Applicable. It explicitly says China is a defender of the international order and adheres to peaceful development, aligning with cooperation, multilateralism, and peace framing.\n- CH3 (China has an epic history): Not present. No historical or resilience themes.\n- CH4 (China has an appropriate political system and honorable values): Not directly. While it praises China’s peaceful stance, it is framed in international-role terms rather than endorsing China’s domestic political system or values.\n- CH5 (CCP government succeeds): Not present. No claims about domestic governance success or leadership in technology/economy.\n- CH6 (China’s culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

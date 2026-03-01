@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the White House for crediting WWII victory solely to America and Great Britain, implying Russia's role is being unfairly omitted. Evaluation: RU1 (West immoral/hostile/decadent): The tweet suggests Western (US/UK) disrespect or erasure of Russia’s contribution, framing a hostile/biased act by the West. This aligns with portraying the West as unfair toward Russia. RU2 (alternative system): Not mentioned. RU3 (benevolent partner): Not about Russia’s benevolence. RU4 (Russian history is admirable): By objecting to the omission, the tweet implicitly asserts the importance and greatness of Russia’s WWII role; it defends and elevates Russian historical contributions. RU5 (forefront): Not applicable. RU6 (culture/nature): Not applicable. Conclusion: RU1 and RU4 are promoted.",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

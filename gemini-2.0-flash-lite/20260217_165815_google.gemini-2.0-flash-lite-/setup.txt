@@ -1,0 +1,5 @@
+Timestamp: 20260217_165815
+Provider: google
+Model: gemini-2.0-flash-lite
+Explicit Chain of Thought: none
+Thinking Budget: 0

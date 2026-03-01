@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes positive stories from Argentinians vaccinated with Russia’s Sputnik V vaccine, using the hashtags #SputnikV and #SputnikVaccinated, implying successful uptake and satisfaction abroad. Evaluation per narrative: RU1 (West immoral/hostile/decadent): Not referenced; no criticism of the West. RU2 (Russia leads an alternative system): Not explicit about systems or multilateralism; only showcases vaccine experiences, not geopolitical structure. RU3 (Russia is a benevolent partner): Implicitly suggests Russia is helping other countries (Argentina) via its vaccine, portraying Russia as a supportive, reliable partner in public health; aligns moderately. RU4 (Russian history admirable): Not about history. RU5 (Russia at the world’s forefront): Highlighting Sputnik V’s positive reception abroad can signal Russian scientific/technological success and international acceptance, fitting the portrayal of Russia’s current achievements. RU6 (Russia’s culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3 and RU5.",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

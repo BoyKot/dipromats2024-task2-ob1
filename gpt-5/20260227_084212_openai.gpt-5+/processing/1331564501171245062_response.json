@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet congratulates the launch of the China-Africa Environmental Cooperation Center, states China’s commitment to FOCAC green development, and welcomes African initiatives on climate and environmental protection. Evaluation: CH1 (West immoral/hostile): Not mentioned; no critique of the West. CH2 (China is a benevolent power): Yes. The tweet portrays China as cooperative, supporting green development with Africa, welcoming African initiatives, and engaging multilaterally—clear benevolence and mutual benefit framing. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not addressed; focus is international cooperation, not domestic system. CH5 (CCP government succeeds): No claims about domestic achievements or leadership superiority; it's about cooperation, not showcasing CCP governance success. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

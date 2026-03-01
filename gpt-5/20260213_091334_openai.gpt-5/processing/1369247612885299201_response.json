@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that some Xinjiang cotton farmers and processing companies have filed a civil lawsuit against Adrian Zenz, seeking apology, reputational rehabilitation, and compensation. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Implicitly targets a Western critic (Adrian Zenz) by suggesting wrongdoing (defamation) against Xinjiang actors; this frames a Western figure as hostile and harmful to China, aligning with CH1’s depiction of Western hostility toward China. CH2 (China is a benevolent power): No claims about China’s cooperative international role or support for global justice beyond the domestic lawsuit; not applicable. CH3 (China has an epic history): No historical content; not applicable. CH4 (China has an appropriate political system and honorable values): The tweet does not praise China’s political system or values; it only mentions a legal action; not applicable. CH5 (The government of the Chinese Communist Party succeeds): No claims about governance success, development, or minority coexistence achievements; not applicable. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet most clearly promotes CH1 by portraying a Western critic as having harmed Chinese parties, prompting legal redress.",
+    "narrative_ids": ["CH1"]
+  }
+}

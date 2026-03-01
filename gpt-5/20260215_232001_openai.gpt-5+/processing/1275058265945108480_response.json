@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet portrays Washington/US as aggressive in space, while claiming Russia prioritizes exclusively peaceful use of space and preventing an arms race. Evaluation: RU1 (West immoral/hostile): Yes—the tweet labels Washington’s actions as aggressive, casting the US as a hostile actor and positioning Russia as a victim/respondent. RU2 (Russia leads an alternative system): Partially implied through advocating peaceful, multilateral restraint in space, but it does not showcase alternative institutions or non-Western cooperation; focus is on contrast with US, so not sufficiently supported. RU3 (Russia is a benevolent partner): Yes—the tweet frames Russia as promoting peace and preventing an arms race, i.e., a responsible, peace-oriented partner. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): No claims of superiority or achievement. RU6 (Culture/nature): Not relevant. Conclusion: RU1 and RU3 are promoted.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

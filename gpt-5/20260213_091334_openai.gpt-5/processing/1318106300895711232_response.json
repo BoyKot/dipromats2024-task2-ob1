@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An EU leader is coordinating regular videoconferences on COVID-19 response focusing on tracing app interoperability, quarantine/testing coordination, and vaccination preparation. EU1 (successful story): Not about historic success or overcoming past traumas; it's operational, present-focused. EU2 (EU is united): Implicit coordination among EU members is highlighted, indicating unity in action; agenda points require cross-country alignment, supporting this narrative. EU3 (EU is useful for its citizens): Emphasizes concrete, practical EU-level actions to address citizens’ health concerns (apps, testing, vaccination), portraying a proactive, coordinated response that benefits Europeans. EU4 (avant-garde actor): While tech (interoperability) appears, the tweet does not claim pioneering leadership; it's standard crisis management. EU5 (global champion of fair causes): Not addressed. EU6 (contributes to a better world): Focus is internal EU pandemic management, not global contributions. Final determination: EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU claims climate leadership and urges international partners to align COVID-19 recovery with a green transition, referencing the European Green Deal and a climate dialogue. Evaluation by narrative: EU1 (successful story) – Not explicitly about history or overcoming past obstacles; not supported. EU2 (united) – No mention of intra-EU unity or solidarity; not supported. EU3 (useful for citizens) – Focus is external leadership and global call, not specific benefits within the EU; not supported. EU4 (avant-garde actor) – Yes: it positions the EU as a pioneer/leader on climate and green recovery, emblematic of forward-looking regulation (Green Deal). EU5 (global champion of fair causes) – While climate can be a fair cause, the tweet frames leadership and policy direction rather than rights/justice; not clearly supported. EU6 (contributes to a better world) – Yes: calls on international partners for a greener global recovery, implying EU’s role in global cooperation and improving global outcomes. Conclusion: EU4 and EU6.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Peking Opera engaging with the young generation, highlighting Chinese cultural heritage blended with modern music, tagged #ChinaStory. Evaluation: CH1 (West immoral/hostile): Not referenced; no comparison to the West. CH2 (China benevolent power): No mention of international cooperation or global role. CH3 (Epic history/adversities): While Peking Opera is historic, the tweet does not discuss historical struggles or resilience. CH4 (Appropriate political system/values): No discussion of governance or political values. CH5 (CCP government succeeds): No claim about government achievements. CH6 (China's culture, nature, heritage): Yes; it promotes Chinese cultural heritage (Peking Opera) and its contemporary appeal. Conclusion: Only CH6 is supported.",
+    "narrative_ids": ["CH6"]
+  }
+}

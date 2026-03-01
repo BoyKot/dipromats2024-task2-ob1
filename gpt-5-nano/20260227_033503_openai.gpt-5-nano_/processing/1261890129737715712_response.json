@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet contains two contrasting claims: (1) Europeans and China fostering cooperation to address global issues like climate change, portraying China as a benevolent, cooperative power (CH2). (2) A Bloomberg Opinion quote claiming Europeans turned against China, framing the West as hostile toward China (CH1). Therefore, both CH1 and CH2 narratives are promoted.",
+    "narrative_ids": ["CH2", "CH1"]
+  }
+}

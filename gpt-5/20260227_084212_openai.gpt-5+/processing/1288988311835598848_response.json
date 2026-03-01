@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that China is committed to peaceful development and portrays China as a defender of world peace, a contributor to global development, and an upholder of international order, echoing CGTN Europe. Evaluation: CH1 (West immoral/hostile): Not present; no mention or contrast with the West. CH2 (China is a benevolent power): Yes; the tweet explicitly characterizes China as peaceful, contributing to global development, and upholding international order—precisely matching the description and even mirroring the given example. CH3 (Epic history): Not referenced. CH4 (Appropriate political system/values, domestically focused): Not addressed; the tweet focuses on international role rather than domestic system or values. CH5 (CCP government succeeds): No claims about domestic governance or achievements. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

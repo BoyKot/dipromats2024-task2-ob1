@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Sudanese parties agreeing on a Constitutional Declaration, framing it as a milestone toward a civilian-led transition to democracy, peace, and prosperity, and states that the EU stands together with Sudan. Evaluation: EU1 (EU is a successful story) – Not supported; the tweet does not reference EU history or overcoming internal EU obstacles. EU2 (EU is united) – Not directly; it mentions the EU stance but not intra-EU unity or agreement. EU3 (EU useful for its citizens) – Not applicable; this concerns actions within the EU, while the tweet is about Sudan. EU4 (EU avant-garde political actor) – Not indicated; no pioneering regulation or leadership theme. EU5 (EU a global champion of fair causes) – Supported; it endorses democracy and a civilian-led transition, aligning the EU with promoting democratic values abroad. EU6 (EU contributes to a better world) – Supported; the EU expressing solidarity “Together with Sudan” in a democratic transition implies EU engagement in fostering peace and development globally.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

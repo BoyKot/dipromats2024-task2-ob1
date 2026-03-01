@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet defends the Communist Party of China (CPC), accusing critics of ideological bias, and asserts the CPC’s constitutional legitimacy and close bond/shared future with the Chinese people. Evaluation by narrative: CH1: Implies unnamed actors ‘seek to defame’ due to ideological bias, but does not explicitly depict the West/US as immoral or hostile; the focus is on defending CPC rather than attacking the West—insufficient for CH1. CH2: No discussion of China’s international benevolence, multilateralism, or global public goods—not applicable. CH3: No historical arc or adversity narrative—not applicable. CH4: Yes. It explicitly legitimizes China’s political system (CPC as constitutionally recognized ruling party) and claims alignment with the people (“close bond and a shared future”), which fits advocacy of China’s political system and values. CH5: No claims about governance success, development, or achievements—not applicable. CH6: Not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

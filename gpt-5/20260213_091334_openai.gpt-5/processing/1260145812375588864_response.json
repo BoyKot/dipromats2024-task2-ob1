@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Russian-Soviet engineer Yakov Gakkel, highlighting pioneering achievements (first domestically designed Russian aircraft, first amphibious plane, first Soviet diesel locomotive). Evaluation: RU1 (West immoral/hostile) – not present; no mention of the West or hostility. RU2 (Russia leads alternative system) – not present; no discussion of multilateralism or alternative order. RU3 (Russia as benevolent partner) – not present; no partnership or peace themes. RU4 (Russian history is admirable) – supported; it celebrates historical Russian/Soviet scientific-technical milestones and portrays them as noteworthy firsts. RU5 (Russia at the world’s forefront) – partially implied but historical rather than current; the focus is on past achievements, which fits RU4 more precisely than RU5’s emphasis on current successes. RU6 (culture/nature/heritage) – not the focus; it’s about technical history rather than cultural/natural attractions. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

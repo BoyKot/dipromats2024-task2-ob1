@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates Cosmonautics Day, recalls Gagarin’s 1961 first human spaceflight, and asserts that Russia remains one of the world leaders in space exploration. Evaluation: RU1 (West immoral/hostile): Not present; no mention of the West or hostility. RU2 (alternative system): Not addressed; no multilateral or non-West framework claims. RU3 (benevolent partner): Not about partnership or peacebuilding. RU4 (Russian history is admirable): Yes; highlights a historic Soviet/Russian achievement (Gagarin’s first flight) as a landmark contribution. RU5 (Russia at the world’s forefront): Yes; explicitly claims Russia “remains one of the world leaders in space exploration,” signaling current prominence. RU6 (culture/nature/heritage): Not focused on culture/nature tourism; it’s about space history and status.",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

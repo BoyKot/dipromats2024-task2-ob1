@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet defends the US by highlighting its exceptional environmental record (US4/US6) and casts critics as adversaries aiming to punish the US (US3).",
+    "narrative_ids": ["US4", "US3", "US6"]
+  }
+}

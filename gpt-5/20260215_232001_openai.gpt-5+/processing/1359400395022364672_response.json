@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US frequently sends military assets to the South China Sea to flex its muscles, while China will take necessary measures to defend sovereignty and, together with regional countries, safeguard peace and stability. Evaluation: CH1 (The West is immoral, hostile and decadent) – Supported: it portrays the US as hostile/aggressive (“flex its muscles”) and implicitly casts China as reacting defensively. CH2 (China is a benevolent power) – Supported: it emphasizes China working with regional countries to safeguard peace and stability, framing China as cooperative and peace-promoting. CH3 – Not supported: no historical framing. CH4 – Not supported: no advocacy of China’s domestic political system or values; this is about external behavior. CH5 – Not supported: no claims about governance success or development achievements. CH6 – Not supported: no cultural content. Conclusion: CH1 and CH2 apply.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Chinese spokesperson criticizes certain US officials for trying to shift blame to China over COVID-19, calling it immoral and irresponsible, and urges focus on domestic response and international cooperation.\n- CH1 (The West is immoral, hostile and decadent): Yes. The tweet portrays US officials as immoral and irresponsible, implicitly casting the US (the West) as hostile/blame-shifting and China as being unfairly denigrated, which fits CH1’s framing of Western immorality and hostility toward China.\n- CH2 (China is a benevolent power): Partially implied through the call for international cooperation and defense of China’s efforts to fight the epidemic, but the tweet does not highlight China’s cooperative actions or benevolent leadership; it mainly rebukes the US. Insufficient to claim CH2.\n- CH3 (China has an epic history): Not referenced.\n- CH4 (Appropriate political system and honorable values): The tweet labels US actions immoral and defends Chinese efforts, but it doesn’t promote China’s political system or domestic values explicitly. Not supported.\n- CH5 (CCP government succeeds): No explicit claim of governmental success or achievements.\n- CH6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet primarily advances CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

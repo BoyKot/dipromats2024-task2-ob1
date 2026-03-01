@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Lushan National Park as a UNESCO World Heritage Site and praises its cultural integration and influence on Chinese aesthetics. Evaluation per narrative: CH1 (West immoral/hostile) – not mentioned or implied. CH2 (China benevolent power) – no reference to international cooperation or global governance. CH3 (epic history/adversities) – no historical struggle or resilience theme. CH4 (appropriate political system/values) – no political system or governance content. CH5 (CCP government succeeds) – no claims about government-driven achievements. CH6 (China’s culture, nature, heritage) – yes; it promotes Chinese cultural heritage and natural beauty via UNESCO listing and aesthetic influence. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Zakharova stating that during Russia’s presidency (of the UNSC), the focus was to reaffirm the Security Council’s importance as an effective instrument for coordinating responses to international peace and security threats, highlighting Russia’s role at the UN. Evaluation by narrative: RU1 (West immoral/hostile): Not present; there is no criticism of the West or decadence. RU2 (Russia leads an alternative to the West): Partially related to multilateralism, but the tweet emphasizes working through the UN Security Council rather than promoting an alternative non-Western system; thus not applicable. RU3 (Russia is a benevolent partner): Yes—positions Russia as fostering effective collective action on peace and security via the UNSC, projecting responsibility and constructive engagement. RU4 (Russian history admirable): Not addressed. RU5 (Russia at the world’s forefront): Indirectly suggests leadership during its presidency, but not framed as showcasing current national successes across domains; weak fit, so not applicable. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet summarizes topics addressed by Secretary Pompeo: WFP’s Nobel Peace Prize, U.S. support for Pacific Island nations, the Clean Network initiative, counter-ISIS efforts, and the OAS General Assembly. Evaluation: US1 (honorable tradition) – not invoked; no reference to history or traditions. US2 (admirable society) – not about society or groups. US3 (hostile enemies) – mentions fighting ISIS, implying an adversary, but the tweet is informational without characterizing enemies as immoral; primary framing is not about enemies, so weak fit. US4 (force for good) – yes: highlights support for WFP’s peace prize, aid to Pacific Island nations, combating ISIS, and engagement in regional diplomacy, all signaling U.S. efforts toward peace, development, and security. US5 (great international ally) – partial: “U.S. support for Pacific Island nations” and participation in OAS suggest allied support; however, it doesn’t explicitly praise allies, but it emphasizes support, which fits. US6 (at the forefront) – Clean Network could imply leadership, but the tweet doesn’t frame the U.S. as leading; neutral listing, so not sufficient. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

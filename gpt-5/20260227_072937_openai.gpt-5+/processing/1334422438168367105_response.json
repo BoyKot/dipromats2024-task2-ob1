@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Valéry Giscard d'Estaing as a devoted European who worked to make Europe a key global actor and led efforts to give the EU a constitution that is still needed. Evaluation per narrative: EU1 (EU is a successful story): Implicitly positive about EU history and integration champions, but it does not showcase concrete successes or overcoming obstacles; it's more commemorative than evidentiary. Not strongly promoted. EU2 (EU is united): No mention of current unity or agreements; not promoted. EU3 (EU is useful for its citizens): No reference to specific policies improving citizens’ lives; not promoted. EU4 (EU as avant‑garde political actor): The tweet frames the EU as aiming to be a key global actor and references constitutional innovation, suggesting a vision of institutional advancement/pioneering. This aligns with portraying the EU as forward‑looking in its political architecture; promoted. EU5 (EU as global champion of fair causes): No mention of human rights/democracy leadership; not promoted. EU6 (EU contributes to a better world): It suggests making Europe a key player globally, but lacks concrete claims about contributions to development/peace/multilateralism; too vague. Conclusion: The tweet primarily supports EU4.",
+    "narrative_ids": ["EU4"]
+  }
+}

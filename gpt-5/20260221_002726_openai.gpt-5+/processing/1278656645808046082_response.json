@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory post about U.S. Independence Day with allies (ROK), honoring principles of freedom and liberty, noting compliance with COVID guidelines, and featuring the 8th U.S. Army jazz band. Evaluation by narrative: US1 (honorable tradition): Yes—explicitly honors the founding principles of freedom and liberty upon which the USA is founded, invoking historical legacy. US2 (admirable society): Partially relevant due to mention of the U.S. Army band, but the narrative focuses on society/ethnic groups/military heroes; this tweet does not promote those aspects substantively—so No. US3 (hostile enemies): No mention of adversaries. US4 (force for good): No explicit claim of supporting global rights or oppressed peoples—so No. US5 (great international ally): Yes—celebrating with ROK and “other friends” highlights allied relationships and camaraderie. US6 (at the forefront): No leadership claims in economy/tech/military beyond band performance. Conclusion: The tweet promotes US1 and US5.",
+    "narrative_ids": ["US1", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet condemns Iran's conduct (arrest of a UK diplomat) and frames the regime as an immoral, hostile actor violating international law, which aligns with the 'The US has hostile enemies' narrative (US3). It does not reference the US or allied actions, so only US3 applies.",
+    "narrative_ids": ["US3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that since 1990, China has deployed over 40,000 peacekeepers who face dangers to bring peace and hope to conflict areas and local residents. Evaluation: CH1 (West immoral/hostile) – Not present; the tweet does not reference the West or criticize others. CH2 (China is a benevolent power) – Supported; highlighting China’s substantial peacekeeping contributions and bringing peace/hope positions China as a cooperative, peace-promoting, benevolent actor internationally. CH3 (epic history) – Not applicable; no historical adversity or CCP-led overcoming is mentioned. CH4 (appropriate political system/values, domestic focus) – Not applicable; the tweet concerns international peacekeeping, not domestic governance or system legitimacy. CH5 (CCP government succeeds domestically/technologically) – Not applicable; no mention of domestic success or leadership in tech/economy. CH6 (culture/nature/heritage) – Not applicable. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

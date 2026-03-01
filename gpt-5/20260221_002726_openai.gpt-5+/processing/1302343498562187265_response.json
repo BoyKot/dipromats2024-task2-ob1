@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Pompeo states that the UAE and Israel see Iran as a major threat and are building a relationship/coalition to prevent that threat from reaching the U.S. or harming the Middle East. Evaluation by narrative: US1 (honorable tradition) – not referenced; no appeal to U.S. historical values or legacy. US2 (admirable society) – no mention of U.S. society, groups, or heroes. US3 (the US has hostile enemies) – yes: Iran is framed as a \"great threat\" to the U.S. and the Middle East, depicting a hostile adversary. US4 (US is a force for good) – implicit security framing but the tweet centers on allies’ coalition against Iran rather than U.S.-led humanitarian/rights efforts; not clearly promoted. US5 (US is a great international ally) – somewhat adjacent due to mention of allies coordinating, but the tweet doesn’t emphasize U.S. support or praise its ally role; focus is on UAE-Israel alignment. US6 (US at the forefront) – no claim of U.S. leadership or superiority. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

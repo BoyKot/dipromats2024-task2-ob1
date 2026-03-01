@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet highlights a historical lineage of American women’s activism and representation, framing it as a valued tradition (US1). It also praises the role of civil society and representation, aligning with an admirable society (US2). Additionally, by emphasizing rights and representation as positive, rights-based progress, it aligns with the US as a force for good (US4). It does not fit the other narratives (enemies, explicit leadership in economy/tech, or alliances).",
+    "narrative_ids": ["US1", "US2", "US4"]
+  }
+}

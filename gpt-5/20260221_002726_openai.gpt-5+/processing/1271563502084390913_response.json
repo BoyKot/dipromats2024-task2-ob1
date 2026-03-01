@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates Spain’s accession to the European Communities 35 years ago, claiming it ushered in the most prosperous and peaceful years, and asserts that unity in diversity makes Europe stronger.\n- EU1 (EU is a successful story): Supported. The tweet frames EU membership as bringing prosperity and peace and highlights unity despite differences, aligning with a success narrative of overcoming differences and delivering benefits over time.\n- EU2 (EU is united): Partly implied. The line \"Together we are stronger, our differences enrich us\" emphasizes cohesion and solidarity among diverse members, indicating unity.\n- EU3 (EU is useful for its citizens): Implicitly suggested through prosperity and peace, but no concrete policies or practical measures are mentioned; focus is historical/aspirational, so not a clear fit.\n- EU4 (EU avant-garde actor): Not addressed.\n- EU5 (EU global champion of fair causes): Not addressed.\n- EU6 (EU contributes to a better world): Not addressed; the focus is internal benefits to Spain/EU.\nConclusion: The tweet promotes EU1 and EU2.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

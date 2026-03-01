@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates a 17-year-old Russian athlete, Sofia Nadyrshina, becoming a world champion in parallel slalom in 2021, and notes her hometown has a ski resort that may have helped her success. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads an alternative system): Not applicable; no geopolitical or multilateral framing. RU3 (Russia as benevolent partner): Not applicable; no partnership or aid theme. RU4 (Russian history admirable): Not about historical contributions; focuses on a contemporary sports win. RU5 (Russia at the world’s forefront): Yes, it spotlights a current Russian achievement at the world level, implying Russia produces top-tier athletes/champions. RU6 (Russia interesting in culture/nature/heritage): Partially relevant due to mention of Yuzhno-Sakhalinsk’s ski resort, which subtly promotes Russian geography/recreation, but the primary thrust is sporting achievement rather than promoting culture/nature broadly. The dominant applicable narrative is RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

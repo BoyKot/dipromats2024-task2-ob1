@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames China as the source of the outbreak and attacks the media ('Fake News'), presenting China as an adversary and the US as resilient, which fits US3. It also mentions vaccines and cures coming fast, implying US leading in medical science, which fits US6.",
+    "narrative_ids": ["US3", "US6"]
+  }
+}

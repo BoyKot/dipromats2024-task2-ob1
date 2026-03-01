@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet promotes EU internal safety, security policies, and protection for citizens (EU3). It also emphasizes tolerance, inclusion, and human rights-oriented messaging against extremism, aligning with EU5's leadership on fair causes. It is not presenting past history (EU1), a central unity narrative (EU2), nor explicit global leadership beyond EU actions (EU4/EU6).",
+    "narrative_ids": ["EU3", "EU5"]
+  }
+}

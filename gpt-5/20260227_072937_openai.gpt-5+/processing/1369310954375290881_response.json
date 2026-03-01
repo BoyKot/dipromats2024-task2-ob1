@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative post celebrating Yuri Gagarin, the first human in space, noting his birthdate and a street in Kampala named after him. Evaluation: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads alternative system): No mention of multipolarity, alternative systems, or non-Western cooperation. RU3 (Russia benevolent partner): No claims about partnership, aid, or mediation. RU4 (Russian history is admirable): Yes. It highlights a seminal Soviet/Russian historical achievement (first human in space) as globally significant and respected, reinforcing admiration for Russian historical contribution. RU5 (Russia at the world’s forefront): Implicitly historical leadership in space, but framed as past achievement rather than current forefront; primary fit is historical admiration (RU4). RU6 (Russia culture/nature/heritage): Not about tourism or cultural attractions in Russia. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

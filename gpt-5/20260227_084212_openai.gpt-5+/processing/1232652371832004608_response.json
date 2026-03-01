@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet attacks mainstream media (MSNBC/CNN) and Democrats for allegedly exaggerating the coronavirus threat to harm markets and sow panic, while asserting the USA is in great shape and referencing @CDCgov. Evaluation by narrative: US1 (honorable tradition): Not referenced—no appeal to historical values or legacy. US2 (admirable society): Not promoting societal groups, civil society, companies, or heroes. US3 (hostile enemies): The tweet labels domestic media and Democrats as malicious actors trying to panic markets, framing them as adversaries undermining the country; this fits highlighting immoral adversaries posing a threat to the US. US4 (force for good): No claim about supporting human rights or global good. US5 (great international ally): Not addressed. US6 (at the forefront): While it claims “USA in great shape,” it does not assert leadership in economy/technology/trade; the focus is defensive against perceived domestic opponents. Conclusion: Only US3 applies.",
+    "narrative_ids": ["US3"]
+  }
+}

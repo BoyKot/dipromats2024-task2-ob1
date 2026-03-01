@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An EU coronavirus video conference discussed preparation for vaccine authorisations and rollout, and the joint purchase and delivery planning of rapid antigen tests for EU countries. Evaluation by narrative: EU1 (EU is a successful story): Not explicitly celebrating past successes or historic overcoming of obstacles; it’s operational, not historical or celebratory. EU2 (EU is united): Implicitly suggests coordinated action among member states (joint purchase of tests, EU-level video conference), indicating unity and solidarity in approach; this aligns with a message of acting together. EU3 (EU is useful for its citizens): Emphasizes practical, proactive EU measures (preparing vaccine authorisations, organizing vaccination readiness, coordinating joint purchases and deliveries) that directly address public health needs within the EU—strongly fits this narrative. EU4 (EU as avant-garde actor): Not about pioneering regulation or leadership beyond operational coordination; no claim of being first or setting global standards. EU5 (global champion of fair causes): Not about rights/democracy causes. EU6 (EU contributes to a better world): Focus is internal EU pandemic management, not global cooperation. Conclusion: The tweet promotes EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

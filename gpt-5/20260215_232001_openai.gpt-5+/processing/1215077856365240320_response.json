@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet conveys a conciliatory message from the U.S. (President Trump) to Iran, expressing a desire for Iran’s prosperity, harmony with the world, and readiness for peace with all who seek it. Evaluation per narrative: US1 (honorable tradition) — Not explicitly; no reference to U.S. historical values or legacy. US2 (admirable society) — Not relevant; no mention of U.S. society or groups. US3 (hostile enemies) — No; it does not depict an adversary as immoral or hostile, instead offering peace. US4 (force for good) — Yes; it portrays the U.S. as supporting peace and the well-being of the Iranian people, emphasizing readiness to embrace peace and prosperity, aligning with support for peace and development. US5 (great international ally) — No; no focus on allies or support to a partner. US6 (at the forefront) — No; no claim of leadership, superiority, or cutting-edge status. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

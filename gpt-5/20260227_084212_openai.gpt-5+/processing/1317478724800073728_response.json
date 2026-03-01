@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that President Trump secured a deal with Walgreens and CVS to provide free COVID-19 vaccinations to seniors and long-term care staff. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or traditions. US2 (admirable society) – Partially relevant because it highlights prominent U.S. companies (Walgreens, CVS) participating in public health efforts, showcasing private-sector contribution to society; this aligns with promoting U.S. companies as part of civil society. US3 (hostile enemies) – Not applicable; no adversaries mentioned. US4 (force for good) – Applicable; providing free vaccines to protect vulnerable populations portrays the U.S. government acting for public welfare and health, a benevolent action aligned with supporting people’s well-being. US5 (great international ally) – Not applicable; no allies or international support mentioned. US6 (at the forefront) – Weak/indirect at best; the tweet does not claim leadership or superiority, just an operational deal. Final determination: US2 and US4.",
+    "narrative_ids": ["US2", "US4"]
+  }
+}

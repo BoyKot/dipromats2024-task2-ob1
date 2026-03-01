@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames the U.S. as defending freedom, supporting allies, opposing the Chinese Communist Party, and highlighting leadership (‘rising to meet this moment’). These elements align with US3 (hostile enemies), US4 (a force for good), US5 (a great international ally), and US6 (at the forefront). It does not clearly map to US1 or US2.",
+    "narrative_ids": ["US3", "US4", "US5", "US6"]
+  }
+}

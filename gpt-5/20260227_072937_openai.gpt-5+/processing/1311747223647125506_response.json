@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that the EU marks World & European Day Against the Death Penalty and invites people to a virtual screening and discussion on capital punishment in the U.S., using hashtags #AbolishDeathPenalty and #EU4HumanRights. EU1: Not about EU’s historical success or overcoming internal obstacles; not promoted. EU2: No emphasis on intra-EU unity or solidarity; not promoted. EU3: Not about policies improving lives within the EU; not applicable. EU4: Does not frame the EU as a regulatory or policy pioneer on future challenges; not applicable. EU5: Yes—positions the EU as championing human rights globally by advocating abolition of the death penalty and hosting a discussion, aligning with defending human rights. EU6: Partially related to contributing to a better world, but the tweet focuses on advocacy rather than broader development/cooperation; primary framing is human-rights leadership rather than general global contribution. Final determination: EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

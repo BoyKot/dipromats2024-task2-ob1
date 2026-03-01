@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative post celebrating Soviet WWII sniper Lyudmila Pavlichenko’s birthday, highlighting her 309 confirmed kills and her 1942 visits to the UK, Canada, and the US, including friendship with Eleanor Roosevelt and a stay at the White House. Evaluation:\n- RU1 (West immoral/hostile): Not supported. The tweet mentions positive ties with Western figures/institutions; no criticism of the West.\n- RU2 (Russia leads an alternative system): Not applicable; no reference to systems, multilateralism, or non-Western cooperation.\n- RU3 (Russia is a benevolent partner): Not directly; it notes historical friendship/visits but does not frame Russia’s current role as a partner promoting peace or development.\n- RU4 (Russian history is admirable): Supported. It valorizes a Soviet war heroine, emphasizing historical military achievement and international recognition, portraying Russian/Soviet history positively.\n- RU5 (Russia at the world’s forefront): Not applicable; no current achievements.\n- RU6 (Russia interesting in culture/heritage): Indirectly relevant but the focus is not on culture/nature/heritage tourism; it’s a historical commemoration, better captured by RU4.\nConclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that four Indian astronauts are training in Russia for India’s first manned space mission and references Rakesh Sharma’s 1984 spaceflight and experiences in Russia. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no mention of the West or hostility. RU2 (Russia leads an alternative system) – Not explicitly; while it shows Russia-India cooperation, it does not frame it as an alternative system or multipolar advocacy. RU3 (Russia is a benevolent partner) – Supported implicitly; Russia is portrayed as a cooperative, reliable partner assisting India’s astronaut training, with a positive historical tie via Rakesh Sharma. RU4 (Russian history is admirable) – Partially related through historical reference, but it highlights India’s first astronaut and his memories rather than celebrating Russian historical achievements; insufficient to claim this narrative. RU5 (Russia at the world’s forefront) – Not clearly; training astronauts does not assert Russian superiority or forefront status. RU6 (Russia interesting culturally/nature/heritage) – Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

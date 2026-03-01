@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet rejects the 'wolf warrior diplomacy' label and asserts that China is peace-loving, with an unchanged foreign policy oriented toward building a 'community of shared future for mankind.' Evaluation by narrative: CH1 (West immoral/hostile): Not promoted; no criticism of the West or depiction of China as a victim. CH2 (China is a benevolent power): Promoted; the tweet emphasizes peaceful diplomacy and references the 'community of shared future for mankind,' a hallmark of cooperative, multilateral, benevolent positioning. CH3 (Epic history): Not referenced. CH4 (Appropriate political system and honorable values): Not promoted; the focus is on foreign policy/international role, not domestic system or values. CH5 (CCP government succeeds): Not addressed. CH6 (Culture/nature/heritage): Not relevant. Conclusion: Only CH2 applies.",
+    "narrative_ids": ["CH2"]
+  }
+}

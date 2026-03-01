@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet highlights a significant US-led space achievement (NASA and SpaceX launching from US soil) and frames it as a historic milestone, signaling US leadership in space exploration (US6) and an implicit display of the US's historical feats/tradition (US1). It does not clearly promote narratives about enemies, allies, or humanitarian causes (US3/US4/US5/US2).",
+    "narrative_ids": ["US6", "US1"]
+  }
+}

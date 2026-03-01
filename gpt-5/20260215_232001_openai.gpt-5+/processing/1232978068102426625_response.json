@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Russian pilot Pyotr Nesterov, highlighting his pioneering aerobatic achievement (the Nesterov loop) and tags like #OutstandingRussians and #HistoryOfAviation. Evaluation: RU1 (West immoral/hostile) – not present; no mention of the West. RU2 (Russia leads alternative system) – not referenced. RU3 (Russia benevolent partner) – not addressed. RU4 (Russian history is admirable) – yes: it celebrates a Russian historical figure’s pioneering contribution to aviation, portraying Russian history as noteworthy and admirable. RU5 (Russia at the world’s forefront) – arguably implied by being first to perform a maneuver, but the tweet is historical rather than claiming current forefront; primary fit is historical admiration, not present-day leadership. RU6 (Interesting culture/nature/heritage) – tangential; it honors heritage but the focus is on historical achievement rather than promoting culture or tourism. Conclusion: RU4 applies.",
+    "narrative_ids": ["RU4"]
+  }
+}

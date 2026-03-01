@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that some actors in the US are deliberately creating and spreading disinformation against China, implying hostile intent from the US toward China. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) — Supported: it portrays the US (part of the West) as deliberately spreading disinformation against China, casting the West/US as hostile and China as the target. CH2 — Not supported: no mention of China’s benevolence or cooperative international role. CH3 — Not supported: no historical context. CH4 — Not supported: no defense of China’s political system or values. CH5 — Not supported: no claims about CCP governance success. CH6 — Not supported: no cultural content. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

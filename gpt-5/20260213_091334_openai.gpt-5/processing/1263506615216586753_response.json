@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Commemorates Andrei Sakharov’s birthday, noting his role as a Soviet thermonuclear weapons designer who later advocated disarmament, civil liberties, and reforms in the USSR. Evaluation by narrative: RU1 (West immoral/hostile) – Not referenced; no mention of the West or its allies. RU2 (Russia leads alternative system) – No claim about Russia advocating a multilateral alternative. RU3 (Russia benevolent partner) – No mention of Russia’s partnership or benevolence. RU4 (Russian history is admirable) – The tweet highlights a prominent Soviet/Russian historical figure and his contributions (scientific achievement and later moral stance), presenting a notable aspect of Russian history in a positive, commemorative light; this aligns with showcasing Russia’s historical contributions. RU5 (Russia at the world’s forefront) – Although Sakharov was a leading physicist, the tweet doesn’t generalize to Russia’s current forefront status. RU6 (Russia’s culture/nature/heritage) – Not about culture or travel; it’s historical remembrance rather than promoting cultural/natural attractions. Conclusion: RU4 applies; others do not.",
+    "narrative_ids": ["RU4"]
+  }
+}

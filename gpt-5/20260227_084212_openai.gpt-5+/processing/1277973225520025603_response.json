@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian UN representative claims UN HRC discussions on Hong Kong’s legislation are biased and politicized, rejects external interference in China’s domestic affairs. Evaluation: RU1 (West immoral/hostile): Implicitly portrays Western-led human rights criticism as biased/politicized, suggesting hostile interference. This aligns with RU1’s depiction of the West as acting unfairly toward others. RU2 (Russia leads alternative system): The emphasis on non-interference and sovereignty echoes multipolar/multilateral rhetoric, but the tweet does not showcase Russia leading or proposing an alternative system—it's a defensive statement supporting China—so not sufficiently met. RU3 (Russia benevolent partner): It supports China’s sovereignty, but does not frame Russia as promoting peace/development or partnership explicitly—insufficient. RU4 (history admirable): Not relevant. RU5 (forefront successes): Not relevant. RU6 (culture/heritage): Not relevant. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

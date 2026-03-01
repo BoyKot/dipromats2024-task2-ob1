@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet is just a title/reference to a U.S. Department of State item: 'Agreement for Bringing Peace to Afghanistan.' It implies the U.S. is involved in brokering or facilitating peace. Evaluation per narrative: US1 (honorable tradition) – not explicitly invoked; no reference to legacy or historical feats. US2 (admirable society) – not relevant. US3 (hostile enemies) – does not mention adversaries. US4 (force for good) – yes, the phrasing suggests U.S. diplomatic action toward peace, aligning with promoting peace and security. US5 (great international ally) – no mention of allies or support to a specific partner. US6 (at the forefront) – no explicit leadership/primacy claim beyond the peace effort title. Conclusion: Only US4 is supported.",
+    "narrative_ids": ["US4"]
+  }
+}

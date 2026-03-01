@@ -1,0 +1,5 @@
+Timestamp: 20260214_124033
+Provider: google
+Model: gemini-2.0-flash
+Explicit Chain of Thought: False
+Thinking Budget: 0

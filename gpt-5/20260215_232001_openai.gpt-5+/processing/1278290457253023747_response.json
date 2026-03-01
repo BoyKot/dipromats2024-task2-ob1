@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet relays an official European Parliament statement that the EP does not observe Russia’s constitutional referendum (including Crimea) and warns MEPs not to associate any personal observation with the EP. Evaluation: EU1 (successful story) – not addressed; no historical reflection or celebration. EU2 (EU is united) – implied unity of the institution in a clear, collective stance against legitimizing the process; the statement is institutional and cohesive, suggesting unity. EU3 (useful for citizens) – not about internal benefits to citizens. EU4 (avant-garde actor) – no pioneering policy or regulatory leadership is highlighted. EU5 (global champion of fair causes) – yes; the EP defends democratic standards and non-recognition of illegal annexation, aligning with upholding democracy and human rights. EU6 (contributes to a better world) – not explicitly about broader global cooperation or development; focus is on an electoral-standards stance. Conclusion: The tweet promotes EU2 and EU5.",
+    "narrative_ids": ["EU2", "EU5"]
+  }
+}

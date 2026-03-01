@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces the start of COVID-19 vaccinations across the EU and emphasizes unity and collective progress, using hashtags like #StrongerTogether. Evaluation per narrative: EU1 (EU as a successful story) – implicitly suggested by \"turn the page\" and successful collective action, but the primary emphasis is not on historical success; still, it hints at overcoming a major challenge, so partially applicable. EU2 (EU is united) – strongly promoted; the tweet explicitly highlights acting \"in unity\" and doing this \"together\" across the EU. EU3 (EU is useful for its citizens) – implied by the practical benefit of starting vaccinations coordinated across the EU, showing EU action improving citizens’ lives; applicable. EU4 (avant-garde) – not supported; no claim of pioneering regulation or leadership beyond unity. EU5 (global champion of fair causes) – not relevant. EU6 (contributes to a better world) – not indicated; focus is internal to the EU. Conclusion: The tweet promotes EU2 clearly, EU3 clearly, and EU1 to a lesser but present extent.",
+    "narrative_ids": ["EU2", "EU3", "EU1"]
+  }
+}

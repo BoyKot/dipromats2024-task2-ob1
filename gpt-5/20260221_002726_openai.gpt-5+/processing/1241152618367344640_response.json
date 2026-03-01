@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China-Philippines 'brotherhood' and cites Xi Jinping’s vision of a 'community of shared future for mankind,' framing China’s role as fostering harmony and global cooperation. Evaluation: CH1 (West immoral/hostile): Not referenced; no criticism of the West. CH2 (China is a benevolent power): Yes. The tweet explicitly advances China's cooperative, mutually beneficial vision ('community of shared future for mankind') and highlights friendly ties with another nation, matching CH2’s description. CH3 (epic history): Not mentioned. CH4 (appropriate political system/values, domestically): The tweet invokes values but in an international context; CH4 focuses on domestic system legitimacy, so not applicable. CH5 (CCP government succeeds): No reference to governance achievements or development outcomes. CH6 (culture/nature/heritage): Not relevant. Conclusion: Only CH2 applies.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet only announces an 'International Advisory Group (IAG) Statement on the Security Service of Ukraine Reform' and tags EU, NATO, US Embassy in Kyiv, Ukraine's parliament, and the Security Service of Ukraine. No content from the statement is included; there is no explicit praise, evaluation, or claims about the EU. Evaluation per narrative: EU1 (EU successful story) – not supported; no claim about EU history or success. EU2 (EU united) – not supported; tagging multiple institutions does not assert EU unity. EU3 (EU useful for its citizens) – not applicable; concerns Ukraine, not intra-EU benefits. EU4 (EU avant-garde) – not supported; no claim about pioneering regulation. EU5 (EU champion of fair causes) – not supported; no mention of democracy/human rights leadership. EU6 (EU contributes to a better world) – not supported; while EU-related accounts are tagged regarding Ukrainian reform, the tweet does not state that the EU contributes globally or to Ukraine’s well-being. Conclusion: The tweet is informational and does not promote any listed narratives.",
+    "narrative_ids": []
+  }
+}

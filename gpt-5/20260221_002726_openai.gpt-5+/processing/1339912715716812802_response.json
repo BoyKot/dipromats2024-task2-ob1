@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes unnamed actors for ignoring shared interests and insisting that China is a main threat, implying China is not a threat and there is room for cooperation. Evaluation: CH1 (The West is immoral, hostile and decadent) – Implicitly fits: it suggests others (likely Western actors) are unfairly depicting China as a threat, casting China as a victim of hostile framing. CH2 (China is a benevolent power) – Partially fits: it emphasizes 'vast common interests and room for cooperation,' portraying China as cooperative and not a threat. CH3 – Not referenced (no history). CH4 – Not about China’s domestic political system/values. CH5 – No claims about CCP governance successes. CH6 – Not cultural. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

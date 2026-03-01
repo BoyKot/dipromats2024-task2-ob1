@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet foregrounds U.S. leadership in global health and its international aid to partners while prioritizing domestic needs. This maps to: US6 (the US is at the forefront) due to leading the global COVID-19 response; US5 (the US is a great international ally) due to providing assistance to partners; and US4 (the US is a force for good) because the actions described — aid and leadership in a global health crisis — are presented as positive, values-driven action.",
+    "narrative_ids": ["US6", "US5", "US4"]
+  }
+}

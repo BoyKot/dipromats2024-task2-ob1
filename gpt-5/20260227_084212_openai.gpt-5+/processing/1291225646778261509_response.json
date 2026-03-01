@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet by Lavrov highlights the 1945 U.S. atomic bombing of Hiroshima, emphasizing the terrible death of innocent civilians and noting that the U.S. is the first and only country to have used nuclear weapons. This frames the U.S. in a negative moral light. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent): Promoted. The tweet implicitly casts the U.S. as immoral/hostile by underscoring the killing of innocents and singular use of WMDs, fitting the narrative of Western immorality. RU2 (Russia leads an alternative system): Not present; no mention of alternative systems, multipolarity, or cooperation. RU3 (Russia is a benevolent partner): Not present; no self-positioning of Russia as peaceful mediator or partner. RU4 (Russian history is admirable): Not present; the historical reference is about the U.S., not Russia’s achievements. RU5 (Russia is at the world’s forefront): Not present. RU6 (Russia’s culture/nature/heritage): Not present. Conclusion: Only RU1 applies.",
+    "narrative_ids": ["RU1"]
+  }
+}

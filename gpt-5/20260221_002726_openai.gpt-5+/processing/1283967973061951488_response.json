@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the preservation and transmission of fine Chinese culture across generations, quoting China Daily on cultural elements (green tiles) tied to Chinese history and heritage.\n- CH1 (West immoral/hostile): No mention or implication about the West; not applicable.\n- CH2 (China as benevolent power): No references to international cooperation, law, or global roles; not applicable.\n- CH3 (China has an epic history): While it references culture and history, it does not discuss historical adversities, resilience, or CCP-led overcoming of hardship. Thus, not applicable.\n- CH4 (appropriate political system/values): No discussion of political system, governance, or domestic values tied to governance; not applicable.\n- CH5 (CCP government succeeds): No claims about government-driven development or achievements; not applicable.\n- CH6 (China is interesting in culture, nature, heritage): Yes. The tweet celebrates Chinese culture, heritage, and historical elements (green tiles), fitting cultural promotion.\nConclusion: The tweet promotes CH6 only.",
+    "narrative_ids": ["CH6"]
+  }
+}

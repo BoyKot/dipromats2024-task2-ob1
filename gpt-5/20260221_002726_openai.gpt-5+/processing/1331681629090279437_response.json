@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns violence against women worldwide and highlights the EU institutions illuminating buildings in orange to support a UN campaign to end such violence. Evaluation by narrative: EU1 (EU successful story) – Not directly referenced; no mention of history, overcoming obstacles, or past lessons. EU2 (EU united) – Not evident; the tweet mentions EU institutions in Brussels but does not emphasize unity among member states. EU3 (EU useful for its citizens) – Not applicable; no concrete EU policy/action improving citizens' lives is presented beyond a symbolic gesture. EU4 (EU avant-garde) – Not claimed; no pioneering regulation or leadership in policy terms is mentioned. EU5 (EU as global champion of fair causes) – Yes; the EU publicly supports a UN human rights/gender rights cause, positioning itself as defending women’s rights globally. EU6 (EU contributes to a better world) – Partially plausible, but the tweet’s action is symbolic support rather than demonstrating concrete contributions to development/peace/cooperation; thus insufficient to claim EU6. Conclusion: The tweet promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

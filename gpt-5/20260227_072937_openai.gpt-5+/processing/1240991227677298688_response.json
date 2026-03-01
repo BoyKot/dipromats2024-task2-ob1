@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet questions why the US fears the CCP and Chinese media if it truly believes in the superiority of its political system, implying US hypocrisy/hostility toward China. Evaluation: CH1 (The West is immoral, hostile and decadent) — Supported. The tweet portrays the US as insecure and afraid of China, suggesting hostility and hypocrisy toward China. CH2 (China is a benevolent power) — Not supported; no claim about China's cooperative international role. CH3 (China has an epic history) — Not referenced. CH4 (China has an appropriate political system and honorable values) — Indirect at best; the tweet does not praise China's system, only questions US confidence. No explicit advocacy of China's political system or values. CH5 (The government of the CCP succeeds) — Not asserted; no mention of achievements. CH6 (China is interesting culturally) — Not relevant. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

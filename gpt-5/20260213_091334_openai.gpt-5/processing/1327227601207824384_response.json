@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet acknowledges a bleak anti-corruption history but asserts that a new commission is mandated by international and national law (not a donor fad), that the EU has never blocked any investigation, and that there is no alternative to functioning national institutions. Evaluation: EU1 (EU is a successful story): Not promoted; no reference to EU’s historical success or overcoming obstacles broadly. EU2 (EU is united): Not promoted; no mention of EU unity or solidarity among member states. EU3 (EU is useful for its citizens): Not applicable; the tweet is not about domestic EU policy benefits. EU4 (EU as avant-garde): Not promoted; no pioneering regulation claim. EU5 (EU a global champion of fair causes): Partially resonant but not clearly promoted; while the tweet defends the EU’s stance of not blocking investigations, it doesn’t explicitly frame the EU as leading on democracy/human rights. EU6 (EU contributes to a better world): Some alignment; by stressing that the EU has never blocked investigations and supporting functioning national institutions via a law-mandated commission, it implies the EU’s constructive, rules-based contribution to better governance abroad. Conclusion: The tweet most closely supports EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

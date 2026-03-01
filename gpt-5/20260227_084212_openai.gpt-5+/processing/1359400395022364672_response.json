@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the US of military provocations in the South China Sea and asserts that China will take necessary measures to defend sovereignty and, together with regional countries, safeguard peace and stability. Evaluation by narrative: CH1: Yes—portrays the US as hostile and militaristic (“flex its muscles”), positioning China as responding defensively to protect sovereignty and security. CH2: Yes—claims China will work with regional countries to safeguard peace and stability, framing China as cooperative and a guardian of regional peace. CH3: No—no historical or adversity themes. CH4: No—does not discuss China’s domestic political system or values. CH5: No—no governance success or development claims. CH6: No—no cultural or heritage content. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

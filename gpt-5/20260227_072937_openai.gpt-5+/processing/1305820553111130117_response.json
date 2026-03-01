@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Russia's Days of the Forest, emphasizing preservation of forests and showcasing the Siberian taiga as the largest forest on the planet.\nEvaluation:\n- RU1 (West immoral/hostile): No mention or comparison to the West; no moral critique.\n- RU2 (Alternative system to the West): No reference to multilateralism or alternative systems.\n- RU3 (Russia as benevolent partner): While it implies environmental stewardship, it does not present partnership, peacebuilding, or assistance to others; focus is domestic celebration/awareness.\n- RU4 (Russian history admirable): No historical achievements or past events highlighted beyond current observance.\n- RU5 (Russia at the forefront): It notes the taiga’s global superlative in size, but not Russia’s achievements or leadership; it's geographic, not a current success claim.\n- RU6 (Interesting culture/nature/heritage): Yes. It showcases Russia’s natural beauty (Siberian taiga) and promotes appreciation of its nature.\nConclusion: The tweet promotes RU6.",
+    "narrative_ids": ["RU6"]
+  }
+}

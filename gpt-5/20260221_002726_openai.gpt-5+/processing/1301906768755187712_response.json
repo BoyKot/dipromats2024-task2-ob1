@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes the US for judging others by its own standards and asserts that, unlike the US, China does not interfere in other countries' domestic affairs and is neither interested nor willing to do so. Evaluation: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet portrays the US negatively (hypocritical, interventionist), implying hostility and moral failing, aligning with CH1. CH2 (China is a benevolent power) — Yes. By contrasting China as non-interfering and respectful of others' domestic affairs, it frames China as cooperative and principled internationally, fitting CH2. CH3 (Epic history) — No historical content. CH4 (Appropriate political system and honorable values) — Borderline, but primarily about international behavior rather than domestic system/values; not directly advocating China's political system, so No. CH5 (CCP succeeds) — No claims about governance achievements. CH6 (Culture/nature) — Not applicable. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes a presidential proclamation for National Native American Heritage Month, honoring Native American heritage and committing to support their legacy and communities. Evaluation by narrative: US1 (honorable tradition): The tweet does not highlight the broader American historical tradition or feats; it focuses on Native American heritage, so US1 is not directly promoted. US2 (admirable society): Yes—celebrating an ethnic group within the US and acknowledging support for their communities showcases inclusivity and diversity, fitting the promotion of different ethnic groups in American society. US3 (hostile enemies): No mention of adversaries. US4 (force for good): While supportive language exists, it’s domestic commemoration rather than asserting the US as a force for good globally or on human rights abroad; not a clear fit. US5 (great international ally): Not applicable. US6 (at the forefront): No leadership or superiority claim. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

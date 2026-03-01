@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. official expresses condolences to President Zelenskyy for the UIA Flight 752 crash victims and states the U.S. stands with Ukraine and is ready to support the investigation. Evaluation: US1 (honorable tradition) – not explicitly about historical values or legacy; no. US2 (admirable society) – not about U.S. society or groups; no. US3 (hostile enemies) – no adversary is mentioned; no. US4 (force for good) – offering support/assistance in a tragedy and investigation, standing with Ukraine, reflects humanitarian support and constructive engagement; yes. US5 (great international ally) – explicitly emphasizes standing with Ukraine and readiness to assist an ally, highlighting reliability; yes. US6 (at the forefront) – no leadership/primacy claim; no. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces Black History Month in the U.S., recognizing achievements of African Americans and stating they will feature remarkable Americans daily. Evaluation: US1 (honorable tradition) – Implicitly references an annual national tradition that recognizes contributions in U.S. history, showcasing a value-based legacy; this moderately fits. US2 (admirable society) – Strong fit: it highlights an ethnic group’s achievements and celebrates their role in U.S. history, promoting inclusivity and societal admiration. US3 (hostile enemies) – Not mentioned. US4 (force for good) – No reference to supporting human rights abroad or similar actions. US5 (great international ally) – Not applicable. US6 (at the forefront) – No leadership or superiority claims. Conclusion: The tweet clearly promotes US2 and to a lesser extent aligns with US1.",
+    "narrative_ids": ["US2", "US1"]
+  }
+}

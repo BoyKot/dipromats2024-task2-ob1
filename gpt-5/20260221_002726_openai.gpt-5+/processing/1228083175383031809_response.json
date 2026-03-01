@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that the Russian ambassador to Estonia spoke at an international conference of young Russian philologists in Tallinn, attended by scientists from several countries, and tags cooperation/science/philology. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; there is no criticism of the West or claims of hostility. RU2 (Russia leads an alternative system) – Not supported; while it mentions an international forum, it does not frame it as an alternative to Western order or highlight non‑Western multilateralism. RU3 (Russia is a benevolent partner) – Partially fits; the emphasis on cooperation, cultural/academic engagement, and Russia’s ambassador participating in an international scholarly event suggests Russia as a constructive, cooperative partner. RU4 (Russian history admirable) – Not addressed. RU5 (Russia at the forefront) – No claims of superiority or leading achievements. RU6 (Russia’s culture/heritage interesting) – Indirectly related to Russian language/philology, but the tweet promotes an event rather than showcasing cultural attractions; insufficient for RU6. Conclusion: The tweet promotes RU3 only.",
+    "narrative_ids": ["RU3"]
+  }
+}

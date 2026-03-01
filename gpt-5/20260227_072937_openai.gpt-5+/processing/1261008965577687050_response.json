@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks Asian Pacific American Heritage Month and invites readers to learn about the contributions of Asian Americans and Pacific Islanders to U.S. society via a photo gallery. Evaluation: US1 (honorable tradition) — not directly; it does not emphasize longstanding national values or historical tradition of the country itself, but rather specific community contributions. US2 (admirable society) — yes; it highlights ethnic groups within the U.S. and their contributions, fitting the promotion of a diverse, admirable society. US3 (hostile enemies) — no; no mention of adversaries. US4 (force for good) — no; no claim about advancing human rights or global good. US5 (great international ally) — no; no reference to allies. US6 (at the forefront) — no; no leadership framing. Conclusion: Only US2 applies.",
+    "narrative_ids": ["US2"]
+  }
+}

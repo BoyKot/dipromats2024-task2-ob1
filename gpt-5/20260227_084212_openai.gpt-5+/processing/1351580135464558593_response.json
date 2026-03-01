@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that the PRC is committing genocide and crimes against humanity against Uyghur Muslims and other minorities in Xinjiang. Evaluation by narrative: US1 (honorable tradition) – Not promoted; the tweet does not reference U.S. traditions or historical legacy. US2 (admirable society) – Not promoted; it does not highlight U.S. societal groups, civil society, companies, or military heroes. US3 (US has hostile enemies) – Promoted; it portrays China as committing grave human rights atrocities, casting it as an immoral adversary and implicit threat to liberal values. US4 (US is a force for good) – Partially relevant but not clearly promoted; while condemning abuses could imply a human-rights stance, the tweet does not state U.S. action, support, or advocacy—only an assessment—so it does not explicitly showcase U.S. support or efforts. US5 (great international ally) – Not promoted; no mention of allies or support for them. US6 (at the forefront) – Not promoted; no leadership or superiority claims. Conclusion: The tweet advances US3 only.",
+    "narrative_ids": ["US3"]
+  }
+}

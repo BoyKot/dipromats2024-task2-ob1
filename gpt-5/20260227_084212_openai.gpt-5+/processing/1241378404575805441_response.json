@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Chinese experts sharing COVID-19 expertise with US scientists, framing cooperation as essential, while quoting a State Department post critical of China’s early actions. The tweet’s own voice emphasizes collaboration and life-saving Chinese know-how.\n- CH1 (West immoral/hostile): Not supported. The tweet does not depict the West as immoral or hostile; it promotes cooperation with US scientists and does not attack the West.\n- CH2 (China is a benevolent power): Supported. It portrays China as sharing expertise to save lives and promoting cooperation against a common enemy, aligning with China’s cooperative, benevolent international role.\n- CH3 (China has an epic history): Not relevant; no historical or resilience framing.\n- CH4 (Appropriate political system/values): Not supported. No advocacy of China’s political system or domestic values; focus is international cooperation.\n- CH5 (CCP government succeeds): Not directly. While it implies Chinese competence in COVID-19 response, it does not credit the CCP or emphasize domestic success or leadership.\n- CH6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

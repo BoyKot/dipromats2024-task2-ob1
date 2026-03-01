@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China commits to carbon neutrality by 2060 and to cooperate with the EU via a high-level dialogue on environment and climate, aiming to build a 'green silk road' and promote global sustainable development. Evaluation: CH1 (West immoral/hostile): Not present; no criticism of the West. CH2 (China is a benevolent power): Yes; it highlights international cooperation with the EU, global sustainable development, and a green Silk Road, portraying China as cooperative and contributing to global public goods. CH3 (epic history): Not referenced. CH4 (appropriate political system/values, domestic): Not addressed; focus is international role, not domestic system. CH5 (CCP government succeeds): Partially implies capability (carbon neutrality goal), but it does not emphasize domestic achievements or CCP-led success; focus is external cooperation, so not a clear fit. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

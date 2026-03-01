@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet cites China's Foreign Ministry claiming that nearly 70 countries at the UNGA Third Committee support China’s positions on Hong Kong and Xinjiang, and asserts that a few Western countries failed in attempts to smear China. Evaluation: CH1 (The West is immoral, hostile and decadent): Yes. The tweet explicitly frames \"a few western countries\" as attempting to smear China and failing, casting the West as hostile and unjust, with China as the target of smear campaigns. CH2 (China is a benevolent power): Partially relevant but not supported; the tweet does not emphasize cooperation, justice, or multilateralism by China itself—rather it references external support. CH3 (China has an epic history): No historical content. CH4 (China has an appropriate political system and honorable values): Not directly; it defends China on Hong Kong/Xinjiang via international backing but does not promote domestic political values per se. CH5 (The government of the CCP succeeds): Indirectly could be inferred, but the tweet does not claim governance success; it focuses on diplomatic support and rebutting criticism. CH6 (China is interesting culturally): Not applicable. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

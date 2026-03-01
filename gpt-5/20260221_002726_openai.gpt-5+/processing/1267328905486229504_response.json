@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian account congratulates the US, SpaceX, and NASA on the Crew Dragon launch, calling it a serious achievement that will facilitate international space exploration under healthy competition.\nEvaluation:\n- RU1 (West immoral/hostile): No. The tweet is complimentary toward the US and endorses healthy competition, not hostility or decadence.\n- RU2 (Russia leads an alternative system): No. It mentions international exploration and competition but does not position Russia as leading an alternative order or promoting non-Western frameworks.\n- RU3 (Russia is a benevolent partner): Yes. By publicly congratulating a US achievement and framing it as beneficial for international cooperation, the tweet portrays Russia as cooperative, respectful, and supportive of global scientific progress—hallmarks of a benevolent partner image.\n- RU4 (Russian history admirable): No. No historical references.\n- RU5 (Russia at the world’s forefront): No. The achievement credited is American; no claim about Russia’s current superiority.\n- RU6 (Russia’s culture/nature/heritage): No.\nConclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

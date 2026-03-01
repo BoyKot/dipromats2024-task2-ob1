@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet thanks China for sending masks and test kits, recalls that the EU helped China earlier by donating equipment, and stresses mutual support in times of need.\nEU1: Not promoted. No reference to EU’s historical success or learning from past mistakes; focus is on current mutual aid with China.\nEU2: Not promoted. There is no emphasis on EU internal unity or solidarity among member states.\nEU3: Not promoted. Although aid benefits EU citizens, the tweet does not highlight EU policies improving lives within the EU; it centers on China’s support and prior EU aid to China.\nEU4: Not promoted. No claim about EU pioneering regulation or leadership on future challenges.\nEU5: Not promoted. No mention of democracy, human rights, or similar fair causes.\nEU6: Promoted. It portrays the EU as engaging in reciprocal international assistance and multilateral cooperation (EU helped China; China now helps EU), underscoring the EU’s contribution to global cooperation and mutual support.\nConclusion: The tweet aligns with EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet relays Putin’s call at the UNGA for a binding agreement among leading space powers to prohibit placement of weapons in outer space and the threat or use of force against space objects, highlighting arms control and multilateral themes. Evaluation by narrative: RU1 (West immoral/hostile): Not present; the tweet does not criticize the West or portray it as hostile. RU2 (Russia leads an alternative system): Partly relevant; it portrays Russia advocating a multilateral, rules-based initiative outside a Western-centric frame, positioning Russia as championing fair global governance in space. RU3 (Russia is a benevolent partner): Yes; promoting an international arms control initiative and restraint in outer space frames Russia as a peaceful, responsible actor seeking collective security. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the world’s forefront): Indirectly, hashtags like SputnikV appear, but the tweet’s substance is arms control advocacy, not showcasing current success; insufficient to claim RU5. RU6 (culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU2 and RU3.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

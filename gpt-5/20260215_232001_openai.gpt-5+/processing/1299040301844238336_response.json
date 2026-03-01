@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Russia’s Film Day, lauding a 101-year cinematic tradition from Imperial and Soviet eras to modern films, citing notable directors and titles. Evaluation per narrative: RU1 (West immoral/hostile) – Not present; no mention of the West. RU2 (Russia leads alternative system) – Not present; no system or multilateral framing. RU3 (Russia benevolent partner) – Not present; no partnership or peace/development claims. RU4 (Russian history is admirable) – Yes; it praises Russia’s historical contributions to cinema across eras, highlighting iconic figures and works as a rich heritage. RU5 (Russia at the world’s forefront) – Implicit pride but no explicit claim of current superiority or leadership; not supported. RU6 (Russia is culturally interesting) – Yes; it promotes Russian culture and heritage through film, inviting exploration of its cinematic world. Conclusion: RU4 and RU6 apply.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

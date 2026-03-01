@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative post honoring Soviet diplomat Alexandra Kollontai as a pioneering female ambassador and government member, noting her diplomatic service until Nazi Germany’s defeat in WWII. Evaluation: RU1 (West immoral/hostile) – Not promoted; the tweet does not criticize the West. RU2 (Russia leads an alternative system) – Not present; no mention of multipolarity or non-Western cooperation frameworks. RU3 (Russia benevolent partner) – Not present; no claims about Russia’s current partnership or mediation roles. RU4 (Russian history is admirable) – Yes; it praises a notable Soviet/Russian historical figure and links her service to the WWII victory context, highlighting admirable historical contributions. RU5 (Russia at the world’s forefront) – Not present; no current achievements or leadership claims. RU6 (Culture, nature, heritage) – Not primarily; while historical heritage is referenced, the focus is on political-diplomatic history rather than cultural/natural appeal. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

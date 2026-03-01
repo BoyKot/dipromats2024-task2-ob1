@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames Western countries as attempting to smear China, implying Western hostility (CH1). It also highlights support for China in multilateral forums (UN) and portrays China as acting benevolently and cooperatively (CH2). Therefore both CH1 and CH2 apply.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

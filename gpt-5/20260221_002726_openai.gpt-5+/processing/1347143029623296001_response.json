@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the first session of the Russian Academy of Sciences in 1726, presenting it as the beginning of Russia’s academic science and noting its dual research/educational role. Evaluation: RU1 (West immoral/hostile) – Not present; no mention of the West or hostility. RU2 (Russia leads an alternative system) – Not addressed; no reference to multipolarity or alternative systems. RU3 (Russia as benevolent partner) – Not relevant; no partnership or aid themes. RU4 (Russian history is admirable) – Yes; it highlights a foundational historical achievement (establishment of the Academy and its role), presenting pride in Russia’s historical contributions to science and education. RU5 (Russia at the world’s forefront) – Implicitly historical, but the tweet does not claim current leadership or superiority; focus is historical, so not RU5. RU6 (Russia’s culture/heritage) – Indirectly cultural heritage, but the emphasis is specifically on historical accomplishment rather than promoting culture/tourism; primary fit remains RU4. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

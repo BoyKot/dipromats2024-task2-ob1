@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts China’s right to defend itself, its sovereignty, security, development interests, and dignity against slander and maligning by others. It frames China as being unfairly attacked and justified in self-defense. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Implicitly supported. The tweet claims unnamed \"others\" are slandering and maligning China, casting China as a victim of hostile attacks, which aligns with CH1’s depiction of Western hostility even without explicit mention of the West/US. CH2 (China is a benevolent power): Not supported; there is no emphasis on cooperation, multilateralism, or global public goods. CH3 (China has an epic history): Not referenced; no historical struggle or past adversity context. CH4 (China has an appropriate political system and honorable values): Partially relevant tone about dignity, but it does not promote China’s political system, governance model, or domestic values; primarily a defensive-rights framing, so not supported. CH5 (CCP government succeeds): No content about development achievements or governance success. CH6 (culture/nature/heritage): Not applicable. Conclusion: The tweet promotes CH1 by portraying hostile slander against China and asserting a right to self-defense.",
+    "narrative_ids": ["CH1"]
+  }
+}

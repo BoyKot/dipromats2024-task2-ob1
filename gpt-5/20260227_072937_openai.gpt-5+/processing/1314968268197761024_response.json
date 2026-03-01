@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian account congratulates India's diplomatic service on Indian Foreign Service Day, praising the Russia–India strategic partnership across bilateral relations and cooperation on international platforms. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no criticism of the West or its allies. RU2 (Russia leads an alternative system): The tweet highlights non-Western cooperation and collaboration on international platforms, implying multilateralism beyond Western-centric structures, but it does not explicitly claim leadership or an alternative system; still, it subtly showcases Russia’s advocacy for multilateral cooperation with a major non-Western partner—this moderately fits RU2. RU3 (Russia is a benevolent partner): The message emphasizes appreciation, friendship, and strategic partnership, portraying Russia as a reliable, positive partner—this directly fits RU3. RU4 (Russian history admirable): Not present. RU5 (Russia at the forefront): No claims of superiority or achievements. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3 clearly and RU2 to a lesser, but reasonable, extent.",
+    "narrative_ids": ["RU3", "RU2"]
+  }
+}

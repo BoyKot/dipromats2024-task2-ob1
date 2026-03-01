@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia (via Zakharova) congratulates UNICEF on its anniversary and claims Russia has been a reliable partner actively cooperating to provide assistance to partner nations, tagged #RussiaHelps. Evaluation: RU1 (West immoral/hostile) – not present; the tweet contains no criticism of the West. RU2 (Russia leads an alternative system) – not applicable; the tweet aligns Russia with a UN agency, not an alternative to the Western order. RU3 (Russia is a benevolent partner) – applicable; it explicitly asserts Russia is a reliable partner of UNICEF and helps partner nations, projecting benevolence and solidarity. RU4 (Russian history admirable) – not referenced. RU5 (Russia at the world’s forefront) – no claims of superiority or cutting-edge success. RU6 (culture/nature/heritage) – not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

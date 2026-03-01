@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet honors Martin Luther King Jr. for advancing social justice and equality, and calls for service to communities and country. Evaluation by narrative: US1 (honorable tradition) – Yes; it invokes a celebrated historical figure and frames civil rights progress as part of America's legacy and unalienable rights, showcasing national values and historical feats. US2 (admirable society) – Partly; it highlights a prominent civil society figure and collective civic action (serving communities), portraying U.S. society positively; this fits the narrative promoting civil society and social achievements. US3 (hostile enemies) – No; no adversaries mentioned. US4 (force for good) – Indirectly at most; focus is domestic commemoration and service, not U.S. actions supporting global rights or oppressed peoples; not clearly promoted. US5 (great international ally) – No. US6 (at the forefront) – No. Conclusion: The tweet promotes US1 and US2.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

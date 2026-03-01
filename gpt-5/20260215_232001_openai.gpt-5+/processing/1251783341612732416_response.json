@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that 'the real Europe is standing up' and highlights President von der Leyen’s review of coordinated EU action on coronavirus, implying solidarity and collective response. EU1 (successful story): Implicitly touches on overcoming obstacles, but the tweet focuses on current solidarity rather than historical success; evidence is insufficient to claim this narrative. EU2 (EU is united): Strongly supported—'there for each other when it is needed the most' and mention of coordinated action directly emphasize unity and solidarity among member states. EU3 (useful for its citizens): By referencing coordinated COVID-19 action, it implies practical EU measures addressing citizens’ concerns; this supports usefulness within the EU context. EU4 (avant-garde): No claim of pioneering regulation or leadership in future challenges; not supported. EU5 (global champion of fair causes): Not referenced. EU6 (contributes to a better world): Focus is internal EU COVID-19 coordination, not global contributions; not supported. Final determination: EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

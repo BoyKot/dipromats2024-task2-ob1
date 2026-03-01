@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights a constructive call with UNHCR’s Filippo Grandi to strengthen cooperation in assisting refugees in Libya, Syria, Turkey, and the Western Balkans, and to help contain COVID-19 among vulnerable groups. Evaluation: EU1 (EU successful story) – Not explicitly about EU history or overcoming internal differences; no. EU2 (EU united) – No emphasis on intra-EU unity or agreements; no. EU3 (EU useful for its citizens) – Focus is on refugees outside/at EU periphery and global COVID-19 containment, not strictly on benefits within the EU; no. EU4 (EU avant-garde) – No pioneering regulation or leadership claim; no. EU5 (EU global champion of fair causes) – Assisting refugees and vulnerable groups suggests defending humanitarian and human rights causes internationally; the tweet frames active cooperation with UNHCR to support refugees, aligning with this narrative; yes. EU6 (EU contributes to a better world) – Emphasizes international cooperation, assistance to neighbors/regions (Libya, Syria, Turkey, Western Balkans), and global health containment, fitting the EU as a constructive global actor; yes. Conclusion: EU5 and EU6 are promoted.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

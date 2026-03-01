@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet expresses pride in US military service and honors service members, aligning with US1 (honorable tradition). It also frames the fight against COVID-19 as a national effort led by the US, aligning with US6 (at the forefront). It does not clearly promote human rights/peace (US4) or ally-focused narratives (US5).",
+    "narrative_ids": ["US1", "US6"]
+  }
+}

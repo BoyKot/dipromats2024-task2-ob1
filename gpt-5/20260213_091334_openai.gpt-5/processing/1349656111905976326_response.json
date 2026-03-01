@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks an anniversary, crediting Alexander II with granting Russian women access to public civil service in fields like medicine, education, telegraphy, and clerical work 150 years ago. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no comparison to the West or moral judgment. RU2 (Russia leads an alternative system): Not applicable; no mention of international systems or multipolarity. RU3 (Russia as benevolent partner): Not about partnership or aid; it's a historical note. RU4 (Russian history is admirable): Yes. It highlights a progressive historical reform, portraying Russian history as pioneering and positive. RU5 (Russia at the world’s forefront): Not about present-day achievements. RU6 (Russia’s culture/nature/heritage): While historical heritage is mentioned, the intent is not cultural promotion or tourism; it's specifically lauding a historical milestone, which fits RU4 better. Final determination: RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the US for denying a visa to Iran’s foreign minister to attend a UN Security Council meeting, accusing the US of failing its host-country obligations and urging it to fulfill them. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Applicable. The tweet portrays the US as acting improperly and hostilely toward UN norms and member states by denying access, fitting a depiction of Western (US) misconduct. CH2 (China is a benevolent power): Not present; the tweet does not highlight China’s cooperative stance or benevolence. CH3 (China has an epic history): Not referenced. CH4 (China has an appropriate political system and honorable values): Not discussed; no comparison of political systems or values. CH5 (CCP succeeds): Not addressed; no claims about governance success or development. CH6 (China culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

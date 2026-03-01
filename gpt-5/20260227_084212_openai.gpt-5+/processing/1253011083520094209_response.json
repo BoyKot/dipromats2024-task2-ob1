@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US is pursuing regime change in Venezuela, invoking the Monroe Doctrine and portraying US actions as efforts to destabilize a sovereign country. Evaluation by narrative: RU1 (The West and their allies are immoral, hostile and decadent): Yes. The tweet depicts the US as a hostile, immoral actor engaging in destabilization and regime change, treating Latin America as a backyard—clearly framing the West/US negatively. RU2 (Russia leads an alternative system): No. The tweet does not present Russia or a non-Western cooperative framework as an alternative. RU3 (Russia is a benevolent partner): No mention of Russia's benevolence or supportive actions. RU4 (Russian history is admirable): Not referenced. RU5 (Russia is at the world’s forefront): Not referenced. RU6 (Russia is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

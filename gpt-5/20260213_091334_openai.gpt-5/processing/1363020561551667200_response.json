@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet updates on COVID-19 vaccines in the EU, noting numbers in rolling review, one under EMA evaluation for conditional marketing authorisation, and three authorised and in use, plus securing 300 million more Moderna doses. This presents the EU’s regulatory progress and procurement as benefiting citizens’ health and vaccine availability. EU1 (successful story): Implicitly positive, but it’s not about history or overcoming past traumas; it’s a current operational update, so not a fit. EU2 (united): No explicit reference to unity or solidarity among member states; procurement mentioned but not framed as unity, so not supported. EU3 (useful for its citizens): Strongly supported—highlights concrete EU actions (EMA evaluations, authorisations, securing doses) that directly address citizens’ concerns about vaccines and access. EU4 (avant‑garde): Not about pioneering regulation beyond standard processes; no claim of leadership or innovation, so not supported. EU5 (global champion of fair causes): Not applicable; no human rights/democracy framing. EU6 (contributes to a better world): Focus is internal to the EU, not global contributions, so not supported. Final determination: EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

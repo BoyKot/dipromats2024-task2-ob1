@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes that January 13 is Day of Russian Press and commemorates the first newspaper printed in Russia in 1703 by decree of Peter the Great. Evaluation by narrative: RU1 (West immoral/hostile) – not referenced. RU2 (Russia leads alternative system) – not addressed. RU3 (Russia as benevolent partner) – not addressed. RU4 (Russian history is admirable) – yes: it highlights a milestone in Russian history, celebrating the origin of Russian press tied to a prominent historical figure, framing it positively. RU5 (Russia at the world’s forefront) – not claimed; no assertion of current leadership. RU6 (Russia’s culture/nature/heritage) – partially cultural, but the emphasis is historical commemoration rather than promoting culture or tourism; primary fit is historical admiration. Conclusion: Promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

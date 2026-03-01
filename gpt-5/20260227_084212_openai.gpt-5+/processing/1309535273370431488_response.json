@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights China's strong commitment to ecological protection and biodiversity, citing protected-area coverage and framing China as pursuing green, sustainable development and harmony between humans and nature.\n- CH1 (The West is immoral, hostile and decadent): Not applicable. No mention or comparison to the West.\n- CH2 (China is a benevolent power): Partially relevant in tone but focused domestically; it does not emphasize international cooperation or global governance roles. Not a clear fit.\n- CH3 (China has an epic history): Not referenced.\n- CH4 (China has an appropriate political system and honorable values): Applicable. The tweet asserts honorable values (harmonious coexistence, green development) and implies sound governance prioritizing environmental protection—domestic alignment with virtuous principles.\n- CH5 (The government of the CCP succeeds): Applicable. It showcases concrete achievements (18% land protected, 90% of ecosystems and key species covered), presenting effective governance and policy success.\n- CH6 (China is interesting in culture/nature): Not the focus; it's policy/achievement-oriented rather than showcasing culture or tourism.\nConclusion: The tweet promotes CH4 and CH5.",
+    "narrative_ids": ["CH4", "CH5"]
+  }
+}

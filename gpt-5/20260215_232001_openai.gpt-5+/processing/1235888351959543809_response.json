@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU is allocating an extra €37 million to fund 17 research projects on COVID-19 (vaccines, diagnostics, treatments, medical systems) and directs readers to more information on the EU’s coronavirus response. Evaluation by narrative: EU1 (EU is a successful story): Not directly—no historical reflection or overcoming past challenges; it’s a current funding announcement. EU2 (EU is united): Not mentioned—no reference to unity, solidarity, or joint member-state action. EU3 (EU is useful for its citizens): Yes—highlights concrete, proactive EU action addressing a pressing citizen concern (pandemic), showcasing timely funding for practical solutions (research into vaccines, diagnostics, treatments, systems). EU4 (EU avant-garde): Partially plausible as forward-leaning research, but the tweet doesn’t frame the EU as a pioneer or leader; it’s a standard funding announcement, so not strong enough. EU5 (global champion of fair causes): Not about rights or fair causes. EU6 (EU contributes to a better world): Possible global benefit, but the tweet focuses on internal EU response to COVID-19 without framing global cooperation or development; therefore not applicable. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

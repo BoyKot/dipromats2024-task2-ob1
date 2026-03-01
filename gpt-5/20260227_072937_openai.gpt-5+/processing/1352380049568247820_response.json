@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that EU leaders are coordinating (VTC) on COVID-19, stressing international solidarity for vaccine access, discussing COVAX with WHO's Dr. Tedros, and affirming the EU will contribute. Evaluation per narrative: EU1 (EU is a successful story): Not explicitly showcasing historical success or lessons learned; it's about current actions, so not supported. EU2 (EU is united): Implicitly references EU leaders meeting together, but it doesn't emphasize unity, agreement, or intra-EU solidarity; focus is outward/global, so weak/insufficient evidence. EU3 (useful for its citizens): The tweet centers on global vaccine access, not domestic EU benefits, so not applicable. EU4 (avant-garde actor): No claim of pioneering regulation/leadership in innovation; not supported. EU5 (global champion of fair causes): While vaccine equity can be a fair cause, the tweet frames it as international solidarity and operationalizing COVAX rather than rights advocacy; borderline but not clearly this frame. EU6 (EU contributes to a better world): Strongly supported—the EU engages in multilateral cooperation with WHO/COVAX and pledges to \"play its part\" to improve global pandemic outcomes, illustrating contribution to global well-being and multilateralism.",
+    "narrative_ids": ["EU6"]
+  }
+}

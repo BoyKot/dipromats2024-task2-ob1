@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the first recipients of the Hero of Russia title—Sulambek Oksanov for a selfless act and Sergei Krikalyov for a notable space mission—presenting them as exemplars of Russian heroism and achievement. RU1: No criticism of the West; not applicable. RU2: No mention of alternative systems or multilateral leadership; not applicable. RU3: Not about Russia as a partner or mediator; not applicable. RU4: Yes—celebrates Russian historical figures and achievements, framing Russian history/heritage as admirable. RU5: Indirectly touches on Russian excellence in space and heroism, but it’s historical/commemorative rather than asserting current forefront status; primary fit is RU4, not RU5. RU6: Not about culture/nature/heritage tourism; not applicable. Final: RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

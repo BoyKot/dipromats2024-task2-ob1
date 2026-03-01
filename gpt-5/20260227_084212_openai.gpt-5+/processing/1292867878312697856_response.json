@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet shares two Chinese cultural/philosophical concepts: 'People being the Foundation of the State' and 'Coexistence of All in Harmony.' It is informational, highlighting elements of Chinese thought. Evaluation: CH1 (West immoral/hostile): Not referenced; no comparison to the West. CH2 (China as benevolent power): The notion of 'coexistence of all in harmony' can imply a cooperative, harmonious stance, but the tweet does not link these values to China's international behavior, institutions, or actions; it's purely conceptual, so insufficient for CH2. CH3 (epic history): No historical struggle or resilience narrative; absent. CH4 (appropriate political system/values): The tweet presents Chinese values (people-centered governance, harmony) domestically as key concepts of Chinese thought, which aligns with promoting honorable values tied to governance philosophy, fitting CH4. CH5 (CCP success): No performance or achievements mentioned. CH6 (interesting culture/nature/heritage): It highlights culture/philosophy, but CH6 is about culture/heritage in a general, touristic or societal sense; still, this tweet does promote Chinese culture/thought, which fits CH6’s scope of promoting traditions. Conclusion: CH4 and CH6.",
+    "narrative_ids": ["CH4", "CH6"]
+  }
+}

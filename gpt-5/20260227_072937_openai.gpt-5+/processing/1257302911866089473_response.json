@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks Jewish American Heritage Month, praises Jewish Americans' contributions to the U.S. and a federal department, and reaffirms U.S. commitment to combating anti-Semitism. Evaluation: US1 (honorable tradition) – partially relevant as it gestures to American values (commitment to a world free of anti-Semitism), but the emphasis is not on long-standing national traditions or historical feats; it's more on contemporary recognition, so not a clear fit. US2 (admirable society) – yes; it highlights an ethnic community’s contributions and a celebratory heritage month, aligning directly with promoting the diversity and achievements within U.S. society. US3 (hostile enemies) – no; no adversary is identified. US4 (force for good) – yes; it states the U.S. is committed to a world free of anti-Semitism, framing the U.S. as supporting human rights and combating hatred globally. US5 (great international ally) – no; no ally focus. US6 (at the forefront) – no; no leadership/innovation angle. Conclusion: The tweet promotes US2 and US4.",
+    "narrative_ids": ["US2", "US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Russian doctors effectively treating COVID-19 patients in Italy (Bergamo), notes patient recoveries, and says Lombardy authorities requested Russia to extend assistance to Brescia, with a jab at La Stampa, implying Russian help is valuable. Evaluation by narrative: RU1 (West immoral/hostile/decadent): Not promoted; while it snipes at La Stampa, it does not depict the West as immoral or hostile. RU2 (Russia leads an alternative system): Not applicable; no mention of alternative multilateral systems or non-Western cooperation frameworks. RU3 (Russia is a benevolent partner): Yes; it portrays Russia as providing effective humanitarian medical aid to Italy and being asked to extend help, underscoring reliability and solidarity. RU4 (Russian history admirable): Not applicable; no historical references. RU5 (Russia at the world’s forefront): Partially implied by effectiveness, but the focus is on benevolence rather than showcasing superiority in technology or leadership; insufficient to claim RU5. RU6 (Russia culturally interesting): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

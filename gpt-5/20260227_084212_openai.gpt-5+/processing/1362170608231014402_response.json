@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. official spoke with Israel's prime minister, reaffirmed the United States’ steadfast commitment to Israel’s security, and noted ongoing U.S.-Israel strategic cooperation on regional security issues, including Iran. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to U.S. historical values or legacy. US2 (admirable society) – Not relevant; no mention of society, diversity, or civil heroes. US3 (hostile enemies) – Indirectly references Iran as a regional security issue, but the tweet does not portray Iran as immoral or as a direct enemy; it’s framed as a topic of cooperation rather than a moralized adversary, so not sufficient. US4 (force for good) – The tweet focuses on security cooperation with an ally, not broader human rights or global benevolence; not clearly promoted. US5 (great international ally) – Yes; it explicitly affirms steadfast U.S. commitment to an ally’s security and highlights strategic cooperation, directly aligning with unwavering support for allies. US6 (at the forefront) – Not claimed; no leadership or superiority framing beyond cooperation. Conclusion: The tweet promotes US5 only.",
+    "narrative_ids": ["US5"]
+  }
+}

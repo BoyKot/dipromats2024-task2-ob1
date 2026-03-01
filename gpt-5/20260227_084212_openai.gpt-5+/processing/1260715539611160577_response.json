@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates the birthday and long history (237 years) of Russia's Black Sea Fleet, emphasizing its historic ties to Crimea and Sevastopol. Evaluation: RU1 (West immoral/hostile) – Not present; no mention of the West or hostility. RU2 (alternative system) – Not present; no multilateral or systemic framing. RU3 (benevolent partner) – Not present; no peace/partnership claims. RU4 (Russian history is admirable) – Yes; it glorifies Russian military history and legacy of the Black Sea Fleet, linking it to Crimea/Sevastopol heritage. RU5 (Russia at the forefront) – Arguably not; while prideful, it does not claim current superiority or achievements. RU6 (interesting culture/nature/heritage) – Partially overlaps via heritage references to Crimea/Sevastopol, but the focus is military history rather than cultural/natural appeal; primary fit remains RU4. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Josep Borrell condemns rocket attacks on bases in Iraq used by U.S. and coalition forces, warning against escalation and calling for de-escalation; mentions #IranAttacks and #JCPOA. Evaluation:\n- EU1 (EU as a successful story): Not referenced; no historical reflection or success framing.\n- EU2 (EU is united): No mention of EU unity or collective EU stance; it's a single statement by Borrell.\n- EU3 (EU useful for its citizens within EU): Not about internal EU policies or citizen benefits.\n- EU4 (EU avant-garde political actor): No pioneering regulation or leadership claim.\n- EU5 (EU as global champion of fair causes): While it implies a preference for de-escalation, it does not explicitly promote human rights/democracy leadership.\n- EU6 (EU contributes to a better world): The call to avoid escalation and implicit support for diplomacy (referencing JCPOA) reflects the EU’s role in promoting peace and multilateral solutions globally. This aligns with EU6.\nConclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

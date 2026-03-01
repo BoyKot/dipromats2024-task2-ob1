@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Pompeo urges transatlantic cooperation to confront the 'China challenge' to protect free societies, prosperity, and the future. Evaluation by narrative: US1 (honorable tradition) – not explicitly highlighting U.S. historical values or feats; no. US2 (admirable society) – no mention of social groups or civil society; no. US3 (hostile enemies) – frames China as a challenge/threat to free societies and prosperity, portraying an adversary; yes. US4 (force for good) – implies defending freedom and prosperity, but focus is on confronting China rather than showcasing direct humanitarian/support actions; borderline, but insufficient; no. US5 (great international ally) – calls for transatlantic cooperation, indicating alliance leadership/solidarity; yes. US6 (at the forefront) – does not position the U.S. as leader in tech/economy/military per se; no. Conclusion: Promotes US3 and US5.",
+    "narrative_ids": ["US3", "US5"]
+  }
+}

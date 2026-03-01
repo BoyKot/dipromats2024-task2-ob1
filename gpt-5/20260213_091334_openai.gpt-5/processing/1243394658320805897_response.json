@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights a U.S. ambassador’s video about embassy measures to protect staff and the Thai public during COVID-19, and it recognizes U.S.-Thai cooperation in health to fight the pandemic. Evaluation by narrative: US1 (honorable tradition) – not invoked; no reference to U.S. historical legacy or values as tradition. US2 (admirable society) – not applicable; no mention of U.S. societal groups, civil society, companies, or heroes. US3 (hostile enemies) – not applicable; no adversary is mentioned. US4 (force for good) – applicable; it frames U.S. actions as protecting people and cooperating to combat COVID-19, aligning with support for development and security. US5 (great international ally) – applicable; it explicitly recognizes U.S.-Thai cooperation, emphasizing support for an ally. US6 (at the forefront) – not evident; no claim of leadership or superiority. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

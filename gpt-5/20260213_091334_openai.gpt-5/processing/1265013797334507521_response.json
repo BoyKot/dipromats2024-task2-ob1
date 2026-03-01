@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US government handled COVID-19 effectively (ventilators, testing, medical supply distribution), helped governors look good, and aided many people, while not receiving due credit. Evaluation by narrative: US1 (honorable tradition): Not invoked; no reference to historical legacy or foundational values. US2 (admirable society): Not about society, ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies): No adversary framed as hostile; the phrase 'China Virus' labels origin but does not construct an enemy narrative in line with the description. US4 (force for good): The tweet asserts the US government helped “a lot of great people,” portraying US actions as benevolent in a crisis—this aligns with showcasing support and aid. US5 (great international ally): No mention of allies or support to other countries. US6 (at the forefront): While it touts effective management, it does not position the US as a leader in economy/technology/military/trade or as globally leading in COVID response. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

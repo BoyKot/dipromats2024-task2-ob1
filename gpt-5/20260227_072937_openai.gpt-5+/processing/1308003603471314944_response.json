@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that the UN Security Council has not reinstated sanctions on Iran and admonishes the US to stop speaking on behalf of the Council, implying US overreach/misrepresentation. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent) – Applicable. The tweet criticizes the US as acting improperly by speaking for the UNSC, portraying the US (a Western actor) as overreaching and dishonest, fitting the depiction of hostile/immoral Western behavior. RU2 (Russia leads an alternative system) – Not directly. While it references multilateralism (UNSC), it does not present Russia as leading or promoting an alternative system. RU3 (Russia is a benevolent partner) – Not present; no claim of Russian helpfulness or partnership. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Not relevant. RU6 (Russia culture/nature) – Not relevant. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

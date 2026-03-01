@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet foregrounds Russian humanitarian actions (doctors disinfecting Italian care homes) and frames Western coverage of Russian disinformation as context, which aligns with Russia presenting itself as a benevolent partner. It does not advocate an alternative Western order (RU2) or depict the West as immoral (RU1); it also does not emphasize culture/history or current status, so RU3 is the best fit.",
+    "narrative_ids": ["RU3"]
+  }
+}

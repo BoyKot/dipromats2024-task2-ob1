@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises an Arria-formula UN Security Council meeting featuring representatives from Crimea, claiming it was a breakthrough because it finally gave voice to those living in Crimea rather than those who fled to join the Maidan coup, and notes the discussion was heated. Evaluation: RU1 (West and allies immoral/hostile/decadent): The tweet disparages Maidan as a 'coup' and delegitimizes Ukrainian voices who 'fled,' implying pro-Maidan/Ukraine narratives are unrepresentative. This casts Ukraine (a Western ally) negatively, fitting RU1’s depiction of the West/their allies as hostile or illegitimate. RU2 (Russia leads an alternative system): The tweet mentions a UN procedural format (Arria-formula) and frames it as a breakthrough for Crimean voices, but does not present Russia as leading an alternative multilateral system or promoting non-Western cooperation; not supported. RU3 (Russia is a benevolent partner): No framing of Russia as mediator or promoter of peace/solidarity; not supported. RU4 (Russian history admirable): Not about history; not supported. RU5 (Russia at the world’s forefront): No claim of Russian achievements; not supported. RU6 (Russia culture/nature): Not relevant. Conclusion: The tweet advances RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

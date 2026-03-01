@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU Office to Hong Kong and Macao shares a commemorative post about 10 years of EU diplomacy (#EEAS10), inviting readers to check the story behind a picture. Evaluation: EU1 (EU is a successful story): Implicitly yes—anniversary framing and \"story behind the picture\" suggest a positive, sustained track record of EU diplomacy, highlighting longevity and success. EU2 (EU is united): No mention of unity or agreement among member states. EU3 (useful for its citizens): No reference to benefits within the EU or citizen-focused policies. EU4 (avant-garde actor): No claim of pioneering regulation or leadership in tackling major challenges. EU5 (global champion of fair causes): No explicit reference to human rights or similar causes. EU6 (contributes to a better world): The focus is on diplomacy abroad (EU Office to Hong Kong and Macao) and a decade of EEAS activity; this implies EU external engagement contributing internationally. While not explicit, the celebration of EU diplomacy beyond Europe aligns with portraying the EU as an actor contributing globally. Conclusion: Promotes EU1 and, more implicitly, EU6.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

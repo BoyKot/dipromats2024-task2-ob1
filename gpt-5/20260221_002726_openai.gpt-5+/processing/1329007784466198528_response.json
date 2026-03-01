@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes Georgia’s president in Tbilisi and emphasizes that U.S.-Georgia cooperation is paramount and that U.S. support for Georgia’s sovereignty against Russian occupation is unwavering. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to U.S. historical values or legacy. US2 (admirable society) – Not mentioned; no reference to U.S. society or groups. US3 (hostile enemies) – Indirectly references Russia as an occupying force, but the focus is on supporting Georgia rather than framing a direct threat to the U.S.; still, it highlights an immoral adversary obstructing peace, which partially fits. US4 (force for good) – Yes; it portrays the U.S. as defending sovereignty and supporting a nation facing occupation, aligning with promoting freedom and security. US5 (great international ally) – Yes; it underscores unwavering support and the importance of cooperation with an ally (Georgia). US6 (at the forefront) – Not applicable; no claim of leadership or superiority. Conclusion: The tweet promotes US4 and US5 clearly; US3 is tangential but present due to labeling Russian actions as occupation.",
+    "narrative_ids": ["US4", "US5", "US3"]
+  }
+}

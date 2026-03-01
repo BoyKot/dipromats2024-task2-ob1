@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims critics \"defame\" the Communist Party of China due to ideological bias and asserts the CPC, as China’s constitutionally recognized ruling party, has a close bond and shared future with the Chinese people. Evaluation: CH1 (West immoral/hostile): While it mentions \"ideological bias\" of unnamed critics, it doesn’t explicitly depict the West as immoral/hostile; focus is on defending CPC, not attacking the West. Not a clear fit. CH2 (China benevolent power internationally): No reference to international cooperation or global benevolence; domestic focus. Not supported. CH3 (epic history): No historical narrative or past adversities. Not supported. CH4 (appropriate political system and honorable values): Yes. It legitimizes China’s political system (CPC as constitutionally recognized ruling party) and claims alignment with the people's will (\"close bond and a shared future\"), portraying the system/values as proper and legitimate. CH5 (CPC governance succeeds): No concrete claims of performance, development, or achievements. Not supported. CH6 (culture/nature): Not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

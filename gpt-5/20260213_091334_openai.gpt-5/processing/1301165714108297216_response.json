@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet alleges Chinese authorities impede U.S. diplomats in China; in response, the U.S. imposes new requirements on senior PRC diplomats in the U.S., asserting commitment to fair treatment of U.S. diplomats abroad. Evaluation: US1 (honorable tradition) – not explicitly about U.S. historical values or legacy; no. US2 (admirable society) – unrelated; no. US3 (hostile enemies) – the tweet portrays the PRC as obstructive to U.S. diplomats, implying adversarial/immoral behavior; this frames China as a hostile actor toward U.S. interests, so yes. US4 (force for good) – it asserts advocacy for fair treatment, but the focus is reciprocity/retaliatory requirements rather than broader human rights/aid; tenuous; not clearly promoted. US5 (great international ally) – no mention of allies; no. US6 (at the forefront) – no leadership/primacy claim; no. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

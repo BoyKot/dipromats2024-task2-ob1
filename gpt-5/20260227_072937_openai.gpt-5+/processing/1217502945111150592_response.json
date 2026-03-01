@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Alexander Griboyedov’s birthday and praises his multifaceted talents, noting that his play “Woe from Wit” remains frequently staged in Russia. It includes a historical photo reference. Evaluation: RU1 (West immoral/hostile): Not applicable; no mention of the West or moral judgments. RU2 (Russia leads alternative system): Not applicable; no discussion of global order or multilateralism. RU3 (Russia benevolent partner): Not applicable; no reference to partnerships or peace efforts. RU4 (Russian history is admirable): Applicable; it highlights a notable Russian historical figure and enduring cultural influence, framing Russian history/culture as admirable. RU5 (Russia at the world’s forefront): Not applicable; no current achievements or leadership claims. RU6 (Russia interesting in culture/nature/heritage): Partially relevant as it spotlights cultural heritage, but the emphasis is on historic admiration rather than promoting tourism or broader cultural appeal; the fit is weaker than RU4. Final determination: RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

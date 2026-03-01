@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mocks U.S. claims (attributed to Navarro/'Ron Vara') that TikTok sends data to the Chinese military/CCP, demands evidence, labels the claims as lies, and portrays the U.S. as hypocritical and fragile for fearing a youth-oriented app. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet depicts the U.S. as shamelessly lying, hypocritical about its 'strong values,' and fragile, framing the West/US negatively and hostile toward China/TikTok. CH2 (China is a benevolent power) — No direct promotion; it defends TikTok/China by attacking U.S. claims but does not portray China as cooperative or benevolent internationally. CH3 (China has an epic history) — Not referenced. CH4 (China has an appropriate political system and honorable values) — Not discussed; no praise of China’s political system or values. CH5 (CCP government succeeds) — Not claimed; no mention of achievements or governance success. CH6 (China interesting culturally) — Not relevant. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

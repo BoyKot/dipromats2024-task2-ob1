@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that local authorities failed to control 'agitators and anarchists,' and justifies limited federal intervention to defend a U.S. courthouse, warning of stronger action. Evaluation: US1 (honorable tradition) – Not promoted; no reference to historical values or legacy. US2 (admirable society) – Not promoted; no praise of societal groups or civil society. US3 (hostile enemies) – Partially relevant language ('agitators and anarchists') frames domestic opponents as destructive, but it does not present broader threats to the US or liberal order; still, it characterizes adversarial actors threatening public order. US4 (force for good) – The tweet frames the federal government as defending a courthouse (rule of law/security), which fits presenting the US/government as acting to protect institutions; however, it is domestic-focused and defensive. Nonetheless, it portrays federal action as rightful protection, aligning with a 'force for good' frame. US5 (great international ally) – Not relevant. US6 (at the forefront) – Not relevant. Conclusion: The tweet promotes US3 (hostile enemies) by depicting adversaries and US4 (force for good) by justifying protective federal action.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes Peking Opera blending with modern music, presenting it as the 'quintessence of Chinese culture' appealing to the young generation. Evaluation by narrative: CH1 (West immoral/hostile): Not referenced; no comparative or critical mention of the West. CH2 (China as benevolent power): No international cooperation or global governance themes; not applicable. CH3 (Epic history): While Peking Opera is traditional, the tweet does not discuss historical adversity or resilience; not applicable. CH4 (Appropriate political system/values): No political system or governance values mentioned; not applicable. CH5 (CCP government succeeds): No claims about government achievements; not applicable. CH6 (China interesting in culture/nature/heritage): Yes—showcases Chinese culture (Peking Opera) and its modern fusion, promoting cultural appeal. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

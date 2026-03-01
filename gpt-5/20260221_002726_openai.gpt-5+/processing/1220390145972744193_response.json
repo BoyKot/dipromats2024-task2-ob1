@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet frames the Holocaust as a European tragedy whose remembrance is a cornerstone of European values and integral to the EU’s identity, highlighted in a formal EU context (with EU leaders at a commemorative forum). Evaluation: EU1 (EU is a successful story) — Yes. It explicitly ties learning from a historic trauma (the Holocaust) to the EU’s values and identity, aligning with acknowledgment of past mistakes and deriving lessons as part of the EU’s successful historical narrative. EU2 (EU is united) — Not explicit; no mention of unity, agreements, or solidarity across member states. EU3 (EU useful for citizens) — No policy or practical benefits for citizens are discussed. EU4 (EU avant-garde) — Not about pioneering regulation or tackling future challenges. EU5 (EU global champion of fair causes) — Partially implied by referencing human rights and values through Holocaust remembrance, but the tweet centers on Europe’s own historical memory rather than global advocacy; evidence is insufficient to code EU5. EU6 (EU contributes to a better world) — Not addressed; no global cooperation or external impact described. Conclusion: Only EU1 is clearly promoted.",
+    "narrative_ids": ["EU1"]
+  }
+}

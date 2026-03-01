@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The speaker briefed EU Foreign Ministers on the Belgrade–Pristina Dialogue, thanked them for genuine interest and strong support, and asserted that this Dialogue is linked to the European future of Kosovo and Serbia. EU1: Not about EU’s historical success or overcoming past traumas; no explicit success story framing. EU2: Implies collective EU engagement (“Foreign Ministers,” “strong support”), suggesting unity/solidarity behind the Dialogue; moderately supports the EU being united. EU3: Not about benefits to EU citizens or internal EU policy delivery. EU4: No claim of pioneering regulation or avant-garde leadership. EU5: No explicit human rights/democracy championing narrative. EU6: Positions the EU as contributing to peace/stability in its neighborhood by supporting the Dialogue and the European future of Kosovo and Serbia—this aligns with EU contributing to a better world/neighbor cooperation. Final: EU2 and EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

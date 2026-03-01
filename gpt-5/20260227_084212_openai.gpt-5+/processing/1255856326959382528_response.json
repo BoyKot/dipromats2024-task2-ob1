@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Russia's Firefighters Day, noting its origin in 1649 under Tsar Alexei Mikhailovich, and expresses gratitude to firefighters as heroes. Evaluation: RU1 (West immoral/hostile) – not present; no mention of the West or hostility. RU2 (Russia leads alternative system) – not present; no multilateral or anti-West framing. RU3 (Russia as benevolent partner) – not applicable; this is domestic appreciation of firefighters, not partnership or peacebuilding. RU4 (Russian history is admirable) – applicable; it highlights a historical milestone (establishment of the first Russian fire department in 1649) as a point of pride, portraying Russian history positively. RU5 (Russia at the world’s forefront) – not claimed; no assertion of current global leadership or superiority. RU6 (Russia’s culture/nature/heritage) – partially relevant but not primary; while it touches heritage, the focus is commemorative rather than promoting culture or tourism. Primary match is RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

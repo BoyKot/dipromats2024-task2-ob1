@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the UK's BNO policy as gross interference in China's internal affairs, invokes international norms of noninterference, and asserts that China does not interfere in the UK's affairs. Evaluation per narrative: CH1 (The West is immoral, hostile and decadent) — Applicable. The tweet portrays the UK (a Western country) as violating international norms and interfering in China's internal affairs, casting China as the victim of Western misconduct. CH2 (China is a benevolent power) — Partially resonant through appeals to international law/noninterference, but the tweet does not emphasize cooperation, multilateralism, or global public goods; its focus is defensive/accusatory rather than benevolent leadership. Not selected. CH3 (China has an epic history) — Not present; no historical framing. CH4 (China has an appropriate political system and honorable values) — Not directly; it does assert moral high ground (China respects noninterference) but does not advocate China’s domestic political system or values per se. Not selected. CH5 (CCP government succeeds) — Not addressed. CH6 (Culture/nature/heritage) — Not relevant. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

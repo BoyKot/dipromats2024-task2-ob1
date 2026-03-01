@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that two Russian Tu-95MS strategic bombers conducted a planned flight over neutral waters in the Sea of Japan and the NW Pacific, tagged with #RussianAirForce and #LongRangeAviation. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or hostility. RU2 (alternative system/multilateralism): Not present; no reference to international order or non-Western cooperation. RU3 (benevolent partner): Not present; no peace, solidarity, or cooperation framing. RU4 (Russian history admirable): Not present; no historical references. RU5 (Russia at the world’s forefront): Implicitly showcases current military capability and operational reach by highlighting strategic missile carriers and long-range aviation conducting planned flights, suggesting competence and strength; this aligns with portraying Russia’s advanced military status. RU6 (interesting culture/nature): Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

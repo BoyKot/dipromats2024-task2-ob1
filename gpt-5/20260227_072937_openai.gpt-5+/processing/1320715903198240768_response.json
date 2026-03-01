@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that the U.S., via the Ambassadors Fund for Cultural Preservation, supports preserving Nigerian culture and invites applications for AFCP grants. Evaluation: US1 (honorable tradition): Not directly; it doesn't reference American legacy, values, or historical feats. US2 (admirable society): No mention of U.S. social groups, civil society, companies, or heroes. US3 (hostile enemies): No adversaries mentioned. US4 (force for good): Yes—positions the U.S. as supporting cultural preservation abroad, aligning with promoting development and protection of cultural heritage. US5 (great international ally): Implicitly supportive of Nigeria, but the focus is on a program rather than praising an ally or emphasizing alliance commitments; weaker fit, not clearly promoted. US6 (at the forefront): No leadership or superiority claims. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

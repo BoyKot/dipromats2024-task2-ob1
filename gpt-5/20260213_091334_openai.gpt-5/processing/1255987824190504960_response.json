@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the United States will continue to advocate for human rights globally and urges China to honor its commitments to Hong Kong. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoking American historical legacy or tradition; it's about current advocacy, so not supported. US2 (admirable society) – No mention of American society, groups, or heroes; not supported. US3 (hostile enemies) – While it pressures China, it does not frame China as an immoral adversary threatening the US; it's a call to respect commitments, so only indirectly critical; not supported. US4 (force for good) – Yes: asserting US advocacy for human rights worldwide and standing up for Hong Kong aligns directly with portraying the US as supporting human rights and oppressed peoples. US5 (great international ally) – No reference to allies or support for a partner nation; not supported. US6 (at the forefront) – No claim of leadership in domains like economy/technology or general leadership status; not supported. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

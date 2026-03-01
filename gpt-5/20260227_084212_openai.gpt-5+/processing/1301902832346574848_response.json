@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet alleges that the IAEA Director General’s confidential reports on Iran were leaked to the US press immediately after circulation, calling this \"shameful,\" while highlighting that the leaked content confirms good Iran–IAEA cooperation.\nEvaluation against narratives:\n- RU1 (The West and their allies are immoral, hostile and decadent): The tweet implies misconduct linked to the US press receiving confidential leaks, characterizing the act as \"shameful.\" This portrays a Western actor (US media environment) as unethical/hostile. While it does not explicitly mention the broader \"West,\" the clear insinuation of improper behavior tied to the US aligns with RU1’s framing of Western immorality/hostility.\n- RU2 (Russia leads an alternative system): No mention of Russia or an alternative multilateral system.\n- RU3 (Russia is a benevolent partner): No portrayal of Russia as a partner.\n- RU4 (Russian history is admirable): Not relevant.\n- RU5 (Russia at the world’s forefront): Not relevant.\n- RU6 (Russia’s culture/nature): Not relevant.\nConclusion: The tweet promotes RU1 by depicting US-linked behavior as unethical; no other narratives apply.",
+    "narrative_ids": ["RU1"]
+  }
+}

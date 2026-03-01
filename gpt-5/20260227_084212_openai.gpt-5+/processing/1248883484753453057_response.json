@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights EU solidarity and coordinated action (#TeamEurope, EU and Member States joining forces) to support partner countries in tackling and preventing the spread of coronavirus, using slogans like #StrongerTogether.\nEU1 (EU is a successful story): Not explicitly about history or lessons learned; focuses on current action, so not supported.\nEU2 (EU is united): Yes. It emphasizes unity and solidarity—\"joined forces,\" \"#TeamEurope,\" and \"#StrongerTogether\"—showing the EU and Member States acting together.\nEU3 (EU useful for its citizens): The action described targets partner countries abroad, not EU citizens specifically; thus EU3 does not apply.\nEU4 (EU avant-garde political actor): No references to pioneering regulation or leadership in future-oriented domains; not applicable.\nEU5 (EU as global champion of fair causes): The tweet is about pandemic assistance, not values like human rights or democracy; not applicable.\nEU6 (EU contributes to a better world): Yes. It describes EU and Member States supporting partner countries to tackle COVID-19 globally, aligning with EU’s contribution to cooperation, safety, and well-being beyond its borders.\nConclusion: The tweet promotes EU2 and EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. Special Representative asserts that free elections and a return to freedom and prosperity in Venezuela are possible, and that the United States will continue to support the Venezuelan people until that happens.\nEvaluation by narrative:\n- US1 (honorable tradition): The tweet does not reference U.S. historical legacy or traditions; it focuses on present support for Venezuela. Not promoted.\n- US2 (admirable society): No mention of U.S. social groups, civil society, companies, or military heroes. Not promoted.\n- US3 (hostile enemies): The tweet does not identify or highlight adversaries; it avoids casting an enemy. Not promoted.\n- US4 (force for good): Yes. It presents the U.S. as supporting human rights, free elections, and the Venezuelan people, aligning with a pro-freedom, humanitarian stance.\n- US5 (great international ally): Implicit support, but it does not frame Venezuela as an ally or emphasize alliance structures; rather it emphasizes general support. Not promoted.\n- US6 (at the forefront): No claims of U.S. leadership in domains like economy, technology, or military. Not promoted.\nConclusion: The tweet promotes the narrative that the US is a force for good (US4).",
+    "narrative_ids": ["US4"]
+  }
+}

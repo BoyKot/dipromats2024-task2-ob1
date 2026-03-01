@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A TASS post cites Thuringia’s head Bodo Ramelow advocating that Germany push the EU to procure Sputnik V to enable a quicker return to normal life, implying the Russian vaccine is effective and desirable. Evaluation: RU1 (West immoral/hostile): Not present; no criticism of the West’s morality or hostility. RU2 (Russia leads an alternative system): Not explicit; it doesn’t discuss multipolarity or alternative governance systems, only a vaccine purchase. RU3 (Russia is a benevolent partner): Partially relevant but not explicit; the tweet portrays Russia’s vaccine as helpful, yet it doesn’t emphasize partnership, solidarity, or Russia’s intent—more a call from a German official. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Yes; highlighting demand for Sputnik V as enabling a faster return to normal life implicitly showcases Russia’s scientific/technological success and leadership in vaccines. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

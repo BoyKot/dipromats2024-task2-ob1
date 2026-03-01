@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames the US as a leader in space exploration (a historic NASA/SpaceX launch from US soil), signaling forefront status (US6). It also presents the launch as part of a historic national achievement, which aligns with an honorable tradition (US1). No explicit references to enemies, allies, or civil society are evident.",
+    "narrative_ids": ["US6", "US1"]
+  }
+}

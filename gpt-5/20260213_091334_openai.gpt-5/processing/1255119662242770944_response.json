@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises Xi Jinping’s leadership and claims China prioritized people’s life, security, and health, presenting a people-centered approach as the key to swiftly containing COVID-19.\nEvaluation by narrative:\n- CH1 (The West is immoral, hostile and decadent): Not promoted. The tweet does not reference the West or criticize other countries.\n- CH2 (China is a benevolent power): Partially relevant tone but focus is domestic, not China’s international role, cooperation, or multilateralism. Not promoted.\n- CH3 (China has an epic history): Not referenced; no historical arc or past adversities discussed.\n- CH4 (China has an appropriate political system and honorable values): Promoted. The tweet asserts Chinese governance is people-centered, prioritizes citizens’ welfare, and is morally upright in handling COVID-19—an endorsement of the system’s values and legitimacy in domestic affairs.\n- CH5 (The government of the Chinese Communist Party succeeds): Promoted. It credits the CCP-led government with successfully and rapidly containing COVID-19 due to its approach, highlighting policy effectiveness and governance success.\n- CH6 (China is an interesting country in terms of culture, nature and heritage): Not relevant.\nConclusion: The tweet advances CH4 and CH5.",
+    "narrative_ids": ["CH4", "CH5"]
+  }
+}

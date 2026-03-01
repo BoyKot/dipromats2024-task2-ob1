@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China for sharing the full genetic sequence of the virus quickly and transparently, and for sharing experience with other countries, citing an NHS medical director and China Daily. Evaluation: CH1 (West immoral/hostile) – Not present; no criticism of the West. CH2 (China is a benevolent power) – Yes; it portrays China as cooperative, transparent, and helping other countries by sharing data and experience to aid global vaccine development, fitting the benevolence/international cooperation frame. CH3 (epic history) – Not relevant. CH4 (appropriate political system/values domestically) – Indirectly mentions transparency and responsibility, but framed in an international cooperation context rather than advocating China’s domestic political system; not a clear fit. CH5 (CCP government succeeds) – Partially overlaps with competence claims, but the focus is on international sharing rather than domestic development or leadership success; evidence insufficient. CH6 (culture/nature) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

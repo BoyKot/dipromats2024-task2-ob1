@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates International Jazz Day and recommends Ken Burns' documentary 'Jazz,' highlighting jazz's history and its influence on American culture and music. Evaluation: US1 (honorable tradition) — Partially relevant, as it references the historical development of a quintessential American art form, implying a rich cultural legacy. However, it does not explicitly frame it as a moral or national 'tradition' of values beyond culture; still, showcasing the historical feat and legacy of jazz fits. US2 (admirable society) — Indirect at best; while jazz is rooted in diverse American communities, the tweet does not foreground social groups or civil society, so not clearly promoted. US3 (hostile enemies) — Not present. US4 (force for good) — Not present. US5 (great international ally) — Not present. US6 (at the forefront) — Not claimed; it doesn’t position the US as a leader broadly, just references cultural influence. Conclusion: Only US1 applies.",
+    "narrative_ids": ["US1"]
+  }
+}

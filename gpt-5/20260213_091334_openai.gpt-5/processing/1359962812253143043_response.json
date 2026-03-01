@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. State Department spokesperson condemns Russia’s crackdown on Jehovah’s Witnesses and other peaceful religious minorities. Evaluation: US1 (honorable tradition) – Implicitly touches on U.S. values of religious freedom, but the tweet does not reference U.S. tradition or legacy; primary focus is condemnation of abuses abroad, so not clearly promoted. US2 (admirable society) – No mention of U.S. society, groups, or heroes; not promoted. US3 (hostile enemies) – The tweet portrays Russia’s actions as wrongful, but it frames a human rights violation rather than depicting an adversary as a direct threat to the U.S.; partial fit at best and not the core intent. US4 (force for good) – Clear fit: the U.S. publicly stands up for human rights and religious freedom by condemning repression, aligning with advocacy for oppressed peoples. US5 (great international ally) – No ally support is mentioned; not promoted. US6 (at the forefront) – No leadership in domains like economy/technology is claimed; not promoted. Conclusion: The tweet promotes US4; others do not apply.",
+    "narrative_ids": ["US4"]
+  }
+}

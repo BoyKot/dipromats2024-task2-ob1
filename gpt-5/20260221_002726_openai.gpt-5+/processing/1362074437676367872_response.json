@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Nikolay Gamaleya, highlights his pioneering role in microbiology and vaccines, links him to the Gamaleya Institute that developed Sputnik V, and claims that over a century of research underpins Sputnik V’s scientific credibility. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or hostility. RU2 (Russia leads an alternative system): Not addressed; no multilateral or alternative-order framing. RU3 (Russia is a benevolent partner): Not about partnership or aid. RU4 (Russian history is admirable): Yes; it valorizes a historical Russian scientist and legacy, presenting a proud historical contribution. RU5 (Russia is at the world’s forefront): Yes; it promotes current Russian scientific achievement (Sputnik V) and asserts strong scientific grounding, implying contemporary prowess. RU6 (culture/nature/heritage travel): Not relevant. Conclusion: RU4 and RU5 apply.",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

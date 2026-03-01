@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that firsthand experiences in Xinjiang contradict negative portrayals by Western media. Evaluation: CH1 (The West is immoral, hostile and decadent) – Partially aligns: it challenges Western media credibility, implying Western narratives are misleading/hostile toward China; this fits CH1’s depiction of the West as hostile to China. CH2 (China is a benevolent power) – Not promoted; no mention of international cooperation or benevolence. CH3 (China has an epic history) – Not referenced. CH4 (China has an appropriate political system and honorable values) – Not explicit; it doesn’t praise China’s system or values, only disputes Western reports. CH5 (The government of the CCP succeeds) – Implicitly suggests normalcy/positive reality in Xinjiang but does not credit CCP governance or successes; insufficient to code CH5. CH6 (China is interesting culturally/naturally) – Not applicable. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

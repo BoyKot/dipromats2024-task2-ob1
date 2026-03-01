@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces U.S. donation of ventilators to India, expresses solidarity with India and PM Modi during the pandemic, and mentions cooperation on vaccine development, ending with a unifying call to defeat the pandemic. Evaluation by narrative: US1 (honorable tradition) – Not explicitly; it does not invoke U.S. historical legacy or traditions. US2 (admirable society) – No reference to U.S. societal groups, civil society, companies, or military heroes. US3 (hostile enemies) – No adversary is identified; 'invisible enemy' refers to the virus, not a geopolitical foe. US4 (force for good) – Yes; donating medical equipment, supporting India during a health crisis, and collaborating on vaccines highlight humanitarian support and efforts toward global health/security. US5 (great international ally) – Yes; emphasizes standing with India, calling them 'friends,' and cooperating closely—clear praise and support for an ally. US6 (at the forefront) – Implicit leadership in vaccine cooperation could suggest capability, but the tweet does not explicitly position the U.S. as a leader; focus is on partnership and aid rather than leadership status. Conclusion: Promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

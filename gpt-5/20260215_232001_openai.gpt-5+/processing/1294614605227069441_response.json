@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative tweet marking the end of WWII, asserting China made great contributions to victory against Japan, linking remembrance to avoiding future wars, and tagging #ChinaforUN75. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; no criticism of the West or US. CH2 (China is a benevolent power) – Partially present: the tweet associates China with peace, international order, and preventing wars, aligning with a benevolent, peace-supporting role. CH3 (China has an epic history) – Present: it highlights China's historical resilience and major contribution in resisting Japanese aggression during WWII, a formative hardship and achievement. CH4 (appropriate political system/values) – Not addressed; no mention of domestic political system or governance values. CH5 (CCP government succeeds) – Not addressed; no claims about governance performance or development. CH6 (culture/nature/heritage) – Not relevant. Final determination: CH2 and CH3.",
+    "narrative_ids": ["CH2", "CH3"]
+  }
+}

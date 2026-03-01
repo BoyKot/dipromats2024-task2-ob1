@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the U.S. must lead because no one else will, asserting that the Uyghur issue only gained international attention once the U.S. raised it. This frames the U.S. as the agenda-setting leader and a champion of human rights. Evaluation per narrative: US1 (honorable tradition): Implicitly references a legacy of U.S. leadership, but the tweet emphasizes present leadership and agenda-setting rather than historical tradition or feats; weak fit, not clearly promoted. US2 (admirable society): No mention of societal groups or civil society; not promoted. US3 (hostile enemies): China is referenced as responsible for Uyghur plight indirectly, but the tweet focuses on U.S. leadership rather than depicting enemies as a threat to the U.S.; not the core message. US4 (force for good): Strongly aligns—the U.S. is portrayed as standing up for oppressed Uyghur Muslims and elevating human rights issues internationally. US5 (great international ally): No mention of allies; not promoted. US6 (at the forefront): Strongly aligns—the U.S. is positioned as the indispensable leader that puts issues on the international agenda. Conclusion: The tweet promotes US4 and US6.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

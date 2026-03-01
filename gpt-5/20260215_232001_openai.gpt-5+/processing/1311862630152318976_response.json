@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Amb. Zhang saying China is a force for peace, justice, and progress, and that the Chinese people are sincere, cooperative, and trustworthy partners. Evaluation: CH1 (West immoral/hostile): Not present; no mention or contrast with the West. CH2 (China is a benevolent power): Yes; it emphasizes China's peaceful, just, and cooperative nature internationally and reliability as a partner, fitting the benevolent, peace- and justice-focused framing. CH3 (epic history): Not mentioned. CH4 (appropriate political system and honorable values, domestically focused): The tweet speaks to international role and character rather than endorsing China's political system or domestic values, so not applicable. CH5 (CCP government succeeds): No references to governance achievements or development outcomes. CH6 (culture/nature/heritage): Not relevant. Conclusion: Only CH2 is promoted.",
+    "narrative_ids": ["CH2"]
+  }
+}

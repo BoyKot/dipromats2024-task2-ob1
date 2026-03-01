@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Wang saying China, guided by the vision of a community with a shared future for mankind, cares about its own people's health and responsibly about global health. Evaluation by narrative: CH1 (West immoral/hostile): Not referenced; no criticism of the West. CH2 (China is a benevolent power): Yes. It emphasizes China's globally responsible attitude and the \"community with a shared future for mankind,\" a hallmark of this narrative, portraying China as caring for global health. CH3 (epic history): No historical content. CH4 (appropriate political system/values domestically): The values mentioned are framed internationally, not domestic governance; thus CH4 does not apply. CH5 (CCP government succeeds): No claims about domestic development or achievements. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

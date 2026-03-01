@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the anniversary of a Soviet/Russian nature TV show, praising its longevity, popularity across generations, and noting a famed biologist host. Evaluation: RU1 (West immoral/hostile) – Not addressed; no mention of the West or decadence. RU2 (Russia leads alternative system) – Not applicable; no discussion of international systems or multilateralism. RU3 (Russia benevolent partner) – Not applicable; no partnership or peace/development themes. RU4 (Russian history is admirable) – Yes; it highlights a longstanding cultural achievement from Soviet/Russian history as iconic and enduring, implying pride in historical contribution. RU5 (Russia at the world’s forefront) – Partially tempting due to “longest-running programme of its kind,” but the focus is historical/cultural, not current national prowess; primary fit is RU4. RU6 (Russia interesting in culture/nature/heritage) – Also applicable; it promotes a cultural product tied to nature and heritage, portraying Russian cultural life positively.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

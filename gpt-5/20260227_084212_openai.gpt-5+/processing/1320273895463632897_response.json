@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says the EU supports the UN and WHO in the global COVID-19 response and is working together toward a green and sustainable recovery, tagged #UNDay #UN75. Evaluation: EU1 (EU as a successful story) – not explicitly about historical success or overcoming past traumas; not supported. EU2 (EU is united) – no mention of intra-EU unity or agreements among member states; not supported. EU3 (EU useful for its citizens, internal focus) – the tweet concerns global cooperation, not internal EU benefits; not supported. EU4 (EU as avant-garde) – it mentions green and sustainable recovery, but frames it as joint work with UN/WHO rather than EU pioneering leadership; insufficient to claim avant-garde positioning; not supported. EU5 (EU as global champion of fair causes) – no explicit focus on human rights/democracy causes; not supported. EU6 (EU contributes to a better world) – clearly promotes EU’s role in global cooperation/multilateralism with UN/WHO on pandemic response and sustainable recovery; supported. Conclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

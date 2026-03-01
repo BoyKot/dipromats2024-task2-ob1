@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes UN Volunteers' 50th anniversary and highlights that in 2018 Russia’s foreign ministry and UNV agreed on full financing for Russian volunteers’ work at UN bodies. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads an alternative system): Not applicable; the tweet supports engagement within the UN, not an alternative order. RU3 (Russia is a benevolent partner): Applicable; it portrays Russia as constructively supporting UN activities by funding Russian volunteers, implying reliability and contribution to global good. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): No claim of superiority or leadership; just a cooperation fact. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

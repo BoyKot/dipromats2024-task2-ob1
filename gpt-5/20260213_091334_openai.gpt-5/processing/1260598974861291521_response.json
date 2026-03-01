@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the EU and USA of ignoring the harmful impact of their unilateral sanctions on ordinary people, portraying these actions as part of a cynical geopolitical game lacking solidarity and concern for human rights, linked to COVID-19. Evaluation by narrative: RU1 (The West is immoral, hostile, decadent): Yes. The tweet depicts Western actors as immoral and hostile—imposing sanctions that hurt civilians, ignoring human rights and solidarity—fitting the narrative’s framing of Western immorality and hostility. RU2 (Russia leads an alternative system): No. The tweet does not present Russia or any alternative order or cooperation mechanism. RU3 (Russia is a benevolent partner): No mention of Russia’s benevolence or partnership. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Not relevant. RU6 (Russia culture/nature): Not relevant. Conclusion: Only RU1 is promoted.",
+    "narrative_ids": ["RU1"]
+  }
+}

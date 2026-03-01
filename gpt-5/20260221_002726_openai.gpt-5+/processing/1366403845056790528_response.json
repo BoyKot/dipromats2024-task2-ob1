@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory post marking Women’s History Month in the U.S., highlighting women’s contributions to U.S. history and society, and inviting engagement. Evaluation by narrative: US1 (honorable tradition): Indirectly, it references an established tradition (an annual month-long celebration) and highlights historical contributions, which showcases U.S. values and historical recognition—fits moderately. US2 (admirable society): Clearly promotes an aspect of U.S. society by celebrating women’s contributions and civic commemoration, aligning with promoting societal groups and achievements—fits well. US3 (hostile enemies): Not mentioned. US4 (force for good): No reference to U.S. actions supporting global rights or oppressed peoples. US5 (great international ally): Not relevant. US6 (at the forefront): No leadership claim or domain leadership. Conclusion: The tweet promotes US2 and, to a lesser extent, US1.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that China cherishes national independence, reunification, prosperity, and security; emphasizes that peace is deeply rooted in Chinese culture; and claims China follows a path of peaceful development with a defensive defense policy. Evaluation by narrative: CH1 (West immoral/hostile): Not present—no mention or contrast with the West. CH2 (China is a benevolent power): Partially aligned internationally—asserts peaceful development and defensive posture, portraying China as non-threatening and peace-oriented; this fits China-as-benevolent framing. CH3 (Epic history/adversity): Not invoked—no historical struggle or past unfair treatment mentioned. CH4 (Appropriate political system and honorable values): Some overlap—emphasizes honorable values (“peace in Chinese culture”) and policy choices (defensive defense, peaceful development) that reflect domestic governance and values, framed as aligned with national aspirations; this supports CH4. CH5 (CCP government succeeds): No claims about achievements or governance performance. CH6 (Interesting culture/nature/heritage): Cultural mention is value-based, not tourism/heritage promotion; not applicable. Conclusion: The tweet promotes CH2 and CH4.",
+    "narrative_ids": ["CH2", "CH4"]
+  }
+}

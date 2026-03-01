@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that Russia remains a strong supporter of UNDP and its action-oriented work, citing the Russia-UNDP Trust Fund for development. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no reference to the West or hostility. RU2 (Russia leads an alternative system): Not supported; the tweet highlights cooperation within UN institutions, not an alternative to Western order. RU3 (Russia is a benevolent partner): Supported; it frames Russia as a reliable supporter of UNDP and development through a trust fund, emphasizing constructive, benevolent engagement. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the forefront): Not claimed; no boast of superiority or leadership metrics. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3 only.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts high Chinese public satisfaction and widespread BRI participation with Pompeo’s characterization of China as tyranny/predation, implying US accusations are false and unfair. Evaluation: CH1 (The West is immoral, hostile and decadent) – Supported: it portrays a prominent US figure (Pompeo) as hostile and misleading toward China, casting China as victim of unfounded Western attacks. CH2 (China is a benevolent power) – Supported: citing 138 countries and 30 international organizations signing BRI agreements implies China’s cooperative, mutually beneficial international engagement. CH3 – Not present: no historical resilience or past adversity theme. CH4 – Partially related but not central: mentions domestic satisfaction (93%) suggesting alignment with people, but the tweet doesn’t explicitly advocate the political system/values; it mainly rebuts Western criticism. So not strong enough. CH5 – Not clearly: while high satisfaction hints at governance success, the tweet does not focus on development achievements; the thrust is defensive against Pompeo. CH6 – Not relevant. Conclusion: CH1 and CH2 are promoted.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

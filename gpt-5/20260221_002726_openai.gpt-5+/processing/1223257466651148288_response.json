@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An informational update stating that, as of February 1, most flights between Russia and China are suspended, with exceptions for specific Aeroflot routes and four Chinese airlines to Moscow, citing Golikova.\nEvaluation against narratives:\n- RU1 (West immoral/hostile/decadent): The tweet does not mention the West or morality; no alignment.\n- RU2 (Russia leads an alternative system): No framing of multilateralism or alternative order; it’s a neutral operational update about flights; no alignment.\n- RU3 (Russia benevolent partner): No claims of partnership, peace, or solidarity; just logistics; no alignment.\n- RU4 (Russian history admirable): No historical content; no alignment.\n- RU5 (Russia at the world’s forefront): No boasting of achievements or leadership; no alignment.\n- RU6 (Russia culture/nature/heritage): Not about culture or tourism; no alignment.\nConclusion: The tweet is a neutral factual announcement and does not promote any listed narratives.",
+    "narrative_ids": []
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Chinese diplomat thanks a supporter and states that China and Europe often misunderstand each other; diplomats should find common interests, bridge understanding gaps, and promote peace and cooperation. He pledges to continue such efforts. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no criticism of the West. CH2 (China is a benevolent power): Yes. The tweet portrays China’s diplomatic role as promoting peace, cooperation, and mutual understanding internationally, aligning with a cooperative, benevolent stance. CH3 (epic history): Not mentioned. CH4 (appropriate political system and values domestically): Not addressed; focus is external relations, not domestic system/values. CH5 (CCP government succeeds): No claims of achievement or superiority. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

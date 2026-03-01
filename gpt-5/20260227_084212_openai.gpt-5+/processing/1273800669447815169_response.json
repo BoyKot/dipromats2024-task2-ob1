@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges US lawmakers to be restrained, claims Russia does not attack anyone or intend to, and tells Americans/Europeans to stop spreading 'horror stories' about a Russian threat, while quoting a US senator defending US troop presence in Germany. Evaluation: RU1 (The West immoral/hostile): The tweet accuses US/European actors of fearmongering and intimidating citizens with fabricated 'Russian threat' stories, portraying the West as hostile and deceptive toward Russia; this aligns with RU1. RU2 (Russia leads an alternative system): No mention of multipolar systems or alternative cooperation; not supported. RU3 (Russia is a benevolent partner): The claim that Russia does not attack anyone and calls for civilized dialogue frames Russia as peaceful/responsible; this supports RU3. RU4 (Russian history admirable): No historical content; not supported. RU5 (Russia at the world’s forefront): No current achievements highlighted; not supported. RU6 (Culture/nature): Not relevant. Conclusion: RU1 and RU3 are promoted.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

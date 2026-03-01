@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that WHO and most countries find no evidence for a lab-origin of the virus and warns that conspiracy theories hinder science and China–US cooperation. Evaluation by narrative: CH1 (West immoral/hostile): Not promoted; the tweet does not criticize the West or portray it as hostile/decadent. CH2 (China as a benevolent power): Partially aligned through emphasis on cooperation between Chinese and US scientists and deference to international bodies (WHO), suggesting a cooperative, multilateral stance; however, it does not explicitly praise China’s international benevolence. Still, the stress on cooperation and opposing obstruction fits the cooperative/multilateral framing. CH3 (epic history): Not relevant. CH4 (appropriate political system/values): Not addressed; no reference to China’s domestic political system or values. CH5 (CCP succeeds): Not addressed; no claims about government performance or leadership. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet most closely supports CH2 due to its emphasis on international cooperation and alignment with WHO consensus, portraying China in a cooperative light.",
+    "narrative_ids": ["CH2"]
+  }
+}

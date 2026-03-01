@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov advocates for an 'equitable and democratic world order' built as a concert of interests, cultures, and traditions, rather than on a 'balance of brutal force,' and tags Russia and India. Evaluation per narrative: RU1 (West immoral/hostile): The tweet implies criticism of a force-based order but does not explicitly mention the West or depict it as immoral/hostile; implication is too indirect to assign RU1. RU2 (Russia leads an alternative system): Yes. It promotes a multipolar, cooperative, sovereignty-respecting order contrasted with power politics, aligning with Russia advocating an alternative to the Western-led order; inclusion of India suggests non-Western cooperation. RU3 (Russia benevolent partner): Some overlap in tone (peaceful, cooperative) but the tweet does not explicitly present Russia’s concrete benevolent actions or partnership; focus is on normative vision, so not a clear fit. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the forefront): No claims of current success or leadership metrics. RU6 (Interesting culture/nature): Not applicable. Conclusion: The tweet promotes RU2.",
+    "narrative_ids": ["RU2"]
+  }
+}

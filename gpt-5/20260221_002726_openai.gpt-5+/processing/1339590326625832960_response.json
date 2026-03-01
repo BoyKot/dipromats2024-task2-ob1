@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Putin saying that abandoning New START threatens international security and that Russia is willing to cooperate, but the US refuses to negotiate. Evaluation by narrative: RU1 (West immoral/hostile): The tweet portrays the US as unwilling to negotiate, implicitly casting it as a hostile/obstructionist actor undermining security—this fits RU1. RU2 (Russia leads alternative system): Not about alternative systems or non-Western multilateralism; no. RU3 (Russia is a benevolent partner): It depicts Russia as open to cooperation and concerned about international security, aligning with benevolent/peace-promoting positioning—fits RU3. RU4 (Russian history admirable): Not applicable. RU5 (Russia at the world’s forefront): No claims of superiority or achievement. RU6 (Culture/nature): Not applicable. Conclusion: The tweet promotes RU1 and RU3.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

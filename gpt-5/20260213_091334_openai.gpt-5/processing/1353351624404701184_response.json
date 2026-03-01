@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes the Sputnik V vaccine, arguing for a diversified vaccine portfolio to mitigate risks and highlighting cooperation with the EU and AstraZeneca to expand global access.\nEvaluation:\n- RU1 (West immoral/hostile): Not present. No criticism of the West; tone is cooperative with the EU/AstraZeneca.\n- RU2 (Russia leads an alternative system): Partially related to multilateralism, but the tweet frames cooperation with Western actors rather than an alternative to them. Does not position an alternative system; thus not applicable.\n- RU3 (Russia is a benevolent partner): Yes. Emphasizes collaboration with EU/AstraZeneca and enabling worldwide access, portraying Russia/Sputnik V as cooperative and altruistic.\n- RU4 (Russian history admirable): Not relevant.\n- RU5 (Russia at the world’s forefront): Yes. Cites international approvals (12 nations) and ongoing cooperation, implying global acceptance and Russia’s competence/leadership in vaccine tech.\n- RU6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes RU3 and RU5.",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China announces its first participation as a state party in the Arms Trade Treaty (ATT) and notes its 2020 accession, framing this as opening a new chapter with the ATT.\nEvaluation by narrative:\n- CH1 (West immoral/hostile): No criticism of the West or depiction of hostility; not promoted.\n- CH2 (China is a benevolent power): Yes, implicitly. By highlighting accession to and participation in an international arms control treaty under the UN, the tweet emphasizes China's commitment to international law, multilateralism, and responsible behavior—hallmarks of this narrative.\n- CH3 (Epic history/adversities): No historical framing or references; not promoted.\n- CH4 (Appropriate political system/values domestically): Not addressed; the focus is international conduct, not domestic system or values.\n- CH5 (CCP government succeeds): No claims about domestic development, technology, or governance success; not promoted.\n- CH6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet aligns with CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

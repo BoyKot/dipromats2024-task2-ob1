@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet blames \"Fake News\" for praising other places (Europe) to make the U.S. look bad regarding COVID-19, claims those places now have a big spike, urges vigilance, and promises vaccines and cures are coming fast. Evaluation by narrative: US1 (honorable tradition) – Not referenced; no historical legacy or values highlighted. US2 (admirable society) – No mention of U.S. social groups, civil society, companies, or heroes. US3 (hostile enemies) – While it attacks \"Fake News,\" this is domestic media criticism, not positioning a foreign or moral adversary threatening the U.S.; does not fit the defined hostile enemies frame. US4 (force for good) – The claim that vaccines and cures are coming fast could imply U.S. action for public good, but the tweet does not explicitly frame America aiding others, human rights, or global support; insufficient alignment. US5 (great international ally) – No praise or support for allies. US6 (at the forefront) – The assertion that \"Vaccines and cures are coming fast\" suggests U.S. leadership/speed in delivering medical solutions, implying the U.S. is leading or ahead compared to others being used to make the U.S. look bad. This aligns with positioning the U.S. at the forefront of solutions. Conclusion: Only US6 is supported.",
+    "narrative_ids": ["US6"]
+  }
+}

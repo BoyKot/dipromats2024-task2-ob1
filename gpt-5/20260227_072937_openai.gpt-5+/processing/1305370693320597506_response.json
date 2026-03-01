@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the Forbidden City/Palace Museum's 600th anniversary exhibition, highlighting enduring Chinese culture, architecture, and philosophy, and calling it \"unique yet inclusive.\"\n- CH1 (West immoral/hostile): Not mentioned; no comparison or criticism of the West.\n- CH2 (China as benevolent power): Not applicable; no emphasis on international cooperation, justice, or multilateralism.\n- CH3 (China has an epic history): Partially relevant in spirit due to historical reference, but the tweet does not discuss adversity, resilience, or historical struggles; it’s celebratory and cultural, not epic/resilience-focused. So not a clear fit.\n- CH4 (appropriate political system/values): Not discussed; no reference to governance or political values.\n- CH5 (CCP government succeeds): Not discussed; no claims about governmental achievements or socioeconomic progress.\n- CH6 (China is interesting in culture/nature/heritage): Directly fits; it promotes Chinese culture and heritage through the Palace Museum and its exhibition.\nConclusion: The tweet primarily promotes CH6.",
+    "narrative_ids": ["CH6"]
+  }
+}

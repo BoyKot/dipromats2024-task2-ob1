@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says the Mediterranean is poorly integrated but the EU overcame division and conflict by choice, implying that collective choices can shape a better Euro-Mediterranean future. Evaluation: EU1 (EU is a successful story) — Supported, as it credits the EU with overcoming division and conflicts, highlighting success through deliberate choice. EU2 (EU is united) — Partially implied but not explicit about current unity or agreement; focus is on historical overcoming, so not strong enough. EU3 (useful for its citizens) — Not applicable; no mention of concrete benefits or policies within the EU. EU4 (avant-garde actor) — Not applicable; no pioneering regulation or leadership claims. EU5 (global champion of fair causes) — Not applicable; no rights/democracy framing. EU6 (contributes to a better world) — Supported, as it links the EU’s experience to shaping a better Euro-Mediterranean future beyond the EU, emphasizing cooperation and integration with neighbors.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

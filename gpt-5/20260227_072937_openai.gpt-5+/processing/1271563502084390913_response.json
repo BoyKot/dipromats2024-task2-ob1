@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates Spain’s accession to the European Communities 35 years ago, claiming this period brought the most prosperous and peaceful years, and asserting that unity in diversity makes Europe stronger.\nEU1 (EU is a successful story): Supported. It highlights historical success and prosperity/peace since accession, implying the EU project has delivered positive outcomes over time and that differences enrich the union.\nEU2 (EU is united): Partly implied. The phrase “Together we are stronger” and “our differences enrich us” suggests unity despite diversity. While it doesn’t cite specific agreements, it promotes the idea of EU cohesion.\nEU3 (EU useful for citizens): Not directly. No mention of specific policies or practical measures improving lives; benefits are framed broadly as prosperity and peace, more aligned with success narrative than concrete usefulness.\nEU4 (EU avant-garde): Not present. No mention of pioneering regulation or leadership on future challenges.\nEU5 (EU global champion of fair causes): Not present. No reference to democracy/human rights leadership.\nEU6 (EU contributes to a better world): Not present. The focus is internal (Spain/EU) rather than global contributions.\nConclusion: EU1 and EU2 are promoted.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

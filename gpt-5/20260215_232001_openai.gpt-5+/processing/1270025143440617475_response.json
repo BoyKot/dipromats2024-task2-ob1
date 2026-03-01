@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes China's MFA stating that the US’s unilateral withdrawal from the JCPOA and its maximum pressure campaign caused the Iranian nuclear crisis, and that upholding the JCPOA is the only right path forward. Evaluation: CH1 (The West is immoral, hostile and decadent) – Yes. The tweet blames the US for creating the crisis through unilateral and coercive actions, portraying the US negatively as reckless/hostile. CH2 (China is a benevolent power) – Partially implied but not explicit. While it echoes a multilateralist stance (‘upholding and implementing the JCPOA’), the tweet does not explicitly present China’s own benevolence or its constructive role; it mainly critiques the US. Therefore, not counted. CH3 – No historical epic/resilience content. CH4 – No advocacy of China’s political system/values domestically. CH5 – No claims about CCP governance success. CH6 – Not cultural/heritage. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

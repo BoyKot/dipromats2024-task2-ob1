@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates a historic NASA/SpaceX crewed launch to the ISS from U.S. soil for the first time since 2011, highlighting #LaunchAmerica. Evaluation: US1 (honorable tradition) – Yes: it frames the event as a historic milestone and part of U.S. space heritage (“first time since 2011,” “Watch history unfold”). US2 (admirable society) – No: no focus on people, diversity, civil society, or heroes. US3 (hostile enemies) – No: no adversaries mentioned. US4 (force for good) – No: does not discuss human rights, peace, or aid. US5 (great international ally) – No: no ally focus, though ISS is international, it isn’t emphasized. US6 (at the forefront) – Yes: implies U.S. leadership/technological resurgence in space by highlighting a major spaceflight capability return from U.S. soil. Conclusion: US1 and US6.",
+    "narrative_ids": ["US1", "US6"]
+  }
+}

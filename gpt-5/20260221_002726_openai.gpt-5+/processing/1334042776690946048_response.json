@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the 2000 UNESCO World Heritage inscription of the Kazan Kremlin and Ferapontov Monastery and invites people to visit Russia, highlighting cultural heritage and tourism. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or hostility. RU2 (Russia leads alternative system): Not present; no multilateral/system messaging. RU3 (Russia benevolent partner): Not present; no partnership or peace/development themes. RU4 (Russian history admirable): Implicit historical pride exists, but the tweet is focused on listing UNESCO sites and tourism rather than framing Russian history’s global significance or heroic contributions; insufficient to claim RU4. RU5 (Russia at the forefront): Not present; no claims of leadership or superiority. RU6 (Russia interesting in culture/nature/heritage): Yes; it promotes Russian cultural monuments and encourages travel to visit them. Conclusion: Only RU6 applies.",
+    "narrative_ids": ["RU6"]
+  }
+}

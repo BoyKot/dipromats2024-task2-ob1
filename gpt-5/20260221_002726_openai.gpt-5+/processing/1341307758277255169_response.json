@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights that Secretary Pompeo appointed a Special Coordinator for Tibetan Issues to promote human rights, fundamental freedoms, autonomy, and religious freedom in Tibet, and invites readers to learn how the U.S. supports these causes. Evaluation by narrative: US1 (honorable tradition): While it implicitly reflects U.S. values, it does not explicitly frame them as a legacy or long tradition; focus is on a current policy action, not historical tradition. Not promoted. US2 (admirable society): No emphasis on U.S. ethnic groups, civil society, companies, or military heroes. Not promoted. US3 (hostile enemies): No adversary is identified or framed as immoral or threatening. Not promoted. US4 (force for good): Yes. It showcases U.S. action to support human rights, autonomy, and religious freedom for an oppressed group (Tibet), positioning the U.S. as promoting rights and freedoms internationally. Promoted. US5 (great international ally): No mention of allies or support for specific partner countries. Not promoted. US6 (at the forefront): No claim of leadership in economy/technology/military/trade; only a policy action. Not promoted. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

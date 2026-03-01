@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The Russian MFA spokesperson states that Russia will continue to assist Venezuela in combating coronavirus and stabilizing the sanitary-epidemiological situation. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; the tweet does not mention or criticize the West. RU2 (Russia leads an alternative system) – Not explicit; while it implies cooperation with a non-Western partner, it does not frame this as an alternative system or multilateral order. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as providing aid to Venezuela to fight COVID-19 and stabilize health conditions, emphasizing reliability and solidarity. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Not claimed; no boast about superiority or achievements. RU6 (Russia interesting culturally/naturally) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

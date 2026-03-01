@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that after an initial stumble, the EU is now fully mobilized in handling COVID-19, emphasizing multilateralism and partnerships resonating globally. Evaluation per narrative: EU1 (successful story): Partially supported—acknowledges a shaky start but stresses learning and effective mobilization, implying overcoming obstacles; promotes a success trajectory. EU2 (united): Not explicit—no direct mention of intra-EU unity or solidarity among member states. EU3 (useful for its citizens): Implicit at best—the focus is on mobilization but without concrete measures benefiting citizens within the EU; insufficient to claim this narrative. EU4 (avant-garde actor): Not supported—no claim of pioneering regulation or leadership in future challenges. EU5 (global champion of fair causes): Not supported—no reference to human rights/democracy advocacy. EU6 (contributes to a better world): Supported—the tweet highlights commitment to multilateralism and partnership with global resonance during a global crisis, positioning the EU as contributing internationally. Conclusion: EU1 and EU6 are promoted.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

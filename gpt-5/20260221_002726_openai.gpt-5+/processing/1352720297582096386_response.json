@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises Russia’s Sputnik V COVID-19 vaccine as a pioneer in heterologous boosting and suggests the US is beginning to acknowledge this advantage. Evaluation by narrative: RU1 (West immoral/hostile): Not directly; while it references the US recognizing Sputnik V, it does not portray the West as immoral or hostile. RU2 (Russia leads an alternative system): Not about geopolitical systems or multilateralism; it’s vaccine science-focused. RU3 (Russia is a benevolent partner): No emphasis on partnership, peace, or solidarity. RU4 (Russian history admirable): Not historical. RU5 (Russia is at the world’s forefront): Yes; it claims Sputnik V pioneered a superior vaccination approach, positioning Russia at the forefront of scientific innovation and ahead of the US. RU6 (culture/nature): Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

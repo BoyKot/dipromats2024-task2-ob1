@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet endorses Sputnik V as a path to normal life and calls for the EU to procure it, signaling Russia as a non-Western alternative to Western vaccines (RU2). It also portrays Russia as a helpful partner by supplying a vaccine to EU interests (RU3). The emphasis on the vaccine's effectiveness hints at Russia's leadership in science/medical achievements (RU5).",
+    "narrative_ids": ["RU2", "RU3", "RU5"]
+  }
+}

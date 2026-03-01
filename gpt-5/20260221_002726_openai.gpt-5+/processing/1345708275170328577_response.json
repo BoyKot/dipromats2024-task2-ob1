@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that the Chinese Embassy in Sao Tome and Principe donated food parcels to families in need, framing it as friendship and solidarity in the fight against COVID-19. Evaluation: CH1 (West immoral/hostile) – Not present; the tweet does not mention or contrast the West. CH2 (China is a benevolent power) – Yes; it portrays China’s embassy providing humanitarian aid and solidarity internationally, aligning with benevolence and cooperative support. CH3 (epic history) – Not mentioned. CH4 (appropriate political system/values domestically) – Not addressed; focus is external aid, not domestic governance. CH5 (CCP government succeeds) – Not applicable; no claims about domestic achievements or leadership. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces the EU’s launch of #TeamEurope, mobilizing €20 billion to support partner countries against coronavirus, stressing collective action in the face of a looming humanitarian crisis. Evaluation: EU1 (EU successful story) – Implicitly positive but not about history or overcoming past traumas; focus is on a current initiative, so not clearly promoted. EU2 (EU united) – The #TeamEurope framing and \"We can only win this together\" imply unity and coordinated action, supporting the idea of EU solidarity; moderately supported. EU3 (EU useful for its citizens) – The action targets partner countries abroad, not internal EU citizens; not applicable. EU4 (EU avant-garde) – No claim of pioneering regulation/leadership beyond this funding initiative; not applicable. EU5 (EU global champion of fair causes) – The focus is humanitarian support, but not framed around rights/democracy; not directly promoted. EU6 (EU contributes to a better world) – Strongly supported: EU mobilizes significant funds to aid partner countries in a global crisis, highlighting multilateral cooperation and global well-being. Conclusion: The tweet promotes EU2 and EU6, primarily EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

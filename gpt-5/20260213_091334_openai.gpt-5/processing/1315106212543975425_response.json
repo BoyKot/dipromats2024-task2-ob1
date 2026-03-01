@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet warns that packing the U.S. Supreme Court would permanently destroy the Court, citing FDR’s failed attempt and claiming \"Radical Left Democrats\" are pushing Biden to do it, implying he cannot resist them. Evaluation by narrative: US1 (The US has an honorable tradition) — Partially aligns, as it invokes a historical precedent (FDR era) to defend an institutional norm, implying respect for longstanding traditions of the Court and restraint against court-packing; this showcases U.S. constitutional tradition. US2 (admirable society) — Not addressed. US3 (hostile enemies) — The tweet attacks domestic political opponents (“Radical Left Democrats”) but does not frame external immoral adversaries threatening the US; this narrative targets foreign or broader threats, so not applicable. US4 (force for good) — Not addressed. US5 (great international ally) — Not addressed. US6 (at the forefront) — Not addressed. Conclusion: Only US1 is promoted through appeal to U.S. historical tradition and institutional norms.",
+    "narrative_ids": ["US1"]
+  }
+}

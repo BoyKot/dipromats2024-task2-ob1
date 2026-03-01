@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that the EU is reallocating €140m and redirecting up to €700m to assist Eastern Partnership countries in mitigating the economic impact of the coronavirus pandemic, with letters sent to their prime ministers. Evaluation: EU1 (EU is a successful story) – Not explicitly about history or long-term success; no fit. EU2 (EU is united) – No explicit mention of intra-EU unity or agreements among member states; not supported. EU3 (EU useful for its citizens) – The action targets Eastern Partner countries outside the EU, so this narrative (focused on internal EU benefits) does not apply. EU4 (EU avant-garde political actor) – Not about pioneering regulation or leadership in future challenges; not applicable. EU5 (EU global champion of fair causes) – The tweet focuses on financial assistance for pandemic impact, not on democracy or human rights; not applicable. EU6 (EU contributes to a better world) – Yes. It showcases the EU providing substantial support to neighboring non-EU partners to mitigate a global crisis, highlighting cooperation and global well-being. Conclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

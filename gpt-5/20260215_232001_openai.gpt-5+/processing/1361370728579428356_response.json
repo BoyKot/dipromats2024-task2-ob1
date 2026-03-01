@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states the EU proudly supports UN Women, claims this support has made a real difference for women and girls, and urges not to backtrack on their rights during COVID-19. Evaluation: EU1 (successful story) – marginally implied by saying EU support made a real difference, but it doesn’t highlight EU’s historical success or overcoming internal obstacles; not a clear fit. EU2 (united) – no mention of EU unity or internal solidarity; not supported. EU3 (useful for its citizens) – focus is on women and girls broadly and partnership with UN Women, not specifically on policies within the EU for EU citizens; not supported. EU4 (avant-garde actor) – no pioneering regulation leadership claim; not supported. EU5 (global champion of fair causes) – the EU is portrayed as proudly supporting gender rights and UN Women, aligning with defending human and gender rights globally; supported. EU6 (contributes to a better world) – the EU’s partnership with a UN agency and making a “real difference” for women and girls globally, plus safeguarding rights during COVID-19, reflects contributing to development and well-being worldwide; supported. Conclusion: EU5 and EU6 apply.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

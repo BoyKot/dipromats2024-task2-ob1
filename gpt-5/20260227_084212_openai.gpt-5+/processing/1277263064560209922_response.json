@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges the U.S. and European partners to unite against the \"China challenge\" to protect free societies, prosperity, and the future—framing China as a threat and advocating transatlantic cooperation.\nEvaluation:\n- US1 (honorable tradition): Not applicable; no reference to U.S. historical tradition or legacy.\n- US2 (admirable society): Not applicable; no mention of societal groups or civil society achievements.\n- US3 (hostile enemies): Applicable; it labels China as a \"challenge\" threatening free societies and prosperity, depicting an adversary to liberal values.\n- US4 (force for good): Weak/indirect; while it invokes defending freedoms, the tweet focuses on countering China rather than showcasing U.S. support for human rights or aid. Not sufficiently supported.\n- US5 (great international ally): Applicable; it calls for working with European partners, emphasizing alliance and transatlantic cooperation.\n- US6 (at the forefront): Not applicable; no claim of U.S. leadership or superiority, only cooperation.\nConclusion: The tweet promotes US3 and US5.",
+    "narrative_ids": ["US3", "US5"]
+  }
+}

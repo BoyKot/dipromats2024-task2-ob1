@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian Consul General met with the Texas Secretary of State to discuss economic, trade, cultural, and humanitarian cooperation between Texas and regions of Russia, tagged with #regionalcooperation. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; the tweet is neutral/positive and does not criticize the West. RU2 (Russia leads an alternative system) – Not explicit; while it highlights cooperation, it does not frame it as an alternative to Western order or multipolar advocacy. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia engaging constructively in economic, cultural, and humanitarian cooperation, positioning Russia as a reliable, cooperative partner. RU4 (Russian history admirable) – Not referenced. RU5 (Russia at the forefront) – No claim of superiority or achievement. RU6 (Russia interesting culturally/naturally) – Not a cultural/nature promotion; only mentions cooperation. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

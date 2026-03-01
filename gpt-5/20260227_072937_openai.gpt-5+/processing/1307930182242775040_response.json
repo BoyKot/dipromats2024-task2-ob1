@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: On Peace Day, the tweet reflects on 75 years of working together for peace, notes Europe has become safer and more prosperous, and calls for a more united, stronger EU that can speak out and act swiftly to foster peace globally. Evaluation: EU1 (EU is a successful story): Supported—claims Europe has become safer and more prosperous over time, implying EU’s successful history. EU2 (EU is united): Partially—explicitly calls for a \"more united\" EU; this is an aspiration rather than asserting current unity, so it does not promote current unity. EU3 (EU useful for its citizens): Not applicable—focus is not on internal citizen benefits or policies. EU4 (EU avant-garde): Not applicable—no claim of pioneering regulation or leadership on future challenges. EU5 (EU global champion of fair causes): Indirect at best—mentions speaking out for peace but not specifically defending rights/democracy; insufficient. EU6 (EU contributes to a better world): Supported—advocates for an EU able to act swiftly to foster peace around the world, aligning with the EU’s global contribution to peace and multilateralism. Conclusion: EU1 and EU6 apply.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that the EU sanctioned four individuals for serious human rights violations in Russia, invoking the EU Global Human Rights Sanctions Regime and the hashtag #EU4HumanRights. Evaluation by narrative: EU1 (EU as a successful story): Not directly promoted; no historical reflection or success storyline. EU2 (EU is united): Not explicit; no mention of unity or collective decision-making. EU3 (EU useful for its citizens): Not applicable; action concerns external human rights, not internal citizen benefits. EU4 (EU avant-garde political actor): Some overlap could be argued via a pioneering sanctions regime, but the tweet does not frame it as leadership in regulation or future challenges; focus is on human rights action, so not clearly promoted. EU5 (EU as global champion of fair causes): Yes; the tweet highlights defending human rights globally through sanctions, aligning with leadership in human rights protection. EU6 (EU contributes to a better world): Implicitly possible, but the tweet does not emphasize development, peace, or multilateral cooperation broadly; it is a targeted sanctions action. Final determination: EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

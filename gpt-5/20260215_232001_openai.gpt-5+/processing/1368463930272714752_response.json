@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU Office to Hong Kong and Macao highlights '1 image, 10 years of #eudiplomacy' and invites readers to check the story, tagged #EEAS10. This is a celebratory, commemorative note about a decade of EU diplomatic activity. EU1: By marking 10 years and showcasing a story behind EU diplomacy, it implicitly frames the EU as a successful story with sustained engagement; this fits a positive retrospective narrative. EU2: No mention of unity, agreements, or solidarity among member states—not supported. EU3: No reference to benefits to EU citizens or internal policies—not supported. EU4: No claim of pioneering regulation or leadership on future challenges—not supported. EU5: No explicit promotion of human rights/democracy leadership—insufficient evidence. EU6: Reference to EU diplomacy “to the world” and the external office in Hong Kong/Macao suggests the EU’s global engagement and contribution; commemorating EEAS activity abroad aligns with portraying the EU as contributing to a better world via diplomacy. Conclusion: EU1 and EU6 are applicable.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

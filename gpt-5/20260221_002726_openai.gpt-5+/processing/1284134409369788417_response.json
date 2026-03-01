@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that the EU and its Member States are determined to show political leadership and make all efforts to end sexual violence in conflict, referencing an EU ambassador’s statement at a UN Security Council debate. Evaluation: EU1 (successful story) – Not directly; no historical reflection or success narrative. EU2 (united) – Partially implied by mentioning \"the EU and its Member States\" acting together, indicating unity; this aligns with portraying current cohesion. EU3 (useful for its citizens) – No; focus is not on policies within the EU for EU citizens. EU4 (avant-garde political actor) – Some alignment via \"political leadership\" on a global normative issue, but the emphasis is more on leadership/championing than pioneering regulation; weaker fit. EU5 (global champion of fair causes) – Yes; combating sexual violence in conflict and speaking at the UNSC positions the EU as defending human rights and gender rights globally. EU6 (contributes to a better world) – Yes; committing efforts to end conflict-related sexual violence and engaging in multilateral fora (UNSC) reflects contributing to peace and global well-being. Conclusion: Strongly EU5 and EU6; EU2 also supported; EU4 is not clearly substantiated.",
+    "narrative_ids": ["EU2", "EU5", "EU6"]
+  }
+}

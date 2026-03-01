@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises strong U.S. actions against China over Hong Kong and asserts the U.S. stands with the people of Hong Kong. Evaluation by narrative: US1 (honorable tradition): While it implies doing \"what is right,\" it does not explicitly reference U.S. traditions or legacy; not clearly promoted. US2 (admirable society): No mention of U.S. society, groups, or companies; not promoted. US3 (hostile enemies): The tweet criticizes China and indicates the U.S. will not give China a pass, implicitly casting China as an adversary; this aligns with highlighting an immoral or threatening adversary; promoted. US4 (force for good): Emphasizes U.S. support for the people of Hong Kong and human rights by taking strong actions; this directly aligns with the U.S. standing with oppressed peoples; promoted. US5 (great international ally): No reference to allies or allied support; not promoted. US6 (at the forefront): No claim of leadership or superiority in domains like economy/tech/military; not promoted. Conclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

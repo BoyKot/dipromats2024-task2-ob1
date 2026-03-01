@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet defends an Agreement with China as serving 'our interests' and 'core values,' claiming it provides leverage against forced labour and advances cooperation on climate (Paris Agreement) and rule-based multilateralism. Evaluation: EU1 (successful story) – not invoked; no historical success narrative. EU2 (unity) – no mention of intra-EU unity or agreement among member states. EU3 (useful for citizens within EU) – the benefits cited are external (engagement with China, multilateralism), not domestic policy impact; thus not EU3. EU4 (avant-garde actor) – partial overlap via climate leadership could be inferred, but the tweet frames climate as engagement under Paris rather than positioning the EU as pioneer; evidence is insufficient. EU5 (global champion of fair causes) – yes: it highlights leveraging the Agreement to eradicate forced labour, a human rights cause, and promoting rule-based multilateralism aligns with defending norms and rights globally. EU6 (contributes to a better world) – yes: engaging China to protect climate under Paris and promote multilateralism directly reflects EU’s role in global cooperation for peace, safety, and well-being. Conclusion: EU5 and EU6 are promoted.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

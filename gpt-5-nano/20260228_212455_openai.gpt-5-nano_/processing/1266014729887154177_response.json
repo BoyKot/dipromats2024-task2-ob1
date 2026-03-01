@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet foregrounds Russia's benevolent role in Africa and cites historical support for African independence as a positive, redeeming example of Russia's history. This aligns with RU3 (Russia is a benevolent partner) and RU4 (Russian history is admirable). It does not clearly promote Western immorality (RU1), a current leadership claim (RU5), or culture-focused content (RU6). It also does not explicitly advocate a new Western-alternative system (RU2), though it hints at non-Western cooperation; the safe matches are RU3 and RU4.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

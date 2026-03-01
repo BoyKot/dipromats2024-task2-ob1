@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet explicitly promotes Russia as a very important and strategic partner to UNODC and a global player, framing Russia as a leading and benevolent actor in international affairs. This aligns with RU3 (benevolent partner) and RU5 (world’s forefront). It does not express anti-West sentiment or propose an alternative system, so RU1 and RU2 do not apply; nor does it focus on culture/history, so RU4 and RU6 do not apply.",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

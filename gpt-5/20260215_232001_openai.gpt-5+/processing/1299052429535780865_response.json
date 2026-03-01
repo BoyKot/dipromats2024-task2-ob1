@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Nanjing's traditional gold foil craft, emphasizing its 2,500-year history, artisanal process, quality attributes, and exports. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no mention or contrast with the West. CH2 (China benevolent power): Not applicable; while exports are mentioned, there's no framing of international cooperation, justice, or shared destiny. CH3 (China has an epic history): Partially relevant due to the long historical continuity (2,500 years), but the tweet does not discuss adversity or historical resilience; still, it showcases deep historical heritage. CH4 (appropriate political system/values): Not addressed. CH5 (CCP government succeeds): Not addressed; no governance or developmental achievement claims. CH6 (interesting culture, nature, heritage): Clearly promoted; it showcases traditional craft, cultural heritage, and its qualities. Conclusion: The tweet promotes CH6 and, to a lesser extent but still fitting the definition, CH3.",
+    "narrative_ids": ["CH3", "CH6"]
+  }
+}

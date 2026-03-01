@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Terrorism (and COVID-19) are the real enemies; Pakistan’s counterterrorism sacrifices should be respected; the US should not view China and Pakistan as enemies. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): The tweet implicitly criticizes the US for misperceiving China and Pakistan as enemies, suggesting a hostile stance by the US. This aligns with portraying the US negatively, so CH1 is supported. CH2 (China is a benevolent power): By urging the US not to treat China as an enemy and framing the real common enemies as terrorism and COVID-19, the tweet promotes a cooperative, security-oriented, common-good framing consistent with China’s benevolent, multilateral stance; thus CH2 is supported. CH3: No historical resilience or past adversity discussed—Not supported. CH4: No defense of China’s political system or domestic values—Not supported. CH5: No claims about CCP governance success—Not supported. CH6: Cultural/heritage content—Not applicable. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

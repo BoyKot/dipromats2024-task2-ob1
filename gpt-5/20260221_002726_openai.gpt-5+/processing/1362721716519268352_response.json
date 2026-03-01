@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises EU support to neighboring Moldova during the pandemic, highlighting solidarity and deliveries of protective equipment from Romania, Czechia, Austria, and Poland. Evaluation per narrative: EU1 (EU is a successful story) – Implicitly positive, but the tweet focuses on current solidarity rather than historical success or learning from past; not a clear fit. EU2 (EU is united) – Yes: it emphasizes solidarity among EU member states (Romania, Czechia, Austria, Poland) acting together, showcasing unity in helping a neighbor. EU3 (EU is useful for its citizens) – No: the help is directed to Moldova (outside the EU), not EU citizens. EU4 (avant-garde actor) – No mention of pioneering regulation or leadership in future challenges. EU5 (global champion of fair causes) – Not about democracy/human rights advocacy; it's humanitarian aid, not rights-focused. EU6 (EU contributes to a better world) – Yes: it depicts the EU assisting a neighboring non-EU country during a global health crisis, highlighting cooperation and well-being beyond its borders. Conclusion: The tweet promotes EU2 and EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

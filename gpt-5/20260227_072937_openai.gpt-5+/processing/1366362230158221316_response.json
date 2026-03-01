@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns a US airstrike in Syria, demands respect for Syria’s sovereignty and territorial integrity, and rejects using Syrian territory for geopolitical score-settling. Evaluation by narrative: RU1 (West immoral/hostile): Yes. The tweet portrays the US (a Western actor) as violating sovereignty and acting aggressively/immorally, fitting the depiction of the West as hostile. RU2 (Russia leads an alternative system): Partially implied by emphasis on sovereignty, but the tweet does not present Russia’s alternative system or multilateral leadership; no. RU3 (Russia is a benevolent partner): It criticizes the US and calls for respect of sovereignty, but does not present Russia as providing assistance or partnership; no. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the forefront): Not relevant. RU6 (Russia culture/nature): Not relevant. Conclusion: Only RU1 is promoted.",
+    "narrative_ids": ["RU1"]
+  }
+}

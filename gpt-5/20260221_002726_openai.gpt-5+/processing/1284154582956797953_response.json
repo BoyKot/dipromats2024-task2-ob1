@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mocks Pompeo’s claim of U.S. moral superiority and highlights U.S. racial injustice by referencing George Floyd, implying U.S. hypocrisy about freedom. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) — Supported: the tweet portrays the U.S. as morally hypocritical and failing to secure basic freedoms, directly challenging its moral standing and implying immorality/decadence. CH2 (China is a benevolent power) — Not supported: no positive claims about China’s international behavior. CH3 (China has an epic history) — Not supported: no historical content. CH4 (China has an appropriate political system and honorable values) — Not supported: no defense of China’s domestic system or values. CH5 (The government of the CCP succeeds) — Not supported: no mention of CCP successes. CH6 (China culture/nature/heritage) — Not supported: no cultural content. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses gratitude to medical workers during COVID-19 and highlights the Cosmos Hotel in Moscow displaying a large 'Thank You to Doctors' message, emphasizing unity (#WeStandTogether). Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or hostility. RU2 (Russia leads alternative system): Not addressed; no multilateral or alternative-order framing. RU3 (Russia is a benevolent partner): Partially aligned—the tweet portrays Russia/Russians as compassionate and supportive during a global crisis, signaling solidarity and positive civic spirit, which fits the benevolent image. RU4 (Russian history admirable): Not about history. RU5 (Russia at the world’s forefront): Not claiming leadership or superiority; merely a tribute. RU6 (Russia interesting in culture/heritage): Marginally cultural, but the focus is not on culture/nature/heritage; it’s on a pandemic tribute. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

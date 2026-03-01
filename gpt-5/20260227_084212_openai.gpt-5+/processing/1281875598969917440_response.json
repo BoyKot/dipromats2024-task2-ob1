@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that medical supplies donated by Peng Liyuan, wife of President Xi, were handed over to Namibia’s First Lady to help women and children in Africa combat COVID-19. Evaluation by narrative: CH1 (West immoral/hostile): Not referenced; no comparison or criticism of the West. CH2 (China is a benevolent power): Yes—portrays China providing humanitarian aid to Africa, emphasizing support and assistance against COVID-19, aligning with benevolence and international cooperation. CH3 (epic history): Not mentioned. CH4 (appropriate political system/values): No explicit advocacy of China’s political system or domestic values; focus is external aid. CH5 (CCP government succeeds): No claims about domestic development, technological or governance achievements. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

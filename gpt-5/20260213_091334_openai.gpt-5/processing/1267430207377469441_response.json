@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet lists multiple international agreements and organizations the US has left, concluding that the latest withdrawal from WHO shows US unilateralism and power politics. Evaluation: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet portrays the US (the West) as a habitual quitter engaged in unilateralism and power politics, depicting it as hostile/irresponsible. CH2 (China is a benevolent power) — No. The tweet does not mention China’s cooperative behavior or multilateralism positively. CH3 (China has an epic history) — No. No historical narrative about China. CH4 (China has an appropriate political system and honorable values) — No. No reference to China’s domestic system or values. CH5 (The government of the CCP succeeds) — No. No claims about CCP governance or achievements. CH6 (China is interesting culturally/naturally) — No. Not relevant. Conclusion: Only CH1 applies.",
+    "narrative_ids": ["CH1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the Srebrenica genocide as shared European history and states the EU stands with Bosnia and Herzegovina and the Western Balkans, committing to building a future where conflicts and atrocities are unthinkable. Evaluation: EU1 (EU is a successful story) – Partially aligned: it references acknowledging past tragedies and learning to prevent future atrocities, which fits the description of recognizing historical mistakes and committing to a better future. EU2 (EU is united) – Not explicit: no mention of intra-EU unity or consensus. EU3 (EU useful for its citizens) – Not applicable; focus is external to EU citizens. EU4 (avant-garde political actor) – Not addressed; no pioneering policies cited. EU5 (EU as global champion of fair causes) – Aligned: standing with victims of genocide and commitment to prevent atrocities reflects defense of human rights. EU6 (EU contributes to a better world) – Aligned: commitment to peace, cooperation, and partnership with neighboring Western Balkans indicates contributing to global peace and regional stability. Conclusion: The tweet promotes EU1 (learning from history), EU5 (human rights/standing with victims), and EU6 (peace and cooperation with neighbors).",
+    "narrative_ids": ["EU1", "EU5", "EU6"]
+  }
+}

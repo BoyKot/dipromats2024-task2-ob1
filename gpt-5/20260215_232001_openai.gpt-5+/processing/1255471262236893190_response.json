@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that Russian entities delivered nuclear fuel to Iran’s Bushehr nuclear power plant, necessary for continued reactor operation, and states Russia values cooperation with Iran in nuclear energy. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no mention or contrast with the West. RU2 (Russia leads an alternative system) – Partially relevant in spirit of non-Western cooperation, but the tweet does not frame it as an alternative system or multilateral order; it’s a bilateral cooperation update without systemic contrast. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as reliably supplying essential fuel, emphasizing importance of cooperative development in nuclear energy, fitting the benevolent, reliable partner framing. RU4 (Russian history admirable) – Not applicable. RU5 (Russia at the world’s forefront) – Not explicit; no claim of superiority or leadership, just a delivery. RU6 (Russia culture/nature) – Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

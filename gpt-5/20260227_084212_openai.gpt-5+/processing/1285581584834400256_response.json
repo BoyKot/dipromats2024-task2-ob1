@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes that US Secretary of State Mike Pompeo and UK Foreign Secretary Dominic Raab are united in supporting Hong Kong, highlighting US-UK alignment on a human-rights-related issue. Evaluation by narrative: US1 (honorable tradition) – Not explicitly referenced; no mention of US legacy or historical feats. US2 (admirable society) – Not applicable; no focus on US society, groups, or heroes. US3 (hostile enemies) – No adversary is named or characterized as hostile. US4 (force for good) – Yes, implied: support for Hong Kong (commonly associated with defending rights and freedoms) frames the US as supporting human rights. US5 (great international ally) – Yes, the tweet emphasizes unity between the US and the UK, showcasing strong allied cooperation. US6 (at the forefront) – Not claimed; no leadership or superiority asserted. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes regular EU leaders’ meetings on COVID-19 and notes the speaker will present work on testing and securing vaccines. Evaluation:\n- EU1 (EU as a successful story): Not explicitly about historic success or overcoming past traumas; focuses on current actions. Not promoted.\n- EU2 (EU is united): Implicitly suggests coordination and regular meetings among EU leaders, indicating unity and joint action against COVID-19. This aligns with portraying the EU as acting together. Promoted.\n- EU3 (EU is useful for its citizens): Highlights practical, proactive EU action on testing and vaccines—core citizen concerns during the pandemic—showing the EU addressing needs in a timely, coordinated way. Promoted.\n- EU4 (EU as avant-garde): No claim of pioneering leadership beyond standard crisis management; not promoted.\n- EU5 (global champion of fair causes): No reference to human rights/democracy causes; not promoted.\n- EU6 (EU contributes to a better world): Focus is internal (COVID-19 within EU), not global outreach; not promoted.\nConclusion: The tweet promotes EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

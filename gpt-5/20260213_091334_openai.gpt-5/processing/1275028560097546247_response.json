@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises Chinese acrobatic students and highlights #AmazingChina, calling China and its people beautiful, while quoting Xinhua about acrobatic talents. Evaluation per narrative: CH1 (West immoral/hostile): Not addressed; no mention of the West or comparison. CH2 (China as benevolent power): Not addressed; no discussion of international cooperation, law, or multilateralism. CH3 (Epic history): Not referenced; no historical framing or adversity/resilience themes. CH4 (Appropriate political system/values): Not discussed; no reference to governance, socialism, democracy, or domestic political values. CH5 (CCP government succeeds): Not explicit; while it showcases talented students, it does not credit government policies or national achievements in technology/economy/social governance. CH6 (China’s culture/nature/heritage): Yes; it promotes cultural performance arts (acrobatics) and expresses admiration for China and its people, fitting cultural interest promotion. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

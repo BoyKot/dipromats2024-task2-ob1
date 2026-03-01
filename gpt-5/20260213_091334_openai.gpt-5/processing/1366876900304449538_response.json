@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes EU Council sanctions over Russia’s attempted assassination of Navalny and human rights abuses, emphasizing a clear and unified US–EU response and consequences for such actions.\nEvaluation:\n- US1 (honorable tradition): Not promoted; no reference to US historical values or legacy.\n- US2 (admirable society): Not promoted; no mention of US society, groups, companies, or heroes.\n- US3 (hostile enemies): Indirectly characterizes Russia’s actions as immoral (chemical weapon use, human rights abuses). However, the frame is about sanctions and accountability rather than portraying a general threat to the US. It targets Russia’s conduct in a specific case; cautious judgment leans to not tagging this as promoting US3.\n- US4 (force for good): Yes. The tweet highlights coordinated US–EU action defending human rights and imposing consequences for abuses, positioning the US as supporting human rights and accountability.\n- US5 (great international ally): Yes. It stresses a “clear and unified” US–EU message and welcomes EU action, underscoring US solidarity and support for an ally.\n- US6 (at the forefront): Not promoted; no leadership/primacy claims about the US.\nConclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

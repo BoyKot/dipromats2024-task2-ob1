@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Sec. Pompeo assuring Southeast Asian allies that the U.S. stands with them to defend freedom of the seas and respect for sovereignty in the South China Sea, using the hashtag #FriendsPartnersAllies. Evaluation: US1 (honorable tradition) – implied values like freedom of the seas align with U.S. traditional principles, but the tweet focuses on a current pledge rather than heritage or historical legacy; not strongly supported. US2 (admirable society) – no reference to U.S. society or groups; not applicable. US3 (hostile enemies) – no explicit adversary is named or characterized as immoral; not applicable. US4 (force for good) – supports freedom and sovereignty, portraying the U.S. as defending rights and rules at sea; applicable. US5 (great international ally) – explicitly assures allies and uses allies-focused language, signaling unwavering support; clearly applicable. US6 (at the forefront) – no claim of leadership or superiority in domains; not applicable. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

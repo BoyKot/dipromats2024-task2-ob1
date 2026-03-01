@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia, as a full member of the UN Human Rights Council, will actively promote constructive interstate cooperation on human rights in line with the UN Charter. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; no mention or criticism of the West. RU2 (Russia leads an alternative system) – Partially relevant in spirit of multilateralism, but the tweet frames action within UN structures rather than an alternative to the West; not a clear fit. RU3 (Russia is a benevolent partner) – Yes; it portrays Russia as constructively working on human rights cooperation in accordance with UN principles, highlighting benevolence and reliability. RU4 (Russian history admirable) – Not addressed. RU5 (Russia at the world’s forefront) – Implicit pride in HRC membership, but no claim of superiority or leadership; not sufficiently supported. RU6 (culture/nature) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

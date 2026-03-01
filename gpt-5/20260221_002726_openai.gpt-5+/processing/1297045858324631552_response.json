@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov claims Latvia and Estonia discriminate against Russian-speaking populations, labeling statelessness there as shameful and a deprivation of basic democratic rights. Evaluation by narrative: RU1 (West and their allies are immoral, hostile and decadent) — Yes. The tweet portrays Western-aligned states (Latvia, Estonia) as discriminatory and violating rights of Russian-speakers, casting Russians as victims of immoral treatment; this mirrors the RU1 description and even matches its example. RU2 (Russia leads an alternative system) — No, there is no promotion of a multilateral alternative or non-Western cooperation. RU3 (Russia is a benevolent partner) — No, it does not present Russia as promoting peace or cooperation. RU4 (Russian history is admirable) — No historical content. RU5 (Russia at the world’s forefront) — No achievements highlighted. RU6 (Russia’s culture/nature) — Not relevant. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

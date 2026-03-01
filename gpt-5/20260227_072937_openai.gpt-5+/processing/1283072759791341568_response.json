@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An EU representative discusses EU–Georgia relations, praises Georgia’s COVID-19 crisis management, notes EU support for Georgia’s post-COVID economic recovery, and looks forward to shaping the Eastern Partnership’s future. Evaluation: EU1 (EU is a successful story): Not explicitly about EU’s historical success or learning from past mistakes; focus is on partnership with Georgia—reject. EU2 (EU is united): No mention of intra-EU unity or solidarity among member states—reject. EU3 (EU useful for its citizens): This narrative concerns benefits within the EU; the tweet concerns support to Georgia (a neighbor), not intra-EU citizens—reject. EU4 (EU avant-garde): No pioneering policies or leadership on future challenges mentioned—reject. EU5 (EU global champion of fair causes): No explicit reference to democracy/human rights advocacy—reject. EU6 (EU contributes to a better world): Yes—tweet highlights EU support for a neighboring partner’s economic recovery and engagement in shaping the Eastern Partnership, illustrating EU’s role in cooperation and regional well-being.",
+    "narrative_ids": ["EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights historical WWII-era materials from 1945, praising the Red Army/Navy, Allied cooperation (US/UK/France), and the Yalta Conference, tagged with #TruthAboutWWII and #Victory75. Evaluation per narrative: RU1 (West immoral/hostile): Not promoted; the tweet portrays the US/UK/France as comrades-in-arms, not hostile. RU2 (Russia leads an alternative system): Not applicable; no mention of alternative systems or multipolarity. RU3 (Russia is a benevolent partner): Partially implied through emphasis on Allied camaraderie, but the focus is historical commemoration rather than Russia’s benevolence as a partner, so evidence is insufficient. RU4 (Russian history is admirable): Yes; it celebrates the Red Army/Navy and Soviet WWII role, framing Russian/Soviet history as worthy and central to victory. RU5 (Russia at the forefront): Not applicable; no current achievements. RU6 (Russia’s culture/nature/heritage): Not applicable; the focus is wartime history, not cultural/natural attractions. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

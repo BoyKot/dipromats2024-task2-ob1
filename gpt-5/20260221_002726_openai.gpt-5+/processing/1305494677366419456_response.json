@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet emphasizes China-EU cooperation in the post-pandemic era, portraying cooperation as the mainstream of their relations and prioritizing economic and trade interests, with China framed as a constructive partner in building mechanisms, rules, and technological innovation. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – Not present; the tweet does not criticize the West or depict hostility/decadence. CH2 (China is a benevolent power) – Yes; it presents China as a cooperative, peace-promoting, rules- and innovation-building partner focused on mutual economic interests and tackling global challenges, aligning with China’s benevolent, multilateral image. CH3 (Epic history) – Not referenced. CH4 (Appropriate political system and honorable values) – Not discussed; no domestic political system advocacy. CH5 (CCP government succeeds) – Not directly; no explicit claims about domestic governance success or technological leadership within China. CH6 (Culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

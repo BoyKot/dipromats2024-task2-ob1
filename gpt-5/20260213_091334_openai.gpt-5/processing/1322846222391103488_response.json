@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights U.S. election debates as an important democratic feature and invites readers to learn about the history of U.S. presidential debates. Evaluation by narrative: US1 (The US has an honorable tradition): Supported. The tweet emphasizes the long-standing tradition and historical significance of presidential debates, portraying them as a valued democratic practice. US2 (admirable society): Not addressed; no mention of societal groups or civil society achievements. US3 (hostile enemies): Not present. US4 (force for good): Not present; focuses on domestic electoral tradition, not global support for rights. US5 (great international ally): Not present. US6 (at the forefront): Not claimed; no leadership framing in economy/tech/military. Conclusion: The tweet promotes US1.",
+    "narrative_ids": ["US1"]
+  }
+}

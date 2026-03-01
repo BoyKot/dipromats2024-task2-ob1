@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights U.S. donations of PPE to Bangladesh’s COVID-19 response and cites substantial U.S. financial assistance over time, framing the U.S. as a supportive partner. Evaluation per narrative: US1 (honorable tradition) – Not explicitly about historical values or legacy; no direct appeal to tradition, so not promoted. US2 (admirable society) – No focus on U.S. society, ethnic groups, civil society, or heroes; not promoted. US3 (hostile enemies) – No adversary is mentioned; not promoted. US4 (force for good) – Yes: providing health aid during a pandemic and long-term health assistance portrays the U.S. supporting global well-being and development. US5 (great international ally) – Yes: emphasizes partnership with Bangladesh and sustained support, positioning the U.S. as a reliable ally. US6 (at the forefront) – No claim of leadership or superiority; not promoted. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

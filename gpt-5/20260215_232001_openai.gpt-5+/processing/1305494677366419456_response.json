@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes China-EU cooperation in the post-pandemic era, emphasizing peaceful development, rule/mechanism building, and shared economic/trade interests as main drivers of the relationship. It quotes Xinhua stating cooperation is the mainstream of China-EU relations. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no criticism of the West or depiction of hostility. CH2 (China is a benevolent power): Yes. The tweet frames China as a cooperative, peace-oriented actor advocating multilateral cooperation, rules, and mutual economic benefit with the EU to tackle global challenges—hallmarks of the benevolent, cooperative, mutually beneficial role described. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Not discussed; focus is international cooperation, not China’s domestic system or values. CH5 (CCP government succeeds): No claim about domestic governance success or leadership in tech/social spheres. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

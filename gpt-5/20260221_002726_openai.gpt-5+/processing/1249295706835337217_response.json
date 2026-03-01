@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet shares a historical anecdote about Yuri Gagarin’s post-flight world tour and a holiday in Crimea, presented as a historical photo note. Evaluation: RU1 (West immoral/hostile): Not applicable; no mention or insinuation about the West. RU2 (Russia leads an alternative system): Not applicable; no reference to geopolitical systems or multipolarity. RU3 (Russia benevolent partner): Not applicable; no mention of cooperation, peace, or assistance. RU4 (Russian history is admirable): Applicable; it highlights a celebrated Soviet/Russian historical achievement (Gagarin as first human in space) and presents it positively, reinforcing pride in Russian historical contributions. RU5 (Russia at the world’s forefront): Partially relevant contextually due to space first, but the tweet focuses on his tour and vacation rather than asserting current Russian leadership or capabilities; thus not counted. RU6 (Russia interesting in culture/nature/heritage): The mention of a holiday in Crimea could suggest a travel vibe, but the tweet is framed as a historical note, not promoting culture/tourism broadly; insufficient to classify under RU6. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

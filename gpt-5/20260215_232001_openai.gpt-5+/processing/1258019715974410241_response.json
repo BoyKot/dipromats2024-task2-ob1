@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates the launch of US-UK FTA negotiations, framing it as a tremendous first step that will bring jobs and prosperity to both countries. Evaluation of narratives: US1 (honorable tradition) – Not referenced; no mention of legacy, values, or historical feats. US2 (admirable society) – Not applicable; no reference to social groups, civil society, companies, or heroes. US3 (hostile enemies) – No adversaries mentioned. US4 (force for good) – Not about human rights or supporting oppressed peoples; it's an economic cooperation claim. US5 (great international ally) – Yes, it emphasizes close cooperation with the UK, praising both as “great countries” and highlighting US support for/partnership with an ally through FTA negotiations. US6 (at the forefront) – Not explicitly claiming leadership or superiority; it's a bilateral step, not a claim of US leading globally. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet emphasizes international cooperation with Russia on India’s space program, portraying Russia as a supportive partner (RU3) and highlighting Russia's leading role in space/technology by hosting foreign astronauts (RU5). It does not invoke West-centric antagonism (RU1), does not advocate a non-Western alternative order (RU2), and does not emphasize culture/history beyond a brief historical memory (RU4) or culture (RU6).",
+    "narrative_ids": ["RU3", "RU5"]
+  }
+}

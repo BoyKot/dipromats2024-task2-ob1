@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims American diplomats in China face obstacles and announces reciprocal U.S. requirements on senior PRC diplomats in the U.S., asserting a commitment to fair treatment of U.S. diplomats abroad. Evaluation by narrative: US1 (honorable tradition) – Implicitly appeals to fairness and reciprocity but does not invoke U.S. tradition or historical feats; not promoted. US2 (admirable society) – No reference to society, diversity, companies, or military heroes; not promoted. US3 (hostile enemies) – It portrays the PRC as imposing barriers against U.S. diplomats, casting China as acting unfairly/hostile to U.S. values and interests; promoted. US4 (force for good) – While it mentions advocating for fair treatment, it’s focused on diplomatic reciprocity rather than broader human rights/support for oppressed peoples; weak fit; not promoted. US5 (great international ally) – No mention of allies; not promoted. US6 (at the forefront) – No leadership/primacy claim; not promoted. Conclusion: Only US3 fits.",
+    "narrative_ids": ["US3"]
+  }
+}

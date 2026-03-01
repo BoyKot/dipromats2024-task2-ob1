@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces the EU-Western Balkans Zagreb Summit (via video call) where leaders will discuss joint crisis response, the EU perspective for the region, and commitment to EU values and reforms. Evaluation: EU1 (EU successful story) – not explicitly. It does not reference history or past achievements. EU2 (EU united) – implied cooperation among leaders and tackling the crisis together suggests unity and solidarity; the summit format and agenda indicate collective action. EU3 (EU useful for its citizens) – focus is on Western Balkans (accession perspective), not internal EU citizen benefits; not applicable. EU4 (EU avant-garde) – no claim of pioneering policies. EU5 (EU global champion of fair causes) – mentions commitment to EU values and reforms, but not specifically democracy/human rights leadership; too generic. EU6 (EU contributes to a better world) – yes: positions the EU as engaging its neighboring region, promoting cooperation, regional stability, and alignment with EU values and reforms, fitting the EU as a constructive partner to neighbors. Conclusion: EU2 and EU6 are promoted.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

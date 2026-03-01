@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet by Lavrov highlights the 1945 U.S. nuclear bombing of Hiroshima, emphasizes the death of innocent civilians, and notes the U.S. is the first and only country to have used nuclear weapons. Evaluation: RU1 (The West immoral/hostile): The tweet implicitly condemns the U.S. for a morally egregious act (nuclear attack on civilians) and portrays it as uniquely culpable, fitting the depiction of the West—specifically the U.S.—as immoral/hostile. RU2 (Russia leads an alternative system): No reference to Russia offering a multilateral alternative or promoting non-Western cooperation. RU3 (Russia benevolent partner): No claim of Russian peacebuilding or solidarity actions. RU4 (Russian history admirable): The historical reference centers on U.S. actions, not Russia’s history. RU5 (Russia at the forefront): No mention of Russian achievements. RU6 (Russian culture/nature): Not applicable. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

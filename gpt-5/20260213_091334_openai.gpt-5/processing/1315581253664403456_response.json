@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the 2008 U.S.–India Civil Nuclear Agreement as a milestone that facilitated nuclear cooperation and deepened bilateral engagement, framed positively. Evaluation per narrative: US1 (honorable tradition) – Not explicitly; it notes a specific agreement/milestone but doesn’t invoke U.S. values or historical legacy broadly. US2 (admirable society) – No reference to society, groups, or civil actors. US3 (hostile enemies) – No adversaries mentioned. US4 (force for good) – Implicitly positive, but the tweet does not frame the agreement in terms of human rights, freedoms, or global peace; it’s about bilateral cooperation, so not a clear fit. US5 (great international ally) – Yes; it praises a key bilateral agreement and emphasizes deeper engagement with India, presenting the U.S. as a reliable, constructive partner. US6 (at the forefront) – Not claimed; no assertion of leadership or superiority in tech/economy/military. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

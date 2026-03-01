@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates China’s Chang'e-5 lunar sample collection and emphasizes that China views space exploration as a common cause of humanity to be advanced through international exchanges and cooperation. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no mention or contrast with the West. CH2 (China is a benevolent power): Yes. The tweet portrays China as cooperative and promoting international collaboration for the common good of humanity, aligning with benevolence and multilateralism. CH3 (epic history): No references to historical adversity or resilience. CH4 (appropriate political system/values domestically): Not addressed; focus is international cooperation, not domestic system. CH5 (CCP government succeeds): Partially implied by the technological achievement, but the tweet focuses less on governance success and more on cooperation; however, celebrating a major national space achievement showcases technological leadership under China, which fits CH5’s emphasis on positioning China at the forefront technologically. CH6 (culture/nature/heritage): Not relevant. Conclusion: CH2 clearly applies; CH5 is also supported by highlighting China’s cutting-edge space success.",
+    "narrative_ids": ["CH2", "CH5"]
+  }
+}

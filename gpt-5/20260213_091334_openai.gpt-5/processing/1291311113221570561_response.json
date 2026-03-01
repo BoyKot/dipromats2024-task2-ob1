@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mocks the U.S. decision under President Trump to force the sale of TikTok to a U.S. company, using it to claim that American 'democracy,' 'free market,' and 'fair competition' are hypocritical or sham. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent) – Applicable. The tweet portrays the U.S. (the West) as hypocritical and coercive, undermining proclaimed values, fitting the depiction of the West as immoral/hostile. RU2 – Not supported; no promotion of Russia or a non-Western alternative system. RU3 – Not supported; no mention of Russia as a partner. RU4 – Not supported; no historical praise of Russia. RU5 – Not supported; no claim about Russia’s current achievements. RU6 – Not supported; no cultural/nature content. Conclusion: Only RU1 is promoted.",
+    "narrative_ids": ["RU1"]
+  }
+}

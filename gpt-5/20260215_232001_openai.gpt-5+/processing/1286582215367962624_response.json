@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that 27 Rwandan students are participating in a Russia-organized online educational project in Africa, co-organized by Russian institutions. Evaluation: RU1 (West immoral/hostile): Not present; no mention of the West or moral judgments. RU2 (Russia leads an alternative system): Implicitly suggests non-Western cooperation and Russia-led educational outreach in Africa, positioning Russia as building ties outside Western structures; fits mildly. RU3 (Russia is a benevolent partner): Yes; highlights educational support to Rwandan students, portraying Russia as helping and collaborating. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the world’s forefront): No explicit claim of superiority or cutting-edge achievement. RU6 (Russia interesting culturally/naturally): Not relevant. Conclusion: RU3 clearly applies; RU2 moderately applies.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

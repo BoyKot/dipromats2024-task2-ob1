@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A patriotic exhortation by President Trump to keep 'America first' and 'freedom alive' in Americans' hearts and souls. It emphasizes national pride and the value of freedom without referencing enemies, allies, leadership, or specific societal groups.\nUS1 (honorable tradition): The appeal to 'freedom' as a core national value evokes American legacy and traditional ideals. This aligns with showcasing U.S. values as part of its tradition. Supported.\nUS2 (admirable society): No mention of specific social groups, civil society, companies, or heroes. Not supported.\nUS3 (hostile enemies): No adversaries or threats mentioned. Not supported.\nUS4 (force for good): While 'freedom' is mentioned, the tweet is inward-facing and does not reference supporting human rights or oppressed peoples abroad. Not supported.\nUS5 (great international ally): No mention of allies or support to partners. Not supported.\nUS6 (at the forefront): No claim of leadership in domains like economy, tech, military, or trade. Not supported.\nConclusion: The tweet promotes US1 only.",
+    "narrative_ids": ["US1"]
+  }
+}

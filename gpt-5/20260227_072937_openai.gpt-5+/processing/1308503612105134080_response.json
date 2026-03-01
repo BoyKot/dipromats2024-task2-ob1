@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the Red Army, including the Estonian rifle corps, for liberating Tallinn from Nazi occupation in 1944, portraying Soviet soldiers as welcomed liberators. Evaluation: RU1 (West immoral/hostile): Not applicable; the tweet targets Nazis, not 'the West' or its allies. RU2 (Russia leads alternative system): Not mentioned. RU3 (Russia is a benevolent partner): The tweet depicts Soviet/Russian forces as benevolent liberators welcomed by locals, aligning with portraying Russia as acting for good. RU4 (Russian history is admirable): Yes; it praises the Red Army’s WWII role and frames it as a heroic, positive historical contribution. RU5 (Russia at the forefront): Not applicable. RU6 (Russia culture/nature/heritage): Not applicable. Conclusion: RU3 and RU4 are promoted.",
+    "narrative_ids": ["RU3", "RU4"]
+  }
+}

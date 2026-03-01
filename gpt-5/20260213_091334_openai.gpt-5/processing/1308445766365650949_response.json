@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Putin at UNGA75 saying Russia is open to partnerships and proposes an online high-level conference for countries interested in cooperating on developing an anti-COVID-19 vaccine. Evaluation: RU1 (West immoral/hostile): Not present; no criticism of the West. RU2 (Russia leads an alternative system): Partially related to multilateral cooperation, but the tweet does not frame it as an alternative to the West or outside Western influence; it's general UN context, so not clearly RU2. RU3 (Russia is a benevolent partner): Yes—emphasizes openness to partnership and willingness to cooperate on a global public-good (vaccine), portraying Russia as constructive and reliable. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): While vaccine initiative could hint at leadership, the tweet focuses on cooperation rather than showcasing superiority or success; insufficient for RU5. RU6 (culture/nature): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

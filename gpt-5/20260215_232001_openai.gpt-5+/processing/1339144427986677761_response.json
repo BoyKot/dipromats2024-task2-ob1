@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Russian ambassador in South Africa highlights deep Russia–South Africa ties, not only via BRICS and the UN, but also through shared sacrifices (“bound by blood shed for common aims”). Evaluation by narrative: RU1 (West immoral/hostile): Not present; no mention of the West or criticism. RU2 (Russia leads an alternative system): Partial reference to BRICS/UN as frameworks, but the tweet says ties are maintained not only via these, focusing instead on historical bonds; it does not portray Russia as leading an alternative system or emphasize multipolar leadership, so RU2 is not clearly promoted. RU3 (Russia is a benevolent partner): The tweet frames Russia as a partner with deep, honorable ties and shared sacrifice with South Africa, implying solidarity and reliability; this aligns with portraying Russia as a benevolent partner. RU4 (Russian history admirable): It refers to shared blood and common aims, but not specifically to Russia’s broader historical achievements or global contributions; thus not clearly RU4. RU5 (Russia at forefront): No. RU6 (culture/nature/heritage): No. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

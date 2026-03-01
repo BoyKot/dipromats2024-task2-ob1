@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU reaffirms its ambition to be climate neutral by 2050, highlights high-level EU–US engagement (Timmermans and John Kerry) ahead of COP26, and references the #EUGreenDeal. Evaluation:\n- EU1 (EU is a successful story): No explicit reference to past successes or overcoming historical challenges; focus is forward-looking on climate goals.\n- EU2 (EU is united): No mention of intra-EU unity or consensus among member states.\n- EU3 (EU is useful for its citizens): While climate neutrality benefits citizens, the tweet does not frame concrete, citizen-focused measures or outcomes within the EU; it’s about goals and diplomacy.\n- EU4 (EU as avant-garde actor): Yes. Setting an ambitious 2050 climate-neutral target and spotlighting leadership around COP26 and the Green Deal positions the EU as a pioneer on climate policy.\n- EU5 (EU as global champion of fair causes): Not directly; climate action is framed as policy ambition rather than rights/justice advocacy.\n- EU6 (EU contributes to a better world): Yes. The EU–US coordination for COP26 and global climate goals implies contribution to global cooperation and addressing a worldwide challenge.\nConclusion: The tweet promotes EU4 and EU6.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

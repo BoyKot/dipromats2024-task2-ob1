@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates attending a signing ceremony for a China-aided Africa CDC implementation agreement, congratulates the parties, and emphasizes defeating COVID-19 through solidarity and cooperation. Evaluation: CH1 (West immoral/hostile) — Not present; no mention or critique of the West. CH2 (China is a benevolent power) — Yes; highlights China’s aid to Africa CDC and stresses cooperation/solidarity in global health, portraying China as supportive and collaborative internationally. CH3 (epic history) — Not relevant. CH4 (appropriate political system/values, domestically) — Not addressed; focus is international aid, not China’s domestic system. CH5 (CCP government succeeds) — Not directly; no claim about domestic achievements or leadership superiority. CH6 (culture/nature/heritage) — Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

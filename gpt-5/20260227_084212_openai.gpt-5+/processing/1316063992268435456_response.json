@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Chinese civilization developed independently for 5,000 years, has harmoniously coexisted with other civilizations and religions without religious wars, and portrays China as peaceful and a great civilization. Evaluation: CH1 (West immoral/hostile) – Not present; the tweet does not criticize the West. CH2 (China is a benevolent power) – Partly aligned: it frames China as peaceful and harmonious toward other civilizations and religions, which fits the benevolent/peaceful international stance. CH3 (China has an epic history) – Aligned: it emphasizes a 5,000-year independent civilizational history and greatness, showcasing historical depth and resilience (though without adversities, the epic longevity claim still fits). CH4 (appropriate political system/values, domestic) – Not applicable; no mention of political system or governance values. CH5 (CCP government succeeds) – Not applicable; no claims about governance achievements or development under the CCP. CH6 (interesting culture/nature/heritage) – Partially relevant but the tweet is not a travel/cultural showcase; it’s a civilizational narrative rather than promoting culture/heritage attractions. Conclusion: CH2 and CH3 are promoted.",
+    "narrative_ids": ["CH2", "CH3"]
+  }
+}

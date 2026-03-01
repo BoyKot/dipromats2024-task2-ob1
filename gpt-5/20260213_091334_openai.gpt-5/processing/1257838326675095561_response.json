@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Patriotic, triumphalist statement promising to defeat a virus and achieve national greatness using uniquely American qualities (heart, hands, pride, soul). Evaluation by narrative: US1 (honorable tradition): Implicitly taps into enduring American virtues and legacy language, celebrating traditional national character—moderate fit. US2 (admirable society): No mention of specific social groups, civil society, companies, or military heroes—does not fit. US3 (hostile enemies): The 'virus' is framed as an adversary but not a geopolitical or immoral enemy of the US—does not fit. US4 (force for good): No reference to supporting human rights, oppressed peoples, or international peace—does not fit. US5 (great international ally): No reference to allies—does not fit. US6 (at the forefront): Promises future greatness and glory but does not explicitly position the US as a leader in specific domains—insufficient to claim leadership framing. Conclusion: Primarily aligns with US1.",
+    "narrative_ids": ["US1"]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "input_tokens": 1334,
+  "output_tokens": 28,
+  "thinking_tokens": 383,
+  "total_tokens": 1745,
+  "successful_api_interaction_seconds": 5.543534,
+  "attempt_number": 1
+}

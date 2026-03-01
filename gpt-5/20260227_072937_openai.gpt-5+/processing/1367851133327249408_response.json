@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights Ursula Hirschmann’s anti-fascist activism and her role in envisioning and facilitating a federal, democratic Europe after WWII, linking her legacy to the origins of the EU. Evaluation: EU1 (EU is a successful story): Supported. It references EU’s democratic conception after WWII and early federalist efforts, implying historical progress from trauma toward a successful, democratic union. EU2 (EU is united): Not supported; no claim about present unity or reaching agreements. EU3 (EU useful for citizens): Not supported; no mention of policies or practical benefits. EU4 (EU as avant-garde actor): Not supported; no claim of pioneering regulation or leadership on current challenges. EU5 (EU as global champion of fair causes): Indirect at best; while anti-fascism and democracy are values, the tweet focuses on a historical figure’s role in EU founding, not EU’s global leadership today—so not supported. EU6 (EU contributes to a better world): Not supported; no explicit claim about global contributions. Conclusion: Only EU1 applies.",
+    "narrative_ids": ["EU1"]
+  }
+}

@@ -1,0 +1,4 @@
+Timestamp: 20260214_100146
+Provider: google
+Model: gemini-2.0-flash
+Thinking Budget: 512

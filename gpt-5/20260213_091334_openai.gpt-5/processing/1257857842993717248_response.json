@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A commemorative tweet honoring the Battle of the Coral Sea, emphasizing U.S.-Australian cooperation in defense of peace and freedom and the sacrifice of fallen service members.\n- US1 (honorable tradition): Yes. It references a historic U.S. military feat and frames it within values like peace and freedom, showcasing U.S. historical legacy and virtues.\n- US2 (admirable society): Partially related to honoring military heroes, but the focus is not on broader society or diverse groups; it’s a specific historical commemoration. Not a clear fit.\n- US3 (hostile enemies): No adversary is mentioned or characterized.\n- US4 (force for good): Yes. It portrays the U.S. action as defending peace and freedom, aligning with the narrative of supporting global good.\n- US5 (great international ally): Yes. It highlights U.S.-Australian forces fighting together and protecting Australia, underscoring strong alliance and support for an ally.\n- US6 (at the forefront): No references to leadership in domains like economy, tech, or general primacy.\nFinal determination: US1, US4, and US5 are promoted.",
+    "narrative_ids": ["US1", "US4", "US5"]
+  }
+}

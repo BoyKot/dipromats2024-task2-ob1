@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet cites a Chinese spokesperson endorsing Josep Borrell’s view that COVID-19 ‘knows no borders’ and calls for cooperation and multilateralism, rejecting blame and terms like ‘Chinese virus.’ Evaluation: CH1 (The West is immoral, hostile and decadent) — Not promoted; the tweet does not attack the West or portray it as hostile; it rejects blame generally. CH2 (China is a benevolent power) — Promoted implicitly: by amplifying a Chinese spokesperson endorsing multilateralism and cooperation and rejecting recrimination, it frames China as supportive of cooperative, multilateral solutions and against divisive labeling, aligning with the narrative of benevolence in international affairs. CH3 (epic history) — Not present. CH4 (appropriate political system/values domestically) — Not present; focus is international conduct, not domestic system. CH5 (CCP succeeds) — Not present; no claims of governmental achievements. CH6 (culture/nature/heritage) — Not relevant. Conclusion: Only CH2 applies.",
+    "narrative_ids": ["CH2"]
+  }
+}

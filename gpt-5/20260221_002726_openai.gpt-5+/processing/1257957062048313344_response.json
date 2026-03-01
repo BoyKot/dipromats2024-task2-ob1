@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces the EU–Western Balkans Zagreb Summit (held by video) and lists agenda items: tackling the crisis together, discussing the EU perspective for the region, and the region’s commitment to EU values and reforms. Evaluation: EU1 (EU is a successful story): Not explicitly; no reference to past successes or lessons learned. EU2 (EU is united): Implicit cooperation is mentioned (“tackle the crisis together”), but the focus is EU with Western Balkans partners rather than demonstrating intra-EU unity; insufficient to claim this narrative. EU3 (EU is useful for its citizens): Not applicable; focuses on external/neighbor relations, not internal citizen benefits. EU4 (EU avant-garde): No mention of pioneering policies or leadership in future challenges. EU5 (EU global champion of fair causes): Mentions “commitment to EU values & reforms,” but not specifically rights/democracy leadership framing; too generic to assert this. EU6 (EU contributes to a better world): Yes. The summit with neighboring Western Balkans to jointly tackle a crisis, discuss EU perspective for the region, and promote values/reforms presents the EU as a cooperative partner improving regional stability and development, fitting EU’s role in fostering cooperation and well-being beyond its borders.",
+    "narrative_ids": ["EU6"]
+  }
+}

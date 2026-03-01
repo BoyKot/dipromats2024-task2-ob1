@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet argues that an open letter by major US newspapers should target the US government, accusing it of hypocrisy for expelling 60 Chinese journalists without protest. Evaluation: CH1 (The West is immoral, hostile and decadent) – Yes. The tweet portrays the US as hostile (expelling journalists) and implicitly hypocritical, positioning China as a victim of US actions. CH2 – No mention of China’s benevolence or cooperative international role. CH3 – No historical narrative. CH4 – No defense of China’s political system or values. CH5 – No claim about CCP governance success. CH6 – Irrelevant. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

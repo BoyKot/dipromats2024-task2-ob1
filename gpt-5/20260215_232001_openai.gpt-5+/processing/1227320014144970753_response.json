@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights the importance and scale of EU–US trade, portraying the EU and the US as closest partners and emphasizing that most US states trade more with the EU than with China. Evaluation by narrative: EU1 (EU successful story): Implicitly supported by showcasing the EU as a major, reliable economic partner in the largest economic relationship, indicating success and strength. EU2 (EU united): Not explicitly about intra-EU unity or agreement; no mention of member state cohesion. EU3 (EU useful for its citizens): Focus is external trade relations, not direct benefits or policies within the EU for citizens. EU4 (EU avant-garde): No claim of regulatory or pioneering leadership. EU5 (EU champion of fair causes): Not addressed. EU6 (EU contributes to a better world): Partially relevant in that it underscores global cooperation and partnership, but the tweet is narrowly economic and lacks broader claims about development, peace, or multilateralism beyond trade. Conclusion: Clearly promotes EU1; EU6 is too indirect to assert.",
+    "narrative_ids": ["EU1"]
+  }
+}

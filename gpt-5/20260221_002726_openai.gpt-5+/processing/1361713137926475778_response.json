@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A neutral diplomatic update stating that Russian and US officials discussed prospects for cooperation on the Israeli-Palestinian settlement. Evaluation by narrative: RU1 (West immoral/hostile): Not promoted; no criticism or negative framing of the West/US. RU2 (Russia leads an alternative system): Not promoted; the tweet highlights bilateral cooperation with the US, not an alternative to Western structures. RU3 (Russia is a benevolent partner): Partially aligns; it portrays Russia engaging constructively in peace-related diplomacy (MEPP), implying a cooperative, peace-seeking role. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Not claimed; no boasting of achievements. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet subtly advances RU3 by depicting Russia as a constructive, cooperative actor in conflict resolution.",
+    "narrative_ids": ["RU3"]
+  }
+}

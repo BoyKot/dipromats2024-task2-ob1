@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that without U.S. leadership, issues like the Uyghur Muslims’ plight would not reach the international agenda, implying the U.S. leads and drives global attention to human rights abuses. Evaluation by narrative: US1 (honorable tradition): Implicitly touches values, but the tweet focuses on present leadership rather than historical tradition; not a clear fit. US2 (admirable society): No mention of society, ethnic groups, civil society, companies, or military heroes; not promoted. US3 (hostile enemies): China is implicitly criticized for abuses, but the narrative is about threats to the U.S.; here the emphasis is on U.S. leadership, not framing an enemy threatening the U.S.; only indirect, so not a match. US4 (force for good): Yes—positions the U.S. as championing oppressed peoples and putting human rights on the international agenda. US5 (great international ally): No reference to allies or support for them. US6 (at the forefront): Yes—asserts U.S. global leadership (“If we don't lead, no one else will”) and placing issues on the international agenda. Conclusion: The tweet promotes US4 and US6.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

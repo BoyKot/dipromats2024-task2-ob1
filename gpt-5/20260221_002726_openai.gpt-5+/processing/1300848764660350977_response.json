@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The EU is operating a humanitarian air bridge to deliver COVID-19 testing kits and medical supplies to African countries, supporting the African Union’s response; framed with hashtags like #EUsolidarity and #StrongerTogether. Evaluation per narrative: EU1 (EU as a successful story): Not directly about history or overcoming past obstacles; focuses on a current operation, so not supported. EU2 (EU is united): The hashtag #EUsolidarity and mention of support coordinated via the EU and a German-funded package imply intra-EU solidarity and coordinated action, suggesting unity; moderately supported. EU3 (EU useful for its citizens): The action benefits African countries, not EU citizens; not applicable. EU4 (EU avant-garde political actor): No claim of pioneering regulation or leadership in future-oriented domains; not supported. EU5 (EU as global champion of fair causes): While humanitarian, the tweet does not explicitly frame human rights or advocacy; it’s operational aid, so weak linkage; not supported. EU6 (EU contributes to a better world): Strongly supported—explicitly highlights EU humanitarian assistance abroad, cooperation with the African Union, and global well-being during the pandemic. Conclusion: The tweet promotes EU2 and EU6, primarily EU6.",
+    "narrative_ids": ["EU2", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says the virus—not any country or race—is the common enemy, and that China calls for unity, abandoning prejudice, scapegoating, stigmatization, and politicization. Evaluation: CH1 (The West is immoral, hostile and decadent): Not directly. While it criticizes scapegoating and politicization (often associated with Western actors), it does not explicitly target the West or depict it as immoral/hostile. CH2 (China is a benevolent power): Yes. China is positioned as urging international unity, opposing prejudice and politicization, and promoting a cooperative stance against a common threat—hallmarks of benevolence and multilateralism. CH3 (China has an epic history): Not referenced. CH4 (China has an appropriate political system and honorable values): Not focused on domestic system or governance; message is international, so this does not apply. CH5 (CCP government succeeds): No claims about domestic success or leadership performance. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

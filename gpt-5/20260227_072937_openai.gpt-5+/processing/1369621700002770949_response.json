@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces EU presidents signing a declaration launching the Conference on the Future of Europe to enable citizens to participate in reshaping EU policies and institutions. Evaluation: EU1 (successful story) – not directly; no reference to past successes or lessons learned. EU2 (unity) – implied by \"EU presidents\" jointly signing a declaration, indicating agreement and collective action; modest support. EU3 (useful for its citizens) – yes; emphasizes citizen participation in reshaping policies/institutions, portraying the EU as responsive and practical for its citizens. EU4 (avant-garde) – somewhat, as initiating an innovative participatory process could signal pioneering governance, but the tweet doesn’t explicitly frame it as leadership; evidence insufficient. EU5 (global champion of fair causes) – no mention of rights or advocacy. EU6 (better world) – no external/global dimension mentioned. Conclusion: Primarily EU3; also supports EU2.",
+    "narrative_ids": ["EU3", "EU2"]
+  }
+}

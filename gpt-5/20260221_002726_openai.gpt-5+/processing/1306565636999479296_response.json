@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet uses a proverb and references building a 'community of shared future for mankind,' asserting China strives for a better life for both Chinese and global populations. It quotes praise about China's poverty reduction and the need to spread 'the story of China.' Evaluation by narrative: CH1 (West immoral/hostile): Not present; no criticism of the West. CH2 (China is a benevolent power): Yes. It emphasizes China's contribution to global well-being and a shared future, fitting the cooperative, multilateral, benevolent framing. CH3 (Epic history): Not indicated; no historical adversity or resilience theme. CH4 (Appropriate political system/values domestically): Not explicit; focus is international role rather than domestic system or values. CH5 (CCP government succeeds): Partially implied via poverty reduction success, but framed through an external quote and without explicit linkage to CCP governance; still, it showcases national achievement in development, which fits CH5's focus on development success. CH6 (Culture/nature/heritage): No; aside from a proverb, the content is political/strategic, not cultural promotion. Conclusion: The tweet promotes CH2 and CH5.",
+    "narrative_ids": ["CH2", "CH5"]
+  }
+}

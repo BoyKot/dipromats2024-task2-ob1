@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the Schuman Declaration, crediting it with leading to today's EU of 27 countries and 446 million citizens, and celebrates unity on Europe Day. EU1: Yes—links post-WWII cooperation to the successful creation and growth of the EU, highlighting historical origins and achievement. EU2: Yes—explicitly praises \"the value of unity\" and marks Europe Day, implying current unity among EU members. EU3: No—does not discuss concrete benefits or policies improving citizens’ lives. EU4: No—no claims about pioneering regulation or leadership on future challenges. EU5: No—does not reference democracy/human rights advocacy. EU6: No—no mention of global contributions beyond Europe. Final determination: EU1 and EU2.",
+    "narrative_ids": ["EU1", "EU2"]
+  }
+}

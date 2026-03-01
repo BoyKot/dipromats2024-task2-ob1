@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the U.S. of hypocrisy and lack of transparency—expelling Chinese reporters, fearing exposure, and refusing WHO investigation into COVID-19 deaths—thereby portraying the U.S. negatively. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Supported. The tweet frames the U.S. as censorious (expelling reporters), afraid of scrutiny, and non-transparent, casting the West/US as hostile and morally suspect. CH2 (China is a benevolent power): Not supported; no portrayal of China’s cooperative or benevolent actions. CH3 (China has an epic history): Not relevant. CH4 (China has an appropriate political system and honorable values): Not supported; no defense of China’s political system or values. CH5 (The government of the CCP succeeds): Not supported; no mention of CCP achievements. CH6 (China’s culture/nature/heritage): Not relevant. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

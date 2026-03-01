@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet by the Russian MFA condemns alleged deliberate violent actions by US police against Russian journalists in Portland, labeling it reprehensible and hypocritical relative to US obligations and its advocacy of press freedom and democracy. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent) – Supported. The tweet portrays the US as hostile (police violence against Russian journalists) and hypocritical about press freedom and democracy, casting Russia as a victim of Western misconduct, which fits RU1. RU2 (Russia leads an alternative system) – Not supported; no mention of multipolarity or alternative systems. RU3 (Russia is a benevolent partner) – Not supported; no emphasis on Russia’s cooperative or humanitarian role. RU4 (Russian history is admirable) – Not relevant. RU5 (Russia is at the world’s forefront) – Not relevant. RU6 (Russia’s culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

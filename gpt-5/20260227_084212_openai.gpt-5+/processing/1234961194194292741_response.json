@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises President Trump's decisive actions, especially travel restrictions, claiming they bought time and will help manage known COVID-19 cases and mitigate broader spread in the U.S. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or traditions. US2 (admirable society) – Not relevant; no mention of society, civil groups, or heroes. US3 (hostile enemies) – Not applicable; no adversary is identified. US4 (US is a force for good) – Partially relevant: it frames U.S. leadership actions as protecting public health and mitigating a global threat, suggesting beneficial impact; however, it focuses on domestic management rather than promoting human rights/aid abroad. Still, it portrays the U.S. government as acting responsibly for the common good. US5 (great international ally) – Not mentioned. US6 (at the forefront) – Arguably suggests proactive, leading action through early travel restrictions, but it does not explicitly claim leadership or superiority; it centers on buying time domestically. Conclusion: The tweet primarily aligns with US4 as portraying the U.S. government’s actions as beneficial and protective; others do not apply.",
+    "narrative_ids": ["US4"]
+  }
+}

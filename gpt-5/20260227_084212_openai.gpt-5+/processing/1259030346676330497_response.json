@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet congratulates the 75th anniversary of Victory over Nazism (Victory Day), with hashtags referencing WWII, Victory Day, Russia, Soviet, Africa, etc. Evaluation by narrative: RU1 (West immoral/hostile) – Not present; there is no criticism of the West or decadence. RU2 (Russia leads an alternative system) – Not addressed; no mention of multilateralism or alternative order. RU3 (Russia benevolent partner) – Not explicit; no claim about partnership or mediation. RU4 (Russian history is admirable) – Yes; celebrating Victory over Nazism and invoking WWII memory aligns with highlighting Soviet/Russian historical contribution to defeating Nazism. RU5 (Russia at the forefront) – Not present; no contemporary achievements. RU6 (Russia interesting culture/nature) – Not relevant; no cultural/travel content. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

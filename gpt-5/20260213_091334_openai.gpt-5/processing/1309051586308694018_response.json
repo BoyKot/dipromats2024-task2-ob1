@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the U.S. is committed to researching a COVID-19 vaccine, continuing a long history of vaccine R&D to fight diseases globally. Evaluation by narrative: US1 (honorable tradition) – Yes: it explicitly cites a \"long history\" of scientific research and vaccine development as a legacy of the country. US2 (admirable society) – No: does not mention social groups, civil society, companies, or military heroes. US3 (hostile enemies) – No: no adversaries referenced. US4 (force for good) – Yes: emphasizes U.S. efforts that benefit global public health and development (fighting diseases around the world). US5 (great international ally) – No: no allies mentioned. US6 (at the forefront) – Partially implied by commitment to research, but not explicitly positioning the U.S. as a leader; the emphasis is on tradition and global good rather than leadership status, so not selected. Conclusion: Narratives US1 and US4 are promoted.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

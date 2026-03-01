@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that Sec. Pompeo spoke with Ukraine’s Foreign Minister and praises Ukraine’s commitment to a diplomatic resolution to the Donbas conflict, attributing the conflict’s origin and perpetuation to Russia. Evaluation by narrative: US1 (honorable tradition) – Not directly invoked; no reference to historical legacy or tradition. US2 (admirable society) – Not applicable; no mention of U.S. society or groups. US3 (hostile enemies) – Indirectly relevant since it labels Russia as instigating and perpetuating conflict, portraying it as an immoral adversary; however, the focus is less on threat to the U.S. than on Russia’s role in Ukraine. Still, it aligns with highlighting a hostile actor. US4 (force for good) – Yes; the U.S. Secretary is engaging diplomatically and commending efforts toward a peaceful resolution, positioning the U.S. as supporting peace and diplomacy. US5 (great international ally) – Yes; the U.S. engages with and praises Ukraine, signaling support for an ally’s peace efforts. US6 (at the forefront) – Not applicable; no claim of U.S. leadership or superiority in domains. Conclusion: The tweet promotes US4, US5, and to a lesser extent US3.",
+    "narrative_ids": ["US4", "US5", "US3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet rejects the label of 'wolf warrior diplomacy,' asserts China is peace-loving with unchanged foreign policy, and cites Xi’s vision of building a 'community of shared future for mankind.' Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Not promoted; the tweet does not criticize the West or depict it as hostile. CH2 (China is a benevolent power): Promoted; it emphasizes China's peaceful, cooperative foreign policy and explicitly references the 'community of shared future for mankind,' which aligns with this narrative’s description. CH3 (China has an epic history): Not referenced; no historical resilience or past adversities mentioned. CH4 (China has an appropriate political system and honorable values): Not promoted; while it portrays China positively, the focus is on international conduct, not advocacy of China’s domestic political system or values. CH5 (The government of the Chinese Communist Party succeeds): Not addressed; no claims about domestic governance achievements. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH2 only.",
+    "narrative_ids": ["CH2"]
+  }
+}

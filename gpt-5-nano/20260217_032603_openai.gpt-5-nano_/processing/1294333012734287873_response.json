@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet shows a united EU stance on the Eastern Mediterranean issue (solidarity with Greece and Cyprus, calls for deescalation with Turkey) — mapping to EU2. It also condemns undemocratic actions in Belarus and endorses sanctions on those responsible, showing leadership on democracy and human rights (EU5). The combination of regional diplomacy and promotion of democratic norms aligns with EU6 as well (contributes to a better world) by promoting peace and multilateralism. There is no content about internal EU achievements or regulatory leadership; thus EU1, EU3, EU4 do not apply.",
+    "narrative_ids": ["EU2", "EU5", "EU6"]
+  }
+}

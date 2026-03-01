@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Wang Yi saying China and the US should not try to remake each other but instead find ways for peaceful coexistence between different systems and civilizations. Evaluation by narrative: CH1 (West immoral/hostile): Not promoted; there is no accusation or portrayal of the West as hostile or decadent. CH2 (China is a benevolent power): Partially supported; the call for peaceful coexistence and cooperation across systems projects a cooperative, peace-oriented stance for China in international relations. CH3 (epic history): Not referenced. CH4 (appropriate political system/values): Indirectly hints that China's system is valid and need not be remodeled, but the focus is on bilateral coexistence rather than praising domestic governance or values; insufficient to claim CH4. CH5 (CCP succeeds): Not mentioned. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

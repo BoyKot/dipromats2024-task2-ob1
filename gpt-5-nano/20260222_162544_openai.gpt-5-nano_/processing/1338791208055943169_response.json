@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet portrays Putin congratulating Biden and stating that cooperation would benefit both nations, framing Russia as a constructive, benevolent partner in international affairs. This aligns with RU3. It does not express Western immorality (RU1), advocate an alternative non-Western system (RU2), claim Russia's global leadership (RU5), promote historical admiration (RU4), or highlight culture/nature (RU6).",
+    "narrative_ids": ["RU3"]
+  }
+}

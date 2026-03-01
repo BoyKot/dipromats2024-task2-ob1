@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that Sec. Pompeo imposed visa restrictions on actors undermining democracy in Guyana, welcomed PAHO’s review of Mais Médicos, and condemned human rights violations by the ‘illegitimate’ Maduro regime. Evaluation: US1 (honorable tradition) – not explicitly about historical legacy or tradition; not promoted. US2 (admirable society) – no focus on society, groups, or heroes; not promoted. US3 (hostile enemies) – the tweet labels the Maduro regime ‘illegitimate’ and cites human rights violations, portraying it as a malign adversary; aligns with this narrative. US4 (force for good) – highlights US actions defending democracy (visa restrictions), concern for human rights, and engagement with regional health governance; portrays the US as supporting rights and democratic norms; aligns. US5 (great international ally) – no emphasis on supporting a specific ally or praising one; not promoted. US6 (at the forefront) – no claims of leadership in technology/economy/military; not promoted. Conclusion: US3 and US4 are promoted.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

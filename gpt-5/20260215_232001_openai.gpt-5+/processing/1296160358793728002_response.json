@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: External pressure only strengthens Chinese unity, social cohesion, and economic resilience. This frames China as historically resilient and unbowed by outside coercion. Evaluation by narrative: CH1: Implicitly references \"external pressure\" (often associated with the West), but it does not depict the West as immoral/hostile explicitly; focus is on China's response, not on condemning the West. Weak fit; not sufficient. CH2: No emphasis on international benevolence, multilateralism, or supporting others; not applicable. CH3: Yes. It invokes \"History has proved time and again\" and stresses resilience and overcoming adversities imposed from outside, aligning with China's epic history of enduring and uniting under pressure. CH4: No explicit advocacy of China's political system or values; focuses on unity/resilience outcomes rather than governance model. CH5: Partially economic success is mentioned (resilience of the economy), but it's framed as a national trait under pressure rather than attributing success to CCP government performance or specific achievements; evidence is insufficient to ascribe this to governance success. CH6: Not relevant. Conclusion: The tweet promotes CH3.",
+    "narrative_ids": ["CH3"]
+  }
+}

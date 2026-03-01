@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The speaker met the European Parliament President after a European Council meeting, stressing that Parliament’s support is crucial to advance reforms, investments, and to build a modern, more sustainable EU. Evaluation by narrative: EU1 (EU successful story) – not explicitly celebrating past successes or historical trajectory; focus is forward-looking, so not promoted. EU2 (EU is united) – implies inter-institutional cooperation (Council-Parliament) and the need for shared support, suggesting unity toward common reforms; moderately supported. EU3 (EU useful for its citizens) – references reforms and investments to build a modern, sustainable Union, implying practical benefits for Europeans; this aligns with usefulness narrative. EU4 (EU avant-garde) – mentions building a more sustainable Union; while hinting at forward-looking policy, it does not explicitly claim EU leadership or pioneering status; weak/insufficient. EU5 (global champion of fair causes) – not addressed. EU6 (EU contributes to a better world) – focus is internal EU reforms, not global actions; not promoted. Conclusion: EU2 and EU3 are promoted.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

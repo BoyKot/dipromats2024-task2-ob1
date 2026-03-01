@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks Black History Month by highlighting a U.S. Embassy staff member discussing the Greensboro Four’s sit-ins against segregation, celebrating their role in changing history. Evaluation: US1 (honorable tradition) – Yes. It frames U.S. history as containing courageous actions that changed the course of history, showcasing historical feats tied to American values and legacy. US2 (admirable society) – Yes. Black History Month recognition and spotlighting African American civil rights activism promote diverse groups and civic action within U.S. society. US3 (hostile enemies) – No. No adversary is identified. US4 (force for good) – Indirectly about civil rights progress, but the tweet does not portray U.S. action abroad or government-led support; it’s commemorative, so not a clear fit. US5 (great international ally) – No. US6 (at the forefront) – No leadership/innovation claim. Conclusion: The tweet promotes US1 and US2.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

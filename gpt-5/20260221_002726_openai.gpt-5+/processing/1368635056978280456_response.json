@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes Italy's Health Minister expressing openness to Russia's Sputnik V vaccine pending regulatory checks, willingness to collaborate with Russian authorities on production, and rejecting 'nationalistic barriers'. Evaluation: RU1 (West immoral/hostile/decadent): Not promoted; no accusation against the West or moral framing. RU2 (Russia leads an alternative system): Partially relevant themes of cooperation outside 'nationalistic barriers', but the tweet does not portray Russia leading an alternative order; it's a pragmatic bilateral health cooperation statement. Not promoted. RU3 (Russia is a benevolent partner): The tweet frames collaboration with Russian authorities positively and openness to a Russian vaccine, implying Russia as a partner in health solutions. This aligns with portraying Russia as a reliable, constructive partner. Promoted. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): No explicit claim of Russian superiority or forefront status; only openness to using Sputnik V. Not promoted. RU6 (Interesting culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

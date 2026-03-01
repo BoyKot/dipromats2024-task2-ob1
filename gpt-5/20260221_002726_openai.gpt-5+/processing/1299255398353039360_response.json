@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet notes COVID-19 caused major disruption to education/training in Europe and invites citizens to take part in an EU public consultation to build inclusive, high-quality digital education, using the #EUHaveYourSay tag. Evaluation by narrative: EU1 (EU is a successful story) – Not promoted; the tweet doesn’t highlight historical successes or lessons learned beyond noting disruption. EU2 (EU is united) – Not explicitly; no mention of unity among member states or solidarity actions. EU3 (EU is useful for its citizens) – Promoted; it showcases an EU initiative (public consultation) addressing citizens’ concerns about digital education, portraying the EU as proactive and practical in improving lives. EU4 (EU as avant-garde) – Partly implied through a focus on digital education, but the tweet does not explicitly position the EU as a pioneer; emphasis is on participation rather than leadership claims, so not clearly promoted. EU5 (global champion of fair causes) – Not relevant. EU6 (EU contributes to a better world) – Not applicable; focus is internal, not global. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

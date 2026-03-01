@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia (Putin) offered and quickly delivered a planeload of humanitarian medical supplies to the United States to help counter COVID-19; the offer was accepted and the plane landed in New York City two days later. Evaluation by narrative: RU1 (West immoral/hostile/decadent): Not present; the tweet contains no criticism of the West or accusations of hostility/decadence. RU2 (Russia leads an alternative system): Not present; no mention of multipolarity, alternative institutions, or non-Western-cooperation frames—this is a bilateral humanitarian action. RU3 (Russia is a benevolent partner): Supported; the tweet highlights Russia’s altruistic, timely assistance to the US during a crisis, portraying Russia as helpful and cooperative. RU4 (Russian history admirable): Not applicable; no historical content. RU5 (Russia at the world’s forefront): Not directly; while efficient action is noted, there’s no claim of superiority or leadership in capability/technology. RU6 (Culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

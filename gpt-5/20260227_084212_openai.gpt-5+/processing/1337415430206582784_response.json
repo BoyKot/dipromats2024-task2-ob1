@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet factually notes that the EU and China held their 11th annual security and defence consultations and invites readers to learn more. It highlights continuity of dialogue/cooperation with a global partner. Evaluation by narrative: EU1 (EU successful story): Not explicitly celebrating EU’s historical success or lessons learned; neutral tone, no success framing. EU2 (EU united): No mention of internal EU unity or agreement among member states. EU3 (useful for citizens): No link to domestic benefits or policies improving citizens’ lives. EU4 (avant-garde actor): Does not claim pioneering regulation or leadership in addressing future challenges. EU5 (global champion of fair causes): No reference to human rights/democracy leadership. EU6 (EU contributes to a better world): The fact of recurring annual consultations on security/defence with China implies ongoing international engagement and cooperation, which fits the EU acting globally to support dialogue and multilateral cooperation. The wording is neutral but the emphasis on institutionalized consultations suggests contribution to global stability/cooperation. Conclusion: EU6 applies; others do not.",
+    "narrative_ids": ["EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that women’s rights in Iran have regressed since 1979 and expresses solidarity with Iranian women in their struggle for a better future. Evaluation by narrative: US1 (honorable tradition) – Not promoted; no reference to US historical values or legacy. US2 (admirable society) – Not promoted; no highlighting of U.S. groups or society. US3 (hostile enemies) – Partially relevant thematically (criticizes the Iranian regime), but it does not frame it specifically as a threat to the US; focus is on Iran’s internal repression, not on hostility toward the US. Therefore, not a clear fit. US4 (force for good) – Promoted; the declaration “We stand with the women in Iran” signals support for human rights and oppressed peoples, aligning with the US as a force for good narrative. US5 (great international ally) – Not promoted; no mention of allies or partnership. US6 (at the forefront) – Not promoted; no claim of leadership or superiority. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

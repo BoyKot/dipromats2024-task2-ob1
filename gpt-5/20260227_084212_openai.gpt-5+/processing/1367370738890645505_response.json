@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces the U.S. reentering the Paris Agreement and highlights John Kerry leading U.S. efforts to partner internationally to halve global emissions by 2030. Evaluation: US1 (honorable tradition) – Not invoked; no reference to legacy or historical feats. US2 (admirable society) – Not relevant; no mention of social groups or civil society. US3 (hostile enemies) – No adversaries mentioned. US4 (force for good) – Yes; portrays the U.S. advancing global good by combating climate change and partnering internationally, aligning with promoting peace/development. US5 (great international ally) – Partly implied through “partner with countries,” but focus is not on supporting specific allies; primary framing is global good rather than alliance solidarity, so not a clear fit. US6 (at the forefront) – Yes; positioning the U.S. to lead efforts (via Climate Envoy Kerry) suggests leadership in global climate action.",
+    "narrative_ids": ["US4", "US6"]
+  }
+}

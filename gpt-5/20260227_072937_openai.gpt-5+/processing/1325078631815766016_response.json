@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that severe, illegitimate US-led sanctions on Syria obstruct recovery efforts and primarily harm peaceful civilians. Evaluation: RU1 (The West is immoral/hostile) — Yes. The tweet portrays the US and its allies as imposing 'illegitimate' sanctions that hurt civilians, depicting Western actions as harmful and unethical. RU2 (Russia leads an alternative system) — No. No mention of Russia promoting a multipolar or alternative system here. RU3 (Russia is a benevolent partner) — No. The tweet does not highlight Russian assistance or benevolence. RU4 (Russian history admirable) — No. No historical content. RU5 (Russia at the world’s forefront) — No. No achievements highlighted. RU6 (Russia cultural/nature) — No. Not applicable. Conclusion: Only RU1 applies.",
+    "narrative_ids": ["RU1"]
+  }
+}

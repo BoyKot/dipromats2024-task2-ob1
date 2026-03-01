@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Andrei Tarkovsky’s birthday, praising him as a globally renowned filmmaker whose works are classics of Russian and world cinema. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no criticism of the West. RU2 (Russia leads an alternative system): Not present; no mention of geopolitical systems or multilateralism. RU3 (Russia benevolent partner): Not present. RU4 (Russian history is admirable): Yes; it highlights a prominent Russian cultural figure and frames his contributions as globally significant, reinforcing admiration for Russia’s historical cultural achievements. RU5 (Russia at the forefront): Not explicitly; it references past cultural achievements, not current leadership or successes. RU6 (Russia interesting in culture/nature/heritage): Arguably related to culture, but the tweet focuses on historical legacy rather than promoting Russia as a destination or its broader culture and heritage; primary fit is RU4. Conclusion: Promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

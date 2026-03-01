@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that climate action should be central to EU foreign policy, highlights that Climate Diplomacy is on the agenda of the Foreign Affairs Council, and links an op-ed by senior EU figures, tagged #EUGreenDeal. Evaluation by narrative: EU1 (EU successful story): No explicit reference to past successes or historical trajectory; not promoted. EU2 (EU is united): Mentions Council agenda but does not claim unity or agreement among member states; not promoted. EU3 (EU useful for its citizens, internal): Focus is on foreign policy and diplomacy, not internal citizen benefits; not promoted. EU4 (EU avant-garde political actor): Positioning climate action at the heart of foreign policy and highlighting Climate Diplomacy and the Green Deal frames the EU as pioneering and forward-looking on global challenges; supported. EU5 (EU global champion of fair causes): While climate can be a fair cause, the tweet does not frame it in terms of rights or defending oppressed groups; weak/no support. EU6 (EU contributes to a better world): By emphasizing climate action in foreign policy and climate diplomacy, the tweet implies EU action to improve global outcomes; this aligns with contributing to a better world; supported. Conclusion: Promotes EU4 and EU6.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

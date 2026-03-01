@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet honors African Americans' contributions to American life and reaffirms a commitment to liberty and justice for all, framed around Black History Month. Evaluation: US1 (honorable tradition) – Indirectly touched by invoking enduring values like liberty and justice, but the emphasis is not on broad national tradition or historical feats of the US as a whole; it's centered on a community's contributions. Only partially aligned, not primary. US2 (admirable society) – Directly promoted: it celebrates an ethnic group (African Americans) and their contributions, consistent with the example of Black History Month. US3 (hostile enemies) – Not present. US4 (force for good) – The commitment to liberty and justice is domestic and ceremonial; it does not showcase US actions supporting global human rights or oppressed peoples internationally, so not applicable. US5 (great international ally) – Not present. US6 (at the forefront) – Not addressed. Conclusion: The tweet clearly promotes US2; others do not clearly apply.",
+    "narrative_ids": ["US2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia (via Zakharova) announces additional consultative, research, material, and technical assistance to the DRC to combat Ebola, including vaccination with a Russian vaccine in 2021-2022. Evaluation per narrative: RU1 (West immoral/hostile): Not mentioned; no contrast with the West or moral judgment. RU2 (Russia leads alternative system): The tweet highlights Russian assistance abroad but does not frame it as an alternative to Western influence or as part of a multilateral/non-Western bloc; no systemic contrast, so not applicable. RU3 (Russia is a benevolent partner): Yes. It portrays Russia providing humanitarian assistance and support to stop an epidemic, positioning Russia as helpful and reliable. RU4 (Russian history admirable): Not about history. RU5 (Russia at the world’s forefront): Implicit mention of a Russian vaccine, but the tweet does not emphasize superiority, breakthroughs, or leadership; it's framed as aid, not technological preeminence, so weak to claim RU5. RU6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet says USAID promised medical supplies to China but was only ready by March 11; given the rapid global spread, 'we' thanked the US and suggested redirecting the supplies to places more in need. Evaluation: CH1 (West immoral/hostile): The tweet does not depict the US as immoral or hostile; it is neutral-to-positive, thanking the US, only noting a delay. Not promoted. CH2 (China is a benevolent power): The tweet portrays China as considerate and cooperative, suggesting that scarce supplies go to those in greater need, which aligns with benevolence and mutual benefit. Promoted. CH3 (epic history): No historical references. Not promoted. CH4 (appropriate political system/values domestically): No discussion of China's domestic political system or values. Not promoted. CH5 (CCP governance succeeds): No claims about domestic achievements or governance success. Not promoted. CH6 (culture/nature/heritage): Not relevant.",
+    "narrative_ids": ["CH2"]
+  }
+}

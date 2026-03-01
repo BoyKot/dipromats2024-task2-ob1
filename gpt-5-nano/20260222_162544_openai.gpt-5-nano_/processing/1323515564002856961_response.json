@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet commemorates a historic Russian space achievement (Sputnik 2 with Laika) in a positive light, framing Russia's history as admirable (RU4). It also implicitly portrays Russia as a leader in space exploration, aligning with RU5. It does not promote Western hostility, non-Western cooperation, or culture/nature promotion, so RU1, RU2, RU3, RU6 do not apply.",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

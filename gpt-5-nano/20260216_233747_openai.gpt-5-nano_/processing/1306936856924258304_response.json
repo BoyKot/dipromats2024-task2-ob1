@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet praises 73 years of excellence and heroic service by the U.S. Air Force, framing it as part of an honorable national tradition. It does not reference enemies, human rights advocacy, or international alliances, so US1 applies and others do not.",
+    "narrative_ids": ["US1"]
+  }
+}

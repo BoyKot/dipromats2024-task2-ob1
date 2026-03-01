@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet emphasizes a Europe-wide vaccination rollout across multiple EU capitals, signaling solidarity and unity among member states (EU2). It also frames the vaccination effort as a concrete EU policy benefiting citizens (protecting the vulnerable and providing doses for all), aligning with EU3. It does not clearly map to EU1, EU4, EU5, or EU6.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

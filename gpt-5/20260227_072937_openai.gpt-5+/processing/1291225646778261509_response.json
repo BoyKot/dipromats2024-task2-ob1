@@ -1,0 +1,8 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the U.S. for the atomic bombing of Hiroshima, emphasizing civilian suffering and noting the U.S. remains the only country to have used nuclear weapons. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent) – Supported. The tweet portrays the U.S., a leading Western state, as morally culpable for a horrific act against civilians, fitting the depiction of the West as immoral/hostile. RU2 – Not supported; no claim of Russia leading an alternative system or multilateralism. RU3 – Not supported; no mention of Russia as a benevolent partner. RU4 – Not supported; no celebration of Russian history. RU5 – Not supported; no current Russian achievements highlighted. RU6 – Not supported; no cultural/nature content. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": [
+      "RU1"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory Russia Day tweet praising Russia’s long history, unique heritage, vast multiethnic unity, and cultural diversity, ending with “We are different, but We Are One.”\n- RU1 (West immoral/hostile): Not mentioned; no criticism of the West or allies.\n- RU2 (Alternative system to West): Not addressed; no reference to multilateralism, BRICS, or alternative order.\n- RU3 (Russia benevolent partner): No claim about partnership, peace-brokering, or aid abroad.\n- RU4 (Russian history is admirable): Yes. It highlights Russia’s thousand-year history and unique heritage in an admiring, celebratory manner, presenting national historical continuity as a source of pride.\n- RU5 (Russia at the world’s forefront): No reference to current achievements or leadership.\n- RU6 (Culture, nature, heritage interest): Yes. It emphasizes Russia’s unique heritage, cultural diversity, and multiethnic society, fitting promotion of culture and traditions.\nConclusion: The tweet promotes RU4 and RU6.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

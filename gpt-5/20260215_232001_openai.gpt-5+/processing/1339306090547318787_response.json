@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights that the UNGA adopted its annual resolution against the glorification of Nazism and notes that only the US and Ukraine voted against it, implying suspicion about their motives (“One may wonder why…”). Evaluation: RU1 (The West and their allies are immoral, hostile and decadent): Applicable. By singling out the US and Ukraine as the only opponents to a resolution against Nazism and insinuating dubious motives, the tweet portrays them negatively and morally suspect, fitting the depiction of the West and its ally as immoral/hostile. RU2 (Russia leads an alternative system): Not present; the tweet does not present Russia or a non-Western system as an alternative or champion multilateralism explicitly. RU3 (Russia is a benevolent partner): Not present; no mention of Russia’s benevolence or partnership. RU4 (Russian history is admirable): Not present. RU5 (Russia is at the world’s forefront): Not present. RU6 (Russia is interesting culturally): Not present. Conclusion: Only RU1 is promoted.",
+    "narrative_ids": ["RU1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet criticizes unnamed actors for ignoring common interests and cooperation with China and for insisting that China is a main threat. This frames others (implicitly the West/US) as hostile/mischaracterizing China, and portrays China as a cooperative partner. CH1: Fits, as it depicts the West as hostile toward China by labeling it a threat, positioning China as a victim of unfounded hostility. CH2: Fits, since the tweet highlights 'vast common interests and room for cooperation,' implying China’s cooperative, non-threatening stance. CH3: Not referenced (no history). CH4: No mention of China’s domestic political system or values. CH5: No claims about CCP governance success. CH6: Not cultural. Conclusion: CH1 and CH2 apply.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

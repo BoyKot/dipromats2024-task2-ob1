@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The US is donating ventilators to India, stands with India and PM Modi during the pandemic, and is cooperating on vaccine development; together they will beat the virus. Evaluation by narrative: US1 (honorable tradition) – not explicitly about historical legacy or tradition; no. US2 (admirable society) – not about societal groups or civil society; no. US3 (hostile enemies) – the 'invisible enemy' refers to the virus, not an adversarial state or immoral actor; does not fit; no. US4 (force for good) – yes: emphasizes humanitarian aid (ventilators), support during a crisis, and cooperation on vaccines, aligning with promoting peace, development, and security. US5 (great international ally) – yes: stresses standing with India, calling them friends, signaling unwavering support to an ally. US6 (at the forefront) – partial hint via vaccine cooperation, but not positioning the US as a leader; insufficient; no. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

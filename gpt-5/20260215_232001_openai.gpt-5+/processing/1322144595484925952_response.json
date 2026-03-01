@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes a debt deferral agreement by China Development Bank with Zambia and claims it shows Chinese financial institutions are actively helping resolve African debt issues. Evaluation: CH1 (West immoral/hostile) – Not present; no mention or contrast with the West. CH2 (China is a benevolent power) – Yes; it portrays China as actively and helpfully resolving debt issues for Zambia and other African countries, highlighting cooperative, development-oriented behavior. CH3 (epic history) – Not relevant. CH4 (appropriate political system/values, domestically) – Not addressed; focus is international aid, which falls under CH2. CH5 (CCP government succeeds) – Not directly; this is about actions of Chinese financial institutions abroad, not domestic success or governance achievements. CH6 (culture/nature) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

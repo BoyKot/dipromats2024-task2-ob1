@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet expresses pride in participating in a commission celebrating 100 years of American women's suffrage, highlighting a historic milestone. Evaluation: US1 (The US has an honorable tradition) – Yes. The tweet celebrates a \"wonderful, historic occasion\" (a century of women's voting rights), showcasing a positive historical feat and legacy of the US. US2 (admirable society) – Partially related to social progress, but the tweet does not broadly promote ethnic groups, civil society, companies, or military heroes; it's focused on a historical right, so not a clear fit. US3 (hostile enemies) – No mention of adversaries. US4 (force for good) – While suffrage aligns with human rights, the tweet is commemorative rather than positioning the US as actively advancing global good; insufficient. US5 (great international ally) – Not addressed. US6 (at the forefront) – Does not claim US leadership or superiority in domains. Conclusion: Only US1 is clearly promoted.",
+    "narrative_ids": ["US1"]
+  }
+}

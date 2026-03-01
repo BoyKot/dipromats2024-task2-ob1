@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights EU commitment to protecting nature and reversing ecosystem degradation via the EU Green Deal and the 2030 Biodiversity Strategy, and mentions joining a partner for a local environment clean-up activity. Evaluation: EU1 (EU is a successful story) – not explicitly about historical success or overcoming past obstacles; no. EU2 (EU is united) – no reference to unity among member states or solidarity; no. EU3 (EU useful for its citizens) – while it mentions EU policies (Green Deal, Biodiversity Strategy), the context is not explicitly about benefits within the EU for EU citizens; it's framed generally and includes an external activity (Suva), so not a clear fit; no. EU4 (EU as avant-garde actor) – yes: positioning the EU at the forefront of environmental protection via flagship initiatives (Green Deal, biodiversity strategy) implies pioneering leadership on climate/biodiversity. EU5 (EU champion of fair causes) – focus is environmental protection, not human rights/gender/minority rights; no. EU6 (EU contributes to a better world) – yes: participation in an environmental clean-up abroad (Suva) with a partner suggests EU action contributing globally to environmental well-being and cooperation. Conclusion: EU4 and EU6.",
+    "narrative_ids": ["EU4", "EU6"]
+  }
+}

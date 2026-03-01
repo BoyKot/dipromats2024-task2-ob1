@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet attacks Mike Pompeo, accusing him of spreading lies and an anti-China, anti-communism agenda globally, harming other countries for U.S. gain, and asserting he will fail. Evaluation: CH1 (The West is immoral, hostile and decadent) — Yes. The tweet portrays a leading U.S. official as spreading a 'political virus,' lying, coercing other countries, and sacrificing others' interests for U.S. gain, depicting the U.S./West as hostile and immoral, with China as the victim of reckless behavior. CH2 (China is a benevolent power) — No. The tweet does not describe China’s cooperative or benevolent actions; it only defends against U.S. hostility. CH3 (China has an epic history) — No. No historical framing. CH4 (China has an appropriate political system and honorable values) — No. No promotion of China’s domestic political system or values. CH5 (The government of the Chinese Communist Party succeeds) — No. No references to CCP governance successes. CH6 (China is interesting culturally/naturally) — No. Not relevant. Conclusion: Only CH1 is promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

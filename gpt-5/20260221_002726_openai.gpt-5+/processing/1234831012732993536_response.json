@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces an additional $108M in U.S. humanitarian assistance for Syrians, framing it as a response to a crisis caused by the Assad regime, Russia, and Iran. Evaluation by narrative: US1 (honorable tradition) – not explicitly invoked; no reference to long-standing traditions or historical legacy. US2 (admirable society) – not relevant; no mention of U.S. social groups or civil society. US3 (hostile enemies) – yes; it explicitly blames the Assad regime, Russian, and Iranian forces for causing the crisis, depicting them as immoral adversaries. US4 (force for good) – yes; the U.S. is portrayed as providing humanitarian aid to oppressed people (Syrians), showcasing support for human needs and relief. US5 (great international ally) – not applicable; no reference to allies or partnership support. US6 (at the forefront) – not applicable; no claim of leadership or superiority beyond the aid announcement. Conclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

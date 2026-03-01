@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that Belarus’s 2020 presidential election was neither free nor fair, that the EU does not recognize the falsified results, and that Lukashenko’s inauguration and mandate lack democratic legitimacy. Evaluation: EU1 (successful story) – Not promoted; the tweet does not reflect on EU history or successes. EU2 (EU is united) – Implicitly plausible but not explicit; the tweet states “The EU does not recognise” suggesting a collective stance, yet it does not emphasize unity or consensus as the main point. EU3 (useful for citizens) – Not applicable; this is foreign policy, not internal benefits. EU4 (avant‑garde political actor) – Not applicable; no pioneering regulation or future‑oriented leadership theme. EU5 (global champion of fair causes) – Yes; the EU is portrayed defending democracy and legitimacy abroad by refusing to recognize falsified elections and an illegitimate mandate. EU6 (contributes to a better world) – Possible but not explicit; while related to supporting democracy, the tweet does not frame it as broader contribution to global peace or cooperation. Conclusion: The tweet promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet congratulates the Russian Geographical Society on its 175th anniversary and praises its invaluable contributions to scientific, historical, educational, and environmental research in Russia and the world. Evaluation: RU1 (West immoral/hostile) – Not present; no mention of the West or hostility. RU2 (Russia leads an alternative system) – Not present; no reference to multilateral systems or alternatives to Western influence. RU3 (Russia is a benevolent partner) – Not directly; while positive, it does not depict partnership, peace-brokering, or solidarity activities. RU4 (Russian history is admirable) – Yes; it highlights a historic Russian institution’s longstanding contributions and global influence, framing Russia’s historical legacy as admirable. RU5 (Russia at the world’s forefront) – Partially adjacent, but the tweet focuses on legacy rather than current cutting-edge achievements, so not a clear fit. RU6 (Russia’s culture/nature/heritage) – Indirectly related to heritage, but the focus is on institutional history and research contributions rather than cultural/natural attractions; primary fit remains RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

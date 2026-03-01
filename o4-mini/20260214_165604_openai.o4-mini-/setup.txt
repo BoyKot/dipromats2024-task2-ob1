@@ -1,0 +1,4 @@
+Timestamp: 20260214_165604
+Provider: openai
+Model: o4-mini
+Explicit Chain of Thought: False

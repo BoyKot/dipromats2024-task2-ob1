@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that education is a top priority in China, benefiting all citizens including Uyghurs, and cites large subsidies in Xinjiang to support students, implying government commitment and success. Evaluation: CH1 (West immoral/hostile): Not referenced; no comparison or criticism of the West. CH2 (China as benevolent power internationally): The benevolence described is domestic, not about international cooperation; does not fit CH2. CH3 (epic history): No historical narrative or past adversities mentioned. CH4 (appropriate political system and honorable values): Implicitly promotes the moral uprightness and values of China's governance (prioritizing education, inclusive of minorities) in a domestic context, aligning with the idea that the system serves the people's will and has honorable values; thus supported. CH5 (CCP government succeeds): Highlights concrete governance outcomes—large education subsidies in Xinjiang benefiting millions, inclusive of Uyghurs—showcasing effective development and minority inclusion; strongly supported. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH4 and CH5.",
+    "narrative_ids": ["CH4", "CH5"]
+  }
+}

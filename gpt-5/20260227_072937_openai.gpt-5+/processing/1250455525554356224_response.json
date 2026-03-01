@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet emphasizes solidarity and mutual respect as unifying European values during and after the coronavirus crisis, and points to a Joint European Roadmap, implying coordinated EU action. EU1: Not explicitly about EU’s historical success or learning from past; focus is current values and roadmap, so not a clear fit. EU2: Yes—explicitly stresses unity (“keeping us united,” “#StrongerTogether”) and solidarity across the crisis and lifting measures, matching the narrative of a united EU. EU3: Partly—referencing a Joint European Roadmap for releasing emergency measures signals practical, coordinated EU policy benefiting citizens during COVID-19, indicating usefulness; thus it aligns with EU addressing citizens’ concerns. EU4: No mention of pioneering regulation or leadership beyond standard crisis coordination. EU5: No references to democracy/human rights advocacy. EU6: No global/external dimension; it’s internal. Conclusion: EU2 and EU3 apply.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

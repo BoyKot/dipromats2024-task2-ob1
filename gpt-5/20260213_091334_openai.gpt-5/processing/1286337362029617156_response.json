@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet defends China against UK/US accusations of cyberattacks, asserting China is a firm defender of cybersecurity and that Western claims are baseless slanders disrespecting Chinese scientists. Evaluation: CH1 (The West is immoral, hostile and decadent): Supported. The tweet characterizes the US/UK remarks as groundless slanders and accusations, casting the West as hostile and unfair toward China, positioning China as a victim. CH2 (China is a benevolent power): Partially relevant via 'firm defender of cyber security' (a public good), but the tweet does not emphasize international cooperation, multilateralism, or global justice; it's a rebuttal, not a cooperative framing—so not a clear fit. CH3 (Epic history): Not referenced. CH4 (Appropriate political system/values): Not about domestic political system or governance values. CH5 (CCP succeeds): Mentions 'hard efforts of Chinese scientists' but not framed as showcasing government success; no evidence of development or achievement narrative—so not applicable. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that Five Eyes, with Japan and India, are demanding backdoors in encrypted apps like Signal and Telegram. It presents a claim about Western-aligned states pushing surveillance access. Evaluation against narratives: CH1 (The West is immoral, hostile and decadent): The tweet implies Western intelligence alliances are pressuring tech firms to weaken encryption, which can be read as portraying the West as intrusive/hostile to privacy. Although not explicitly moralizing, it aligns with a depiction of Western hostility to civil liberties. Likely applicable. CH2 (China is a benevolent power): No mention of China’s benevolence or international conduct. Not supported. CH3 (China has an epic history): Not referenced. CH4 (China has an appropriate political system and honorable values): No comparison of political systems or values within China. Not supported. CH5 (The government of the CCP succeeds): No claims about China’s governance or achievements. Not supported. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: Only CH1 is implicitly promoted.",
+    "narrative_ids": ["CH1"]
+  }
+}

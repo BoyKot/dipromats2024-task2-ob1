@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Karume Day by recalling Chinese Premier Zhou Enlai’s 1965 visit and credits Abeid Karume for contributing to China-Zanzibar and China-Tanzania relations, highlighting longstanding bilateral friendship. Evaluation: CH1 (West immoral/hostile) – Not present; no mention of the West or criticism. CH2 (China is a benevolent power) – Implicitly supported: it frames China positively through historical cooperation and relationship-building with Tanzania/Zanzibar, suggesting friendly, mutually beneficial ties. CH3 (Epic history) – Not supported; it references a historical event but does not present China’s broader historical struggle or resilience narrative. CH4 (Appropriate political system/values) – Not addressed; no discussion of China’s domestic system or values. CH5 (CCP governance success) – Not supported; no claims about China’s internal development or leadership prowess. CH6 (Interesting culture/nature/heritage) – Not applicable; the tweet is diplomatic-historical, not cultural/heritage promotion. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

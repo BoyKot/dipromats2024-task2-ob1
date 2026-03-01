@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the opening of the State Russian Museum in 1898 and highlights its vast collection of Russian fine art. Evaluation: RU1 (West immoral/hostile) – not referenced; no criticism of the West. RU2 (Russia leads alternative system) – not addressed; no geopolitical framing. RU3 (Russia benevolent partner) – not about partnerships or aid. RU4 (Russian history is admirable) – yes; it positively spotlights Russian historical cultural achievement and legacy. RU5 (Russia at the forefront) – not current success framing, more historical/cultural. RU6 (Russia interesting in culture/nature/heritage) – yes; it promotes Russian cultural heritage and a notable cultural institution. Conclusion: RU4 and RU6 are promoted.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

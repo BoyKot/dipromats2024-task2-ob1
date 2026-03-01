@@ -1,0 +1,9 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet thanks EU counterparts and asserts that the U.S.-EU relationship is critical to addressing challenges from the PRC, Russia, and other authoritarian regimes that disregard international norms. Evaluation: US1 (honorable tradition) – Not present; no reference to U.S. historical legacy or values as tradition. US2 (admirable society) – Not present; no mention of societal groups, civil society, companies, or heroes. US3 (hostile enemies) – Present; it characterizes the PRC, Russia, and other authoritarian regimes as challengers that disregard international norms, framing them as adversaries. US4 (force for good) – Implicitly suggested by upholding international norms, but the tweet centers on cooperation and threat framing rather than explicit support for human rights or aid; insufficient to code. US5 (great international ally) – Present; it emphasizes the critical U.S.-EU relationship and cooperation with EU foreign ministers, highlighting alliance strength. US6 (at the forefront) – Not present; no claim of U.S. leadership or superiority in domains. Conclusion: The tweet promotes US3 and US5.",
+    "narrative_ids": [
+      "US3",
+      "US5"
+    ]
+  }
+}

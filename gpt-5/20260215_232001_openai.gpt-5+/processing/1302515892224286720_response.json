@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet mocks the US by calling it \"DIRTY\" and questions its ability to build a \"CLEAN network,\" implying US hypocrisy or moral corruption. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Yes. The tweet explicitly labels the US as \"dirty,\" portraying moral deficiency and hypocrisy, fitting the depiction of the West/US as immoral. CH2 (China is a benevolent power): No mention of China’s benevolence or cooperative stance. CH3 (China has an epic history): Not referenced. CH4 (China has an appropriate political system and honorable values): Not addressed; no discussion of China’s domestic system or values. CH5 (The government of the CCP succeeds): Not discussed; no claim of Chinese achievements. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

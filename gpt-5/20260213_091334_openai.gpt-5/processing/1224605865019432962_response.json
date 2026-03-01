@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A neutral informational post about a Russian cultural event in Tanzania—an art exhibition by Russian artists at the Russian Tanzanian Culture Centre, attended by the Russian Ambassador. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads an alternative system): No mention of multipolarity, BRICS, or systemic alternatives—purely cultural. RU3 (Russia is a benevolent partner): Implicit soft-power/cultural diplomacy could suggest partnership, but the tweet does not explicitly frame Russia as promoting peace, solidarity, or development; it’s a simple event notice. Insufficient to claim RU3. RU4 (Russian history admirable): Not about history. RU5 (Russia at forefront): No claims of superiority or achievements. RU6 (Russia interesting culturally/naturally): The tweet highlights Russian culture via artists and a cultural center; it promotes Russian cultural output and engagement, fitting this narrative. Conclusion: Only RU6 applies.",
+    "narrative_ids": ["RU6"]
+  }
+}

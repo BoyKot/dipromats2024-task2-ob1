@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that Hong Kong is part of China, emphasizes China's and Hong Kong's rule of law, and urges the European Parliament to respect China's sovereignty; violators of the law should be held accountable. It cites CGTN reinforcing this stance. CH1: No explicit depiction of the West as immoral/hostile/decadent; it requests EP to respect sovereignty but doesn't attack Western morality—so not CH1. CH2: Not highlighting China's cooperative global role or multilateralism; it's defensive about sovereignty, not benevolence—so not CH2. CH3: No historical narrative—so not CH3. CH4: Yes. It praises China's domestic political-legal system and values (rule of law, accountability), asserting the appropriateness and moral uprightness of Chinese governance regarding Hong Kong, a domestic affair. CH5: No claims about governmental success in development/technology/minority coexistence—so not CH5. CH6: Not cultural/heritage—so not CH6. Conclusion: Promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts China’s COVID-19 response and contributions are widely recognized, condemns attempts to discredit China as blame-shifting with malign intentions, and claims such attempts will be rejected by China and the international community. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Implicitly targets unnamed actors attempting to shift blame and malign China—often a reference to Western critics—portraying them as acting in bad faith. This aligns with CH1’s framing of hostile Western behavior. CH2 (China is a benevolent power): By emphasizing China’s effective COVID-19 response and contributions recognized globally, it portrays China as a cooperative, constructive international actor, fitting CH2. CH3 (epic history): No historical framing. Not applicable. CH4 (appropriate political system and honorable values): While it implies moral uprightness in China’s conduct, the focus is external (international contribution), not domestic governance/values. Not a clear match. CH5 (CCP government succeeds): It credits China’s successful pandemic response, which reflects governmental competence and success. This aligns with CH5. CH6 (culture/nature/heritage): Not relevant. Conclusion: CH1, CH2, and CH5 are promoted.",
+    "narrative_ids": ["CH1", "CH2", "CH5"]
+  }
+}

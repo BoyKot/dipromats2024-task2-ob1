@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that under President Trump's leadership, minority groups and women have experienced economic success, and reaffirms commitment to making the American Dream accessible to all. Evaluation by narrative: US1 (honorable tradition): Indirect reference to the 'American Dream' touches a longstanding ideal, but the tweet is focused on current economic outcomes rather than celebrating historical tradition or feats. Weak/implicit at best; not clearly promoted. US2 (admirable society): Yes. It highlights diverse ethnic groups and women positively and presents inclusivity and shared prosperity, aligning with promoting the country's diverse society. US3 (hostile enemies): No mention of adversaries. US4 (force for good): The tweet is domestic and economic; it does not discuss human rights abroad or global support. Not applicable. US5 (great international ally): Not addressed. US6 (at the forefront): It touts economic success domestically but does not position the US as a global leader in economy/technology/trade explicitly. Not applicable. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

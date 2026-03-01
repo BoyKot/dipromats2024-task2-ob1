@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that after receiving billions from the previous U.S. administration, Iran engaged in terrorism, implying Iran is a hostile actor and that the prior U.S. policy inadvertently aided it. Evaluation:\n- US1 (honorable tradition): Not showcased; no reference to U.S. historical values or legacy.\n- US2 (admirable society): Not relevant; no mention of U.S. society or groups.\n- US3 (US has hostile enemies): Yes. The tweet portrays Iran as engaging in a \"terror spree,\" framing Iran as an immoral, threatening adversary to U.S. interests and global peace.\n- US4 (US is a force for good): Not supported; no claim about U.S. promoting rights or peace.\n- US5 (great international ally): Not mentioned.\n- US6 (at the forefront): Not mentioned. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

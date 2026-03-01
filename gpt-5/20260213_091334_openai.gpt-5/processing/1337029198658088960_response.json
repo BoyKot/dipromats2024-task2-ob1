@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims Kyiv is enforcing Ukrainization and passing laws that violate the rights of national minorities, especially Russian speakers, contravening Ukraine’s constitution and international human rights obligations. Evaluation: RU1 (The West and their allies are immoral, hostile and decadent): Applicable. Ukraine is presented as a hostile, rights-violating actor (an ally of the West), depicting Russian speakers as victims of discriminatory policies and implying moral/legal transgression. RU2 (Russia leads an alternative system): Not present; no mention of Russia offering an alternative order or multilateralism. RU3 (Russia is a benevolent partner): Not present; the tweet is accusatory toward Ukraine, not showcasing Russian benevolence. RU4 (Russian history is admirable): Not present. RU5 (Russia at the world’s forefront): Not present. RU6 (Russia’s culture/nature): Not present. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

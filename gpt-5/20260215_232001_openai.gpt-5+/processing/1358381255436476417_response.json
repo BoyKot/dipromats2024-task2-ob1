@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises HBCUs as embodying diversity and inclusion, celebrating African American culture while being welcoming to all. Evaluation per narrative: US1 (honorable tradition) – While it references history and values, it focuses on HBCUs’ role today rather than a broad national tradition; weak/indirect fit, not clearly promoted. US2 (admirable society) – Yes. It highlights a component of U.S. civil society/education (HBCUs) and celebrates diversity and inclusion, aligning with promoting U.S. societal virtues and ethnic communities. US3 (hostile enemies) – Not mentioned. US4 (force for good) – Not about U.S. foreign or humanitarian action; not applicable. US5 (great international ally) – Not relevant. US6 (at the forefront) – No claims of leadership/primacy. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

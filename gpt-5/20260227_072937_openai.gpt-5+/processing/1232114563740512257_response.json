@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A neutral report that Utah elementary school pupils wrote to President Xi for Chinese New Year, expressing affection for China and its culture and sharing progress in learning Chinese. Evaluation per narrative: CH1 (West immoral/hostile) – Not present; no criticism of the West. CH2 (China as benevolent power) – Not present; no claims about China's international conduct or contributions. CH3 (epic history) – Not present; no historical references. CH4 (appropriate political system/values) – Not present; no advocacy of China's political system or governance values. CH5 (CCP government succeeds) – Not present; no mention of government achievements. CH6 (China interesting culturally/naturally) – Yes; the tweet highlights affection for China and its culture and references Chinese learning, promoting cultural appeal. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

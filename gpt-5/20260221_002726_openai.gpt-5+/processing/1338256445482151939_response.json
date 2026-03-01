@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges transatlantic cooperation to confront the \"China challenge\" to protect free societies, prosperity, and the future. Evaluation by narrative: US1 (honorable tradition) – Not directly; no reference to US historical legacy or traditions. US2 (admirable society) – Not applicable; no mention of U.S. societal groups or civil society. US3 (hostile enemies) – Yes; it frames China as a challenge/threat to free societies and prosperity, casting it as an adversary. US4 (force for good) – Partially implied through defending freedoms, but the tweet focuses more on countering a threat than showcasing active humanitarian or rights support; not strong enough to count. US5 (great international ally) – Yes; it calls for working together in a transatlantic context, implying U.S. partnership and allied cooperation. US6 (at the forefront) – Not explicit; no claim of U.S. leadership or superiority. Conclusion: The tweet promotes US3 and US5.",
+    "narrative_ids": ["US3", "US5"]
+  }
+}

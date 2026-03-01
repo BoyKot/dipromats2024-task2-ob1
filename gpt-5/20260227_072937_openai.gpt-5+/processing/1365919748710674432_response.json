@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet marks the end of Black History Month and highlights influential African-Americans (MLK Jr., Rosa Parks, President Obama, Beyonce), encouraging a quiz to celebrate/learn about African-American contributions to U.S. history and society.\n- US1 (The US has an honorable tradition): Indirectly relevant but not the focus. While it references historical figures and contributions, the tweet does not frame these as part of a specifically American honorable tradition or national legacy; it is more about celebrating African-American contributions than asserting a broad national tradition. Not a clear fit.\n- US2 (The US has an admirable society): Yes. It promotes an ethnic group’s contributions to U.S. society and celebrates their role, aligning with the narrative that the US has an admirable, diverse society.\n- US3 (The US has hostile enemies): Not present; no mention of adversaries.\n- US4 (The US is a force for good): Not present; no claims about U.S. actions supporting global rights or freedoms.\n- US5 (The US is a great international ally): Not present.\n- US6 (The US is at the forefront): Not present.\nConclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

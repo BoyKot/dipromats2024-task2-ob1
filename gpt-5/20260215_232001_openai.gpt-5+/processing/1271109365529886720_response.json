@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that elements in the US are deliberately creating and spreading disinformation against China, calling a certain scene 'laughable' and presenting it as proof of a US-driven smear campaign. Evaluation: CH1 (The West is immoral, hostile and decadent): Supported. The tweet portrays the US as hostile and deceptive, deliberately spreading disinformation against China, casting China as a victim of Western hostility. CH2 (China is a benevolent power): Not present; no mention of China’s cooperative or benevolent international behavior. CH3 (China has an epic history): Not addressed. CH4 (China has an appropriate political system and honorable values): Not addressed; no advocacy of China’s domestic political system or values. CH5 (The government of the CCP succeeds): Not addressed; no claims about governance performance or achievements. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

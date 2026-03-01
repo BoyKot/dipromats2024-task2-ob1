@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory tribute to the U.S. Air Force on its 73rd anniversary, praising its heroism and role in safeguarding American security, and expressing pride in partnership. Evaluation by narrative: US1 (honorable tradition): Yes—references 73 years of excellence, implying a longstanding, honorable legacy. US2 (admirable society): Partially—focuses on military service and heroes; this fits the narrative’s inclusion of military heroes, so applicable. US3 (hostile enemies): No—no mention of adversaries. US4 (force for good): Implicitly about security of the American people, but no broader claim about human rights or global good; not clearly promoted. US5 (great international ally): No—mentions being “partners” with the Air Force (an internal branch), not foreign allies. US6 (at the forefront): No—no claim of leadership or superiority beyond excellence. Conclusion: US1 and US2 apply.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

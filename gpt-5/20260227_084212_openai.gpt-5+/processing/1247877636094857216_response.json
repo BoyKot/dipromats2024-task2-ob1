@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the U.S. is prioritizing domestic needs for critical medical items while simultaneously providing $225 million in assistance to partners, asserting that America leads the global COVID-19 response. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or traditions. US2 (admirable society) – Not about societal groups or civil society. US3 (hostile enemies) – No adversary mentioned. US4 (force for good) – Yes; highlights U.S. generosity and support to partners amid the pandemic, portraying humanitarian assistance and global aid. US5 (great international ally) – Partially implied by “assistance to our partners,” but the emphasis is on aid rather than alliance solidarity; still, it underscores support to partners, which fits the ally framing. US6 (at the forefront) – Yes; explicitly says “America continues to lead the global response,” positioning the U.S. as a leader. Conclusion: The tweet promotes US4, US5, and US6.",
+    "narrative_ids": ["US4", "US5", "US6"]
+  }
+}

@@ -1,0 +1,75 @@
+<prompt_instruction>
+Greetings officer!
+Today your task is to identify which of the following strategic narratives are being promoted in the given tweet.
+The tweet is provided in <tweet_to_analyze>. The list of possible narratives for this country is in <narratives_list>.
+A tweet may promote one, several, or no narratives from the list.
+Carefully read the tweet and compare its message and intent against the title and description of each narrative.
+</prompt_instruction>
+
+<tweet_to_analyze>
+The solemn opening of the State Russian Museum in St Petersburg took place on March 19, 1898. It has the world’s largest collection of Russian fine art, containing over 400 000 exhibits that cover all major periods and trends in the history of #Russianart.
+</tweet_to_analyze>
+
+<narratives_list>
+  <narrative>
+    <id>RU1</id>
+    <title>The West and their allies are immoral, hostile and decadent.</title>
+    <description>Tweets under this narrative depict the West and their allies (such as Ukraine), particularly the US, as immoral and hostile actors. The West-sponsored liberal order would be decadent. Russia and its citizens would be a victim of Western immoral behavior.</description>
+    <example>We consider the situation with the rights of the #Russian-speaking population in #Latvia and #Estonia to be discriminatory. Statelessness is a shameful social phenomenon mainly applied to Russian-speaking residents, depriving them of basic democratic rights.</example>
+  </narrative>
+  <narrative>
+    <id>RU2</id>
+    <title>Russia leads an alternative system to that sponsored by the West.</title>
+    <description>Showcases Russia's advocacy for a fairer, more multilateral system, promoting cooperation outside Western influence. Non-Western cooperation is highlighted as an example Russia upholds true multilateralism, based on the respect of national sovereignty</description>
+    <example>#BRICS is a striking example of the effectiveness of multipolar diplomacy. Countries with different cultural & civilizational backgrounds have united on the basis of a constructive foreign policy philosophy, so in demand in the tumultuous modern world</example>
+  </narrative>
+  <narrative>
+    <id>RU3</id>
+    <title>Russia is a benevolent partner.</title>
+    <description>Emphasizes Russia's role in promoting peace, solidarity, and development, positioning it as a reliable partner for just causes.</description>
+    <example>Russia is connected with Azerbaijan and Armenia by shared history, culture, advanced humanitarian & economic ties. Our role as chief mediator in #NagornoKarabakh conflict is to help through the hot phase and find peaceful solutions to aggravated differences.</example>
+  </narrative>
+  <narrative>
+    <id>RU4</id>
+    <title>Russian history is admirable.</title>
+    <description>Highlights Russia's historical contributions and influence on global history across scientific, cultural, military, and economic realms. Tweets show how Russia has always been a trend-setter for the rest of the world.</description>
+    <example>On 17 July 1942 the Battle of #Stalingrad - largest armed clash in history - commenced with a monstrous Nazi offensive aimed at crushing #RedArmy. Had it wavered, Nazism would have taken over the world. At #Stalingrad Soviet heroes won the battle & saved humanity</example>
+  </narrative>
+  <narrative>
+    <id>RU5</id>
+    <title>Russia is at the world’s forefront.</title>
+    <description>Showcases Russia's current successes across economic, military, scientific, societal, political, and technological domains.</description>
+    <example>The chairman of Standing Committee on Vaccination Thomas Mertens, Germany: "It's a good vaccine that will probably be approved in EU at some point. The Russian researchers are very experienced with vaccinations. Sputnik V is cleverly built".</example>
+  </narrative>
+  <narrative>
+    <id>RU6</id>
+    <title>Russia is an interesting country in terms of culture, nature and heritage.</title>
+    <description>Tweets within this narrative promote Russian society, traditions and natural beauty.</description>
+    <example>From #Moscow to #SaintPetersburg, from #Kaliningrad to #Kamchatka, from the #Caucasus  to #Crimea - one country, myriads of places to see, wonders to behold, vistas to enjoy, people to meet.</example>
+  </narrative>
+
+</narratives_list>
+
+<output_format_instructions>
+Your response MUST be ONLY a valid JSON object.
+The JSON object must contain a single key: 'analysis'.
+The value of 'analysis' must be an object containing one key:
+  'narrative_ids': A list of strings, where each string is the 'id' of an applicable narrative from the list above. If the tweet promotes multiple narratives, include all their IDs. If it promotes none, return an empty list: [].
+Example 1 (multiple narratives):
+```json
+{
+  "analysis": {
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}
+```
+Example 2 (no narratives):
+```json
+{
+  "analysis": {
+    "narrative_ids": []
+  }
+}
+```
+Do not include any other text, explanations, or formatting outside of the JSON object.
+</output_format_instructions>

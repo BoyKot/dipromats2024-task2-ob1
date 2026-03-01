@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet frames the US as supporting allies (US5), standing for freedom and human rights (US4), rising as a leader to meet the moment (US6), and portrays the Chinese Communist Party as an adversary to global liberal values (US3).",
+    "narrative_ids": ["US3", "US4", "US5", "US6"]
+  }
+}

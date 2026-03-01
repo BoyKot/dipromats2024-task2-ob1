@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet neutrally describes that every four years major party candidates debate on live TV to sway voters in U.S. presidential elections and invites readers to learn about the history of debates. Evaluation: US1 (honorable tradition) — Partially relevant, as it references a recurring democratic practice and its history, implicitly highlighting a longstanding electoral tradition, but it is descriptive rather than celebratory; still, it showcases a historical facet of U.S. democracy, so it fits. US2 (admirable society) — No mention of social groups, civil society achievements, companies, or heroes. US3 (hostile enemies) — No adversaries mentioned. US4 (force for good) — No claims about supporting human rights or international good. US5 (great international ally) — No reference to allies. US6 (at the forefront) — No leadership claim in economy/technology/military/trade. Conclusion: The tweet promotes US1.",
+    "narrative_ids": ["US1"]
+  }
+}

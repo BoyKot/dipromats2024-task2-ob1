@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet invites applications for the Jan Amos Comenius Prize, rewarding secondary schools that teach about the EU in engaging ways to foster active, informed, democratically engaged young citizens. EU1: Implicitly positive about the EU but does not reference history, success story, or overcoming obstacles—so not clearly promoted. EU2: No mention of unity or solidarity among member states—not promoted. EU3: It highlights a concrete EU initiative (a prize) that supports education and democratic engagement for citizens, showing usefulness to EU citizens—promoted. EU4: No claim of EU being avant-garde in regulation or future challenges—not promoted. EU5: While democracy is mentioned, it’s about internal civic engagement, not global championing—thus not EU5. EU6: No global or external actions—not promoted. Conclusion: Only EU3 applies.",
+    "narrative_ids": ["EU3"]
+  }
+}

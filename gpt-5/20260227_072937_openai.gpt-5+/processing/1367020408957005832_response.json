@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates a 17-year-old Russian athlete, Sofia Nadyrshina, becoming world champion in parallel slalom in 2021, noting her hometown's ski resort as a possible factor. Evaluation: RU1 (West immoral/hostile) – Not addressed; no criticism of the West. RU2 (Russia leads alternative system) – Not mentioned; no systemic or geopolitical framing. RU3 (Russia as benevolent partner) – Not relevant; no partnership or peace/development themes. RU4 (Russian history admirable) – Not historical; it's a current sports achievement. RU5 (Russia at the world’s forefront) – Yes; highlights a contemporary world championship by a Russian athlete, showcasing Russia’s success on the world stage. RU6 (Russia interesting in culture/nature/heritage) – Partially relevant; mentions Yuzhno-Sakhalinsk having a ski resort within city limits, which promotes an interesting geographic/urban feature of Russia. Conclusion: RU5 and RU6 are promoted.",
+    "narrative_ids": ["RU5", "RU6"]
+  }
+}

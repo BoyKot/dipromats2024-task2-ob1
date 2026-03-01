@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China has resumed a high percentage of key projects while managing COVID-19 prevention and control in parallel, highlighting economic and infrastructure activity (rail, highways, airports, water projects). Evaluation: CH1 (West immoral/hostile): Not referenced; no comparison or criticism of the West. CH2 (China as benevolent power): The tweet focuses on domestic recovery, not international cooperation or global public goods; not applicable. CH3 (epic history): No historical framing or past adversity; not applicable. CH4 (appropriate political system and honorable values): Implicitly suggests effective governance by managing pandemic and development in parallel, but it does not explicitly advocate the political system or values; evidence is insufficient for CH4. CH5 (CCP government succeeds): Yes. It presents successful governance outcomes—pandemic control alongside rapid resumption of major infrastructure projects—implying effective state capacity and development leadership. CH6 (culture/nature/heritage): Not about culture or tourism; not applicable. Conclusion: The tweet promotes CH5.",
+    "narrative_ids": ["CH5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that China remains committed to 'peaceful reunification' with Taiwan and references an article in China Daily supporting this stance. Evaluation by narrative: CH1 (West is immoral/hostile): Not referenced; no critique of the West. CH2 (China is a benevolent power): The emphasis on 'peaceful reunification' portrays China as committed to peaceful solutions, aligning with a cooperative, non-aggressive image internationally; this fits CH2’s framing of China as pursuing peace and stability. CH3 (epic history): No historical content. CH4 (appropriate political system and honorable values): While it hints at honorable intentions (peaceful), it addresses an external/sovereignty issue rather than promoting China’s domestic political system or values; insufficient for CH4. CH5 (CCP succeeds): No claims about developmental or governance success. CH6 (culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

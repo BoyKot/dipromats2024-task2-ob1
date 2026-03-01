@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates Russia’s Black Sea Fleet Day, ties its origin to Crimea’s accession to the Russian Empire in 1783 and Sevastopol, and highlights the fleet’s current size and capabilities.\nEvaluation:\n- RU1 (West immoral/hostile): Not mentioned; no criticism of the West or allies.\n- RU2 (Alternative system): No reference to multilateralism or non-Western cooperation.\n- RU3 (Benevolent partner): No claims about peacebuilding or partnership.\n- RU4 (Russian history is admirable): Yes. It glorifies historical milestones (1783 origin, Crimea/Sevastopol) and commemorates a historically significant institution, portraying Russian history as noteworthy and admirable.\n- RU5 (Russia at the world’s forefront): Partially. By emphasizing the present-day scale (280 vessels, 55 warships), it showcases contemporary military capacity, implying strength and capability; this aligns with portraying Russia’s current successes.\n- RU6 (Interesting culture/nature/heritage): Not focused on culture/tourism; the emphasis is military history and capability.\nConclusion: The tweet promotes RU4 and RU5.",
+    "narrative_ids": ["RU4", "RU5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights growing cooperation with the Dalai Lama’s office and meetings with his representatives, framing it as expanding ties between the American and Tibetan people. Assessment by narrative: US1 (honorable tradition) – Not explicitly invoked; no reference to historical traditions or founding values. US2 (admirable society) – Indirectly touches civil society engagement, but the focus is on diplomatic/people-to-people ties with Tibet rather than showcasing U.S. societal groups; not a clear fit. US3 (hostile enemies) – No adversary mentioned. US4 (force for good) – Yes: supporting ties with the Tibetan people and the Dalai Lama’s office implicitly signals support for human rights and oppressed peoples, consistent with U.S. advocacy for freedoms. US5 (great international ally) – Partially relevant, but Tibet is not framed as a state ally; it’s about people-to-people ties, not alliance commitments; not a clear fit. US6 (at the forefront) – No leadership/excellence framing. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

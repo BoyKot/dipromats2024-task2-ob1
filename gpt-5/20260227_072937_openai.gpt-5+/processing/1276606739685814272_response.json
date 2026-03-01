@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims minority groups and women have benefited economically under President Trump and commits to ensuring the American Dream is accessible to all. Evaluation by narrative: US1 (honorable tradition): Indirect reference to the \"American Dream\" touches a traditional ideal, but the tweet frames it as a current policy commitment rather than celebrating historical legacy or feats; weak fit, not primarily promoted. US2 (admirable society): The tweet highlights diverse groups within the U.S. (African Americans, Hispanic Americans, Asian Americans, and women) in a positive light, emphasizing their economic gains; this promotes an image of an admirable, inclusive society—fits. US3 (hostile enemies): No mention of adversaries—does not fit. US4 (force for good): Focus is domestic economic gains, not international human rights or support for oppressed peoples—does not fit. US5 (great international ally): No reference to allies—does not fit. US6 (at the forefront): While it touts economic success, it does not position the U.S. as a global leader or compare it internationally—does not fit. Conclusion: The tweet promotes US2; US1 is not sufficiently supported.",
+    "narrative_ids": ["US2"]
+  }
+}

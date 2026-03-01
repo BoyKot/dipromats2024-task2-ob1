@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: U.S. officials met with Syrian activists/NGOs and reaffirmed U.S. support for justice and accountability for Assad regime human rights abuses. Evaluation: US1 (honorable tradition) – Not explicit; no reference to long-standing American traditions or historical legacy, just a current policy stance. US2 (admirable society) – No focus on American society, groups, companies, or heroes. US3 (hostile enemies) – The tweet condemns the Assad regime’s human rights violations; however, the emphasis is on accountability and support for victims rather than framing a direct threat to the U.S., so only indirectly related; not the core narrative. US4 (force for good) – Yes; it highlights U.S. support for human rights, justice, and accountability for oppressed victims, fitting this narrative. US5 (great international ally) – Not about allies or praising a partner state. US6 (at the forefront) – No claim of leadership or superiority. Conclusion: The tweet promotes US4 most clearly.",
+    "narrative_ids": ["US4"]
+  }
+}

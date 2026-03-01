@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A celebratory Russia Day tweet praising Russia’s long history, unique heritage, cultural diversity, and unity among 180+ nationalities. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no contrast with the West. RU2 (alternative system to West): No reference to systems, multilateralism, or sovereignty discourse. RU3 (benevolent partner): No claims about partnerships or aiding others. RU4 (Russian history is admirable): Yes—emphasizes thousand-year history and unique heritage in a laudatory way. RU5 (world’s forefront): No claims of current leadership or achievements. RU6 (interesting culture, nature, heritage): Yes—highlights cultural richness, diversity, and heritage, fitting promotion of society and traditions. Conclusion: RU4 and RU6.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

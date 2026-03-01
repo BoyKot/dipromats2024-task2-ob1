@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An informational announcement that Sergey Lavrov will chair an SCO Council of Foreign Ministers videoconference on May 13. Evaluation: RU1 (West immoral/hostile) – not present; no mention or implication about the West. RU2 (Russia leads an alternative system to the West) – implicitly touches on Russia’s role within a non-Western multilateral body (SCO) and chairing a meeting, which can signal leadership in alternative multilateral frameworks; however, the tweet is purely factual without framing it as an alternative to the West or promoting a value contrast. Given the neutral tone and absence of evaluative language, this is too weak to code as promoting RU2. RU3 (benevolent partner) – no claims of promoting peace/solidarity; just a meeting notice. RU4 (history admirable) – not relevant. RU5 (forefront) – no claim of success or superiority. RU6 (culture/nature) – not relevant. Conclusion: No listed narrative is clearly promoted.",
+    "narrative_ids": []
+  }
+}

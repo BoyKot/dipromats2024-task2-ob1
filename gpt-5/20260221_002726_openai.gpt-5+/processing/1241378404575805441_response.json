@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet contrasts a cooperative, life-saving Chinese scientific outreach on COVID-19 with a quoted claim that Chinese authorities destroyed samples and censored early warnings—ending with a call that the virus is the real enemy and cooperation is the solution. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent) – Not promoted; the tweet does not attack the West or portray it as immoral/hostile. CH2 (China is a benevolent power) – Promoted; it highlights Chinese experts sharing know-how with 300 US scientists to save lives and frames cooperation as the right path, presenting China as cooperative and helpful internationally. CH3 (China has an epic history) – Not present; no historical resilience content. CH4 (China has an appropriate political system and honorable values) – Not present; no defense of China’s domestic political system or values. CH5 (The government of the CCP succeeds) – Not directly; while it shows Chinese experts’ competence, it doesn’t credit CCP governance or domestic success. CH6 (China’s culture/nature/heritage) – Not relevant. Conclusion: Only CH2 is clearly promoted.",
+    "narrative_ids": ["CH2"]
+  }
+}

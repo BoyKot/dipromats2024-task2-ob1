@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Announcement that the international community, co-hosted by Sudan, the EU, Germany, and the UN, will gather for the Sudan Partnership Conference to support a historic transition, using hashtags implying collaboration (#AUEU #TogetherWithSudan).\nEU1: Not promoted. The tweet does not reference EU history, overcoming internal challenges, or past lessons.\nEU2: Not promoted. No emphasis on EU internal unity or agreement among member states; it mentions the EU as a co-host but not EU unity.\nEU3: Not promoted. This is about external action in Sudan, not benefits to EU citizens.\nEU4: Not promoted. No claim of EU pioneering regulation or leadership on future challenges.\nEU5: Partially relevant theme (supporting transition/democracy), but the tweet does not explicitly frame the EU as championing human rights or democracy; it’s a neutral event announcement. Insufficient to claim this narrative.\nEU6: Promoted. It portrays the EU as co-hosting a global effort supporting Sudan’s transition, implying EU contribution to development, multilateral cooperation, and a better world beyond the EU.\nConclusion: The tweet supports EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet reports on EU policy topics (migration and asylum pact, cooperation with non-EU partners on migration, and EU police cooperation). This aligns with EU3 (EU policies benefiting citizens) through migration management, and with EU6 (EU contributes to a better world) via international cooperation on migration issues. It does not clearly promote unity or a past-success narrative, so EU1, EU2, EU4, and EU5 are not indicated.",
+    "narrative_ids": ["EU3","EU6"]
+  }
+}

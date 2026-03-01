@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights EU-UN cooperation to promote peace, security, peacekeeping, and crisis management, framing it as beneficial both for the EU and the world. Evaluation per narrative: EU1 (EU successful story): Not explicitly about EU’s historical success or learning from past; focus is current cooperation, so not supported. EU2 (EU united): No mention of intra-EU unity or solidarity among member states; not supported. EU3 (EU useful for its citizens): The benefits cited are global and security-related via EU-UN cooperation, not about internal EU citizen-focused policies; not supported. EU4 (EU avant-garde political actor): No claim of pioneering regulation or leadership in future challenges; not supported. EU5 (EU global champion of fair causes): While peace and security are positive values, the tweet does not emphasize democracy/human rights leadership; marginal at best, so not supported. EU6 (EU contributes to a better world): Yes. It explicitly states EU-UN cooperation in peacekeeping and crisis management and frames it as in the interest of the world, directly aligning with EU contributions to global peace, multilateralism, and cooperation. Conclusion: Only EU6 applies.",
+    "narrative_ids": ["EU6"]
+  }
+}

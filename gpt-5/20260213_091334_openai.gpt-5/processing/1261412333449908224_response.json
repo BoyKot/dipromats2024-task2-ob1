@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that human rights are universal and states that the EU fights every day for LGBTI rights and the right to self-identify and love whom one chooses, tied to IDAHOT. Evaluation: EU1 (successful story) – not referenced; no historical success narrative. EU2 (united) – no mention of unity among member states. EU3 (useful for citizens) – while it concerns rights, it does not highlight specific EU policies improving citizens' lives within the EU; focus is values/advocacy. EU4 (avant-garde) – does not frame the EU as regulatory pioneer; no policy leadership claim beyond advocacy. EU5 (global champion of fair causes) – yes; it explicitly positions the EU as fighting for human rights and LGBTI rights, aligning with leadership in defending minority rights. EU6 (contributes to a better world) – not clearly; the tweet doesn't mention global development/peace/multilateral contributions beyond rights advocacy. Final determination: EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

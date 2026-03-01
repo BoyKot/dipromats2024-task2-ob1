@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China’s FM Wang Yi and Russia’s FM Lavrov reached a consensus to combat and reject disinformation, calling on governments and media to coordinate against it. Evaluation: CH1 (The West is immoral, hostile and decadent): Not explicitly. The tweet does not name the West/US as the source of disinformation; no direct moral attack on the West. CH2 (China is a benevolent power): Yes. It portrays China in a cooperative, rules-supporting role, engaging internationally with Russia to uphold information integrity and calling for multilateral coordination—framing China as constructive and responsible. CH3 (Epic history): Not relevant. CH4 (Appropriate political system and honorable values): Not focused on domestic system or governance values; it’s about international cooperation, so no. CH5 (CCP succeeds): No claims about domestic achievements or leadership performance. CH6 (Culture/nature): Not applicable. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

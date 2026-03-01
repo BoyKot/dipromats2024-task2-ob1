@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US is beginning to recognize the scientific merit of Russia’s Sputnik V vaccine, highlighting its pioneering use of heterologous (mixed) doses. Evaluation per narrative: RU1 (West immoral/hostile): The tweet notes the US is \"quietly\" recognizing Sputnik V’s approach but does not depict the West as immoral or hostile; no moral condemnation, so not RU1. RU2 (Russia leads an alternative system): The tweet is about vaccine technology, not geopolitical or multilateral systems; not RU2. RU3 (Russia benevolent partner): No emphasis on partnership, peace, or solidarity; not RU3. RU4 (Russian history admirable): Not about historical contributions; not RU4. RU5 (Russia at the world’s forefront): It explicitly positions Sputnik V as a pioneer and superior approach (heterogeneous boosting), implying Russian scientific leadership; this fits RU5. RU6 (culture/nature): Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

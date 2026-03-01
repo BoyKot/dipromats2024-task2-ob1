@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that the U.S. is committed to protecting human rights and promoting accountability for spoilers of South Sudan’s peace process, urging credible leaders to compromise for peace. Evaluation by narrative: US1 (honorable tradition) – Not explicit; the tweet speaks to current commitment, not historical legacy or tradition. US2 (admirable society) – Not applicable; no mention of U.S. society, groups, or heroes. US3 (hostile enemies) – Partially adjacent (mentions 'spoilers'), but it does not frame them as enemies of the U.S. or as immoral adversaries; focus is on accountability in a peace process, so this does not clearly fit. US4 (force for good) – Yes; it highlights U.S. support for human rights, accountability, and peacebuilding in South Sudan. US5 (great international ally) – Not explicit; no emphasis on support for a specific ally or praising an allied country. US6 (at the forefront) – Not applicable; no claim of U.S. leadership or superiority in domains like economy/tech/military. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

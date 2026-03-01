@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports that Russia and Turkey conducted their first joint patrol along a security corridor in Idlib, as part of a ceasefire agreed by Putin and Erdogan, and tags the Russian MoD. Evaluation: RU1 (West immoral/hostile) – not mentioned or implied. RU2 (Russia leads an alternative system) – partially relevant: it highlights non-Western cooperation (Russia–Turkey) implementing a ceasefire and joint patrols, suggesting multilateral action outside Western frameworks; while not explicit, it fits the theme of promoting cooperation beyond Western influence. RU3 (Russia is a benevolent partner) – implicitly supported: the tweet presents Russia as implementing a ceasefire and conducting joint patrols to maintain security, framing a peace-supporting, responsible role. RU4 (Russian history admirable) – not relevant. RU5 (Russia at the world’s forefront) – not claimed. RU6 (culture/nature) – not relevant. Conclusion: RU2 and RU3 are promoted.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

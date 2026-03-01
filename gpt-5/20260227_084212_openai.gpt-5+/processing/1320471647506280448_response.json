@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet emphasizes China's long history, long-term thinking (hundred-year horizon), and the 'two centenary goals' as a concrete, achievable national plan, asking others to trust China. Evaluation: CH1 (West immoral/hostile): Not addressed; no mention of the West. CH2 (China as benevolent power): The tweet does not discuss international cooperation, peace, or multilateralism; not applicable. CH3 (China has an epic history): It explicitly invokes China's long history and frames long-term national goals, suggesting historical continuity and resilience; aligns with this narrative. CH4 (appropriate political system and honorable values): It implies confidence in national planning but does not explicitly advocate China's political system or values/domestic governance as morally superior; weak/insufficient. CH5 (CCP government succeeds): It references achieving the two centenary goals (a CCP-led agenda) and presents them as a real, achievable national plan, implying effective governance and success orientation; aligns with this narrative. CH6 (culture/nature/heritage): Not applicable. Final determination: CH3 and CH5.",
+    "narrative_ids": ["CH3", "CH5"]
+  }
+}

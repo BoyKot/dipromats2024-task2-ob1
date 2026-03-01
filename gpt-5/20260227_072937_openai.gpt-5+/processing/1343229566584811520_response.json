@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the US and NATO of committing armed aggression in Libya in 2011 that destroyed the country's infrastructure and statehood, and asserts that Russia has actively engaged in international efforts to resolve the ensuing crisis. Evaluation by narrative: RU1 (The West is immoral/hostile): Yes. The tweet frames the US and NATO as aggressors responsible for Libya’s destruction, depicting them as hostile and harmful actors. RU2 (Russia leads an alternative system): Partially implied via 'various multilateral platforms,' but the tweet does not highlight an alternative system or non-Western cooperation per se; it's more about participation than leading an alternative order, so not a clear fit. RU3 (Russia is a benevolent partner): Yes. It presents Russia as actively helping to resolve the crisis through international efforts, positioning Russia as a constructive mediator/partner. RU4 (Russian history is admirable): Not relevant. RU5 (Russia at the world’s forefront): Not asserted. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU1 and RU3.",
+    "narrative_ids": ["RU1", "RU3"]
+  }
+}

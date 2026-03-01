@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the 1654 Pereyaslav Rada, claiming it led to the reunification of Russia and Ukraine and asserting an enduring shared destiny, traditions, culture, and language. Evaluation by narrative: RU1 (West immoral/hostile): Not addressed; no mention of the West or hostility. RU2 (Russia leads alternative system): Not present; no reference to multilateralism or alternative global order. RU3 (Russia benevolent partner): Not explicit; while it implies closeness between Russia and Ukraine, it doesn’t frame Russia as promoting peace or development. RU4 (Russian history is admirable): Yes; it positively frames a historical event as “historic” and emphasizes reunification and shared heritage, portraying Russian historical narrative as significant and positive. RU5 (Russia at the world’s forefront): Not present; no current achievements. RU6 (Russia interesting in culture/nature): Partially cultural, but the focus is historical-political unity rather than promoting tourism or cultural attractions; therefore not applicable. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

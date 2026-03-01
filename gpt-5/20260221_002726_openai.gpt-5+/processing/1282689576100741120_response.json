@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet ridicules U.S. accusations that TikTok sends data to the Chinese military/CCP, calls those claims baseless lies, and portrays the U.S. as hypocritical and fragile for fearing a youth-oriented app. Evaluation per narrative: CH1 (The West is immoral, hostile and decadent): Yes. The tweet depicts the U.S. as hypocritical (boasting of values yet acting out of fear), spreading lies, and being fragile—framing the West/US negatively and implicitly casting China/TikTok as an unjustly targeted victim. CH2 (China is a benevolent power): No explicit portrayal of China as cooperative or upholding international norms; it’s more a defense against accusations. CH3 (China has an epic history): Not referenced. CH4 (China has an appropriate political system and honorable values): Not addressed; no praise of China’s domestic system or values. CH5 (The government of the CCP succeeds): Not discussed. CH6 (China is interesting culturally): Not relevant. Conclusion: The tweet promotes CH1.",
+    "narrative_ids": ["CH1"]
+  }
+}

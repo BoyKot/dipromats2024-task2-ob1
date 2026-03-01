@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet factually commemorates the 1898 opening of the State Russian Museum in St. Petersburg and highlights it as the world’s largest collection of Russian fine art, spanning all periods and trends of Russian art. Evaluation: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (alternative system): Not applicable; no mention of systems or multilateralism. RU3 (benevolent partner): Not applicable; no partnership or mediation claims. RU4 (Russian history is admirable): Yes; it praises Russia’s historical cultural achievements by emphasizing the museum’s scale and comprehensive coverage of Russian art history, implying national cultural prestige. RU5 (world’s forefront): Partially suggested by “world’s largest,” but context is heritage, not contemporary leadership across domains; this is more cultural-historical than present-day forefront, so not a fit. RU6 (interesting culture/nature/heritage): Yes; it promotes Russian culture and heritage by spotlighting a major cultural institution and its extensive collection. Conclusion: RU4 and RU6.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Praise for Chinese medical heroes and national unity in defeating COVID-19, with a pledge that China will unite with international partners to defeat the virus, quoting People's Daily about Wuhan's last makeshift hospital closing. CH1: No criticism of the West; not promoted. CH2: Yes—emphasizes cooperation with international partners and a united effort against a global threat, aligning with China's benevolent, multilateral stance. CH3: No historical arc or past adversity beyond the immediate pandemic; not promoted. CH4: Implicitly positive about Chinese values (unity/solidarity) but does not explicitly advocate the political system or governance values domestically; insufficient for CH4. CH5: Suggests success in defeating COVID-19 (closure of last makeshift hospital) and effective response, reflecting CCP government success; promoted. CH6: Not about culture/nature/heritage; not promoted. Final determination: CH2 and CH5.",
+    "narrative_ids": ["CH2", "CH5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises how American popular culture (Star Trek) helps build cross-border connections, highlighting a Cameroonian journalist bonding with a U.S. fan. Evaluation per narrative: US1 (honorable tradition) – Not supported; no reference to U.S. historical traditions or legacy. US2 (admirable society) – Partially aligned as it positively portrays U.S. popular culture and social connection, but it focuses more on culture than on ethnic groups, civil society, companies, or heroes; still, it promotes a favorable image of American society fostering community, so it applies. US3 (hostile enemies) – Not relevant. US4 (force for good) – Not applicable; no mention of human rights or aid. US5 (great international ally) – Not applicable; no ally relations or support mentioned. US6 (at the forefront) – Not applicable; no leadership in domains like tech/economy asserted. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates 1944 events, claiming the Red Army, including Estonian units, liberated Tallinn from Nazi occupation, welcomed joyfully by locals. Evaluation: RU1 (West immoral/hostile) – Not applicable; the tweet targets Nazis, not \"the West\" broadly or its allies. RU2 (Russia leads alternative system) – Not present; no mention of multipolarity or systems. RU3 (Russia is a benevolent partner) – Partially related in spirit but not framed as partnership or contemporary benevolence; it's a historical liberation, not cooperation. RU4 (Russian history is admirable) – Yes; it glorifies Soviet/Red Army historical role in liberating Tallinn and portrays it positively and heroically. RU5 (Russia at the world’s forefront) – Not present; no current achievements. RU6 (Russia culture/nature/heritage) – Not applicable; it's a wartime historical claim, not cultural promotion. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

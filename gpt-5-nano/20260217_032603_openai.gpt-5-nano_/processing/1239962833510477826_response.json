@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet describes EU funding to accelerate vaccine development and production, explicitly highlighting benefits to Europe and globally; this aligns with the EU2 (unity) by showing collective action, EU3 (useful for citizens) through direct health benefits, and EU6 (global contribution) due to global lifesaving impact. It does not emphasize EU's historical narrative (EU1), regulatory leadership (EU4), or advocacy of rights (EU5).",
+    "narrative_ids": ["EU2", "EU3", "EU6"]
+  }
+}

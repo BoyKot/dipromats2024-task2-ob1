@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov claims radicals in Idlib repeatedly violate the ceasefire, attack Syrian and civilian targets and a Russian base; therefore, such provocations must be answered, and Russia supports the Syrian army’s efforts to suppress them. Evaluation per narrative: RU1 (West immoral/hostile) – Not invoked; no mention of the West or its allies. RU2 (Russia leads an alternative system) – Not present; no reference to multilateralism or alternative orders. RU3 (Russia is a benevolent partner) – Partially fits: Russia is framed as responsibly supporting the Syrian army against radicals and protecting civilians/its base, aligning with a peace-and-security-justification and portraying Russia as a supportive, responsible actor. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Not relevant. RU6 (Russia’s culture/nature) – Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

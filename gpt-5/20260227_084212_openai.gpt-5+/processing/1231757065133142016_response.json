@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that the United States supports the people of Venezuela, the democratically elected National Assembly, and interim President Juan Guaidó, highlighting U.S. backing during his visit. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoked; no reference to historical legacy or traditions. US2 (admirable society) – Not about U.S. society or groups; not applicable. US3 (hostile enemies) – No adversary is identified or condemned; not applicable. US4 (force for good) – Yes; it portrays the U.S. as standing with oppressed people and democratic institutions in Venezuela, aligning with support for human rights and freedoms. US5 (great international ally) – Partly applicable; it emphasizes unwavering U.S. support for an allied democratic movement/leadership abroad, fitting the ally-support framing. US6 (at the forefront) – No claims of leadership in domains like economy/tech; not applicable. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

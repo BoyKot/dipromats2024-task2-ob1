@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that EU values, particularly the rule of law, define EU identity; it acknowledges challenges but highlights a Commission report that helps identify gaps, prevent breaches, and find solutions with national authorities. Evaluation: EU1 (successful story) – Implicitly positive about EU identity and learning/improving, but focus is present mechanisms rather than historical success; partial fit but not primary. EU2 (united) – Mentions working together with national authorities, suggesting coordination, but does not emphasize unity or reaching agreements; weak fit. EU3 (useful for its citizens) – Strong fit: it presents a concrete EU instrument (the report) that proactively identifies gaps, prevents breaches, and finds solutions, showcasing practical benefits and responsiveness within the EU. EU4 (avant-garde) – Could tangentially imply high standards, but no explicit pioneering regulation claim; not supported. EU5 (global champion of fair causes) – Focus is internal rule of law, not global advocacy; not supported. EU6 (better world) – Not about external/global contributions; not supported. Conclusion: The tweet primarily promotes EU3; others are not sufficiently supported.",
+    "narrative_ids": ["EU3"]
+  }
+}

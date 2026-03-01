@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the U.S. reaffirmed its steadfast commitment to Israel’s security and is coordinating closely on regional security, including regarding Iran. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to values or historical legacy. US2 (admirable society) – Not relevant; no mention of society, diversity, or heroes. US3 (hostile enemies) – Indirectly references a threat by mentioning Iran in a security context, but it does not characterize Iran as immoral or hostile; focus is on cooperation with an ally, so this is not clearly promoted. US4 (force for good) – Security cooperation could imply contributing to regional security, but the tweet does not frame it in moral/human-rights terms; insufficient to claim this narrative. US5 (great international ally) – Clearly promoted: “steadfast commitment to our ally Israel’s security” and ongoing strategic cooperation directly emphasize unwavering support for an ally. US6 (at the forefront) – No claim of U.S. leadership or superiority; not applicable. Conclusion: The tweet promotes US5.",
+    "narrative_ids": ["US5"]
+  }
+}

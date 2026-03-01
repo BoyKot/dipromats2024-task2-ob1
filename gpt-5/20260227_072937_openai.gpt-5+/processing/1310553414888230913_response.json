@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces a statement by President Vladimir Putin proposing a comprehensive program to restore Russia–US cooperation on international information security, tagged to the Russian MFA. Evaluation per narrative: RU1 (West immoral/hostile): Not promoted; there is no criticism of the West or depiction of hostility/decadence. RU2 (Russia leads an alternative system): Partially related to multilateralism, but the tweet focuses on bilateral Russia–US cooperation within an existing domain, not on leading an alternative non-Western system; thus not supported. RU3 (Russia is a benevolent partner): Yes—positioning Russia as advancing cooperation and constructive measures in international information security frames Russia as a cooperative, peace-oriented partner. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the world’s forefront): No explicit claim of superiority or success. RU6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

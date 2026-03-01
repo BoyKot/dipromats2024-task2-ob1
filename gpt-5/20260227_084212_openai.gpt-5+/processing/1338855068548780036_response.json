@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Celebrates a high-profile endorsement of Russia’s Sputnik V vaccine, highlighting that Oscar-winning filmmaker Oliver Stone received it and framing it as a victory. Evaluation: RU1 (West immoral/hostile/decadent) – Not present; no criticism of the West. RU2 (Russia leads an alternative system) – Implicitly positions a Russian-made vaccine as a credible alternative, but the tweet doesn’t mention systems, multilateralism, or non‑Western cooperation; too weak to claim. RU3 (Russia is a benevolent partner) – Not about partnership, peace, or aid; no. RU4 (Russian history admirable) – Not historical; no. RU5 (Russia at the world’s forefront) – Yes: showcases current Russian scientific/technological success via Sputnik V and a prestigious figure’s uptake, framed as a ‘victory’. RU6 (Russia interesting culturally/naturally) – Not relevant. Conclusion: RU5 fits.",
+    "narrative_ids": ["RU5"]
+  }
+}

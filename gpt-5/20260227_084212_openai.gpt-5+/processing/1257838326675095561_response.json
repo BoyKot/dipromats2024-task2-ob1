@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Triumphalist, patriotic pledge to defeat a virus and achieve national greatness through uniquely American qualities. Evaluation: US1 (honorable tradition) – implied invocation of enduring American virtues (“American heart, hands, pride, soul”) suggests legacy/tradition; supports US1. US2 (admirable society) – emphasizes collective national character and pride but does not highlight specific groups, civil society, companies, or heroes; not a clear fit. US3 (hostile enemies) – mentions a virus, which is not a moral or geopolitical adversary; not applicable. US4 (force for good) – no reference to human rights, aiding others, or international benevolence; not applicable. US5 (great international ally) – no mention of allies; not applicable. US6 (at the forefront) – tone of greatness and glory could imply leadership, but no explicit claim about leading domains or superiority; too vague to code as US6. Conclusion: The tweet promotes US1.",
+    "narrative_ids": ["US1"]
+  }
+}

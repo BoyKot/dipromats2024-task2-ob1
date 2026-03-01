@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights that a Russia-sponsored UN resolution against glorification of Nazism was approved, with only the US and Ukraine opposing it, and tags like #Victory75 #WeRemember evoke WWII memory. Evaluation: RU1 (West immoral/hostile): Implicitly portrays the US (and Ukraine) as opposing an anti-Nazism resolution, casting them negatively and suggesting moral hostility; this aligns with RU1. RU2 (Russia leads alternative system): The tweet shows Russia sponsoring a UN resolution gaining broad support (opposed by only two), implying Russia’s leadership in a fairer, multilateral initiative; this supports RU2. RU3 (Russia benevolent partner): By sponsoring a resolution combating glorification of Nazism, Russia is framed as promoting a just moral cause, fitting RU3. RU4 (Russian history admirable): The hashtags #Victory75 and #WeRemember reference Soviet/Russian WWII victory and memory culture, valorizing Russian historical role; aligns with RU4. RU5 (world’s forefront): Not about contemporary achievements broadly; not applicable. RU6 (culture/nature/heritage): Not applicable. Conclusion: RU1, RU2, RU3, and RU4 are promoted.",
+    "narrative_ids": ["RU1", "RU2", "RU3", "RU4"]
+  }
+}

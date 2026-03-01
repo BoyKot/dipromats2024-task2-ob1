@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports President Trump meeting Arizona’s governor to discuss COVID-19 and claims the federal government worked closely with the state to protect vulnerable people, surge testing, and provide medical supplies and personnel. Evaluation: US1 (honorable tradition) – Not invoked; no reference to historical legacy or traditions. US2 (admirable society) – Not applicable; no focus on ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies) – Not present; no adversary is identified. US4 (force for good) – Partially aligns: it portrays the US government as helping protect vulnerable populations and delivering aid during a crisis, which fits supporting welfare and security. US5 (great international ally) – Not applicable; cooperation is domestic (federal-state), not international. US6 (at the forefront) – Not explicitly; no claim of leadership or superiority, just cooperation and support. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

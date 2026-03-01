@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Lavrov claims Russia, China, and their allies do not form friendships 'against someone,' asserting their partnerships are not oppositional but principled, implying a cooperative, non-confrontational stance. Evaluation by narrative: RU1 (West immoral/hostile): The tweet does not attack the West or label it immoral; no direct criticism is present, so not RU1. RU2 (Russia leads an alternative system): The statement contrasts Russia/China’s approach with bloc politics and suggests a principled, inclusive, and cooperative model outside oppositional alignments, aligning with a multipolar, non-West-centric cooperation narrative; thus RU2 applies. RU3 (Russia is a benevolent partner): Portrays Russia as engaging in genuine friendship not aimed against others, implying benevolence and reliability in partnerships; this fits RU3. RU4 (Russian history admirable): Not referenced. RU5 (Russia at the forefront): No claim of current successes. RU6 (culture/nature): Not relevant. Conclusion: RU2 and RU3 are promoted.",
+    "narrative_ids": ["RU2", "RU3"]
+  }
+}

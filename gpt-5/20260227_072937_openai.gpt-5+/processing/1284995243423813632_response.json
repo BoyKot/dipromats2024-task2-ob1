@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that China is a steadfast supporter and practitioner of multilateralism, backs the UN’s authority, and outlines proposals emphasizing multilateralism, democracy in international relations, international law, and solidarity. Evaluation: CH1 (West immoral/hostile): Not present; the tweet does not criticize the West or portray China as a victim. CH2 (China is a benevolent power): Yes; it highlights China’s cooperative, rules-based, multilateral stance, support for the UN, international law, and global solidarity—classic benevolent international role framing. CH3 (Epic history): Not mentioned. CH4 (Appropriate political system and honorable values): Not applicable; the focus is international conduct, not domestic system or values. CH5 (CCP government succeeds): No claims about domestic development or governance performance. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

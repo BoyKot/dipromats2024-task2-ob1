@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims that Iran used funds received from the previous U.S. administration to engage in terrorism, portraying Iran as aggressively hostile. Evaluation by narrative: US1 (honorable tradition) – not referenced. US2 (admirable society) – not referenced. US3 (US has hostile enemies) – supported, as Iran is depicted as a terror sponsor and threat. US4 (US is a force for good) – not asserted. US5 (great international ally) – not mentioned. US6 (at the forefront) – not mentioned. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

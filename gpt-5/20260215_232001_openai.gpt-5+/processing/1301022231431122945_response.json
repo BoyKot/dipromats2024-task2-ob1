@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet quotes a Chinese spokesperson asserting that the US engages in intimidation, lies, and sanctions, and derides the notion that a young country like the US can change China, which is framed as having a 4,000-year political civilization. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Supported. The tweet portrays the US as hostile and immoral (intimidation, lies, sanctions) and positions China as the target of such behavior. CH2 (China is a benevolent power): Not supported; no claims about China's cooperative international behavior or multilateralism. CH3 (China has an epic history): Partly implied and supported. The emphasis on China's 4,000-year political civilization highlights China’s long, resilient historical identity, a key element of this narrative. CH4 (China has an appropriate political system and honorable values): Not explicitly supported; while China's political civilization is mentioned, there is no direct advocacy of the current political system’s virtues or values. CH5 (The government of the Chinese Communist Party succeeds): Not addressed. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH1 and CH3.",
+    "narrative_ids": ["CH1", "CH3"]
+  }
+}

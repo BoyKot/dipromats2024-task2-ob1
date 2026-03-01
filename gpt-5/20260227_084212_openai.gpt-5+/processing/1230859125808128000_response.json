@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet congratulates Latvia on a positive FATF outcome and states that the USA remains a committed partner in fighting corruption. Evaluation by narrative: US1 (honorable tradition) – not invoked; no reference to US historical legacy or feats. US2 (admirable society) – not relevant; no mention of societal groups or heroes. US3 (hostile enemies) – not applicable; no adversary is identified. US4 (force for good) – partially aligned, as anti-corruption support reflects promoting good governance and integrity, but the emphasis is more on partnership than broad human rights/peace framing. US5 (great international ally) – clearly promoted: the USA is presented as a “committed partner” to Latvia, praising Latvia’s achievement and reaffirming support. US6 (at the forefront) – not present; no leadership/primacy claim. Final determination: Strongly US5; US4 is reasonably implied through anti-corruption support.",
+    "narrative_ids": ["US5", "US4"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A factual, heritage-focused statement about the Great Wall’s World Heritage inscription and its historical construction length and purpose, tagged #WorldHeritageinChina.\nEvaluation:\n- CH1 (West immoral/hostile): No mention of the West or adversarial framing.\n- CH2 (China benevolent power): No references to international cooperation, law, or multilateralism.\n- CH3 (China has an epic history): It highlights a long historical timeline and monumental construction across dynasties, but does not reference resilience, adversity, or CCP-linked overcoming; still, it showcases China’s vast, enduring historical legacy. Marginal fit but consistent with celebrating epic history.\n- CH4 (appropriate political system/values): No political system or values discussion.\n- CH5 (CCP succeeds): No mention of contemporary governance or achievements.\n- CH6 (China’s culture/nature/heritage): Directly promotes a world heritage site and cultural-historical significance.\nConclusion: The tweet promotes CH6 clearly; CH3 is also supported by emphasizing China’s long, monumental historical legacy.",
+    "narrative_ids": ["CH3", "CH6"]
+  }
+}

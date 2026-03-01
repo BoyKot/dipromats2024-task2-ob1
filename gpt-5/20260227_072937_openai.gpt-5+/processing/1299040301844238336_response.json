@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates Russia’s Film Day, praising 101 years of Russian cinema from Imperial and Soviet eras to modern films, citing Eisenstein, Tarkovsky, Night Watch, and Legend No. 17. Evaluation per narrative: RU1 (West immoral/hostile): Not referenced; no comparison or criticism of the West. RU2 (Russia leads an alternative system): No mention of international systems or multilateralism. RU3 (Russia benevolent partner): No reference to partnerships or aid. RU4 (Russian history is admirable): Yes—highlights the long, influential tradition of Russian cinema across historical periods and iconic figures, portraying national cultural history as rich and worthy of exploration. RU5 (Russia at the world’s forefront): While it lists notable films/directors, it does not claim current superiority or leadership; focus is celebratory/historical rather than asserting forefront status. RU6 (Russia interesting in culture/nature/heritage): Partially relevant as cultural promotion, but the narrative emphasizes broader culture/nature/heritage and tourism; this tweet is specifically about film history. Still, it showcases cultural richness, which fits RU6’s cultural dimension. Conclusion: Promotes RU4 clearly; RU6 also applicable due to cultural celebration.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes a revised EU multiannual budget and Recovery Plan aligned with EU priorities: climate transition, digital agenda, European values, and a stronger Europe in the world, with hashtags #EUCO #StrongerTogether. Evaluation per narrative: EU1 (EU is a successful story) — Not explicitly; it does not reference past successes or historical trajectory. EU2 (EU is united) — Implicitly suggested by #StrongerTogether and an EU-wide budget/recovery plan, indicating collective action and cohesion; promotes unity. EU3 (EU is useful for its citizens) — Yes, by highlighting concrete priorities (climate, digital, values) within the EU budget/recovery plan, implying practical benefits and responsiveness to citizens’ needs. EU4 (EU as avant-garde) — Yes, prioritizing climate transformation and digital agenda positions the EU as a pioneer addressing future challenges. EU5 (EU global champion of fair causes) — Partly suggested by “European values,” but not specifically framed around human rights leadership globally; insufficient. EU6 (EU contributes to a better world) — “A stronger Europe in the world” hints at external role, but lacks concrete claims of global contribution; insufficient. Final determination: EU2, EU3, EU4.",
+    "narrative_ids": ["EU2", "EU3", "EU4"]
+  }
+}

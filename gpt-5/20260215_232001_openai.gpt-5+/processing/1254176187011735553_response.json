@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights U.S. government efforts during COVID-19 to repatriate over 65,000 Americans from 110 countries via 550+ flights, emphasizing ongoing commitment to help families reunite. Evaluation:\n- US1 (honorable tradition): Not invoked; no reference to legacy, founding values, or historical tradition.\n- US2 (admirable society): Not focused on social groups, civil society, companies, or military heroes.\n- US3 (hostile enemies): No adversary mentioned.\n- US4 (force for good): Yes. It portrays the U.S. helping its citizens and facilitating humanitarian outcomes (reuniting families) during a global crisis, framing the U.S. as performing benevolent, protective actions.\n- US5 (great international ally): No mention of allies or support to other countries.\n- US6 (at the forefront): Implicit operational scale is noted, but there is no explicit leadership/primacy framing. Primary thrust is humanitarian assistance, not leadership status.\nConclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

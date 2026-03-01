@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet updates on the EU’s COVID-19 vaccine status—vaccines under rolling review, one under EMA evaluation for conditional authorization, three already authorized and in use, and securing 300 million more Moderna doses—framed as #SafeVaccines. Evaluation per narrative: EU1 (successful story): Implicitly positive but focused on current operational progress rather than historic success/overcoming past traumas; weak fit, not clearly promoted. EU2 (EU is united): No explicit mention of unity or solidarity among member states; not promoted. EU3 (EU is useful for its citizens): Strong fit—highlights concrete, timely EU actions (regulatory reviews, EMA evaluation, authorizations, procurement of extra doses) that address citizens’ health needs, showing practical, proactive policy delivery within the EU. EU4 (avant-garde actor): While competent regulation is shown, there’s no claim of pioneering or leadership; not promoted. EU5 (global champion of fair causes): Not relevant. EU6 (contributes to a better world): Focus is internal, not on global impact; not promoted. Conclusion: The tweet promotes EU3.",
+    "narrative_ids": ["EU3"]
+  }
+}

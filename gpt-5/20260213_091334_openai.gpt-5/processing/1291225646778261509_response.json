@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet recalls the 1945 U.S. nuclear bombing of Hiroshima, emphasizes civilian casualties, and highlights that the U.S. is the only country to have used nuclear weapons. Evaluation by narrative: RU1 (West immoral/hostile): The tweet implicitly portrays the U.S. (the West) as uniquely culpable and morally blameworthy for using weapons of mass destruction against civilians, fitting the depiction of the West as immoral/hostile. RU2 (Russia leads alternative system): No mention of Russia offering an alternative order or multilateralism. RU3 (Russia benevolent partner): No claim about Russia’s benevolence or partnership. RU4 (Russian history admirable): Focus is on U.S./Hiroshima, not Russian historical achievements. RU5 (Russia at the world’s forefront): No current Russian successes referenced. RU6 (Russia culture/nature): Not applicable. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

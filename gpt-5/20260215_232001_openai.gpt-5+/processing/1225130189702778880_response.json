@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet alleges that Estonian security police and security services killed at least 3,000 Soviet people during the occupation of Pskov (referencing Moglino Camp), tagged with WWII-related hashtags. Evaluation: RU1 (West and allies immoral/hostile): The tweet portrays Estonia (a Western-aligned country) as perpetrating mass killings of Soviet people, implying hostility and immorality. Though historical/WWII context, it assigns blame to Estonia, aligning with RU1’s depiction of Western allies as hostile toward Russians/Soviets. RU2 (Russia leads alternative system): No content about multilateralism or alternative systems. RU3 (Russia benevolent partner): No mention of Russia’s cooperative or benevolent actions. RU4 (Russian history is admirable): The tweet does not praise Soviet/Russian heroism or achievements; it focuses on victimization, not admiration. RU5 (Russia at the world’s forefront): No current success claims. RU6 (Russia culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

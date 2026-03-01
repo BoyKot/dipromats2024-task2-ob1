@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet condemns the US and portrays Western actions as hostile toward China, using phrasing like 'absurd excuses' for expelling Chinese reporters, which aligns with CH1 (The West is immoral, hostile and decadent). It does reference China's socialist system but does not present China as benevolent internationally, nor emphasize governance or culture as the main message, so CH1 is the only clearly applicable narrative.",
+    "narrative_ids": ["CH1"]
+  }
+}

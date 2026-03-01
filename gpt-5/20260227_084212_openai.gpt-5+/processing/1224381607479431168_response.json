@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A Chinese spokesperson urges calm, science-based judgments, promises transparency and cooperation with WHO and the world, and asserts confidence and capability to win the battle quickly. Evaluation by narrative: CH1 (West immoral/hostile): Not present; no criticism of the West. CH2 (China is a benevolent power): Yes; emphasizes cooperation with WHO and the world, openness, responsibility, and collaborative stance—fits China as cooperative and supportive of multilateralism. CH3 (epic history): Not referenced. CH4 (appropriate political system/values domestically): Indirectly mentions values like transparency and responsibility, but framed in international cooperation rather than domestic system; insufficient for CH4. CH5 (CCP government succeeds): The claim of “confidence & capability in winning this battle ASAP” implies competence and effectiveness; this aligns with portraying government success in handling crises. CH6 (culture/nature/heritage): Not relevant. Final determination: CH2 and CH5.",
+    "narrative_ids": ["CH2", "CH5"]
+  }
+}

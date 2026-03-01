@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights historical items from 1945—Soviet Embassy bulletin and a US State Department release—celebrating the Red Army/Navy, Allied comradeship, and the Yalta Conference, tagged with WWII-related hashtags and 'TruthAboutWWII'/'Victory75'. Evaluation by narrative: RU1 (West immoral/hostile): Not promoted; the tweet highlights comrades-in-arms with the US/UK/France, implying cooperation, not hostility. RU2 (Russia leads alternative system): Not applicable; no mention of alternative systems or multipolarity. RU3 (Russia benevolent partner): Partially implied through 'Comrades-In-Arms' framing Soviet/Allied cooperation and shared victory, presenting the USSR/Russia as a reliable wartime partner. RU4 (Russian history is admirable): Yes; it celebrates the Red Army/Navy and WWII victory/heritage, aligning with glorification of Russian/Soviet historical contributions. RU5 (Russia at the forefront): Not present; no current achievements. RU6 (Interesting culture/nature): Not relevant. Conclusion: RU4 clearly applies; RU3 is also supported by the emphasis on allied cooperation.",
+    "narrative_ids": ["RU4", "RU3"]
+  }
+}

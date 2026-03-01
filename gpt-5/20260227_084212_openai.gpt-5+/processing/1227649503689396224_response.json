@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. Assistant Secretary states the U.S. will urge countries involved in Libya to pursue a peaceful resolution, framing peace as the only viable path to end the conflict. Evaluation by narrative: US1 (honorable tradition): Not invoked; no reference to U.S. historical legacy or tradition. US2 (admirable society): Not relevant; no mention of society, diversity, or civil actors. US3 (hostile enemies): No adversary is identified or condemned. US4 (force for good): Yes; the U.S. positions itself as advocating for peace in Libya, implying a constructive, peace-promoting role. US5 (great international ally): Not explicit; while it addresses other countries, it doesn’t emphasize alliance support or praise specific allies. US6 (at the forefront): Not applicable; no claim of leadership or superiority beyond advocating peace. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

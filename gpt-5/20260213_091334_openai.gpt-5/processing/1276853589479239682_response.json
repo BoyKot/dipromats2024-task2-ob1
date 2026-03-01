@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet positively describes Petrozavodsk’s location and highlights its neoclassical architecture and waterfront, presenting it as an interesting Russian city. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads alternative system): Not addressed; no mention of multilateralism or alternatives to Western order. RU3 (Russia benevolent partner): Not applicable; no claims about partnership or diplomacy. RU4 (Russian history admirable): While architecture can imply heritage, the tweet does not frame historical achievements or broader historical admiration; it’s a descriptive travel-style note. RU5 (Russia at the world’s forefront): No contemporary success claims. RU6 (Russia interesting in culture/nature/heritage): Yes; it promotes Russian cultural heritage and scenic qualities of a city as interesting and unique. Conclusion: The tweet promotes RU6 only.",
+    "narrative_ids": ["RU6"]
+  }
+}

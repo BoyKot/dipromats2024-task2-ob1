@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces and honors Black History Month, recognizing achievements of African Americans and promising daily features of notable individuals. US1: Partially related to history, but the focus is on honoring a community’s achievements rather than showcasing a broad, honorable national tradition or historical feats of the country itself; insufficient to claim US1. US2: Yes—explicitly promotes a component of U.S. society (African Americans), celebrating their achievements and role in U.S. history, matching the example given. US3: No mention of enemies. US4: No claim about U.S. advancing human rights abroad or being a force for good; it’s commemorative, domestic. US5: No reference to allies. US6: No leadership/forefront framing. Conclusion: The tweet promotes US2 only.",
+    "narrative_ids": ["US2"]
+  }
+}

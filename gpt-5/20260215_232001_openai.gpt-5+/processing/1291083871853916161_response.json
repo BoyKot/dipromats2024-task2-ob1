@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet highlights an online meeting with the South Korean ambassador and praises China–ROK mutual support during COVID-19 as an example of international cooperation. Evaluation by narrative: CH1 (West immoral/hostile) – Not present; no mention of the West or criticism. CH2 (China is a benevolent power) – Supported; the tweet frames China as cooperative and mutually supportive internationally, showcasing positive, collaborative behavior during COVID-19. CH3 (epic history) – Not relevant; no historical framing. CH4 (appropriate political system/values, domestically) – Not present; no discussion of China's domestic system or values. CH5 (CCP government succeeds) – Not explicit; no claims about domestic achievements or leadership supremacy. CH6 (culture/nature/heritage) – Not relevant. Conclusion: The tweet promotes CH2.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that the U.S. State Department will impose visa restrictions on individuals facilitating human rights abuses, including employees of Chinese tech firms supplying surveillance tools to repressive regimes. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoking U.S. historical legacy or traditions; no. US2 (admirable society) – Not about U.S. society, groups, or heroes; no. US3 (hostile enemies) – It labels certain actors (abusers, repressive regimes, facilitating Chinese tech employees) as immoral/abusive, but the focus is on policy action rather than framing them as a direct threat to the U.S.; partial fit but not clearly the narrative’s core of “hostile enemies,” so no. US4 (force for good) – Yes; it highlights U.S. action defending human rights and opposing repression, showcasing support for freedoms through sanctions. US5 (great international ally) – No mention of allies or support to a partner; no. US6 (at the forefront) – Not about leadership in economy/tech/military per se; no. Conclusion: The tweet promotes US4.",
+    "narrative_ids": ["US4"]
+  }
+}

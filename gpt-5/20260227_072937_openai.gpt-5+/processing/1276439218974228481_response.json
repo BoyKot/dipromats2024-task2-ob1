@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates the UN’s 75th anniversary, linking the EU and UN as born from the same post-war choice for cooperation, dialogue, peace, and unity. It portrays the EU as a pillar of multilateralism and a staunch supporter of the UN Charter. Evaluation: EU1 (EU is a successful story): Yes. It invokes post-war devastation and frames the EU’s birth from dialogue, peace, and unity, implying a successful historical trajectory rooted in lessons from past conflicts. EU2 (EU is united): Partially implied by words like unity, but it does not emphasize current intra-EU unity or agreement; focus is historical identity, so not strong enough. EU3 (useful for its citizens): No mention of policies improving citizens’ lives. EU4 (avant-garde actor): No claims of pioneering regulation or leadership in future challenges. EU5 (global champion of fair causes): It stresses support for UN Charter and multilateralism, but not specifically democracy/human rights leadership; thus not this. EU6 (EU contributes to a better world): Yes. It explicitly positions the EU as a pillar of multilateralism and supporter of the UN, highlighting its role in global cooperation and peace. Conclusion: EU1 and EU6.",
+    "narrative_ids": ["EU1", "EU6"]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Zakharova condemns vandalism of a Soviet war memorial in Poland, blaming it on Warsaw’s alleged policy of rewriting WWII history and denying the Red Army’s liberating role.\nEvaluation by narrative:\n- RU1 (West and allies are immoral/hostile/decadent): The tweet portrays Poland (a Western ally) as promoting historical negationism that leads to vandalism against a Soviet memorial, implying hostile and immoral behavior toward Russia’s legacy. This aligns with RU1.\n- RU2 (Russia leads an alternative system): No mention of alternative systems, multilateralism, or non-Western cooperation. Not supported.\n- RU3 (Russia is a benevolent partner): The tweet is accusatory, not highlighting Russia’s benevolence or partnership. Not supported.\n- RU4 (Russian history is admirable): By defending the Red Army’s “liberating role” in WWII and condemning its negation, the tweet implicitly upholds and valorizes Russian/Soviet historical contributions. This supports RU4.\n- RU5 (Russia at the forefront): No claims about current successes. Not supported.\n- RU6 (Russia’s culture/nature/heritage): Not a cultural or tourism promotion. Not supported.\nConclusion: The tweet promotes RU1 and RU4.",
+    "narrative_ids": [
+      "RU1",
+      "RU4"
+    ]
+  }
+}

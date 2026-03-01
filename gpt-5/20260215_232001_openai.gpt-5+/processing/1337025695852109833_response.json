@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet defends China's right to present its version of facts and to safeguard its sovereignty, security, development interests, and dignity, while implying others are slandering and maligning China. Evaluation by narrative: CH1: Applicable. The tweet implies hostile slander by unnamed others (implicitly the West) against China and frames China as a victim needing to defend itself, fitting the depiction of the West as hostile and China as maligned. CH2: Not directly. It does not highlight benevolence, multilateralism, or global public goods; it is defensive, not cooperative. CH3: Not present. No historical framing or resilience over time. CH4: Partially adjacent but not explicit. It asserts China's right to defend sovereignty and dignity, but does not advocate its political system or values domestically; thus not a clear fit. CH5: Not present. No claims about CCP governance success or development achievements. CH6: Not relevant. Conclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

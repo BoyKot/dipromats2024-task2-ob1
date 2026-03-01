@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes positive testimonials about Sputnik V vaccinations in Argentina, inviting users to see what vaccinated Argentinians say. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads alternative system): Implicit international uptake could suggest alternatives to Western vaccines, but the tweet does not frame it as an alternative system or multilateral order—so not supported. RU3 (Russia benevolent partner): It hints at Russia providing a helpful vaccine abroad, but there’s no explicit framing of partnership, peace, or solidarity—evidence is weak. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the world’s forefront): Showcasing international use and positive stories of Sputnik V aligns with presenting Russian scientific/technological success; this fits RU5. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU5.",
+    "narrative_ids": ["RU5"]
+  }
+}

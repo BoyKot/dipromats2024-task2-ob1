@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet thanks a Kenyan governor for a welcome in Kisumu and states that the European Union is a trusted partner in devolution, supporting on-the-ground actions, tagged with #EUCovid19ResponseKE and Kenya Red Cross. Evaluation by narrative: EU1 (EU successful story) – Not invoked; no reference to EU history or overcoming internal obstacles. EU2 (EU united) – Not mentioned; no emphasis on internal EU unity or solidarity among member states. EU3 (useful for its citizens) – Not applicable; the tweet concerns EU activity in Kenya, not benefits to EU citizens. EU4 (avant-garde political actor) – Not present; no pioneering policies highlighted. EU5 (global champion of fair causes) – Not explicit; while partnering with Red Cross hints at humanitarianism, the tweet doesn’t frame it as leadership in rights or fair causes. EU6 (EU contributes to a better world) – Yes; it highlights EU as a trusted partner supporting development-related efforts abroad (devolution support and COVID-19 response in Kenya), fitting the EU’s role in global cooperation and well-being. Conclusion: The tweet promotes EU6.",
+    "narrative_ids": ["EU6"]
+  }
+}

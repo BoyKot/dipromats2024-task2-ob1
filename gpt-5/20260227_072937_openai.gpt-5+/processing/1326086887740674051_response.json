@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: An official EU videoconference discussed coordinated COVID-19 response items: epidemiological tracking, joint purchase of rapid antigen tests, contact-tracing apps, and preparing national vaccination plans with citizen buy-in. EU1: No explicit claim about EU’s historical success or learning from past; not promoted. EU2: Implicit coordination among member states (joint purchase, shared apps, preparing national plans together) suggests unity and collective action; this promotes the EU’s unity. EU3: Highlights concrete, practical EU-level measures that address citizens’ health concerns (testing, tracing, vaccination planning), showing utility and proactive coordination within the EU; promoted. EU4: No framing of the EU as global pioneer or avant-garde; not promoted. EU5: No mention of democracy/human rights causes; not promoted. EU6: Focus is internal, not global contributions; not promoted. Final determination: EU2 and EU3.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

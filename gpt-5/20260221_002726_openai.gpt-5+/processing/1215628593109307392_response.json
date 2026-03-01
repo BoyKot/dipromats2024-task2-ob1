@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. official expresses condolences to Ukraine over the UIA Flight 752 crash and pledges support and assistance with the investigation, affirming that the U.S. stands with Ukraine. Evaluation by narrative: US1 (honorable tradition) – Not explicitly invoked; no reference to U.S. historical legacy or traditions. US2 (admirable society) – Not applicable; no mention of U.S. social groups, civil society, companies, or heroes. US3 (hostile enemies) – Not present; the tweet names no adversary or immoral actor. US4 (force for good) – Applicable; offering support and assistance in a tragedy and investigation, and standing with Ukraine, frames the U.S. as supporting an affected people and contributing to security/justice. US5 (great international ally) – Applicable; explicit message of standing with Ukraine and readiness to assist highlights steadfast support to an ally. US6 (at the forefront) – Not supported; no claim of leadership or superiority. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A U.S. official met Belarus’s president and foreign minister to discuss strengthening democracy, human rights, trade, and investment, and affirmed strong U.S. support for Belarus’s sovereignty and independence. Evaluation per narrative: US1 (honorable tradition): Not explicitly invoking U.S. traditions or historical legacy; focus is on current policy, so not promoted. US2 (admirable society): No mention of U.S. society, diversity, or heroes; not promoted. US3 (hostile enemies): No adversary is named or implied; not promoted. US4 (force for good): Yes—emphasis on supporting democracy, human rights, and sovereignty positions the U.S. as promoting liberal values and assisting another nation, aligning with this narrative. US5 (great international ally): Yes—declaring strong commitment to support Belarus as a sovereign, independent country and engaging on trade and investment portrays the U.S. as a supportive partner. US6 (at the forefront): No claims of U.S. leadership or superiority; not promoted. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

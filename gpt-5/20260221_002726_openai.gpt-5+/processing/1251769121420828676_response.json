@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the 70th anniversary of China’s foreign aid and the 2nd anniversary of CIDCA, emphasizing global solidarity and China standing with the world to overcome COVID-19. Evaluation per narrative: CH1 (West immoral/hostile): Not present; there is no criticism of the West. CH2 (China is a benevolent power): Yes; it highlights China’s foreign aid tradition, international development cooperation agency, solidarity, and supporting the world against COVID-19—framing China as cooperative and supportive of global development. CH3 (epic history): No; mentions an anniversary but not adversity/resilience or historical struggle. CH4 (appropriate political system/values domestically): No; focus is international aid, not domestic system or governance values. CH5 (CCP government succeeds): No; no claims about domestic achievements or leadership across sectors. CH6 (culture/nature/heritage): No; not cultural or touristic content. Conclusion: Only CH2 is promoted.",
+    "narrative_ids": ["CH2"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that freedom of expression and information are fundamental to democracy, that Europe supports and defends press freedom for journalists worldwide, and links this to global challenges like COVID-19 and climate change. Evaluation by narrative: EU1 (EU as a successful story): Not explicitly about EU’s historical success or overcoming past traumas; no. EU2 (EU is united): No mention of internal EU unity or agreement; no. EU3 (EU useful for its citizens): Focus is not on internal EU policies improving citizens’ lives; no. EU4 (EU avant-garde): While it references global challenges, it does not claim regulatory or pioneering leadership; no. EU5 (EU as global champion of fair causes): Yes. It explicitly states Europe supports and defends press freedom worldwide, aligning with defending democracy and human rights. EU6 (EU contributes to a better world): Arguably implied, but the emphasis is normative defense of rights rather than broader development or multilateral contributions; primary fit is EU5. Conclusion: The tweet promotes EU5.",
+    "narrative_ids": ["EU5"]
+  }
+}

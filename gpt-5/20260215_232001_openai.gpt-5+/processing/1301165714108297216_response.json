@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims U.S. diplomats in China face barriers, announces reciprocal U.S. requirements on senior PRC diplomats in the U.S., and asserts commitment to fair treatment of U.S. diplomats abroad. Evaluation: US1 (honorable tradition) – Not promoted; no reference to historical legacy or traditions. US2 (admirable society) – Not relevant. US3 (hostile enemies) – Partially aligned: it portrays the PRC as imposing unfair barriers on U.S. diplomats, casting China as an adversarial actor obstructing fair diplomatic practice; this frames a hostile/immoral adversary. US4 (force for good) – Some alignment: the U.S. positions its action as advocating “fair treatment,” a normative principle tied to fairness and reciprocity in international conduct; while not about human rights broadly, it presents the U.S. as upholding fair, rules-based behavior. US5 (great international ally) – Not addressed. US6 (at the forefront) – Not addressed. Conclusion: The tweet promotes US3 and, to a lesser extent but still present, US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

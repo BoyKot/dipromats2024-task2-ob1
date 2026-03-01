@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet shares a historical anecdote and photo about Yuri Gagarin’s post-flight world tour and a holiday in Crimea, highlighting his status as the first human in space (#Vostok1) and mentioning Gherman Titov. Evaluation by narrative: RU1 (West immoral/hostile): Not present; no criticism or moral framing of the West. RU2 (Russia leads alternative system): Not present; no mention of multipolarity or alternative institutions. RU3 (Russia as benevolent partner): Not present; no reference to cooperation, mediation, or aid. RU4 (Russian history is admirable): Yes; it celebrates a landmark Soviet/Russian historical achievement (first human in space) and underscores its global significance with a historical photo. RU5 (Russia at the world’s forefront): Arguably implied by referencing the pioneering spaceflight, but the focus is historical rather than current prowess; thus it fits RU4 more than RU5. RU6 (Russia’s culture/nature/heritage interesting): Partially relevant due to mentioning Crimea as a holiday destination, but the primary emphasis is on Gagarin’s historical achievement, not promoting Russia’s tourism or culture broadly. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

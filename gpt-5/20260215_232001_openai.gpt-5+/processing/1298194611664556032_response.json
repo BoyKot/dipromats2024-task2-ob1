@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges citizens to participate in an EU consultation on the Digital Services Act, inviting opinions on freedom of expression online and digital platforms before a deadline. Evaluation by narrative: EU1 (successful story): Not explicitly referenced; no historical framing or successes. EU2 (united): No mention of unity or agreement among member states. EU3 (useful for its citizens): Yes, it portrays the EU taking practical steps to gather citizen input on digital policy that affects them, suggesting responsiveness and utility. EU4 (avant-garde political actor): Yes, positioning the EU as shaping digital policy and regulating platforms indicates pioneering action in digitalization. EU5 (global champion of fair causes): Although freedom of expression is mentioned, the tweet does not frame global advocacy or rights leadership; it's an internal policy consultation. EU6 (contributes to a better world): No global or external contribution is described. Conclusion: The tweet promotes EU3 and EU4.",
+    "narrative_ids": ["EU3", "EU4"]
+  }
+}

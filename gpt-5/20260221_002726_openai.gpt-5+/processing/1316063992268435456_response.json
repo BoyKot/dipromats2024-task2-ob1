@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: China has a 5,000-year independent civilization that coexists harmoniously with others; Confucianism has had no religious wars with Buddhism, Christianity, or Islam; therefore, China is peaceful and a great civilization. Evaluation by narrative: CH1 (West immoral/hostile): Not present; the tweet does not criticize the West or depict it as hostile. CH2 (China is a benevolent power): Partially aligned—the tweet portrays China as peaceful and harmonious with other civilizations/religions, which supports an image of cooperative, non-threatening behavior internationally. Although it does not mention multilateralism or law, the peaceful coexistence framing fits CH2’s essence. CH3 (Epic history): Yes—the emphasis on 5,000 years of independent civilizational development directly showcases China’s long, grand history. CH4 (appropriate political system/values domestically): Not addressed; no mention of governance or political system. CH5 (CCP governance success): Not addressed. CH6 (interesting culture/heritage): Implicit cultural pride, but the focus is not on tourism or cultural attractions; it’s on civilizational character and peace, so CH6 is not the best fit. Conclusion: CH2 and CH3 are promoted.",
+    "narrative_ids": ["CH2", "CH3"]
+  }
+}

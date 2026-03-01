@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims federal action was necessary to defend a U.S. courthouse because local authorities failed, and labels protesters as “Agitators and Anarchists.” It justifies limited federal intervention. Evaluation: US1 (honorable tradition) – Not invoked; no reference to historical values or legacy. US2 (admirable society) – No celebration of society or groups. US3 (hostile enemies) – The tweet characterizes domestic protesters as immoral/hostile (“Agitators and Anarchists”) and portrays them as a threat to public order and federal property; this aligns with framing adversaries as threats to the US. US4 (force for good) – Implies a protective role (defending courthouse), but does not clearly frame it as promoting human rights/freedoms globally; more law-and-order than benevolent international good, so not a fit. US5 (great international ally) – Not relevant. US6 (at the forefront) – No leadership/primacy claims. Conclusion: Only US3 applies.",
+    "narrative_ids": ["US3"]
+  }
+}

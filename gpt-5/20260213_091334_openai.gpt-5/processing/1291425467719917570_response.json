@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US is the main destructive force in the international order due to unilateralism and bullying, while portraying China as a firm defender of the international order that follows a path of peaceful development. Evaluation: CH1: Matches—depicts the US (the West) as hostile and damaging, using terms like unilateralism and bullying. CH2: Matches—presents China as a benevolent, cooperative defender of the international order and peaceful development. CH3: Not present—no historical resilience or past adversities mentioned. CH4: Not applicable—does not advocate China’s domestic political system or values; focus is international role. CH5: Not present—no references to governance successes or development achievements. CH6: Not relevant—no cultural or heritage content. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

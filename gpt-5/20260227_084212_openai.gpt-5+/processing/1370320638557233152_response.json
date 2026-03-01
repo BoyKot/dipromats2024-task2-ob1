@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Zakharova condemns a demand in Bucharest to rename a park honoring Soviet Marshal Tolbukhin, calling it revisionist and a morally reprehensible mockery of those who fought Nazism. Evaluation: RU1 (West immoral/hostile): The tweet portrays a Western-aligned country (Romania) as engaging in immoral historical revisionism, implying hostility toward anti-Nazi memory; this fits depicting the West/allies as morally flawed. RU2 (alternative system): No mention of alternative multilateralism or systems. RU3 (benevolent partner): No framing of Russia as a cooperative or peace-promoting partner. RU4 (Russian history admirable): By defending the memory of a Soviet marshal as a “true fighter against Nazism,” it valorizes Soviet/Russian historical contribution to defeating Nazism, aligning with admiration of Russian history. RU5 (forefront): No current achievements touted. RU6 (culture/nature/heritage): Not a cultural/nature promotion. Conclusion: RU1 and RU4 apply.",
+    "narrative_ids": ["RU1", "RU4"]
+  }
+}

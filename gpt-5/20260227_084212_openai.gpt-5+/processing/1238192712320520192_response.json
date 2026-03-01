@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that under U.S. law and practice, individuals involved in electoral fraud or undermining democratic transitions can face consequences, tagged to Guyana—implying U.S. standards and potential accountability mechanisms. Evaluation: US1 (honorable tradition) – Partially aligns because it frames U.S. legal traditions and practices as upholding democratic norms, suggesting a legacy of rule-of-law and democratic protection. US2 (admirable society) – Not applicable; no mention of society, groups, or heroes. US3 (hostile enemies) – Not applicable; no adversary is identified or condemned as hostile to the U.S. US4 (force for good) – Plausible alignment: it implies the U.S. supports democracy and peaceful transitions abroad by enforcing consequences, projecting the U.S. as upholding human rights and democratic processes. US5 (great international ally) – Not explicit; no praise of allies or specific support commitments. US6 (at the forefront) – Not applicable; no leadership in economy/tech/military asserted. Conclusion: The tweet promotes US1 and US4.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

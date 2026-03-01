@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet celebrates 73 years of the U.S. Air Force, praising its heroic service and partnership in safeguarding American security.\n- US1 (honorable tradition): Yes. It references a 73-year legacy of excellence, implying a proud, longstanding tradition and historical feats of the USAF.\n- US2 (admirable society): Partially relevant through praising military heroes, which fits the inclusion of military service as admirable; the tweet lauds airmen as heroic. This aligns with celebrating military heroes.\n- US3 (hostile enemies): No. It mentions safeguarding security but does not identify or highlight enemies.\n- US4 (force for good): Indirect at best; it focuses on national security rather than broader support for global human rights or oppressed peoples. Not sufficiently supported.\n- US5 (great international ally): No. The \"partners\" referenced are the airmen/USAF, not foreign allies; no emphasis on support for other countries.\n- US6 (at the forefront): Not explicit. While excellence is noted, there’s no clear claim of global leadership or superiority.\nConclusion: The tweet promotes US1 and US2.",
+    "narrative_ids": ["US1", "US2"]
+  }
+}

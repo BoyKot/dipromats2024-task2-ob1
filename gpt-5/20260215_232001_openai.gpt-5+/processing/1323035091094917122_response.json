@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that the Trump Administration is delivering 3,150,000 rapid COVID tests to North Carolina, with over half a million already sent to high-priority facilities. Evaluation by narrative: US1 (honorable tradition) – Not invoked; no reference to values, history, or legacy. US2 (admirable society) – Not applicable; no mention of societal groups, civil society, companies, or heroes. US3 (hostile enemies) – Not applicable; no adversary is mentioned. US4 (force for good) – Partially relevant: providing medical aid to protect public health can be framed as doing good, but the tweet is domestically focused (intra-U.S.), not about human rights or international aid; still, it showcases government acting for public welfare. US5 (great international ally) – Not applicable; no allies mentioned. US6 (at the forefront) – Not explicitly; no claim of leadership, superiority, or innovation, just logistics of test distribution. Conclusion: The tweet modestly promotes US4 by portraying the U.S. government acting to protect people’s health; other narratives are not supported.",
+    "narrative_ids": ["US4"]
+  }
+}

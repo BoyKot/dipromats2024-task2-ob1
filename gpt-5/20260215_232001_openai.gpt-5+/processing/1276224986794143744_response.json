@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet argues that a prosperous and stable Hong Kong benefits both China and the UK, urging the UK to view Hong Kong’s National Security Legislation as objective, fair, reasonable, and lawful, echoing an official Chinese line. Evaluation: CH1 (West immoral/hostile): Not promoted; the UK is not attacked or depicted as hostile—rather, it’s encouraged to be objective. CH2 (China is a benevolent power): Partially supported—the tweet frames China’s position as reasonable, lawful, and aimed at mutual benefit (prosperity/stability benefiting both China and the UK), aligning with a cooperative, mutually beneficial stance. CH3 (epic history): Not referenced. CH4 (appropriate political system/values): There is an implicit defense of China’s governance/legal approach in Hong Kong as “reasonable and lawful,” but it is framed in international-relations terms and focused on NSL legitimacy and mutual interests; still, it defends the moral/legal rectitude of China’s approach to domestic governance in HK. This moderately aligns with CH4. CH5 (CCP succeeds): No claims about development achievements or performance. CH6 (culture/heritage): Not relevant. Conclusion: The tweet promotes CH2 and CH4.",
+    "narrative_ids": ["CH2", "CH4"]
+  }
+}

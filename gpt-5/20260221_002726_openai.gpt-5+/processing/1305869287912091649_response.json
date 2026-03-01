@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet informs that the U.S. celebrates National Hispanic Heritage Month (Sept 15–Oct 15) honoring the culture, traditions, and contributions of Hispanic citizens, and invites viewers to see photos of the celebration. Evaluation: US1 (honorable tradition) — indirectly touched through a recurring national observance, but the tweet emphasizes current celebration of a community rather than framing it as a long national legacy or historical feats; not a clear fit. US2 (admirable society) — yes: it promotes an ethnic group within the U.S. and highlights their contributions and cultural celebration, showcasing inclusivity and civil society. US3 (hostile enemies) — not present. US4 (force for good) — not addressed; no mention of human rights, aid, or global efforts. US5 (great international ally) — not addressed. US6 (at the forefront) — not addressed. Conclusion: The tweet promotes US2.",
+    "narrative_ids": ["US2"]
+  }
+}

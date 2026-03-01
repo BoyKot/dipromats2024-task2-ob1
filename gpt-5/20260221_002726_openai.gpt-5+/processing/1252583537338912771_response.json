@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet announces that the U.S. is providing $9.4 million to support Pakistan’s COVID-19 response by training healthcare providers, strengthening monitoring, and assisting refugees and host communities, framed as part of a long-term partnership. Evaluation per narrative: US1 (honorable tradition) – Not invoked; no reference to historical legacy or founding values. US2 (admirable society) – Not about U.S. societal groups or heroes. US3 (hostile enemies) – No adversary mentioned. US4 (force for good) – Yes; it highlights U.S. support for public health and vulnerable populations (refugees), portraying humanitarian assistance and development efforts. US5 (great international ally) – Yes; it emphasizes a “long-term partnership” with Pakistan and concrete support, framing the U.S. as a dependable partner. US6 (at the forefront) – No claim of leadership or superiority; just aid provision. Conclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet by MFA spokesperson Zakharova says Venezuela’s political crisis should be resolved through peaceful, inclusive dialogue among Venezuelans, without foreign interference. Evaluation: RU1 (West immoral/hostile): Implicitly critiques \"destructive foreign interference,\" which commonly references Western involvement, portraying it as harmful/hostile. This aligns with RU1’s depiction of the West as hostile actors. RU2 (Russia leads alternative system): The tweet advocates sovereignty and dialogue but does not explicitly position Russia as leading an alternative multilateral system or highlight non-Western cooperation frameworks; not sufficiently supported. RU3 (Russia is a benevolent partner): While promoting peace, the tweet does not present Russia’s concrete benevolent actions or partnership; it’s a declarative stance, so not clearly RU3. RU4 (Russian history admirable): Not relevant. RU5 (Russia at the forefront): Not relevant. RU6 (Culture/nature): Not relevant. Conclusion: The tweet promotes RU1.",
+    "narrative_ids": ["RU1"]
+  }
+}

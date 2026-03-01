@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet emphasizes pride in U.S. Armed Forces and honors service members, framing the United States as upholding long-standing values and tradition (US1). It also highlights military heroes and sacrifice (US2). Finally, by presenting the Armed Forces as protecting citizens and fighting a health threat, it aligns with the US4 narrative of the U.S. as a force for good (security and protection).",
+    "narrative_ids": ["US1", "US2", "US4"]
+  }
+}

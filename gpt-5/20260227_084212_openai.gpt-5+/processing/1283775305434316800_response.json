@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet accuses the US of hypocrisy and unjust repression of Huawei because it is Chinese, calling US actions \"dirty\" and contrary to its professed democracy and freedoms.\n- CH1 (The West is immoral, hostile and decadent): Supported. The tweet portrays the US (the West) as hostile and immoral (hypocritical, dirty repression) and frames China/Huawei as a victim of US behavior.\n- CH2 (China is a benevolent power): Not supported. The tweet does not depict China’s cooperative international role or benevolence; it focuses on US wrongdoing.\n- CH3 (China has an epic history): Not supported. No historical resilience or past adversities discussed.\n- CH4 (China has an appropriate political system and honorable values): Not supported. No advocacy of China’s political system or domestic values.\n- CH5 (The government of the Chinese Communist Party succeeds): Not supported. No claims about CCP governance successes or China’s technological leadership beyond implying Huawei is unfairly targeted.\n- CH6 (China is interesting culturally/naturally): Not relevant.\nConclusion: The tweet promotes CH1 only.",
+    "narrative_ids": ["CH1"]
+  }
+}

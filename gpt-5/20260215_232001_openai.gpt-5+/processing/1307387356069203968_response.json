@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The U.S. Embassy mourns Justice Ruth Bader Ginsburg, praising her as an inspiration tied to the U.S. Constitution and rule of law. Evaluation by narrative: US1 (honorable tradition) — Yes; invoking the Constitution and rule of law as inspirational values reflects pride in foundational American traditions and institutions. US2 (admirable society) — Partially relevant due to highlighting inspiration to women and girls, but the focus is on a judicial icon and institutional values rather than broader society; this is not a clear promotion of civil society or diverse groups, so no. US3 (hostile enemies) — No mention of adversaries. US4 (force for good) — The tweet does not discuss US actions supporting global rights or peace; it is commemorative, so no. US5 (great international ally) — No reference to allies or support. US6 (at the forefront) — No leadership claims. Conclusion: The tweet promotes US1.",
+    "narrative_ids": ["US1"]
+  }
+}

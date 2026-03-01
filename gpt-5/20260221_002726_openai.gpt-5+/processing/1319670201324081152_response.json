@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises China as a force for peace, justice, and progress that supports the UN for the benefit of all, while condemning the US as a troublemaker that quits international treaties/institutions and weaponizes them for domestic politics. It says US smears won't make it great. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Yes. The tweet labels the US as the \"biggest troublemaker,\" accuses it of abandoning international commitments and conducting smear campaigns—portraying the US/West as hostile and irresponsible. CH2 (China is a benevolent power): Yes. It depicts China as a force for peace, justice, progress, and a supporter of the UN for the common interest—classic benevolent, multilateral framing. CH3 (China has an epic history): No historical content. CH4 (China has an appropriate political system and honorable values): No explicit advocacy of China’s domestic political system or values; focus is international role, which belongs to CH2. CH5 (CCP governance succeeds): No claims about domestic achievements or governance performance. CH6 (Culture/nature/heritage): Not applicable. Conclusion: The tweet promotes CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

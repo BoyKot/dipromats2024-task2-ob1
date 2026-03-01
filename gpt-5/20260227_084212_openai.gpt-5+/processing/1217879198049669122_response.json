@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet reports nationwide protests in Iran, describing the Iranian regime as corrupt and noting that protesters rejected regime-driven anti-U.S. rhetoric, saying their real enemies are domestic. Evaluation by narrative: US1 (honorable tradition) – not present; no reference to U.S. historical values or legacy. US2 (admirable society) – not present; no mention of U.S. society, groups, companies, or heroes. US3 (US has hostile enemies) – supported: it labels Iran’s ruling regime as corrupt and hostile to its own people, and highlights its propaganda against the U.S., casting the regime as an immoral adversary. US4 (US is a force for good) – not explicit; no statement about U.S. supporting human rights or standing with protesters. US5 (great international ally) – not present. US6 (at the forefront) – not present. Conclusion: Only US3 is promoted.",
+    "narrative_ids": ["US3"]
+  }
+}

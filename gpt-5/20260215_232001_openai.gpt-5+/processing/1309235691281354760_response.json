@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the Iranian regime for repressing justice and announces new U.S. sanctions on Iranian officials for human rights abuses, citing the case of Navid Afkari. Evaluation: US1 (honorable tradition) – Not explicitly about U.S. historical values or legacy; it's about a current policy action, so not promoted. US2 (admirable society) – No mention of U.S. society, groups, companies, or heroes; not promoted. US3 (hostile enemies) – The tweet portrays the Iranian regime as immoral and repressive, a violator of human rights, fitting the framing of a hostile adversary; promoted. US4 (force for good) – The U.S. is taking action (sanctions) to punish human rights violators and defend human rights, showcasing support for freedoms and oppressed individuals; promoted. US5 (great international ally) – No reference to allies or support for them; not promoted. US6 (at the forefront) – No claim of leadership in general domains; not promoted. Conclusion: The tweet promotes US3 and US4.",
+    "narrative_ids": ["US3", "US4"]
+  }
+}

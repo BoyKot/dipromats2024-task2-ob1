@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet claims the US is predatory while portraying China as altruistic and cooperative, invoking 'a community with a shared future for mankind' and 'amity, sincerity, mutual benefit, inclusiveness.' Evaluation: CH1 applies because it depicts the US (the West) as hostile/predatory. CH2 applies because it frames China as benevolent, cooperative, and promoting a shared future. CH3 is not referenced (no historical adversity). CH4 focuses on domestic political system/values; this tweet is about international posture, so not applicable. CH5 (CCP governance successes) is not mentioned. CH6 (culture/heritage) is irrelevant. Conclusion: CH1 and CH2.",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

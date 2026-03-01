@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that Vladimir Putin congratulated Joe Biden on his U.S. presidential election victory and noted that cooperation would serve both nations' interests. Evaluation by narrative: RU1 (West immoral/hostile) – Not promoted; the tweet is cordial and does not depict the West as hostile or immoral. RU2 (Russia leads an alternative system) – Not promoted; no mention of an alternative order or multipolar structures. RU3 (Russia is a benevolent partner) – Promoted; the emphasis on congratulating a foreign leader and advocating mutually beneficial cooperation portrays Russia as constructive and partnership-oriented. RU4 (Russian history admirable) – Not relevant. RU5 (Russia at the world’s forefront) – Not relevant; no showcase of success or leadership. RU6 (Russia as culturally interesting) – Not relevant. Conclusion: The tweet advances RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

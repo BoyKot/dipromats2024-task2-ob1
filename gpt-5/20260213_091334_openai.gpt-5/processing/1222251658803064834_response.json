@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet welcomes Ukraine’s prime minister to Brussels and states that the EU strongly supports Ukraine’s reform agenda, rule of law, anti-corruption efforts, and looks forward to close cooperation. Evaluation: EU1 (successful story) – Not directly; it does not reference EU history or lessons learned. EU2 (united) – Not evident; no mention of intra-EU unity or consensus. EU3 (useful for its citizens) – Not applicable; focus is external to the EU, on Ukraine. EU4 (avant-garde) – Not addressed; no pioneering regulation or leadership on future challenges mentioned. EU5 (global champion of fair causes) – Partly relevant; supporting rule of law and anti-corruption abroad reflects promoting democratic governance and good governance values. EU6 (contributes to a better world) – Yes; it highlights EU support and cooperation with a neighboring country to advance reforms, implying contribution to development, rule of law, and stability beyond the EU. Conclusion: The tweet promotes EU5 and EU6.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the founding of the Novodevichy Convent in Moscow, praising its architectural and cultural value and noting its UNESCO World Heritage status. Evaluation: RU1 (West immoral/hostile) – Not present; no mention of the West or hostility. RU2 (Russia leads alternative system) – Not present; no reference to multipolarity or non-Western cooperation. RU3 (Russia benevolent partner) – Not present; no claims about partnerships or mediation. RU4 (Russian history is admirable) – Partially relevant, as it highlights a historic Russian cultural achievement and its global recognition, portraying Russia’s historical contributions positively. RU5 (Russia at the world’s forefront) – Not applicable; no current achievements touted. RU6 (Russia’s culture/nature/heritage) – Applicable; it promotes Russian cultural heritage and a notable landmark. Conclusion: The tweet promotes RU4 and RU6.",
+    "narrative_ids": ["RU4", "RU6"]
+  }
+}

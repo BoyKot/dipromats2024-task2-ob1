@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "The tweet labels genocide allegations as lies, implicitly crediting Western narratives as false and presenting China as a target of Western misinformation (CH1). It also portrays China in a positive light by denying the allegations and defending its governance, which aligns with CH2 (China as a benevolent power).",
+    "narrative_ids": ["CH1", "CH2"]
+  }
+}

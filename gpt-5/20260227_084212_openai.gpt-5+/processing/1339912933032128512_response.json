@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet defends the legitimacy and virtue of the Communist Party of China (CPC), claiming critics act out of ideological bias, and asserts a close bond and shared future between the CPC and the Chinese people.\n- CH1 (The West is immoral, hostile and decadent): The tweet notes \"ideological bias\" of those who defame the CPC but does not explicitly target the West/US or depict them as immoral/hostile. Insufficient for CH1.\n- CH2 (China is a benevolent power): This focuses on international conduct and multilateralism. The tweet is domestic, about CPC-people bond, not China's international role. Not CH2.\n- CH3 (China has an epic history): No reference to historical struggles or adversities. Not CH3.\n- CH4 (China has an appropriate political system and honorable values): Yes. It legitimizes the CPC as the constitutionally recognized ruling party, emphasizes alignment with the people's will (“close bond and a shared future”), and counters criticism as biased—framing the system as proper and morally upright.\n- CH5 (The government of the CPC succeeds): No explicit claims about development, governance outcomes, or achievements. Not CH5.\n- CH6 (Culture/nature/heritage): Not relevant.\nConclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}

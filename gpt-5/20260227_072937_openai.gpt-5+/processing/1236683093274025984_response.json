@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet states that violence against women and girls is a widespread human rights violation and highlights an EU–UN partnership to eliminate it globally, tagged to International Women’s Day. Evaluation: EU1 (successful story) – Not indicated; no reference to EU’s historical trajectory or overcoming past obstacles. EU2 (united) – Not referenced; no mention of internal EU unity or agreements among member states. EU3 (useful for its citizens) – Not applicable; the focus is global, not specifically on benefits within the EU. EU4 (avant-garde actor) – Implicitly could suggest leadership, but the tweet does not frame the EU as a pioneer or leading regulator; it simply announces a partnership, so insufficient evidence. EU5 (global champion of fair causes) – Yes; it foregrounds human rights (violence against women and girls) and positions the EU as acting to defend these rights worldwide via a partnership. EU6 (contributes to a better world) – Yes; the EU’s collaboration with the UN to eliminate violence globally signals multilateral action to improve global well-being. Conclusion: The tweet promotes EU5 and EU6.",
+    "narrative_ids": ["EU5", "EU6"]
+  }
+}

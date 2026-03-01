@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet warns that PRC human rights abuses in Xinjiang create risks of forced labor in supply chains and urges businesses to conduct due diligence to avoid complicity and associated reputational, economic, and legal harms. Evaluation by narrative: US1 (honorable tradition) – Not referenced; no appeal to American historical values or legacy. US2 (admirable society) – Not applicable; no praise of US society, groups, or companies beyond a generic call to businesses. US3 (hostile enemies) – The tweet portrays the PRC as committing human rights abuses and forced labor, framing it as a moral adversary and a threat (legal/economic/reputational risks), aligning with the narrative of hostile enemies. US4 (force for good) – The tweet urges avoidance of complicity in human rights abuses but does not explicitly present the US as acting to protect rights or leading humanitarian efforts; focus is on warning businesses, so weak/indirect at best—insufficient. US5 (great international ally) – Not applicable; no allies referenced. US6 (at the forefront) – Not applicable; no leadership or superiority claims. Conclusion: The tweet promotes US3.",
+    "narrative_ids": ["US3"]
+  }
+}

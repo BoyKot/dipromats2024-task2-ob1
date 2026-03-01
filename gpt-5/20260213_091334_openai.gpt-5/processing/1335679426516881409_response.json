@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises Rudy Giuliani as the greatest NYC mayor and lauds his efforts to expose what is called the most corrupt U.S. election, while wishing him recovery from COVID-19 (labeled 'China Virus'). Evaluation by narrative: US1 (honorable tradition) – Not promoted; no reference to U.S. historical values or legacy. US2 (admirable society) – Not promoted; no highlighting of diverse groups, civil society, companies, or military heroes. US3 (hostile enemies) – Partially relevant: labeling COVID-19 as the 'China Virus' implicitly frames China as an adversary, but the narrative specifies threats to the US in terms of immoral adversaries and obstacles to peace/liberal values; however, the tweet’s main thrust is domestic (election corruption claims) and a health update. Still, the pejorative attribution to China suggests an external hostile actor; thus it aligns with US3. US4 (force for good) – Not promoted; no mention of supporting freedoms or oppressed peoples. US5 (great international ally) – Not promoted. US6 (at the forefront) – Not promoted. Conclusion: The tweet promotes US3 by implying an external hostile actor (China) via disease naming; other narratives are not present.",
+    "narrative_ids": ["US3"]
+  }
+}

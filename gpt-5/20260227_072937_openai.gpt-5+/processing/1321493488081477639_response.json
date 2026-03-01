@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A US official praises a visit to Maldives, highlighting mutually beneficial ties, strong cooperation, and contributions to peace and security in the Indian Ocean, while thanking Maldivian leaders.\nEvaluation:\n- US1 (honorable tradition): Not invoked; no reference to US historical values or legacy.\n- US2 (admirable society): Not applicable; no mention of US society, groups, or heroes.\n- US3 (hostile enemies): No adversary framed; neutral/positive tone only.\n- US4 (force for good): Partially aligned, as the tweet claims US cooperation advances peace and security in the region—framing US actions as contributing to positive global outcomes.\n- US5 (great international ally): Yes; it emphasizes beneficial ties, strong cooperation, and expresses gratitude to allied leaders—clear ally-reinforcing messaging.\n- US6 (at the forefront): Not applicable; no claim of leadership or superiority.\nConclusion: The tweet promotes US4 and US5.",
+    "narrative_ids": ["US4", "US5"]
+  }
+}

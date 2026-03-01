@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet emphasizes solidarity and mutual respect as unifying European values during COVID-19 and as essential when lifting emergency measures, and points to a Joint European Roadmap. Evaluation: EU1 (successful story) – not explicitly about historical successes or overcoming past obstacles; focus is present values, so not clearly promoted. EU2 (EU is united) – yes: stresses solidarity, mutual respect, unity, and shared roadmap, indicating current cohesion among member states. EU3 (EU is useful for its citizens) – partially implied by referencing a Joint European Roadmap and practical guidance on releasing measures, showing an EU-level plan addressing citizens’ concerns; this aligns with promoting EU policies that improve lives, so promoted. EU4 (avant-garde) – no mention of pioneering regulation beyond general values; not supported. EU5 (global champion of fair causes) – not about human rights/democracy globally; not supported. EU6 (better world) – no global outreach angle; not supported. Conclusion: EU2 and EU3 are promoted.",
+    "narrative_ids": ["EU2", "EU3"]
+  }
+}

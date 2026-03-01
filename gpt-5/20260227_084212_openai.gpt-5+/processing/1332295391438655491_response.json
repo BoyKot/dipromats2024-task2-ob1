@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet lists milestones portraying China’s actions and policies advancing women’s rights and combating domestic violence (hosting the 1995 women’s conference, adopting an anti-domestic violence law in 2016, and launching a database for abuse history in 2020). Evaluation: CH1 (West immoral/hostile) – not mentioned; no comparison or criticism of the West. CH2 (China as a benevolent power) – partially relevant because it highlights China’s role in a major UN women’s conference and implies constructive international engagement; this frames China as contributing to global norms. CH3 (epic history) – not about historical struggle or adversity. CH4 (appropriate political system/values) – implicitly supports honorable values domestically by showcasing protective laws and governance addressing social issues; fits the narrative of morally upright management. CH5 (CCP government succeeds) – the tweet highlights effective policymaking and social governance achievements (anti-domestic violence law, database), indicating domestic governance success. CH6 (culture/nature) – not relevant. Conclusion: CH2, CH4, and CH5 are promoted.",
+    "narrative_ids": ["CH2", "CH4", "CH5"]
+  }
+}

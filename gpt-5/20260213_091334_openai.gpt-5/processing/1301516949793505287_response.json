@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet attacks New York Governor Andrew Cuomo, alleging incompetence in handling COVID-19 (called the 'China Virus') and a 'nursing home scandal' causing many deaths, and accuses New York prosecutors of politically motivated, illegal pursuit of the author's family.\nEvaluation of narratives:\n- US1 (honorable tradition): Not promoted. The tweet does not reference US traditions, history, or values positively.\n- US2 (admirable society): Not promoted. No praise of US social groups, civil society, companies, or military.\n- US3 (hostile enemies): The tweet targets domestic political opponents (Cuomo, NY prosecutors) as corrupt/incompetent, but it does not frame an external or ideological adversary threatening the US. Use of 'China Virus' names origin but does not develop an argument about external enemies. Therefore, not aligned with the narrative as defined.\n- US4 (force for good): Not promoted. No mention of US support for rights or global good.\n- US5 (great international ally): Not mentioned.\n- US6 (at the forefront): Not mentioned.\nConclusion: The tweet is a domestic political attack and does not promote any of the listed narratives.",
+    "narrative_ids": []
+  }
+}

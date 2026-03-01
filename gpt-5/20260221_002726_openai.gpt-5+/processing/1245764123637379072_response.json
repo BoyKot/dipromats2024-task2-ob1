@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges deference to WHO and scientific experts over 'habitual liars,' and proposes an international experts' investigation trip to the US, implying skepticism toward US narratives about disease origins/management and advocating international, expert-led scrutiny. Evaluation per narrative: CH1 (The West is immoral, hostile and decadent): The label 'habitual liars' and the call to investigate the US implicitly portray the US/West as untrustworthy and possibly culpable, aligning with a trope of Western dishonesty. This supports CH1. CH2 (China is a benevolent power): The tweet does not praise China’s cooperative role or multilateral leadership; it centers on WHO/expert guidance and scrutiny of the US. Not supported. CH3 (China has an epic history): No historical content. Not supported. CH4 (China has an appropriate political system and honorable values): No reference to China’s political system or domestic values. Not supported. CH5 (CCP government succeeds): No claims about Chinese governance performance or achievements. Not supported. CH6 (China is interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes CH1 by casting the US/West as dishonest and calling for investigation targeting the US.",
+    "narrative_ids": ["CH1"]
+  }
+}

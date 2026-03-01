@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: A triumphalist, patriotic vow to defeat the virus and achieve national greatness through uniquely American qualities (heart, hands, pride, soul). Evaluation by narrative: US1 (honorable tradition) – Implicitly invokes enduring American qualities as a legacy; the rhetoric of American spirit suggests continuity with national tradition. Partially fits, so include. US2 (admirable society) – Praises American people collectively (heart, hands, pride, soul) but does not highlight specific groups, civil society, companies, or military heroes; too generic, so not a clear match. US3 (hostile enemies) – No adversary identified; pandemic mentioned as “the virus” but not framed as a hostile moral enemy in geopolitical terms; not applicable. US4 (force for good) – No mention of human rights, freedoms, or helping others internationally; not applicable. US5 (great international ally) – No reference to allies; not applicable. US6 (at the forefront) – Aspiration to build “greatness and glory” hints at leadership, but lacks explicit claims of leading in economy/tech/military/trade; insufficient. Conclusion: The tweet most clearly promotes US1.",
+    "narrative_ids": ["US1"]
+  }
+}

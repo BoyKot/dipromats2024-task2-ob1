@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet praises the preservation and transmission of Chinese culture across generations, citing green tiles as emblematic of rich cultural history. Evaluation: CH1 (West immoral/hostile) – Not present; no mention of the West or hostility. CH2 (China benevolent power) – Not present; no international cooperation or multilateral themes. CH3 (Epic history/adversity) – Partially related to history but no reference to adversity, resilience, or unfair treatment; thus not supported. CH4 (Political system/values) – Not present; no discussion of governance or political values. CH5 (CCP succeeds) – Not present; no reference to government performance or development achievements. CH6 (China’s culture, nature, heritage interesting) – Yes; the tweet highlights Chinese culture, heritage, and restoration of cultural relics. Conclusion: Only CH6 applies.",
+    "narrative_ids": ["CH6"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the 1957 launch of Sputnik 2 carrying Laika, honoring her as a brave pioneer and celebrating a historic Soviet space achievement. Evaluation by narrative: RU1 (West immoral/hostile): Not referenced; no criticism of the West. RU2 (Russia leads an alternative system): No mention of systems, multilateralism, or alternatives to Western order. RU3 (Russia is a benevolent partner): No claims about partnership, peace, or solidarity. RU4 (Russian history is admirable): Yes. It highlights a landmark Soviet/Russian historical contribution to space exploration, portraying it as pioneering and memorable. RU5 (Russia at the world’s forefront): Implicitly touches on past technological leadership, but the tweet is retrospective rather than asserting current forefront status, so not applicable. RU6 (Russia’s culture/nature/heritage): While historical heritage is touched, this narrative focuses on culture/nature/tourism; the tweet is about a scientific milestone, so not applicable. Conclusion: The tweet promotes RU4.",
+    "narrative_ids": ["RU4"]
+  }
+}

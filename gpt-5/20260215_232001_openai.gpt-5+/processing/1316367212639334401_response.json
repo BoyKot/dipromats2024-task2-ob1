@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Russia’s MFA states that, as a full member of the UN Human Rights Council, Russia will actively promote constructive inter-state cooperation on human rights in line with the UN Charter. Evaluation: RU1 (West immoral/hostile): Not present; there is no criticism of the West. RU2 (Russia leads an alternative system): Partially relevant framing of multilateralism, but the tweet references working within UN structures rather than promoting an alternative system outside Western influence, so not a clear fit. RU3 (Russia is a benevolent partner): Yes; it portrays Russia as constructively working on human rights cooperation in accordance with UN principles, positioning Russia as a reliable, positive actor. RU4 (Russian history admirable): Not applicable. RU5 (Russia at the world’s forefront): No explicit claim of superiority or achievement. RU6 (Culture/nature/heritage): Not applicable. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

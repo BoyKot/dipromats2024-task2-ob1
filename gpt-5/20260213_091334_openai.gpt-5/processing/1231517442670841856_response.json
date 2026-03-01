@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet urges simultaneous action against COVID-19, emphasizes global/EU-China cooperation, and thanks several EU member states for mobilizing equipment to protect EU citizens.\nEvaluation:\n- EU1 (EU is a successful story): Not explicitly about historical successes or lessons; it’s situational cooperation, so not supported.\n- EU2 (EU is united): The tweet thanks multiple EU member states for mobilizing equipment and stresses cooperation, implying intra-EU solidarity and coordinated action; supports EU2.\n- EU3 (EU is useful for its citizens): Mentions protecting EU citizens and concrete mobilization of equipment, indicating practical, timely action benefiting Europeans; supports EU3.\n- EU4 (EU avant-garde): No claim of pioneering regulation or leadership; not supported.\n- EU5 (EU global champion of fair causes): No reference to democracy/human rights; not supported.\n- EU6 (EU contributes to a better world): Highlights EU–China close cooperation and global cooperation against COVID-19, aligning with multilateralism and contributing to global well-being; supports EU6.\nConclusion: The tweet promotes EU unity, usefulness to citizens, and global cooperative contribution.",
+    "narrative_ids": ["EU2", "EU3", "EU6"]
+  }
+}

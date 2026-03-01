@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The author met the European Parliament President after EUCO, stressing that Parliament’s support is crucial to advance reforms, investments, and build a modern, more sustainable Union. Evaluation per narrative: EU1 (EU as a successful story) – not explicitly celebrating past successes or historical learning; focus is forward-looking, so not supported. EU2 (EU is united) – implicit coordination between EU Council outcome and Parliament support suggests unity and institutional alignment, but the tweet does not claim consensus or unity among member states; still, it highlights cooperation toward common goals, modestly supporting EU2. EU3 (EU useful for citizens) – mentions reforms and investments to build a modern, more sustainable Union, implying practical benefits within the EU; this aligns with usefulness to citizens. EU4 (EU avant-garde) – references building a “more sustainable Union,” hinting at forward-looking policies, but lacks clear leadership/pioneering claim; insufficient. EU5 (global champion of fair causes) – not addressed. EU6 (better world) – focus is internal EU reforms, not global action; not applicable. Conclusion: The tweet promotes EU3 clearly and EU2 to a lesser extent.",
+    "narrative_ids": ["EU3", "EU2"]
+  }
+}

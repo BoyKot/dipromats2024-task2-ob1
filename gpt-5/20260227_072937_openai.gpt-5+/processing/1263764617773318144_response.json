@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet commemorates the founding of the State Tretyakov Gallery in Moscow, praising it as one of the world's best museums with a vast collection of Russian fine art from icons to social realism.\nEvaluation:\n- RU1 (West immoral/hostile): No criticism of the West; not applicable.\n- RU2 (Alternative system): No mention of multilateralism or alternative systems; not applicable.\n- RU3 (Benevolent partner): No reference to partnership or peace efforts; not applicable.\n- RU4 (Russian history is admirable): Implicitly highlights Russia’s historical cultural contributions and influence through the Tretyakov’s renowned collection and global standing; applicable.\n- RU5 (Russia at the world’s forefront): Claims the museum is among the best globally (top-20 by visitors), suggesting current prominence; moderately applicable.\n- RU6 (Russia’s culture/nature/heritage is interesting): Promotes Russian art and a major cultural institution, clearly fitting cultural/heritage interest; applicable.\nConclusion: The tweet promotes RU4, RU5, and RU6.",
+    "narrative_ids": ["RU4", "RU5", "RU6"]
+  }
+}

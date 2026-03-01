@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet promotes an event called the Day of Russian Atomic Education in Cambodia, Laos, and Thailand, asserting that Russia has always been a reliable partner of Cambodia in STEM education and inviting attendance. Evaluation by narrative: RU1 (West immoral/hostile): Not mentioned; no criticism of the West. RU2 (Russia leads an alternative system): While the event is in Southeast Asia and outside Western structures, the tweet does not frame this as an alternative system or multilateral order; it’s an event promotion without systemic positioning. RU3 (Russia is a benevolent partner): Yes. It explicitly states Russia has always been a reliable partner in STEM education and promotes educational cooperation, fitting the benevolent/reliable partner framing. RU4 (Russian history admirable): Not addressed. RU5 (Russia at the world’s forefront): The tweet does not claim superiority or forefront achievements; it’s an invitation. RU6 (Russia interesting culturally/naturally): Not relevant. Conclusion: The tweet promotes RU3.",
+    "narrative_ids": ["RU3"]
+  }
+}

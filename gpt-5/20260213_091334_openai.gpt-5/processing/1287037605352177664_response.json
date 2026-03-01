@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet condemns the U.S. for a long history (since 1898) of harassing, meddling, and imposing its vision on other states, framing U.S. talk of 'unalienable rights' as hypocrisy that turns progressive ideas into repression. It quotes Pompeo to contrast rhetoric with alleged U.S. behavior. Evaluation by narrative: RU1 (The West and their allies are immoral, hostile and decadent): Yes. The tweet portrays the U.S. (the West) as hostile and immoral—harassing, meddling, imposing, and hypocritically weaponizing rights—fitting the depiction of the West as immoral and hostile. RU2 (Russia leads an alternative system): No mention of Russia offering an alternative or multilateralism. RU3 (Russia is a benevolent partner): Not referenced. RU4 (Russian history is admirable): Not referenced. RU5 (Russia at the forefront): Not referenced. RU6 (Russia culture/nature): Not referenced. Conclusion: The tweet promotes RU1 only.",
+    "narrative_ids": ["RU1"]
+  }
+}

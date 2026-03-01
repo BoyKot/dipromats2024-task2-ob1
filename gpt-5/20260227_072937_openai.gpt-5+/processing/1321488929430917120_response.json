@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: Pompeo claims the U.S. is the most generous nation historically and highlights successful outcomes of the World Food Programme under the Trump administration, expressing pride in America's role. Evaluation: US1 (honorable tradition) — Yes; calling the U.S. \"the most generous nation in the history of the world\" invokes a longstanding, historic tradition of generosity. US2 (admirable society) — No; no mention of society, ethnic groups, civil society, companies, or military heroes. US3 (hostile enemies) — No; no adversaries referenced. US4 (force for good) — Yes; framing U.S. support to the World Food Programme and delivering good outcomes positions America as aiding humanitarian efforts. US5 (great international ally) — Possibly adjacent but not direct; it praises U.S. contribution to an international organization, not support for a specific ally, so No. US6 (at the forefront) — Implicit leadership could be inferred, but the tweet emphasizes generosity and humanitarian outcomes rather than leadership in domains like economy/tech/military; therefore No. Conclusion: US1 and US4 apply.",
+    "narrative_ids": ["US1", "US4"]
+  }
+}

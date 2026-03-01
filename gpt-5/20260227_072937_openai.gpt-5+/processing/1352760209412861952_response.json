@@ -1,0 +1,6 @@
+{
+  "analysis": {
+    "reasoning": "Core message: The tweet asserts that Hong Kong is part of China, that China/Hong Kong uphold rule of law, and that lawbreakers must be held accountable. It urges the European Parliament to respect China’s sovereignty and rule of law, citing CGTN. Evaluation by narrative: CH1 (The West is immoral, hostile and decadent): Partially touches a West-versus-China frame by admonishing the European Parliament, but it does not depict the West as immoral/decadent or hostile; it merely demands respect. Not promoted. CH2 (China is a benevolent power): Focuses on international conduct and multilateralism; the tweet stresses sovereignty and rule of law rather than benevolence or global cooperation. Not promoted. CH3 (China has an epic history): No historical framing. Not promoted. CH4 (China has an appropriate political system and honorable values): The tweet claims China upholds rule of law and portrays Hong Kong as a law-based society, implying the legitimacy and moral uprightness of China’s governance and legal system in domestic affairs. This aligns with CH4. CH5 (CCP government succeeds): No claims about development, minority coexistence, or leadership. Not promoted. CH6 (Culture/nature/heritage): Not relevant. Conclusion: The tweet promotes CH4.",
+    "narrative_ids": ["CH4"]
+  }
+}
